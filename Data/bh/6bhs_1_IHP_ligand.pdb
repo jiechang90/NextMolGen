@@ -1,0 +1,86 @@
+CRYST1   90.649   90.649   56.614  90.00  90.00 120.00 P 6           1
+HETATM    1  P1 BIHP A 301      -1.299   3.972  -5.318  0.08 39.62           P  
+HETATM    2  P2 BIHP A 301       1.504   1.646  -8.875  0.08 39.44           P  
+HETATM    3  P3 BIHP A 301       4.162  -0.764  -5.395  0.08 39.61           P  
+HETATM    4  P4 BIHP A 301       1.520  -3.822  -5.844  0.08 39.62           P  
+HETATM    5  P5 BIHP A 301      -2.692  -2.929  -4.960  0.08 39.61           P  
+HETATM    6  P6 BIHP A 301      -3.987   1.034  -5.924  0.08 39.61           P  
+HETATM    7  C1 BIHP A 301      -0.316   1.505  -5.620  0.08 39.89           C  
+HETATM    8  C2 BIHP A 301       1.015   1.099  -6.256  0.08 40.26           C  
+HETATM    9  C3 BIHP A 301       1.552  -0.166  -5.575  0.08 39.30           C  
+HETATM   10  C4 BIHP A 301       0.539  -1.310  -5.804  0.08 40.12           C  
+HETATM   11  C5 BIHP A 301      -0.891  -0.953  -5.353  0.08 40.15           C  
+HETATM   12  C6 BIHP A 301      -1.389   0.419  -5.859  0.08 39.47           C  
+HETATM   13  O11BIHP A 301      -0.763   2.739  -6.235  0.08 39.58           O  
+HETATM   14  O12BIHP A 301       0.819   0.807  -7.656  0.08 40.41           O  
+HETATM   15  O13BIHP A 301       2.783  -0.527  -6.211  0.08 39.54           O  
+HETATM   16  O14BIHP A 301       0.966  -2.477  -5.112  0.08 39.51           O  
+HETATM   17  O15BIHP A 301      -1.743  -1.988  -5.856  0.08 39.50           O  
+HETATM   18  O16BIHP A 301      -2.566   0.769  -5.141  0.08 39.51           O  
+HETATM   19  O21BIHP A 301      -2.653   4.272  -5.987  0.08 39.53           O  
+HETATM   20  O22BIHP A 301       2.736   2.347  -8.369  0.08 39.60           O  
+HETATM   21  O23BIHP A 301       3.887  -0.735  -3.928  0.08 39.55           O  
+HETATM   22  O24BIHP A 301       1.030  -3.844  -7.244  0.08 39.59           O  
+HETATM   23  O25BIHP A 301      -2.194  -3.051  -3.572  0.08 39.54           O  
+HETATM   24  O26BIHP A 301      -3.756   2.138  -6.930  0.08 39.55           O  
+HETATM   25  O31BIHP A 301      -1.474   3.523  -3.905  0.08 39.55           O1-
+HETATM   26  O32BIHP A 301       0.385   2.579  -9.303  0.08 39.65           O1-
+HETATM   27  O33BIHP A 301       4.561  -2.182  -5.822  0.08 39.52           O1-
+HETATM   28  O34BIHP A 301       3.013  -3.761  -5.824  0.08 39.53           O1-
+HETATM   29  O35BIHP A 301      -2.840  -4.214  -5.757  0.08 39.51           O1-
+HETATM   30  O36BIHP A 301      -4.274  -0.281  -6.623  0.08 39.58           O1-
+HETATM   31  O41BIHP A 301      -0.333   5.119  -5.519  0.08 39.51           O  
+HETATM   32  O42BIHP A 301       1.739   0.524  -9.856  0.08 39.70           O  
+HETATM   33  O43BIHP A 301       5.176   0.156  -5.965  0.08 39.52           O  
+HETATM   34  O44BIHP A 301       1.079  -4.946  -4.950  0.08 39.50           O  
+HETATM   35  O45BIHP A 301      -4.017  -2.148  -4.985  0.08 39.52           O  
+HETATM   36  O46BIHP A 301      -4.967   1.316  -4.825  0.08 39.50           O  
+HETATM   37  H1 BIHP A 301      -0.194   1.636  -4.667  0.08 47.91           H  
+HETATM   38  H2 BIHP A 301       1.657   1.819  -6.155  0.08 48.35           H  
+HETATM   39  H3 BIHP A 301       1.684  -0.012  -4.626  0.08 47.20           H  
+HETATM   40  H4 BIHP A 301       0.516  -1.506  -6.754  0.08 48.19           H  
+HETATM   41  H5 BIHP A 301      -0.923  -0.958  -4.384  0.08 48.22           H  
+HETATM   42  H6 BIHP A 301      -1.586   0.362  -6.807  0.08 47.40           H  
+CONECT    1   19   25   31   13
+CONECT    2   20   26   32   14
+CONECT    3   21   27   33   15
+CONECT    4   22   28   34   16
+CONECT    5   23   29   35   17
+CONECT    6   24   30   36   18
+CONECT    7    8   12   13   37
+CONECT    8    7    9   14   38
+CONECT    9    8   10   15   39
+CONECT   10    9   11   16   40
+CONECT   11   10   12   17   41
+CONECT   12    7   11   18   42
+CONECT   13    7    1
+CONECT   14    8    2
+CONECT   15    9    3
+CONECT   16   10    4
+CONECT   17   11    5
+CONECT   18   12    6
+CONECT   19    1
+CONECT   20    2
+CONECT   21    3
+CONECT   22    4
+CONECT   23    5
+CONECT   24    6
+CONECT   25    1
+CONECT   26    2
+CONECT   27    3
+CONECT   28    4
+CONECT   29    5
+CONECT   30    6
+CONECT   31    1
+CONECT   32    2
+CONECT   33    3
+CONECT   34    4
+CONECT   35    5
+CONECT   36    6
+CONECT   37    7
+CONECT   38    8
+CONECT   39    9
+CONECT   40   10
+CONECT   41   11
+CONECT   42   12
+END

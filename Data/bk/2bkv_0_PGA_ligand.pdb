@@ -1,0 +1,26 @@
+CRYST1   63.009   48.023   71.761  90.00  91.04  90.00 P 1 21 1      1
+HETATM    1  P   PGA A1242      33.661  21.732 -23.277  1.00 16.86           P  
+ANISOU    1  P   PGA A1242     2322   2214   1868   -179    126   -224       P  
+HETATM    2  O1P PGA A1242      32.239  20.952 -23.236  1.00 17.96           O  
+ANISOU    2  O1P PGA A1242     2474   2419   1930    -71    171   -222       O  
+HETATM    3  O2P PGA A1242      34.673  20.542 -23.289  1.00 15.88           O  
+ANISOU    3  O2P PGA A1242     2267   2094   1672     42     23   -263       O  
+HETATM    4  O3P PGA A1242      33.649  22.495 -24.594  1.00 18.81           O1-
+ANISOU    4  O3P PGA A1242     2667   2452   2028    121    403    147       O1-
+HETATM    5  O4P PGA A1242      33.647  22.611 -22.032  1.00 15.83           O  
+ANISOU    5  O4P PGA A1242     2005   2067   1944     56   -187  -1028       O  
+HETATM    6  C1  PGA A1242      29.861  20.820 -23.162  1.00 16.07           C  
+ANISOU    6  C1  PGA A1242     2264   1708   2133    147     67   -316       C  
+HETATM    7  O1  PGA A1242      29.920  19.666 -23.983  1.00 18.15           O  
+ANISOU    7  O1  PGA A1242     2795   2016   2082    -60    105   -720       O  
+HETATM    8  C2  PGA A1242      31.047  21.703 -23.436  1.00 17.61           C  
+ANISOU    8  C2  PGA A1242     2465   2148   2075    -27    -39   -138       C  
+CONECT    1    2    3    4    5
+CONECT    2    1    8
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    7    8
+CONECT    7    6
+CONECT    8    2    6
+END

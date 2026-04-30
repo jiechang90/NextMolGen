@@ -1,0 +1,116 @@
+CRYST1   85.673   86.012   88.676  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  N   KCX A 169      17.922  27.512   5.897  1.00 13.27           N  
+ANISOU    1  N   KCX A 169     2014   1109   1919   -332    674    357       N  
+HETATM    2  CA  KCX A 169      16.851  26.977   6.092  1.00 13.95           C  
+ANISOU    2  CA  KCX A 169     2022   1226   2052   -367    513    627       C  
+HETATM    3  C   KCX A 169      15.666  27.518   6.604  1.00 13.28           C  
+ANISOU    3  C   KCX A 169     1782   1436   1827   -140    215    356       C  
+HETATM    4  O   KCX A 169      15.801  27.834   7.722  1.00 13.65           O  
+ANISOU    4  O   KCX A 169     2110   1363   1712   -190    236    324       O  
+HETATM    5  CB  KCX A 169      16.787  25.442   6.295  1.00 15.20           C  
+ANISOU    5  CB  KCX A 169     2520   1231   2026   -362     28    310       C  
+HETATM    6  CG  KCX A 169      15.469  24.704   6.570  1.00 15.86           C  
+ANISOU    6  CG  KCX A 169     2811   1084   2132    -93   -277    427       C  
+HETATM    7  CD  KCX A 169      14.780  24.302   5.258  1.00 17.10           C  
+ANISOU    7  CD  KCX A 169     2994   1224   2280    -91    -10    319       C  
+HETATM    8  CE  KCX A 169      13.503  23.504   5.586  1.00 18.82           C  
+ANISOU    8  CE  KCX A 169     3054   1454   2641    -95   -199    421       C  
+HETATM    9  NZ  KCX A 169      13.855  22.216   6.162  1.00 17.64           N  
+ANISOU    9  NZ  KCX A 169     2723   1387   2593   -226    -39    193       N  
+HETATM   10  CX  KCX A 169      13.029  21.137   5.992  1.00 17.77           C  
+ANISOU   10  CX  KCX A 169     2714   1559   2479    186    385   -105       C  
+HETATM   11  OQ1 KCX A 169      11.899  21.314   5.499  1.00 18.40           O  
+ANISOU   11  OQ1 KCX A 169     2582   1660   2751     -5    250   -287       O  
+HETATM   12  OQ2 KCX A 169      13.494  20.023   6.296  1.00 15.10           O  
+ANISOU   12  OQ2 KCX A 169     2482   1117   2139    -16    252   -345       O  
+HETATM   13  HA  KCX A 169      17.599  27.570   6.322  1.00 16.74           H  
+HETATM   14  HB2 KCX A 169      17.406  25.213   7.025  1.00 18.24           H  
+HETATM   15  HB3 KCX A 169      17.154  25.050   5.470  1.00 18.24           H  
+HETATM   16  HG2 KCX A 169      14.871  25.286   7.091  1.00 19.04           H  
+HETATM   17  HG3 KCX A 169      15.660  23.891   7.089  1.00 19.04           H  
+HETATM   18  HD2 KCX A 169      15.387  23.751   4.716  1.00 20.52           H  
+HETATM   19  HD3 KCX A 169      14.538  25.116   4.762  1.00 20.52           H  
+HETATM   20  HE2 KCX A 169      12.999  23.355   4.755  1.00 22.58           H  
+HETATM   21  HE3 KCX A 169      12.945  24.010   6.219  1.00 22.58           H  
+HETATM   22  HZ  KCX A 169      14.705  22.085   6.480  1.00 21.17           H  
+TER   
+HETATM   23  N   KCX G 169      11.636  17.403  37.550  1.00 16.71           N  
+ANISOU   23  N   KCX G 169     1909   3162   1280    -47   -357    823       N  
+HETATM   24  CA  KCX G 169      11.068  18.353  37.153  1.00 18.97           C  
+ANISOU   24  CA  KCX G 169     2105   3246   1855   -327   -240   1082       C  
+HETATM   25  C   KCX G 169       9.840  18.514  36.443  1.00 16.58           C  
+ANISOU   25  C   KCX G 169     1487   3012   1799     33     13    698       C  
+HETATM   26  O   KCX G 169       9.969  18.006  35.371  1.00 16.58           O  
+ANISOU   26  O   KCX G 169     1912   2811   1577    103    232    500       O  
+HETATM   27  CB  KCX G 169      11.819  19.719  36.962  1.00 18.28           C  
+ANISOU   27  CB  KCX G 169     1998   3063   1883   -394    -42    513       C  
+HETATM   28  CG  KCX G 169      11.115  21.040  36.579  1.00 18.27           C  
+ANISOU   28  CG  KCX G 169     2143   2872   1927   -321    253    373       C  
+HETATM   29  CD  KCX G 169      10.692  21.820  37.842  1.00 17.67           C  
+ANISOU   29  CD  KCX G 169     2064   2842   1806    -66    302    222       C  
+HETATM   30  CE  KCX G 169      10.102  23.174  37.454  1.00 18.78           C  
+ANISOU   30  CE  KCX G 169     2028   3068   2041   -137    390    -20       C  
+HETATM   31  NZ  KCX G 169      11.150  24.091  37.104  1.00 18.73           N  
+ANISOU   31  NZ  KCX G 169     1904   3372   1840     89    241   -230       N  
+HETATM   32  CX  KCX G 169      10.971  25.479  37.124  1.00 18.74           C  
+ANISOU   32  CX  KCX G 169     1774   3686   1661    187    -77   -303       C  
+HETATM   33  OQ1 KCX G 169       9.825  25.955  37.356  1.00 18.83           O  
+ANISOU   33  OQ1 KCX G 169     1737   3718   1699    402     43    -83       O  
+HETATM   34  OQ2 KCX G 169      11.957  26.237  36.921  1.00 19.03           O  
+ANISOU   34  OQ2 KCX G 169     2064   3735   1434   -153    -70   -348       O  
+HETATM   35  HA  KCX G 169      11.421  17.442  37.055  1.00 22.76           H  
+HETATM   36  HB2 KCX G 169      12.528  19.572  36.296  1.00 21.93           H  
+HETATM   37  HB3 KCX G 169      12.266  19.893  37.822  1.00 21.93           H  
+HETATM   38  HG2 KCX G 169      10.321  20.842  36.033  1.00 21.92           H  
+HETATM   39  HG3 KCX G 169      11.737  21.595  36.058  1.00 21.92           H  
+HETATM   40  HD2 KCX G 169      11.472  21.956  38.424  1.00 21.20           H  
+HETATM   41  HD3 KCX G 169      10.012  21.298  38.323  1.00 21.20           H  
+HETATM   42  HE2 KCX G 169       9.606  23.537  38.221  1.00 22.54           H  
+HETATM   43  HE3 KCX G 169       9.489  23.064  36.692  1.00 22.54           H  
+HETATM   44  HZ  KCX G 169      11.992  23.760  36.953  1.00 22.47           H  
+TER   
+CONECT    1    2
+CONECT    2    1    3    5   13
+CONECT    3    2    4
+CONECT    4    3
+CONECT    5    2    6   14   15
+CONECT    6    5    7   16   17
+CONECT    7    6    8   18   19
+CONECT    8    7    9   20   21
+CONECT    9    8   10   22
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10
+CONECT   13    2
+CONECT   14    5
+CONECT   15    5
+CONECT   16    6
+CONECT   17    6
+CONECT   18    7
+CONECT   19    7
+CONECT   20    8
+CONECT   21    8
+CONECT   22    9
+CONECT   23   24
+CONECT   24   23   25   27   35
+CONECT   25   24   26
+CONECT   26   25
+CONECT   27   24   28   36   37
+CONECT   28   27   29   38   39
+CONECT   29   28   30   40   41
+CONECT   30   29   31   42   43
+CONECT   31   30   32   44
+CONECT   32   31   33   34
+CONECT   33   32
+CONECT   34   32
+CONECT   35   24
+CONECT   36   27
+CONECT   37   27
+CONECT   38   28
+CONECT   39   28
+CONECT   40   29
+CONECT   41   29
+CONECT   42   30
+CONECT   43   30
+CONECT   44   31
+END

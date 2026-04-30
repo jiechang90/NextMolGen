@@ -1,0 +1,32 @@
+CRYST1  143.185   83.785   66.768  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  P   PLP A1361      47.682  25.127   8.781  1.00 15.50           P  
+HETATM    2  O1P PLP A1361      47.350  26.001   7.644  1.00 11.67           O  
+HETATM    3  O2P PLP A1361      47.994  25.842  10.041  1.00 14.59           O1-
+HETATM    4  O3P PLP A1361      46.829  23.945   8.945  1.00 14.66           O  
+HETATM    5  O4P PLP A1361      49.112  24.518   8.364  1.00 17.80           O  
+HETATM    6  N1  PLP A1361      53.485  23.555   8.345  1.00 11.54           N  
+HETATM    7  C2  PLP A1361      53.726  23.090   7.081  1.00 11.67           C  
+HETATM    8  C2A PLP A1361      55.001  22.311   6.751  1.00 15.30           C  
+HETATM    9  C3  PLP A1361      52.820  23.357   6.090  1.00 16.34           C  
+HETATM   10  O3  PLP A1361      53.110  22.888   4.834  1.00 14.08           O  
+HETATM   11  C4  PLP A1361      51.711  24.122   6.383  1.00 20.16           C  
+HETATM   12  C4A PLP A1361      50.619  24.352   5.309  1.00 21.63           C  
+HETATM   13  C5  PLP A1361      51.460  24.556   7.660  1.00 14.45           C  
+HETATM   14  C5A PLP A1361      50.190  25.366   7.994  1.00 12.26           C  
+HETATM   15  C6  PLP A1361      52.386  24.325   8.639  1.00 12.73           C  
+CONECT    1    2    3    4    5
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1   14
+CONECT    6    7   15
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13    5
+CONECT   15    6   13
+END

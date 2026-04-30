@@ -1,0 +1,64 @@
+CRYST1  152.013  152.013  108.838  90.00  90.00 120.00 P 32          1
+HETATM    1  PA  ATP C 603      60.308  22.328  51.084  1.00 20.31           P  
+HETATM    2  PB  ATP C 603      59.396  24.835  52.164  1.00 19.96           P  
+HETATM    3  PG  ATP C 603      57.308  26.794  52.296  1.00 21.91           P  
+HETATM    4  C5' ATP C 603      59.081  20.621  49.390  1.00 20.63           C  
+HETATM    5  O5' ATP C 603      59.354  21.067  50.733  1.00 22.50           O  
+HETATM    6  C4' ATP C 603      57.658  21.011  48.966  1.00 20.60           C  
+HETATM    7  O4' ATP C 603      56.626  20.551  49.884  1.00 18.52           O  
+HETATM    8  C3' ATP C 603      57.480  22.523  48.865  1.00 19.29           C  
+HETATM    9  O3' ATP C 603      57.826  22.956  47.558  1.00 17.73           O  
+HETATM   10  C2' ATP C 603      55.996  22.698  49.077  1.00 17.89           C  
+HETATM   11  O2' ATP C 603      55.368  22.435  47.809  1.00 17.19           O  
+HETATM   12  C1' ATP C 603      55.580  21.537  49.961  1.00 16.64           C  
+HETATM   13  N1  ATP C 603      52.007  21.994  53.717  1.00 14.86           N  
+HETATM   14  O1A ATP C 603      60.956  22.863  49.842  1.00 19.32           O1-
+HETATM   15  O1B ATP C 603      60.404  25.442  51.233  1.00 23.26           O1-
+HETATM   16  O1G ATP C 603      57.225  26.649  53.791  1.00 22.06           O  
+HETATM   17  C2  ATP C 603      51.847  21.753  52.390  1.00 15.80           C  
+HETATM   18  O2A ATP C 603      61.152  21.859  52.224  1.00 23.37           O  
+HETATM   19  O2B ATP C 603      59.543  24.974  53.666  1.00 20.56           O  
+HETATM   20  O2G ATP C 603      55.999  26.815  51.531  1.00 23.22           O1-
+HETATM   21  N3  ATP C 603      52.872  21.652  51.523  1.00 17.85           N  
+HETATM   22  O3A ATP C 603      59.191  23.313  51.690  1.00 21.33           O  
+HETATM   23  O3B ATP C 603      57.933  25.405  51.784  1.00 21.32           O  
+HETATM   24  O3G ATP C 603      58.225  27.913  51.859  1.00 22.60           O  
+HETATM   25  C4  ATP C 603      54.154  21.846  51.978  1.00 17.16           C  
+HETATM   26  C5  ATP C 603      54.398  22.107  53.407  1.00 15.72           C  
+HETATM   27  C6  ATP C 603      53.207  22.161  54.296  1.00 15.36           C  
+HETATM   28  N6  ATP C 603      53.326  22.404  55.634  1.00 15.76           N  
+HETATM   29  N7  ATP C 603      55.733  22.236  53.573  1.00 14.86           N  
+HETATM   30  C8  ATP C 603      56.300  22.034  52.356  1.00 15.34           C  
+HETATM   31  N9  ATP C 603      55.358  21.834  51.404  1.00 16.80           N  
+CONECT    1    5   14   18   22
+CONECT    2   15   19   22   23
+CONECT    3   16   20   23   24
+CONECT    4    6    5
+CONECT    5    1    4
+CONECT    6    4    7    8
+CONECT    7    6   12
+CONECT    8    6    9   10
+CONECT    9    8
+CONECT   10    8   11   12
+CONECT   11   10
+CONECT   12    7   10   31
+CONECT   13   17   27
+CONECT   14    1
+CONECT   15    2
+CONECT   16    3
+CONECT   17   13   21
+CONECT   18    1
+CONECT   19    2
+CONECT   20    3
+CONECT   21   17   25
+CONECT   22    1    2
+CONECT   23    2    3
+CONECT   24    3
+CONECT   25   21   26   31
+CONECT   26   25   27   29
+CONECT   27   26   13   28
+CONECT   28   27
+CONECT   29   26   30
+CONECT   30   29   31
+CONECT   31   12   25   30
+END

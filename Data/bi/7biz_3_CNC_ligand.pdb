@@ -1,0 +1,189 @@
+CRYST1  128.052  128.052  135.051  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  P   CNC B 701     -36.061  -0.513   0.462  1.00 21.26           P  
+HETATM    2  C1P CNC B 701     -34.988  -3.987  -0.353  1.00 23.98           C  
+HETATM    3  C2P CNC B 701     -36.177  -3.037  -0.268  1.00 21.51           C  
+HETATM    4  C3P CNC B 701     -37.414  -3.846   0.119  1.00 20.65           C  
+HETATM    5  C1  CNC B 701     -27.295  -0.062  -2.436  1.00 27.78           C  
+HETATM    6  C1A CNC B 701     -27.082  -0.355  -5.902  1.00 32.29           C  
+HETATM    7  C1R CNC B 701     -33.436   2.435  -2.508  1.00 21.55           C  
+HETATM    8  N1A CNC B 701     -26.313  -0.957  -6.499  1.00 38.51           N  
+HETATM    9  N1B CNC B 701     -32.037   2.568  -2.922  1.00 23.12           N  
+HETATM   10  C2  CNC B 701     -26.120   0.099  -1.468  1.00 28.57           C  
+HETATM   11  C2B CNC B 701     -31.378   1.702  -3.675  1.00 25.77           C  
+HETATM   12  C2R CNC B 701     -33.473   1.582  -1.205  1.00 23.29           C  
+HETATM   13  O2  CNC B 701     -34.835  -0.289  -0.609  1.00 22.34           O  
+HETATM   14  C3  CNC B 701     -25.573   1.475  -1.965  1.00 25.51           C  
+HETATM   15  C3R CNC B 701     -34.815   0.892  -1.362  1.00 21.89           C  
+HETATM   16  N3B CNC B 701     -30.115   2.102  -3.822  1.00 24.80           N  
+HETATM   17  O3  CNC B 701     -35.922  -2.085   0.800  1.00 21.17           O  
+HETATM   18  C4  CNC B 701     -26.352   1.655  -3.251  1.00 25.42           C  
+HETATM   19  C4B CNC B 701     -28.821   4.132  -2.974  1.00 27.85           C  
+HETATM   20  C4R CNC B 701     -34.775   0.581  -2.871  1.00 24.05           C  
+HETATM   21  O4  CNC B 701     -37.322  -0.205  -0.243  1.00 21.34           O1-
+HETATM   22  C5  CNC B 701     -25.881   2.518  -4.324  1.00 26.84           C  
+HETATM   23  C5B CNC B 701     -28.942   5.279  -2.217  1.00 24.96           C  
+HETATM   24  C5M CNC B 701     -27.750   6.196  -2.031  1.00 27.57           C  
+HETATM   25  C5R CNC B 701     -36.160   0.322  -3.438  1.00 22.61           C  
+HETATM   26  O5  CNC B 701     -35.770   0.212   1.735  1.00 20.55           O  
+HETATM   27  C6  CNC B 701     -26.747   3.004  -5.282  1.00 26.76           C  
+HETATM   28  C6B CNC B 701     -30.212   5.617  -1.611  1.00 25.26           C  
+HETATM   29  C6M CNC B 701     -30.336   6.844  -0.802  1.00 24.87           C  
+HETATM   30  O6R CNC B 701     -34.160   1.765  -3.482  1.00 22.81           O  
+HETATM   31  C7  CNC B 701     -26.279   3.908  -6.431  1.00 25.13           C  
+HETATM   32  C7B CNC B 701     -31.328   4.760  -1.786  1.00 23.88           C  
+HETATM   33  O7R CNC B 701     -32.429   0.631  -1.198  1.00 23.76           O  
+HETATM   34  C8  CNC B 701     -27.721   4.195  -6.999  1.00 26.22           C  
+HETATM   35  C8B CNC B 701     -31.175   3.595  -2.550  1.00 23.23           C  
+HETATM   36  O8R CNC B 701     -36.997   1.513  -3.223  1.00 21.89           O  
+HETATM   37  C9  CNC B 701     -28.398   2.922  -6.529  1.00 23.72           C  
+HETATM   38  C9B CNC B 701     -29.941   3.292  -3.131  1.00 26.41           C  
+HETATM   39  C10 CNC B 701     -29.337   2.458  -7.446  1.00 22.92           C  
+HETATM   40  C11 CNC B 701     -29.997   1.240  -7.160  1.00 23.89           C  
+HETATM   41  C12 CNC B 701     -31.009   0.709  -8.162  1.00 23.62           C  
+HETATM   42  C13 CNC B 701     -31.631  -0.478  -7.348  1.00 23.30           C  
+HETATM   43  C14 CNC B 701     -30.592  -0.569  -6.251  1.00 24.94           C  
+HETATM   44  C15 CNC B 701     -30.612  -1.702  -5.425  1.00 26.11           C  
+HETATM   45  C16 CNC B 701     -29.805  -1.697  -4.215  1.00 26.90           C  
+HETATM   46  C17 CNC B 701     -29.665  -3.019  -3.383  1.00 27.52           C  
+HETATM   47  C18 CNC B 701     -28.923  -2.413  -2.176  1.00 27.09           C  
+HETATM   48  C19 CNC B 701     -28.107  -1.296  -2.766  1.00 28.35           C  
+HETATM   49  C20 CNC B 701     -28.458   0.418  -1.507  1.00 27.11           C  
+HETATM   50  N21 CNC B 701     -27.574   1.115  -3.237  1.00 29.04           N  
+HETATM   51  N22 CNC B 701     -27.639   2.120  -5.844  1.00 27.26           N  
+HETATM   52  N23 CNC B 701     -29.948   0.631  -5.935  1.00 26.90           N  
+HETATM   53  N24 CNC B 701     -28.799  -0.951  -3.979  1.00 24.73           N  
+HETATM   54  C25 CNC B 701     -26.394  -0.041   0.050  1.00 29.12           C  
+HETATM   55  C26 CNC B 701     -25.158  -1.003  -1.931  1.00 29.56           C  
+HETATM   56  C27 CNC B 701     -23.764  -0.926  -1.296  1.00 34.76           C  
+HETATM   57  O28 CNC B 701     -22.933  -0.144  -1.748  1.00 37.88           O  
+HETATM   58  N29 CNC B 701     -23.439  -1.713  -0.262  1.00 35.86           N  
+HETATM   59  C30 CNC B 701     -25.876   2.689  -0.995  1.00 26.46           C  
+HETATM   60  C31 CNC B 701     -24.761   2.952   0.053  1.00 27.97           C  
+HETATM   61  C32 CNC B 701     -25.037   4.278   0.752  1.00 28.16           C  
+HETATM   62  N33 CNC B 701     -24.918   5.389   0.017  1.00 30.08           N  
+HETATM   63  O34 CNC B 701     -25.344   4.327   1.953  1.00 30.29           O  
+HETATM   64  C35 CNC B 701     -24.403   3.007  -4.131  1.00 29.53           C  
+HETATM   65  C36 CNC B 701     -25.585   5.282  -6.098  1.00 27.07           C  
+HETATM   66  C37 CNC B 701     -25.442   3.088  -7.462  1.00 28.02           C  
+HETATM   67  C38 CNC B 701     -25.011   3.958  -8.690  1.00 29.79           C  
+HETATM   68  O39 CNC B 701     -25.855   4.314  -9.543  1.00 30.93           O  
+HETATM   69  N40 CNC B 701     -23.738   4.304  -8.815  1.00 34.60           N  
+HETATM   70  C41 CNC B 701     -28.300   5.420  -6.194  1.00 24.96           C  
+HETATM   71  C42 CNC B 701     -29.844   5.459  -6.217  1.00 24.34           C  
+HETATM   72  C43 CNC B 701     -30.394   6.791  -5.827  1.00 21.44           C  
+HETATM   73  O44 CNC B 701     -30.902   7.529  -6.718  1.00 25.56           O  
+HETATM   74  N45 CNC B 701     -30.341   7.143  -4.535  1.00 24.00           N  
+HETATM   75  C46 CNC B 701     -32.032   1.813  -8.638  1.00 26.75           C  
+HETATM   76  C47 CNC B 701     -30.301   0.077  -9.387  1.00 24.88           C  
+HETATM   77  C48 CNC B 701     -33.088  -0.154  -6.798  1.00 24.93           C  
+HETATM   78  C49 CNC B 701     -34.175  -0.584  -7.828  1.00 22.11           C  
+HETATM   79  C50 CNC B 701     -35.605  -0.648  -7.230  1.00 23.68           C  
+HETATM   80  O51 CNC B 701     -35.838  -1.628  -6.459  1.00 24.60           O  
+HETATM   81  N52 CNC B 701     -36.512   0.236  -7.536  1.00 22.02           N  
+HETATM   82  C53 CNC B 701     -31.495  -2.902  -5.837  1.00 23.60           C  
+HETATM   83  C54 CNC B 701     -28.745  -4.115  -4.052  1.00 28.57           C  
+HETATM   84  C55 CNC B 701     -30.915  -3.660  -2.812  1.00 25.50           C  
+HETATM   85  C56 CNC B 701     -31.967  -2.628  -2.258  1.00 22.20           C  
+HETATM   86  C57 CNC B 701     -33.254  -3.373  -1.920  1.00 23.35           C  
+HETATM   87  O58 CNC B 701     -33.804  -4.030  -2.799  1.00 25.81           O  
+HETATM   88  N59 CNC B 701     -33.733  -3.246  -0.707  1.00 22.20           N  
+HETATM   89  C60 CNC B 701     -27.905  -3.354  -1.465  1.00 28.34           C  
+HETATM   90  C61 CNC B 701     -28.572  -4.368  -0.539  1.00 31.90           C  
+HETATM   91  N62 CNC B 701     -29.456  -3.945   0.347  1.00 29.19           N  
+HETATM   92  O63 CNC B 701     -28.281  -5.567  -0.625  1.00 39.24           O  
+HETATM   93 CO   CNC B 701     -28.454   0.739  -4.837  1.00 26.47          CO  
+CONECT    1   13   17   21   26
+CONECT    2    3   88
+CONECT    3    2    4   17
+CONECT    4    3
+CONECT    5   10   48   49   50
+CONECT    6    8   93
+CONECT    7    9   30   12
+CONECT    8    6
+CONECT    9    7   11   35
+CONECT   10    5   14   54   55
+CONECT   11    9   16
+CONECT   12    7   33   15
+CONECT   13    1   15
+CONECT   14   10   18   59
+CONECT   15   13   12   20
+CONECT   16   11   38
+CONECT   17    3    1
+CONECT   18   14   22   50
+CONECT   19   23   38
+CONECT   20   15   25   30
+CONECT   21    1
+CONECT   22   18   27   64
+CONECT   23   19   24   28
+CONECT   24   23
+CONECT   25   20   36
+CONECT   26    1
+CONECT   27   22   31   51
+CONECT   28   23   29   32
+CONECT   29   28
+CONECT   30    7   20
+CONECT   31   27   34   65   66
+CONECT   32   28   35
+CONECT   33   12
+CONECT   34   31   37   70
+CONECT   35    9   32   38
+CONECT   36   25
+CONECT   37   34   39   51
+CONECT   38   16   35   19
+CONECT   39   37   40
+CONECT   40   39   41   52
+CONECT   41   40   42   75   76
+CONECT   42   41   43   77
+CONECT   43   42   44   52
+CONECT   44   43   45   82
+CONECT   45   44   46   53
+CONECT   46   45   47   83   84
+CONECT   47   46   48   89
+CONECT   48    5   47   53
+CONECT   49    5
+CONECT   50    5   18   93
+CONECT   51   27   37   93
+CONECT   52   40   43   93
+CONECT   53   45   48   93
+CONECT   54   10
+CONECT   55   10   56
+CONECT   56   55   57   58
+CONECT   57   56
+CONECT   58   56
+CONECT   59   14   60
+CONECT   60   59   61
+CONECT   61   60   62   63
+CONECT   62   61
+CONECT   63   61
+CONECT   64   22
+CONECT   65   31
+CONECT   66   31   67
+CONECT   67   66   68   69
+CONECT   68   67
+CONECT   69   67
+CONECT   70   34   71
+CONECT   71   70   72
+CONECT   72   71   73   74
+CONECT   73   72
+CONECT   74   72
+CONECT   75   41
+CONECT   76   41
+CONECT   77   42   78
+CONECT   78   77   79
+CONECT   79   78   80   81
+CONECT   80   79
+CONECT   81   79
+CONECT   82   44
+CONECT   83   46
+CONECT   84   46   85
+CONECT   85   84   86
+CONECT   86   85   87   88
+CONECT   87   86
+CONECT   88   86    2
+CONECT   89   47   90
+CONECT   90   89   91   92
+CONECT   91   90
+CONECT   92   90
+CONECT   93    6   50   51   52
+CONECT   93   53
+END

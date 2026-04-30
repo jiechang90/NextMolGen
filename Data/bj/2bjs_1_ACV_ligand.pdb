@@ -1,0 +1,36 @@
+CRYST1   47.149   71.126  100.991  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C7  ACV A1325      15.812  40.794  12.067  0.67 19.96           C  
+HETATM    2  C10 ACV A1325      14.321  40.658  11.913  0.67 15.60           C  
+HETATM    3  N11 ACV A1325      13.832  40.822  10.723  0.67 11.81           N  
+HETATM    4  C12 ACV A1325      12.427  40.607  10.421  0.67 10.22           C  
+HETATM    5  C13 ACV A1325      12.135  39.150  10.251  0.67  8.65           C  
+HETATM    6  O15 ACV A1325      13.609  40.360  12.856  0.67 14.73           O  
+HETATM    7  C16 ACV A1325      12.102  41.244   9.072  0.67 11.26           C  
+HETATM    8  S17 ACV A1325      12.235  43.071   8.992  0.67 17.45           S  
+HETATM    9  O18 ACV A1325      12.863  38.415   9.591  0.67  8.42           O  
+HETATM   10  N29 ACV A1325      10.996  38.739  10.801  0.67  7.07           N  
+HETATM   11  C30 ACV A1325      10.482  37.368  10.768  0.67  6.88           C  
+HETATM   12  C31 ACV A1325       9.869  37.032  12.128  0.67  7.88           C  
+HETATM   13  C32 ACV A1325       9.393  37.141   9.668  0.67  7.72           C  
+HETATM   14  C33 ACV A1325       8.200  38.039   9.860  0.67  8.86           C  
+HETATM   15  C37 ACV A1325       9.954  37.339   8.304  0.67 10.08           C  
+HETATM   16  O42 ACV A1325       9.426  35.884  12.348  0.67  6.06           O  
+HETATM   17  O43 ACV A1325       9.795  37.889  13.059  0.67  8.23           O  
+CONECT    1    2
+CONECT    2    1    3    6
+CONECT    3    2    4
+CONECT    4    3    5    7
+CONECT    5    4    9   10
+CONECT    6    2
+CONECT    7    4    8
+CONECT    8    7
+CONECT    9    5
+CONECT   10    5   11
+CONECT   11   10   12   13
+CONECT   12   11   16   17
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   13
+CONECT   16   12
+CONECT   17   12
+END

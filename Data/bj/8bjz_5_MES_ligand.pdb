@@ -1,0 +1,26 @@
+CRYST1  115.910  130.680   76.910  90.00 123.66  90.00 C 1 2 1       1
+HETATM    1  O1  MES H 302     -34.674  15.068  -1.282  1.00 42.41           O  
+HETATM    2  O1S MES H 302     -41.648  16.261  -2.627  1.00 27.46           O  
+HETATM    3  C2  MES H 302     -35.736  15.727  -0.586  1.00 36.77           C  
+HETATM    4  O2S MES H 302     -40.394  17.256  -4.418  1.00 31.79           O  
+HETATM    5  C3  MES H 302     -36.493  16.713  -1.483  1.00 41.90           C  
+HETATM    6  O3S MES H 302     -40.254  18.193  -2.157  1.00 41.92           O  
+HETATM    7  N4  MES H 302     -36.647  15.991  -2.740  1.00 42.74           N  
+HETATM    8  C5  MES H 302     -35.426  15.770  -3.514  1.00 40.24           C  
+HETATM    9  C6  MES H 302     -34.273  15.689  -2.514  1.00 38.25           C  
+HETATM   10  C7  MES H 302     -37.909  16.068  -3.487  1.00 41.18           C  
+HETATM   11  C8  MES H 302     -39.086  15.969  -2.520  1.00 42.27           C  
+HETATM   12  S   MES H 302     -40.378  16.955  -2.964  1.00 42.34           S  
+CONECT    1    3    9
+CONECT    2   12
+CONECT    3    1    5
+CONECT    4   12
+CONECT    5    3    7
+CONECT    6   12
+CONECT    7    5    8   10
+CONECT    8    7    9
+CONECT    9    1    8
+CONECT   10    7   11
+CONECT   11   10   12
+CONECT   12   11    2    4    6
+END

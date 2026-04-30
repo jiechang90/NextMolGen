@@ -1,0 +1,32 @@
+CRYST1  181.523  151.520  116.715  90.00 128.08  90.00 C 1 2 1       4
+HETATM    1  N1  EPE D 502      42.010  18.090 -17.644  0.75 57.32           N  
+HETATM    2  O1S EPE D 502      40.908  19.525 -21.767  0.75 67.07           O  
+HETATM    3  C2  EPE D 502      41.978  19.353 -16.885  0.75 55.96           C  
+HETATM    4  O2S EPE D 502      40.372  17.191 -21.727  0.75 66.42           O  
+HETATM    5  C3  EPE D 502      42.007  19.024 -15.404  0.75 55.36           C  
+HETATM    6  O3S EPE D 502      38.616  18.787 -21.466  0.75 66.21           O  
+HETATM    7  N4  EPE D 502      42.701  17.766 -15.119  0.75 54.70           N  
+HETATM    8  C5  EPE D 502      43.700  17.212 -16.022  0.75 55.37           C  
+HETATM    9  C6  EPE D 502      43.305  17.405 -17.486  0.75 56.75           C  
+HETATM   10  C7  EPE D 502      42.479  17.149 -13.833  0.75 51.97           C  
+HETATM   11  C8  EPE D 502      43.748  16.585 -13.229  0.75 50.53           C  
+HETATM   12  O8  EPE D 502      43.508  15.233 -12.908  0.75 49.96           O  
+HETATM   13  C9  EPE D 502      41.830  18.415 -19.066  0.75 60.16           C  
+HETATM   14  C10 EPE D 502      40.336  18.517 -19.386  0.75 63.52           C  
+HETATM   15  S   EPE D 502      40.031  18.506 -21.173  0.75 66.46           S  
+CONECT    1    3    9   13
+CONECT    2   15
+CONECT    3    1    5
+CONECT    4   15
+CONECT    5    3    7
+CONECT    6   15
+CONECT    7    5    8   10
+CONECT    8    7    9
+CONECT    9    1    8
+CONECT   10    7   11
+CONECT   11   10   12
+CONECT   12   11
+CONECT   13    1   14
+CONECT   14   13   15
+CONECT   15   14    2    4    6
+END

@@ -1,0 +1,100 @@
+CRYST1  147.035  147.035  162.306  90.00  90.00 120.00 P 32 2 1      1
+HETATM    1  P1  EPH B 501      33.922  35.688  33.975  1.00121.50           P  
+HETATM    2  C1  EPH B 501      32.453  36.008  38.743  1.00 86.10           C  
+HETATM    3  N1  EPH B 501      29.365  37.403  32.957  1.00 93.47           N  
+HETATM    4  O1  EPH B 501      34.840  36.201  38.549  1.00 78.64           O  
+HETATM    5  C2  EPH B 501      33.619  36.393  37.841  1.00 79.03           C  
+HETATM    6  O2  EPH B 501      32.549  36.750  39.960  1.00 73.46           O  
+HETATM    7  C3  EPH B 501      35.671  37.391  38.509  1.00 77.74           C  
+HETATM    8  O3  EPH B 501      35.217  38.415  38.028  1.00 96.06           O  
+HETATM    9  C4  EPH B 501      31.547  36.588  41.002  1.00 78.52           C  
+HETATM   10  O4  EPH B 501      30.596  35.849  40.802  1.00 83.79           O  
+HETATM   11  C5  EPH B 501      37.076  37.352  39.056  1.00 62.07           C  
+HETATM   12  O5  EPH B 501      33.798  36.351  35.436  1.00 99.78           O  
+HETATM   13  C6  EPH B 501      37.089  36.531  40.339  1.00 73.48           C  
+HETATM   14  O6  EPH B 501      34.514  36.701  33.025  1.00 85.79           O1-
+HETATM   15  C7  EPH B 501      38.416  36.702  41.067  1.00 83.19           C  
+HETATM   16  O7  EPH B 501      34.531  34.310  34.085  1.00112.09           O  
+HETATM   17  C8  EPH B 501      38.779  35.458  41.869  1.00 78.91           C  
+HETATM   18  O8  EPH B 501      32.364  35.493  33.623  1.00113.88           O  
+HETATM   19  C9  EPH B 501      40.052  35.705  42.670  1.00 87.26           C  
+HETATM   20  C10 EPH B 501      40.885  34.435  42.790  1.00 83.56           C  
+HETATM   21  C11 EPH B 501      40.916  33.904  44.218  1.00 56.26           C  
+HETATM   22  C12 EPH B 501      41.515  32.516  44.207  1.00 76.01           C  
+HETATM   23  C13 EPH B 501      41.848  31.858  45.318  1.00 79.73           C  
+HETATM   24  C14 EPH B 501      41.661  32.431  46.705  1.00 77.30           C  
+HETATM   25  C15 EPH B 501      40.202  32.357  47.086  1.00 85.49           C  
+HETATM   26  C16 EPH B 501      39.518  31.226  46.957  1.00 65.10           C  
+HETATM   27  C17 EPH B 501      38.060  31.219  47.345  1.00 56.69           C  
+HETATM   28  C18 EPH B 501      31.682  37.330  42.311  1.00 71.80           C  
+HETATM   29  C19 EPH B 501      32.969  36.928  43.022  1.00 62.24           C  
+HETATM   30  C20 EPH B 501      33.043  35.421  43.239  1.00 71.72           C  
+HETATM   31  C21 EPH B 501      34.125  35.060  44.252  1.00 69.87           C  
+HETATM   32  C22 EPH B 501      35.425  35.802  43.957  1.00 92.28           C  
+HETATM   33  C23 EPH B 501      36.527  35.401  44.932  1.00 93.18           C  
+HETATM   34  C24 EPH B 501      37.594  36.471  44.969  1.00 89.75           C  
+HETATM   35  C25 EPH B 501      38.385  36.581  46.032  1.00 79.60           C  
+HETATM   36  C26 EPH B 501      39.462  37.640  46.096  1.00 60.92           C  
+HETATM   37  C27 EPH B 501      39.478  38.282  47.480  1.00 76.46           C  
+HETATM   38  C28 EPH B 501      38.805  37.360  48.472  1.00 76.19           C  
+HETATM   39  C29 EPH B 501      39.526  36.675  49.354  1.00 59.23           C  
+HETATM   40  C30 EPH B 501      41.026  36.830  49.379  1.00 62.05           C  
+HETATM   41  C31 EPH B 501      41.592  36.119  50.601  1.00 83.92           C  
+HETATM   42  C32 EPH B 501      42.066  34.753  50.168  1.00 76.13           C  
+HETATM   43  C33 EPH B 501      43.365  34.550  49.974  1.00 64.41           C  
+HETATM   44  C34 EPH B 501      43.864  33.196  49.536  1.00 55.07           C  
+HETATM   45  C35 EPH B 501      37.264  31.896  46.235  1.00 71.86           C  
+HETATM   46  C36 EPH B 501      36.210  30.973  45.666  1.00 82.69           C  
+HETATM   47  C37 EPH B 501      33.636  35.527  36.587  1.00 91.74           C  
+HETATM   48  C38 EPH B 501      31.623  36.498  32.936  1.00110.48           C  
+HETATM   49  C39 EPH B 501      30.140  36.186  33.097  1.00110.26           C  
+CONECT    1   14   16   18   12
+CONECT    2    5    6
+CONECT    3   49
+CONECT    4    5    7
+CONECT    5    2    4   47
+CONECT    6    2    9
+CONECT    7    4    8   11
+CONECT    8    7
+CONECT    9    6   10   28
+CONECT   10    9
+CONECT   11    7   13
+CONECT   12    1   47
+CONECT   13   11   15
+CONECT   14    1
+CONECT   15   13   17
+CONECT   16    1
+CONECT   17   15   19
+CONECT   18    1   48
+CONECT   19   17   20
+CONECT   20   19   21
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   45
+CONECT   28    9   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43
+CONECT   45   27   46
+CONECT   46   45
+CONECT   47    5   12
+CONECT   48   18   49
+CONECT   49   48    3
+END

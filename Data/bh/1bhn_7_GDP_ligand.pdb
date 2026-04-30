@@ -1,0 +1,58 @@
+CRYST1   89.880   92.110  131.630  90.00  90.00  90.00 P 21 21 21    2
+HETATM    1  PA  GDP D 161       1.864   2.538  66.815  0.50 26.73           P  
+HETATM    2  PB  GDP D 161       4.607   2.851  67.482  0.50 50.31           P  
+HETATM    3  C5' GDP D 161       2.276   0.133  65.998  0.50 99.99           C  
+HETATM    4  O5' GDP D 161       1.637   1.415  65.851  0.50 42.50           O  
+HETATM    5  C4' GDP D 161       2.755  -0.501  64.684  0.50 17.45           C  
+HETATM    6  O4' GDP D 161       1.629  -0.951  63.867  0.50 46.85           O  
+HETATM    7  C3' GDP D 161       3.650   0.344  63.770  0.50 11.39           C  
+HETATM    8  O3' GDP D 161       5.060   0.247  64.056  0.50 99.99           O  
+HETATM    9  C2' GDP D 161       3.318  -0.190  62.379  0.50 58.66           C  
+HETATM   10  O2' GDP D 161       4.108  -1.305  61.962  0.50 25.82           O  
+HETATM   11  C1' GDP D 161       1.825  -0.501  62.537  0.50 58.76           C  
+HETATM   12  N1  GDP D 161      -0.799   0.947  58.700  0.50 94.76           N  
+HETATM   13  O1A GDP D 161       1.915   2.122  68.242  0.50 91.11           O1-
+HETATM   14  O1B GDP D 161       4.044   2.663  68.872  0.50 33.45           O  
+HETATM   15  C2  GDP D 161      -0.141  -0.222  58.998  0.50 99.99           C  
+HETATM   16  N2  GDP D 161      -0.226  -1.174  58.057  0.50 99.99           N  
+HETATM   17  O2A GDP D 161       1.454   3.921  66.324  0.50  4.19           O  
+HETATM   18  O2B GDP D 161       5.121   4.197  67.165  0.50  7.76           O1-
+HETATM   19  N3  GDP D 161       0.509  -0.452  60.143  0.50 23.20           N  
+HETATM   20  O3A GDP D 161       3.366   2.993  66.458  0.50 29.11           O  
+HETATM   21  O3B GDP D 161       5.748   2.574  66.559  0.50 38.41           O  
+HETATM   22  C4  GDP D 161       0.488   0.631  60.974  0.50 38.77           C  
+HETATM   23  C5  GDP D 161      -0.119   1.866  60.745  0.50 16.78           C  
+HETATM   24  C6  GDP D 161      -0.854   2.061  59.537  0.50 99.99           C  
+HETATM   25  O6  GDP D 161      -1.486   3.057  59.156  0.50 30.03           O  
+HETATM   26  N7  GDP D 161       0.074   2.718  61.842  0.50  7.11           N  
+HETATM   27  C8  GDP D 161       0.769   1.986  62.687  0.50 51.70           C  
+HETATM   28  N9  GDP D 161       1.054   0.709  62.243  0.50 32.07           N  
+CONECT    1    4   13   17   20
+CONECT    2   14   18   20   21
+CONECT    3    5    4
+CONECT    4    1    3
+CONECT    5    3    6    7
+CONECT    6    5   11
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    6    9   28
+CONECT   12   15   24
+CONECT   13    1
+CONECT   14    2
+CONECT   15   12   16   19
+CONECT   16   15
+CONECT   17    1
+CONECT   18    2
+CONECT   19   15   22
+CONECT   20    2    1
+CONECT   21    2
+CONECT   22   19   23   28
+CONECT   23   22   24   26
+CONECT   24   23   12   25
+CONECT   25   24
+CONECT   26   23   27
+CONECT   27   26   28
+CONECT   28   11   22   27
+END

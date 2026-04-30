@@ -1,0 +1,88 @@
+CRYST1   45.258   45.975  119.032  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  TVE A 301      -8.291  -2.635   7.467  0.84 34.37           C  
+HETATM    2  N1  TVE A 301      -7.230  -1.475   5.556  0.84 72.01           N  
+HETATM    3  O1  TVE A 301      -6.669   0.736   6.935  0.84 57.65           O  
+HETATM    4  C2  TVE A 301      -9.105  -1.471   7.059  0.84 56.85           C  
+HETATM    5  N2  TVE A 301      -8.619   1.845   6.909  0.84 58.09           N  
+HETATM    6  C3  TVE A 301      -8.326  -0.618   5.990  0.84 62.71           C  
+HETATM    7  C4  TVE A 301      -7.829   0.739   6.631  0.84 54.40           C  
+HETATM    8  C5  TVE A 301      -7.153  -2.698   6.445  0.84 63.72           C  
+HETATM    9  S15 TVE A 301      -7.525  -2.431   9.010  0.84 36.77           S  
+HETATM   10  C16 TVE A 301      -8.656  -2.185  10.263  0.84 33.39           C  
+HETATM   11  C17 TVE A 301      -8.438  -3.318  11.098  0.84 24.86           C  
+HETATM   12  C18 TVE A 301      -9.103  -4.671  10.856  0.84 31.30           C  
+HETATM   13  O19 TVE A 301      -8.593  -5.645  11.312  0.84 25.31           O1-
+HETATM   14  O20 TVE A 301     -10.103  -4.543  10.226  0.84 30.38           O  
+HETATM   15  N21 TVE A 301      -8.181  -2.940  12.362  0.84 22.54           N  
+HETATM   16  C22 TVE A 301      -7.723  -1.569  12.410  0.84 17.83           C  
+HETATM   17  C23 TVE A 301      -8.318  -0.986  11.070  0.84 33.52           C  
+HETATM   18  C24 TVE A 301      -7.385  -0.146  10.298  0.84 37.48           C  
+HETATM   19  C25 TVE A 301      -6.194  -1.604  12.648  0.84 11.44           C  
+HETATM   20  C26 TVE A 301      -5.709  -0.430  13.547  0.84 15.54           C  
+HETATM   21  C27 TVE A 301      -6.067   0.887  12.974  0.84 24.91           C  
+HETATM   22  O28 TVE A 301      -6.397  -0.446  14.671  0.84 28.09           O  
+HETATM   23  C29 TVE A 301      -5.753  -2.937  13.318  0.84 11.34           C  
+HETATM   24  O30 TVE A 301      -4.953  -3.579  12.733  0.84 11.85           O  
+HETATM   25  H3  TVE A 301      -9.931  -1.761   6.722  0.84 68.23           H  
+HETATM   26  H4  TVE A 301      -9.449   1.764   6.670  0.84 69.72           H  
+HETATM   27  H6  TVE A 301      -8.745  -3.456   7.494  0.84 41.25           H  
+HETATM   28  H8  TVE A 301      -9.280  -0.937   7.811  0.84 68.23           H  
+HETATM   29  H9  TVE A 301      -8.817  -0.384   5.225  0.84 75.27           H  
+HETATM   30  H10 TVE A 301      -6.490  -1.022   5.541  0.84 86.42           H  
+HETATM   31  H11 TVE A 301      -7.229  -3.509   5.978  0.84 76.48           H  
+HETATM   32  H12 TVE A 301      -6.355  -2.764   6.937  0.84 76.48           H  
+HETATM   33 H161 TVE A 301      -9.506  -2.189   9.865  0.84 40.08           H  
+HETATM   34 H231 TVE A 301      -9.098  -0.498  11.257  0.84 40.23           H  
+HETATM   35 H241 TVE A 301      -7.748   0.043   9.454  0.84 44.98           H  
+HETATM   36 H242 TVE A 301      -6.559  -0.571  10.163  0.84 44.98           H  
+HETATM   37 H243 TVE A 301      -7.223   0.673  10.728  0.84 44.98           H  
+HETATM   38 H251 TVE A 301      -5.762  -1.538  11.816  0.84 13.74           H  
+HETATM   39 H261 TVE A 301      -4.786  -0.482  13.710  0.84 18.66           H  
+HETATM   40 H271 TVE A 301      -5.800   0.965  12.077  0.84 29.91           H  
+HETATM   41 H272 TVE A 301      -5.674   1.621  13.408  0.84 29.91           H  
+HETATM   42 H273 TVE A 301      -6.989   1.066  12.976  0.84 29.91           H  
+HETATM   43 H281 TVE A 301      -5.961  -0.080  15.278  0.84 33.72           H  
+CONECT    1    4    8   27    9
+CONECT    2    8   30    6
+CONECT    3    7
+CONECT    4    1    6   25   28
+CONECT    5   26    7
+CONECT    6    4    2    7   29
+CONECT    7    6    3    5
+CONECT    8    1    2   31   32
+CONECT    9    1   10
+CONECT   10    9   11   17   33
+CONECT   11   10   12   15
+CONECT   12   11   13   14
+CONECT   13   12
+CONECT   14   12
+CONECT   15   11   16
+CONECT   16   15   17   19
+CONECT   17   10   16   18   34
+CONECT   18   17   35   36   37
+CONECT   19   16   20   23   38
+CONECT   20   19   21   22   39
+CONECT   21   20   40   41   42
+CONECT   22   20   43
+CONECT   23   19   24
+CONECT   24   23
+CONECT   25    4
+CONECT   26    5
+CONECT   27    1
+CONECT   28    4
+CONECT   29    6
+CONECT   30    2
+CONECT   31    8
+CONECT   32    8
+CONECT   33   10
+CONECT   34   17
+CONECT   35   18
+CONECT   36   18
+CONECT   37   18
+CONECT   38   19
+CONECT   39   20
+CONECT   40   21
+CONECT   41   21
+CONECT   42   21
+CONECT   43   22
+END

@@ -1,0 +1,174 @@
+CRYST1  181.523  151.520  116.715  90.00 128.08  90.00 C 1 2 1       4
+HETATM    1  CAAAHEM B 301      -0.723  -7.385 -33.789  0.50 46.48           C  
+HETATM    2  CAABHEM B 301      -0.739  -2.650 -30.840  0.50 50.90           C  
+HETATM    3  CABAHEM B 301      -0.511  -2.237 -42.368  0.50 43.02           C  
+HETATM    4  CABBHEM B 301      -0.981   2.564 -39.358  0.50 49.36           C  
+HETATM    5  CACAHEM B 301      -0.909   3.290 -36.753  0.50 41.82           C  
+HETATM    6  CACBHEM B 301      -0.186  -5.060 -41.680  0.50 48.32           C  
+HETATM    7  CADAHEM B 301      -0.683  -2.788 -31.157  0.50 45.75           C  
+HETATM    8  CADBHEM B 301      -0.734  -7.298 -33.830  0.50 51.62           C  
+HETATM    9  NA AHEM B 301      -0.574  -4.488 -36.264  0.50 43.69           N  
+HETATM   10  NA BHEM B 301      -0.684  -1.956 -34.630  0.50 49.69           N  
+HETATM   11  CBAAHEM B 301      -1.748  -6.794 -32.831  0.50 52.91           C  
+HETATM   12  CBABHEM B 301       0.168  -3.838 -30.550  0.50 54.12           C  
+HETATM   13  CBBAHEM B 301       0.461  -1.411 -42.708  0.50 43.21           C  
+HETATM   14  CBBBHEM B 301      -0.342   2.293 -40.466  0.50 50.87           C  
+HETATM   15  CBCAHEM B 301      -0.664   3.562 -35.505  0.50 40.72           C  
+HETATM   16  CBCBHEM B 301      -0.936  -6.121 -41.666  0.50 48.44           C  
+HETATM   17  CBDAHEM B 301       0.372  -2.102 -30.307  0.50 51.37           C  
+HETATM   18  CBDBHEM B 301      -1.784  -6.731 -32.884  0.50 57.11           C  
+HETATM   19  NB AHEM B 301      -0.540  -3.032 -38.774  0.50 42.32           N  
+HETATM   20  NB BHEM B 301      -0.742  -0.348 -37.104  0.50 49.77           N  
+HETATM   21  CGAAHEM B 301      -2.822  -7.774 -32.423  0.50 58.37           C  
+HETATM   22  CGABHEM B 301       1.438  -3.413 -29.865  0.50 57.27           C  
+HETATM   23  CGDAHEM B 301       1.522  -3.016 -29.981  0.50 55.86           C  
+HETATM   24  CGDBHEM B 301      -2.817  -7.746 -32.455  0.50 61.06           C  
+HETATM   25  ND AHEM B 301      -0.661  -1.937 -34.790  0.50 42.87           N  
+HETATM   26  ND BHEM B 301      -0.576  -4.406 -36.220  0.50 49.87           N  
+HETATM   27  CHAAHEM B 301      -0.671  -4.218 -33.826  0.50 43.55           C  
+HETATM   28  CHABHEM B 301      -0.798  -4.263 -33.765  0.50 49.81           C  
+HETATM   29  CHBAHEM B 301      -0.448  -5.467 -38.526  0.50 43.67           C  
+HETATM   30  CHBBHEM B 301      -0.620   0.491 -34.800  0.50 49.77           C  
+HETATM   31  CHCAHEM B 301      -0.654  -0.787 -39.703  0.50 42.56           C  
+HETATM   32  CHCBHEM B 301      -0.837  -0.532 -39.528  0.50 48.82           C  
+HETATM   33  CHDAHEM B 301      -0.710   0.518 -35.017  0.50 43.82           C  
+HETATM   34  CHDBHEM B 301      -0.294  -5.274 -38.517  0.50 49.86           C  
+HETATM   35  CMAAHEM B 301      -0.557  -8.208 -37.018  0.50 43.35           C  
+HETATM   36  CMABHEM B 301      -0.619   0.510 -31.754  0.50 49.63           C  
+HETATM   37  CMBAHEM B 301      -0.376  -5.461 -41.714  0.50 42.45           C  
+HETATM   38  CMBBHEM B 301      -0.829   3.385 -36.195  0.50 48.74           C  
+HETATM   39  CMCAHEM B 301      -0.858   2.441 -39.766  0.50 43.46           C  
+HETATM   40  CMCBHEM B 301      -0.548  -1.947 -42.393  0.50 49.81           C  
+HETATM   41  CMDAHEM B 301      -0.714   0.484 -31.879  0.50 43.21           C  
+HETATM   42  CMDBHEM B 301      -0.385  -8.092 -37.031  0.50 49.70           C  
+HETATM   43  C1AAHEM B 301      -0.646  -5.034 -35.042  0.50 43.85           C  
+HETATM   44  C1ABHEM B 301      -0.708  -2.800 -33.580  0.50 49.76           C  
+HETATM   45  C1BAHEM B 301      -0.456  -4.251 -39.319  0.50 42.79           C  
+HETATM   46  C1BBHEM B 301      -0.741   0.682 -36.238  0.50 50.12           C  
+HETATM   47  C1CAHEM B 301      -0.718   0.046 -38.516  0.50 42.61           C  
+HETATM   48  C1CBHEM B 301      -0.632  -1.970 -39.700  0.50 48.66           C  
+HETATM   49  C1DAHEM B 301      -0.664  -0.717 -34.244  0.50 43.06           C  
+HETATM   50  C1DBHEM B 301      -0.466  -5.427 -37.072  0.50 49.84           C  
+HETATM   51  O1AAHEM B 301      -3.751  -8.013 -33.219  0.50 61.05           O  
+HETATM   52  O1ABHEM B 301       2.093  -2.472 -30.351  0.50 59.19           O  
+HETATM   53  O1DAHEM B 301       2.667  -2.666 -30.318  0.50 56.88           O  
+HETATM   54  O1DBHEM B 301      -3.756  -8.013 -33.229  0.50 61.22           O  
+HETATM   55  C2AAHEM B 301      -0.652  -6.491 -34.992  0.50 44.02           C  
+HETATM   56  C2ABHEM B 301      -0.697  -2.130 -32.262  0.50 49.61           C  
+HETATM   57  C2BAHEM B 301      -0.440  -4.291 -40.782  0.50 42.11           C  
+HETATM   58  C2BBHEM B 301      -0.832   2.022 -36.842  0.50 49.57           C  
+HETATM   59  C2CAHEM B 301      -0.804   1.510 -38.600  0.50 42.98           C  
+HETATM   60  C2CBHEM B 301      -0.519  -2.576 -41.036  0.50 49.04           C  
+HETATM   61  C2DAHEM B 301      -0.687  -0.707 -32.795  0.50 43.05           C  
+HETATM   62  C2DBHEM B 301      -0.492  -6.732 -36.418  0.50 49.69           C  
+HETATM   63  O2AAHEM B 301      -2.753  -8.293 -31.291  0.50 58.39           O  
+HETATM   64  O2ABHEM B 301       1.787  -4.035 -28.849  0.50 56.97           O  
+HETATM   65  O2DAHEM B 301       1.288  -4.073 -29.377  0.50 57.37           O  
+HETATM   66  O2DBHEM B 301      -2.709  -8.266 -31.327  0.50 62.35           O  
+HETATM   67  C3AAHEM B 301      -0.585  -6.849 -36.397  0.50 43.44           C  
+HETATM   68  C3ABHEM B 301      -0.653  -0.720 -32.616  0.50 49.38           C  
+HETATM   69  C3BAHEM B 301      -0.510  -2.869 -41.038  0.50 42.17           C  
+HETATM   70  C3BBHEM B 301      -0.881   1.618 -38.240  0.50 49.46           C  
+HETATM   71  C3CAHEM B 301      -0.829   1.890 -37.210  0.50 43.13           C  
+HETATM   72  C3CBHEM B 301      -0.360  -3.970 -40.711  0.50 48.22           C  
+HETATM   73  C3DAHEM B 301      -0.682  -2.132 -32.501  0.50 43.23           C  
+HETATM   74  C3DBHEM B 301      -0.639  -6.382 -35.016  0.50 49.92           C  
+HETATM   75  C4AAHEM B 301      -0.545  -5.553 -37.073  0.50 43.68           C  
+HETATM   76  C4ABHEM B 301      -0.633  -0.756 -34.058  0.50 49.46           C  
+HETATM   77  C4BAHEM B 301      -0.564  -2.232 -39.824  0.50 42.20           C  
+HETATM   78  C4BBHEM B 301      -0.819   0.244 -38.296  0.50 49.34           C  
+HETATM   79  C4CAHEM B 301      -0.759   0.619 -36.475  0.50 43.92           C  
+HETATM   80  C4CBHEM B 301      -0.383  -4.023 -39.258  0.50 48.72           C  
+HETATM   81  C4DAHEM B 301      -0.653  -2.748 -33.722  0.50 43.22           C  
+HETATM   82  C4DBHEM B 301      -0.680  -5.017 -35.021  0.50 50.00           C  
+HETATM   83  NC AHEM B 301      -0.690  -0.461 -37.283  0.50 43.42           N  
+HETATM   84  NC BHEM B 301      -0.564  -2.827 -38.679  0.50 48.72           N  
+HETATM   85 FE  AHEM B 301      -0.588  -2.481 -36.770  0.50 42.26          FE  
+HETATM   86 FE  BHEM B 301      -0.644  -2.387 -36.653  0.50 48.64          FE  
+CONECT    1   11   55
+CONECT    2   12   56
+CONECT    3   13   69
+CONECT    4   14   70
+CONECT    5   15   71
+CONECT    6   16   72
+CONECT    7   17   73
+CONECT    8   18   74
+CONECT    9   85   43   75
+CONECT   10   86   44   76
+CONECT   11    1   21
+CONECT   12    2   22
+CONECT   13    3
+CONECT   14    4
+CONECT   15    5
+CONECT   16    6
+CONECT   17    7   23
+CONECT   18    8   24
+CONECT   19   85   45   77
+CONECT   20   86   46   78
+CONECT   21   11   51   63
+CONECT   22   12   52   64
+CONECT   23   17   53   65
+CONECT   24   18   54   66
+CONECT   25   85   49   81
+CONECT   26   86   50   82
+CONECT   27   43   81
+CONECT   28   44   82
+CONECT   29   45   75
+CONECT   30   46   76
+CONECT   31   47   77
+CONECT   32   48   78
+CONECT   33   49   79
+CONECT   34   50   80
+CONECT   35   67
+CONECT   36   68
+CONECT   37   57
+CONECT   38   58
+CONECT   39   59
+CONECT   40   60
+CONECT   41   61
+CONECT   42   62
+CONECT   43   27    9   55
+CONECT   44   28   10   56
+CONECT   45   29   19   57
+CONECT   46   30   20   58
+CONECT   47   31   59   83
+CONECT   48   32   60   84
+CONECT   49   33   25   61
+CONECT   50   34   26   62
+CONECT   51   21
+CONECT   52   22
+CONECT   53   23
+CONECT   54   24
+CONECT   55   43    1   67
+CONECT   56   44    2   68
+CONECT   57   45   37   69
+CONECT   58   46   38   70
+CONECT   59   47   39   71
+CONECT   60   48   40   72
+CONECT   61   49   41   73
+CONECT   62   50   42   74
+CONECT   63   21
+CONECT   64   22
+CONECT   65   23
+CONECT   66   24
+CONECT   67   55   35   75
+CONECT   68   56   36   76
+CONECT   69   57    3   77
+CONECT   70   58    4   78
+CONECT   71   59    5   79
+CONECT   72   60    6   80
+CONECT   73   61    7   81
+CONECT   74   62    8   82
+CONECT   75   29   67    9
+CONECT   76   30   68   10
+CONECT   77   31   69   19
+CONECT   78   32   70   20
+CONECT   79   33   71   83
+CONECT   80   34   72   84
+CONECT   81   27   73   25
+CONECT   82   28   74   26
+CONECT   83   47   79   85
+CONECT   84   48   80   86
+CONECT   85    9   19   25   83
+CONECT   86   10   20   26   84
+END

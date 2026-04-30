@@ -1,0 +1,191 @@
+CRYST1   41.752   55.835   56.163  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  CAA HEM A1154       7.203  -4.826  16.282  1.00  9.39           C  
+ANISOU    1  CAA HEM A1154     1027   1323   1217   -132    155    111       C  
+HETATM    2  CAB HEM A1154       5.104   2.129   9.725  1.00  7.68           C  
+ANISOU    2  CAB HEM A1154      774   1453    690   -118     85   -127       C  
+HETATM    3  CAC HEM A1154      12.980   2.000  10.189  1.00  6.24           C  
+ANISOU    3  CAC HEM A1154      962    699    709   -160     32   -188       C  
+HETATM    4  CAD HEM A1154      12.481  -4.032  15.471  1.00  7.90           C  
+ANISOU    4  CAD HEM A1154     1102   1078    822     56   -153     41       C  
+HETATM    5  NA  HEM A1154       7.685  -2.356  13.504  1.00  6.20           N  
+ANISOU    5  NA  HEM A1154      777    874    703     12     26   -179       N  
+HETATM    6  CBA HEM A1154       7.551  -4.105  17.584  1.00  9.16           C  
+ANISOU    6  CBA HEM A1154     1055   1351   1073    -41   -130     59       C  
+HETATM    7  CBB HEM A1154       4.014   2.152   8.981  1.00  9.81           C  
+ANISOU    7  CBB HEM A1154     1015   1699   1011     79    -65   -171       C  
+HETATM    8  CBC HEM A1154      14.086   1.295  10.079  1.00  8.10           C  
+ANISOU    8  CBC HEM A1154      986   1200    890   -139     43    -81       C  
+HETATM    9  CBD HEM A1154      12.926  -5.302  14.816  1.00  8.24           C  
+ANISOU    9  CBD HEM A1154     1289    894    947     76   -360    -25       C  
+HETATM   10  NB  HEM A1154       7.097  -0.321  11.662  1.00  5.44           N  
+ANISOU   10  NB  HEM A1154      681    857    526     87    -13   -131       N  
+HETATM   11  CGA HEM A1154       7.813  -5.174  18.612  1.00 11.81           C  
+ANISOU   11  CGA HEM A1154     1254   1710   1522    -82      5    115       C  
+HETATM   12  CGD HEM A1154      13.518  -6.294  15.767  1.00 10.39           C  
+ANISOU   12  CGD HEM A1154     1502   1527    917    294   -136   -207       C  
+HETATM   13  ND  HEM A1154      10.471  -1.816  13.192  1.00  6.51           N  
+ANISOU   13  ND  HEM A1154     1047    868    556     56   -113   -108       N  
+HETATM   14  CHA HEM A1154       9.495  -3.421  14.737  1.00  7.27           C  
+ANISOU   14  CHA HEM A1154      965    993    804   -104     65      4       C  
+HETATM   15  CHB HEM A1154       5.439  -1.777  12.744  1.00  6.82           C  
+ANISOU   15  CHB HEM A1154      882    886    823   -135    -12   -144       C  
+HETATM   16  CHC HEM A1154       8.026   1.478  10.419  1.00  6.37           C  
+ANISOU   16  CHC HEM A1154      821   1023    576   -100    -23     13       C  
+HETATM   17  CHD HEM A1154      12.085  -0.436  12.033  1.00  5.75           C  
+ANISOU   17  CHD HEM A1154      929    731    522      2     20   -107       C  
+HETATM   18  CMA HEM A1154       4.417  -3.663  14.932  1.00  8.52           C  
+ANISOU   18  CMA HEM A1154      959   1080   1196   -161    207     32       C  
+HETATM   19  CMB HEM A1154       3.351  -0.131  11.222  1.00  7.17           C  
+ANISOU   19  CMB HEM A1154      610   1306    807     28    -15   -211       C  
+HETATM   20  CMC HEM A1154      10.292   3.337   9.308  1.00  7.09           C  
+ANISOU   20  CMC HEM A1154      966    895    830   -136    -53      8       C  
+HETATM   21  CMD HEM A1154      14.186  -2.035  13.624  1.00  7.20           C  
+ANISOU   21  CMD HEM A1154      668   1198    871     63    -21     12       C  
+HETATM   22  C1A HEM A1154       8.175  -3.200  14.444  1.00  7.00           C  
+ANISOU   22  C1A HEM A1154      873    945    839   -169    100   -101       C  
+HETATM   23  C1B HEM A1154       5.788  -0.768  11.878  1.00  6.44           C  
+ANISOU   23  C1B HEM A1154      924    913    608    -88     -8   -219       C  
+HETATM   24  C1C HEM A1154       9.351   1.270  10.644  1.00  5.89           C  
+ANISOU   24  C1C HEM A1154      998    702    535    -21     89    -82       C  
+HETATM   25  C1D HEM A1154      11.760  -1.430  12.895  1.00  5.69           C  
+ANISOU   25  C1D HEM A1154      721    939    500     65     -6   -188       C  
+HETATM   26  O1A HEM A1154       8.933  -5.766  18.621  1.00 14.89           O  
+ANISOU   26  O1A HEM A1154     1400   2273   1982    233     70     76       O  
+HETATM   27  O1D HEM A1154      14.067  -7.323  15.307  1.00 12.81           O  
+ANISOU   27  O1D HEM A1154     1893   1770   1201    388   -342   -249       O  
+HETATM   28  C2A HEM A1154       7.044  -3.825  15.132  1.00  8.47           C  
+ANISOU   28  C2A HEM A1154     1091   1071   1054   -100     78     61       C  
+HETATM   29  C2B HEM A1154       4.841   0.062  11.188  1.00  6.29           C  
+ANISOU   29  C2B HEM A1154      640   1030    721     78    -13   -128       C  
+HETATM   30  C2C HEM A1154      10.464   2.065  10.136  1.00  5.96           C  
+ANISOU   30  C2C HEM A1154      999    724    540    -49   -137   -158       C  
+HETATM   31  C2D HEM A1154      12.673  -2.152  13.675  1.00  6.60           C  
+ANISOU   31  C2D HEM A1154      844    984    680     81    -57   -188       C  
+HETATM   32  O2A HEM A1154       6.913  -5.430  19.429  1.00 13.82           O  
+ANISOU   32  O2A HEM A1154     1452   2241   1557     40    131    598       O  
+HETATM   33  O2D HEM A1154      13.443  -6.070  17.004  1.00 11.50           O  
+ANISOU   33  O2D HEM A1154     1645   1485   1237    197    -83     98       O  
+HETATM   34  C3A HEM A1154       5.891  -3.361  14.599  1.00  7.51           C  
+ANISOU   34  C3A HEM A1154      962    941    947     64     93     44       C  
+HETATM   35  C3B HEM A1154       5.575   0.982  10.533  1.00  6.01           C  
+ANISOU   35  C3B HEM A1154      651   1086    545      5    -67   -249       C  
+HETATM   36  C3C HEM A1154      11.603   1.497  10.531  1.00  6.21           C  
+ANISOU   36  C3C HEM A1154      772    959    629   -124    -35    -72       C  
+HETATM   37  C3D HEM A1154      11.918  -3.054  14.474  1.00  7.40           C  
+ANISOU   37  C3D HEM A1154     1086    875    851     76   -159   -107       C  
+HETATM   38  C4A HEM A1154       6.293  -2.473  13.546  1.00  6.82           C  
+ANISOU   38  C4A HEM A1154      790   1016    785   -143     66   -131       C  
+HETATM   39  C4B HEM A1154       6.955   0.775  10.852  1.00  5.12           C  
+ANISOU   39  C4B HEM A1154      721    781    442    103    -49   -143       C  
+HETATM   40  C4C HEM A1154      11.240   0.358  11.334  1.00  5.69           C  
+ANISOU   40  C4C HEM A1154      792    653    714     55    116   -240       C  
+HETATM   41  C4D HEM A1154      10.546  -2.789  14.133  1.00  6.73           C  
+ANISOU   41  C4D HEM A1154      975    870    712     11    -72     14       C  
+HETATM   42  NC  HEM A1154       9.858   0.231  11.381  1.00  5.70           N  
+ANISOU   42  NC  HEM A1154      860    847    458    -54    156   -151       N  
+HETATM   43 FE   HEM A1154       8.780  -1.103  12.427  1.00  5.51          FE  
+ANISOU   43 FE   HEM A1154      693    777    622    -58    -13   -189      FE  
+HETATM   44  HAA HEM A1154       7.907  -5.455  16.062  1.00  9.23           H  
+HETATM   45 HAAA HEM A1154       6.371  -5.309  16.399  1.00  8.87           H  
+HETATM   46  HAB HEM A1154       5.612   2.941   9.780  1.00  7.90           H  
+HETATM   47  HAC HEM A1154      13.075   2.950  10.108  1.00  6.35           H  
+HETATM   48  HAD HEM A1154      11.804  -4.236  16.135  1.00  7.93           H  
+HETATM   49 HADA HEM A1154      13.239  -3.622  15.913  1.00  7.87           H  
+HETATM   50  HBA HEM A1154       6.807  -3.548  17.864  1.00  9.81           H  
+HETATM   51 HBAA HEM A1154       8.345  -3.561  17.460  1.00  9.71           H  
+HETATM   52  HBB HEM A1154       3.646   2.999   8.686  1.00  9.79           H  
+HETATM   53 HBBA HEM A1154       3.587   1.320   8.721  1.00  9.74           H  
+HETATM   54  HBC HEM A1154      14.934   1.746   9.946  1.00  7.57           H  
+HETATM   55 HBCA HEM A1154      14.055   0.330  10.130  1.00  7.96           H  
+HETATM   56  HBD HEM A1154      13.589  -5.086  14.141  1.00  9.12           H  
+HETATM   57 HBDA HEM A1154      12.161  -5.709  14.380  1.00  8.44           H  
+HETATM   58  HHA HEM A1154       9.701  -4.270  15.178  1.00  7.23           H  
+HETATM   59  HHB HEM A1154       4.572  -2.202  12.578  1.00  6.59           H  
+HETATM   60  HHC HEM A1154       7.824   2.183   9.771  1.00  6.10           H  
+HETATM   61  HHD HEM A1154      12.992  -0.083  12.138  1.00  5.96           H  
+HETATM   62  HMA HEM A1154       4.025  -4.206  14.216  1.00  8.51           H  
+HETATM   63 HMAA HEM A1154       3.921  -2.821  15.012  1.00  8.52           H  
+HETATM   64 HMAB HEM A1154       4.367  -4.154  15.779  1.00  8.42           H  
+HETATM   65  HMB HEM A1154       3.095  -0.799  10.569  1.00  6.95           H  
+HETATM   66 HMBA HEM A1154       2.908   0.707  11.018  1.00  7.35           H  
+HETATM   67 HMBB HEM A1154       3.080  -0.425  12.106  1.00  7.12           H  
+HETATM   68  HMC HEM A1154      10.206   3.103   8.370  1.00  6.83           H  
+HETATM   69 HMCA HEM A1154      11.063   3.913   9.427  1.00  6.72           H  
+HETATM   70 HMCB HEM A1154       9.495   3.807   9.597  1.00  7.04           H  
+HETATM   71  HMD HEM A1154      14.473  -1.924  12.694  1.00  7.10           H  
+HETATM   72 HMDA HEM A1154      14.592  -2.847  13.994  1.00  7.20           H  
+HETATM   73 HMDB HEM A1154      14.471  -1.259  14.148  1.00  7.35           H  
+CONECT    1    6   44   45   28
+CONECT    2    7   46   35
+CONECT    3    8   47   36
+CONECT    4    9   48   49   37
+CONECT    5   43   22   38
+CONECT    6    1   11   50   51
+CONECT    7    2   52   53
+CONECT    8    3   54   55
+CONECT    9    4   12   56   57
+CONECT   10   43   23   39
+CONECT   11    6   26   32
+CONECT   12    9   27   33
+CONECT   13   43   25   41
+CONECT   14   22   41   58
+CONECT   15   23   38   59
+CONECT   16   24   39   60
+CONECT   17   25   40   61
+CONECT   18   62   63   64   34
+CONECT   19   65   66   67   29
+CONECT   20   68   69   70   30
+CONECT   21   71   72   73   31
+CONECT   22   14    5   28
+CONECT   23   15   10   29
+CONECT   24   16   30   42
+CONECT   25   17   13   31
+CONECT   26   11
+CONECT   27   12
+CONECT   28   22    1   34
+CONECT   29   23   19   35
+CONECT   30   24   20   36
+CONECT   31   25   21   37
+CONECT   32   11
+CONECT   33   12
+CONECT   34   28   18   38
+CONECT   35   29    2   39
+CONECT   36   30    3   40
+CONECT   37   31    4   41
+CONECT   38   15   34    5
+CONECT   39   16   35   10
+CONECT   40   17   36   42
+CONECT   41   14   37   13
+CONECT   42   24   40   43
+CONECT   43    5   10   13   42
+CONECT   44    1
+CONECT   45    1
+CONECT   46    2
+CONECT   47    3
+CONECT   48    4
+CONECT   49    4
+CONECT   50    6
+CONECT   51    6
+CONECT   52    7
+CONECT   53    7
+CONECT   54    8
+CONECT   55    8
+CONECT   56    9
+CONECT   57    9
+CONECT   58   14
+CONECT   59   15
+CONECT   60   16
+CONECT   61   17
+CONECT   62   18
+CONECT   63   18
+CONECT   64   18
+CONECT   65   19
+CONECT   66   19
+CONECT   67   19
+CONECT   68   20
+CONECT   69   20
+CONECT   70   20
+CONECT   71   21
+CONECT   72   21
+CONECT   73   21
+END

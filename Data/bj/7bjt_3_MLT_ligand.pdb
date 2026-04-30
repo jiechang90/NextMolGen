@@ -1,0 +1,20 @@
+CRYST1  163.390  163.390  166.730  90.00  90.00 120.00 P 65          1
+HETATM    1  C1  MLT B 803      44.812  50.198  36.637  1.00 20.66           C  
+HETATM    2  O1  MLT B 803      46.017  50.061  36.669  1.00 19.83           O  
+HETATM    3  C2  MLT B 803      44.252  51.479  36.055  1.00 21.00           C  
+HETATM    4  O2  MLT B 803      44.061  49.340  37.010  1.00 20.34           O  
+HETATM    5  C3  MLT B 803      43.306  52.218  36.978  1.00 20.16           C  
+HETATM    6  O3  MLT B 803      45.349  52.329  35.816  1.00 22.70           O  
+HETATM    7  C4  MLT B 803      42.908  53.550  36.366  1.00 19.78           C  
+HETATM    8  O4  MLT B 803      42.628  53.566  35.170  1.00 19.65           O  
+HETATM    9  O5  MLT B 803      42.881  54.508  37.066  1.00 18.97           O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5    6
+CONECT    4    1
+CONECT    5    3    7
+CONECT    6    3
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7
+END

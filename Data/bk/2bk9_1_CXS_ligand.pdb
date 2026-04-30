@@ -1,0 +1,81 @@
+CRYST1   41.752   55.835   56.163  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N   CXS A1155      -9.810  13.406   9.808  0.70 25.01           N  
+ANISOU    1  N   CXS A1155     3250   2998   3253     41     24     20       N  
+HETATM    2  C1  CXS A1155      -8.993  15.053  12.096  0.70 29.92           C  
+ANISOU    2  C1  CXS A1155     3839   3843   3684    -50    -59    -69       C  
+HETATM    3  O1  CXS A1155      -7.562  16.292  13.762  0.70 32.28           O  
+ANISOU    3  O1  CXS A1155     4014   4300   3949   -304   -196   -134       O  
+HETATM    4  C2  CXS A1155     -10.375  15.166  11.467  0.70 28.37           C  
+ANISOU    4  C2  CXS A1155     3650   3497   3630    -88    -42      2       C  
+HETATM    5  O2  CXS A1155      -9.917  16.811  13.887  0.70 31.01           O  
+ANISOU    5  O2  CXS A1155     3773   4024   3983   -165   -201   -264       O  
+HETATM    6  C3  CXS A1155     -10.777  13.865  10.792  0.70 26.30           C  
+ANISOU    6  C3  CXS A1155     3414   3235   3343     81     62     -1       C  
+HETATM    7  O3  CXS A1155      -8.895  14.583  14.559  0.70 30.26           O  
+ANISOU    7  O3  CXS A1155     3939   3639   3920      1   -171   -132       O  
+HETATM    8  C4  CXS A1155      -9.296  12.042   9.798  0.70 22.77           C  
+ANISOU    8  C4  CXS A1155     2960   2716   2974     33      2    -80       C  
+HETATM    9  C5  CXS A1155     -10.386  11.000   9.991  0.70 22.33           C  
+ANISOU    9  C5  CXS A1155     2872   2771   2839     68     28     53       C  
+HETATM   10  C6  CXS A1155      -9.740   9.631  10.084  0.70 20.89           C  
+ANISOU   10  C6  CXS A1155     2698   2640   2599     61     -7    -35       C  
+HETATM   11  C7  CXS A1155      -9.034   9.286   8.781  0.70 21.46           C  
+ANISOU   11  C7  CXS A1155     2658   2674   2820     70     27    -87       C  
+HETATM   12  C8  CXS A1155      -8.045  10.361   8.352  0.70 20.65           C  
+ANISOU   12  C8  CXS A1155     2600   2509   2736     19    -67   -122       C  
+HETATM   13  C9  CXS A1155      -8.603  11.784   8.462  0.70 21.48           C  
+ANISOU   13  C9  CXS A1155     2759   2560   2839     -5     29     62       C  
+HETATM   14  S   CXS A1155      -8.934  15.725  13.631  0.70 29.17           S  
+ANISOU   14  S   CXS A1155     3888   3658   3538   -284   -320   -348       S  
+HETATM   15  HN  CXS A1155      -9.484  14.057   9.108  0.70 25.04           H  
+HETATM   16  H4  CXS A1155      -8.558  11.935  10.605  0.70 23.80           H  
+ANISOU   16  H4  CXS A1155     3058   2919   3064     23     -3      4       H  
+HETATM   17  H11 CXS A1155      -8.702  14.002  12.159  0.70 29.94           H  
+HETATM   18  H12 CXS A1155      -8.267  15.558  11.455  0.70 29.86           H  
+HETATM   19  H21 CXS A1155     -10.373  15.971  10.729  0.70 28.48           H  
+HETATM   20  H22 CXS A1155     -11.121  15.410  12.226  0.70 28.66           H  
+HETATM   21  H31 CXS A1155     -11.743  14.003  10.302  0.70 26.06           H  
+HETATM   22  H32 CXS A1155     -10.910  13.116  11.568  0.70 26.00           H  
+HETATM   23  H51 CXS A1155     -11.078  11.026   9.147  0.70 22.38           H  
+HETATM   24  H52 CXS A1155     -10.952  11.182  10.904  0.70 22.33           H  
+HETATM   25  H61 CXS A1155     -10.504   8.880  10.295  0.70 21.53           H  
+HETATM   26  H62 CXS A1155      -9.020   9.619  10.905  0.70 21.40           H  
+HETATM   27  H71 CXS A1155      -9.780   9.151   7.995  0.70 21.47           H  
+HETATM   28  H72 CXS A1155      -8.505   8.338   8.900  0.70 21.32           H  
+HETATM   29  H81 CXS A1155      -7.750  10.177   7.317  0.70 21.20           H  
+HETATM   30  H82 CXS A1155      -7.149  10.276   8.967  0.70 21.05           H  
+HETATM   31  H91 CXS A1155      -9.314  11.953   7.651  0.70 21.81           H  
+HETATM   32  H92 CXS A1155      -7.786  12.499   8.339  0.70 21.64           H  
+CONECT    1    8   15    6
+CONECT    2    4   17   18   14
+CONECT    3   14
+CONECT    4    2    6   19   20
+CONECT    5   14
+CONECT    6    4    1   21   22
+CONECT    7   14
+CONECT    8    1    9   13   16
+CONECT    9    8   10   23   24
+CONECT   10    9   11   25   26
+CONECT   11   10   12   27   28
+CONECT   12   11   13   29   30
+CONECT   13    8   12   31   32
+CONECT   14    2    3    5    7
+CONECT   15    1
+CONECT   16    8
+CONECT   17    2
+CONECT   18    2
+CONECT   19    4
+CONECT   20    4
+CONECT   21    6
+CONECT   22    6
+CONECT   23    9
+CONECT   24    9
+CONECT   25   10
+CONECT   26   10
+CONECT   27   11
+CONECT   28   11
+CONECT   29   12
+CONECT   30   12
+CONECT   31   13
+CONECT   32   13
+END

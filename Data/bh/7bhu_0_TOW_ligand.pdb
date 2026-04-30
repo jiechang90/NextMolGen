@@ -1,0 +1,42 @@
+CRYST1   68.240   94.171  117.306  90.00  90.00  90.00 I 2 2 2       1
+HETATM    1  N   TOW A 401      36.721  40.508  12.756  1.00 11.28           N  
+HETATM    2  C   TOW A 401      35.572  40.194  11.906  1.00 13.87           C  
+HETATM    3  O   TOW A 401      33.818  42.467  15.631  1.00 10.29           O  
+HETATM    4 CL   TOW A 401      40.825  42.281  17.925  1.00 11.20          CL  
+HETATM    5  C1  TOW A 401      38.021  40.387  12.079  1.00 13.75           C  
+HETATM    6  N1  TOW A 401      35.257  41.384  14.269  1.00  9.88           N  
+HETATM    7  O1 ATOW A 401      34.844  43.848  19.406  0.60 13.27           O  
+HETATM    8  O1 BTOW A 401      36.266  43.042  19.502  0.40  9.06           O  
+HETATM    9  C2  TOW A 401      36.498  40.953  14.079  1.00 10.94           C  
+HETATM   10  N2  TOW A 401      36.024  42.637  16.145  1.00  9.14           N  
+HETATM   11  C3  TOW A 401      34.974  42.149  15.356  1.00  9.07           C  
+HETATM   12  C4  TOW A 401      35.680  43.590  17.213  1.00  9.67           C  
+HETATM   13  C5 ATOW A 401      35.398  42.903  18.530  0.60 12.58           C  
+HETATM   14  C5 BTOW A 401      35.268  42.907  18.504  0.40 10.43           C  
+HETATM   15  C6  TOW A 401      37.320  42.103  16.036  1.00  9.21           C  
+HETATM   16  C7  TOW A 401      38.322  42.423  16.950  1.00 10.34           C  
+HETATM   17  C8  TOW A 401      39.572  41.857  16.804  1.00  9.94           C  
+HETATM   18  C9  TOW A 401      39.857  40.973  15.786  1.00 10.46           C  
+HETATM   19  C10 TOW A 401      38.866  40.640  14.882  1.00 11.12           C  
+HETATM   20  C11 TOW A 401      37.595  41.207  14.986  1.00  9.87           C  
+CONECT    1    2    5    9
+CONECT    2    1
+CONECT    3   11
+CONECT    4   17
+CONECT    5    1
+CONECT    6    9   11
+CONECT    7   13
+CONECT    8   14
+CONECT    9    1    6   20
+CONECT   10   12   11   15
+CONECT   11    3    6   10
+CONECT   12   10   13   14
+CONECT   13   12    7
+CONECT   14   12    8
+CONECT   15   10   16   20
+CONECT   16   15   17
+CONECT   17   16    4   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20    9   19   15
+END

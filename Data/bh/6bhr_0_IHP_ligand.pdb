@@ -1,0 +1,74 @@
+CRYST1   70.939   70.939   42.041  90.00  90.00 120.00 P 6           1
+HETATM    1  P1  IHP G 401      -1.779   3.629   9.932  0.16 39.44           P  
+HETATM    2  P2  IHP G 401      -1.214  -0.055  13.400  0.16 39.00           P  
+HETATM    3  P3  IHP G 401      -1.932  -3.598   9.949  0.16 39.13           P  
+HETATM    4  P4  IHP G 401       2.115  -3.697   9.563  0.16 39.20           P  
+HETATM    5  P5  IHP G 401       4.062   0.034   8.300  0.16 39.28           P  
+HETATM    6  P6  IHP G 401       2.242   3.642   9.711  0.16 39.29           P  
+HETATM    7  C1  IHP G 401      -0.579   1.240   9.958  0.16 39.13           C  
+HETATM    8  C2  IHP G 401      -1.031  -0.027  10.687  0.16 39.18           C  
+HETATM    9  C3  IHP G 401      -0.609  -1.265   9.886  0.16 39.02           C  
+HETATM   10  C4  IHP G 401       0.933  -1.285   9.799  0.16 39.10           C  
+HETATM   11  C5  IHP G 401       1.525   0.021   9.232  0.16 39.16           C  
+HETATM   12  C6  IHP G 401       0.964   1.304   9.882  0.16 39.18           C  
+HETATM   13  O11 IHP G 401      -1.052   2.392  10.702  0.16 39.01           O  
+HETATM   14  O12 IHP G 401      -0.406  -0.095  11.986  0.16 38.86           O  
+HETATM   15  O13 IHP G 401      -1.028  -2.428  10.610  0.16 39.28           O  
+HETATM   16  O14 IHP G 401       1.356  -2.376   8.989  0.16 39.22           O  
+HETATM   17  O15 IHP G 401       2.938  -0.049   9.449  0.16 39.21           O  
+HETATM   18  O16 IHP G 401       1.338   2.420   9.084  0.16 39.22           O  
+HETATM   19  O21 IHP G 401      -0.968   4.825  10.461  0.16 39.27           O  
+HETATM   20  O22 IHP G 401      -2.637  -0.493  13.175  0.16 38.73           O  
+HETATM   21  O23 IHP G 401      -2.072  -3.357   8.484  0.16 39.27           O  
+HETATM   22  O24 IHP G 401       2.739  -3.367  10.866  0.16 39.24           O  
+HETATM   23  O25 IHP G 401       3.539  -0.399   6.986  0.16 39.16           O  
+HETATM   24  O26 IHP G 401       1.497   4.200  10.902  0.16 39.23           O  
+HETATM   25  O31 IHP G 401      -1.628   3.475   8.455  0.16 39.27           O1-
+HETATM   26  O32 IHP G 401      -1.066   1.395  13.825  0.16 38.81           O1-
+HETATM   27  O33 IHP G 401      -1.081  -4.851  10.192  0.16 39.24           O1-
+HETATM   28  O34 IHP G 401       1.083  -4.764   9.743  0.16 39.28           O1-
+HETATM   29  O35 IHP G 401       5.252  -0.727   8.856  0.16 39.28           O1-
+HETATM   30  O36 IHP G 401       3.526   2.963  10.149  0.16 39.27           O1-
+HETATM   31  O41 IHP G 401      -3.205   3.680  10.435  0.16 39.25           O  
+HETATM   32  O42 IHP G 401      -0.358  -0.994  14.212  0.16 38.83           O  
+HETATM   33  O43 IHP G 401      -3.150  -3.740  10.784  0.16 39.26           O  
+HETATM   34  O44 IHP G 401       3.036  -4.114   8.451  0.16 39.27           O  
+HETATM   35  O45 IHP G 401       4.375   1.541   8.280  0.16 39.23           O  
+HETATM   36  O46 IHP G 401       2.460   4.572   8.555  0.16 39.27           O  
+CONECT    1   19   25   31   13
+CONECT    2   20   26   32   14
+CONECT    3   21   27   33   15
+CONECT    4   22   28   34   16
+CONECT    5   23   29   35   17
+CONECT    6   24   30   36   18
+CONECT    7    8   12   13
+CONECT    8    7    9   14
+CONECT    9    8   10   15
+CONECT   10    9   11   16
+CONECT   11   10   12   17
+CONECT   12    7   11   18
+CONECT   13    7    1
+CONECT   14    8    2
+CONECT   15    9    3
+CONECT   16   10    4
+CONECT   17   11    5
+CONECT   18   12    6
+CONECT   19    1
+CONECT   20    2
+CONECT   21    3
+CONECT   22    4
+CONECT   23    5
+CONECT   24    6
+CONECT   25    1
+CONECT   26    2
+CONECT   27    3
+CONECT   28    4
+CONECT   29    5
+CONECT   30    6
+CONECT   31    1
+CONECT   32    2
+CONECT   33    3
+CONECT   34    4
+CONECT   35    5
+CONECT   36    6
+END

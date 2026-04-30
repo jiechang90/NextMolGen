@@ -1,0 +1,30 @@
+CRYST1   77.250   97.120  105.500  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N1  SPM C 500      40.203  32.184  32.615  1.00 35.63           N  
+HETATM    2  C2  SPM C 500      39.793  33.344  33.430  1.00 41.64           C  
+HETATM    3  C3  SPM C 500      38.822  34.284  32.669  1.00 41.65           C  
+HETATM    4  C4  SPM C 500      39.171  34.399  31.171  1.00 41.52           C  
+HETATM    5  N5  SPM C 500      38.243  35.346  30.526  1.00 44.01           N  
+HETATM    6  C6  SPM C 500      38.737  35.591  29.161  1.00 44.88           C  
+HETATM    7  C7  SPM C 500      37.674  36.321  28.328  1.00 45.81           C  
+HETATM    8  C8  SPM C 500      38.241  36.625  26.936  1.00 48.42           C  
+HETATM    9  C9  SPM C 500      37.122  37.044  25.972  1.00 50.00           C  
+HETATM   10  N10 SPM C 500      37.507  36.712  24.646  1.00 50.41           N  
+HETATM   11  C11 SPM C 500      36.858  36.553  23.331  1.00 50.30           C  
+HETATM   12  C12 SPM C 500      37.805  35.758  22.502  1.00 48.95           C  
+HETATM   13  C13 SPM C 500      37.094  35.217  21.260  1.00 46.60           C  
+HETATM   14  N14 SPM C 500      37.969  34.245  20.572  1.00 44.92           N  
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13
+END

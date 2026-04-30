@@ -1,0 +1,28 @@
+CRYST1   67.454   94.211  117.297  90.00  90.00  90.00 I 2 2 2       1
+HETATM    1  N   TQE A 401      35.996  42.179  16.730  1.00 12.84           N  
+HETATM    2  C   TQE A 401      40.457  42.331  17.572  1.00 12.52           C  
+HETATM    3  O   TQE A 401      38.106  41.928  17.415  1.00 14.23           O  
+HETATM    4  C1  TQE A 401      39.431  41.322  17.256  1.00 15.72           C  
+HETATM    5  N1  TQE A 401      35.321  41.603  14.569  1.00 12.68           N  
+HETATM    6  O1  TQE A 401      33.838  42.429  16.089  1.00 13.48           O  
+HETATM    7  C2  TQE A 401      37.256  41.789  16.406  1.00 12.88           C  
+HETATM    8  N2  TQE A 401      37.621  41.310  15.229  1.00 12.86           N  
+HETATM    9  C3  TQE A 401      34.995  42.082  15.793  1.00 12.10           C  
+HETATM   10  N3  TQE A 401      36.906  40.843  13.109  1.00 15.29           N  
+HETATM   11  C4  TQE A 401      36.596  41.271  14.350  1.00 12.72           C  
+HETATM   12  C5  TQE A 401      35.903  40.746  12.057  1.00 17.56           C  
+HETATM   13  C6  TQE A 401      38.274  40.450  12.749  1.00 15.26           C  
+CONECT    1    7    9
+CONECT    2    4
+CONECT    3    4    7
+CONECT    4    2    3
+CONECT    5   11    9
+CONECT    6    9
+CONECT    7    1    3    8
+CONECT    8    7   11
+CONECT    9    1    5    6
+CONECT   10   12   13   11
+CONECT   11    5    8   10
+CONECT   12   10
+CONECT   13   10
+END

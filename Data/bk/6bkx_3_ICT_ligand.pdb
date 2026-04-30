@@ -1,0 +1,28 @@
+CRYST1   95.301  274.911  116.897  90.00  90.00  90.00 C 2 2 21      2
+HETATM    1  C1  ICT B 505      21.277  37.086 -70.795  0.90 23.86           C  
+HETATM    2  O1  ICT B 505      21.653  36.493 -71.839  0.90 24.82           O  
+HETATM    3  C2  ICT B 505      19.807  36.953 -70.380  0.90 24.19           C  
+HETATM    4  O2  ICT B 505      21.977  37.846 -70.070  0.90 23.25           O  
+HETATM    5  C3  ICT B 505      19.433  35.454 -70.319  0.90 25.01           C  
+HETATM    6  O3  ICT B 505      18.111  33.216 -70.975  0.90 27.98           O  
+HETATM    7  C4  ICT B 505      17.946  35.358 -69.954  0.90 26.85           C  
+HETATM    8  O4  ICT B 505      16.346  33.651 -69.612  0.90 25.78           O  
+HETATM    9  C5  ICT B 505      17.430  33.937 -70.203  0.90 27.55           C  
+HETATM   10  O5  ICT B 505      21.452  34.492 -69.423  0.90 23.42           O  
+HETATM   11  C6  ICT B 505      20.246  34.816 -69.163  0.90 26.77           C  
+HETATM   12  O6  ICT B 505      19.657  34.656 -68.058  0.90 25.84           O  
+HETATM   13  O7  ICT B 505      19.591  37.676 -69.158  0.90 24.02           O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5   13
+CONECT    4    1
+CONECT    5    3    7   11
+CONECT    6    9
+CONECT    7    5    9
+CONECT    8    9
+CONECT    9    7    6    8
+CONECT   10   11
+CONECT   11    5   10   12
+CONECT   12   11
+CONECT   13    3
+END

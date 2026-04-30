@@ -1,0 +1,14 @@
+CRYST1   62.258   64.951  144.895  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C   ACT A 201       5.880  14.661  40.007  1.00 39.66           C  
+ANISOU    1  C   ACT A 201     3465   5771   5835     67    -25   -543       C  
+HETATM    2  O   ACT A 201       5.934  13.525  39.369  1.00 39.46           O  
+ANISOU    2  O   ACT A 201     3397   5716   5879    169    -12   -563       O  
+HETATM    3  CH3 ACT A 201       6.711  14.859  41.316  1.00 38.91           C  
+ANISOU    3  CH3 ACT A 201     3272   5835   5677    127    -76   -569       C  
+HETATM    4  OXT ACT A 201       5.201  15.664  39.649  1.00 40.07           O  
+ANISOU    4  OXT ACT A 201     3636   5729   5858    -73     -8   -513       O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+END

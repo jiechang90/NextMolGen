@@ -1,0 +1,42 @@
+CRYST1   99.800   99.800   99.800  90.00  90.00  90.00 P 21 3        1
+HETATM    1  N  BDSJ A 309      -4.378  28.638  54.201  0.99 21.19           N  
+HETATM    2  C  BDSJ A 309       0.024  23.583  54.168  0.99 26.24           C  
+HETATM    3  O  BDSJ A 309       1.125  25.463  55.083  0.99 23.38           O  
+HETATM    4  C1 BDSJ A 309       0.101  25.043  54.609  0.99 24.57           C  
+HETATM    5  O1 BDSJ A 309       0.211  27.803  55.368  0.99 18.78           O  
+HETATM    6  C2 BDSJ A 309      -1.115  25.934  54.455  0.99 19.86           C  
+HETATM    7  C3 BDSJ A 309      -2.280  25.495  53.981  0.99 21.66           C  
+HETATM    8  C4 BDSJ A 309      -3.452  26.435  53.879  0.99 20.47           C  
+HETATM    9  C5 BDSJ A 309      -3.312  27.705  54.269  0.99 18.85           C  
+HETATM   10  C6 BDSJ A 309      -1.994  28.193  54.792  0.99 18.50           C  
+HETATM   11  C7 BDSJ A 309      -1.008  27.364  54.883  0.99 18.72           C  
+HETATM   12  H  BDSJ A 309       0.855  23.332  53.735  0.99 31.49           H  
+HETATM   13  H1 BDSJ A 309      -0.711  23.471  53.545  0.99 31.49           H  
+HETATM   14  H2 BDSJ A 309      -0.120  23.017  54.943  0.99 31.49           H  
+HETATM   15  H3 BDSJ A 309      -2.372  24.606  53.722  0.99 25.99           H  
+HETATM   16  H4 BDSJ A 309      -4.268  26.133  53.552  0.99 24.57           H  
+HETATM   17  H5 BDSJ A 309      -5.118  28.419  53.821  0.99 25.43           H  
+HETATM   18  H6 BDSJ A 309      -4.285  29.423  54.541  0.99 25.43           H  
+HETATM   19  H7 BDSJ A 309      -1.895  29.075  55.068  0.99 22.20           H  
+HETATM   20  H8 BDSJ A 309       0.110  28.555  55.751  0.99 22.54           H  
+CONECT    1   17   18    9
+CONECT    2   12   13   14    4
+CONECT    3    4
+CONECT    4    2    3    6
+CONECT    5   20   11
+CONECT    6    4    7   11
+CONECT    7    6   15    8
+CONECT    8    7    9   16
+CONECT    9    8    1   10
+CONECT   10    9   19   11
+CONECT   11    5    6   10
+CONECT   12    2
+CONECT   13    2
+CONECT   14    2
+CONECT   15    7
+CONECT   16    8
+CONECT   17    1
+CONECT   18    1
+CONECT   19   10
+CONECT   20    5
+END

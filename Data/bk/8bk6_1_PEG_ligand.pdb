@@ -1,0 +1,16 @@
+CRYST1   73.557   73.557  103.286  90.00  90.00  90.00 P 43 21 2     1
+HETATM    1  C1  PEG A 302       2.646 -27.187  -3.108  1.00 61.10           C  
+HETATM    2  O1  PEG A 302       2.120 -27.284  -4.425  1.00 64.01           O  
+HETATM    3  C2  PEG A 302       3.901 -28.010  -2.962  1.00 58.93           C  
+HETATM    4  O2  PEG A 302       3.609 -29.399  -2.856  1.00 63.93           O  
+HETATM    5  C3  PEG A 302       2.294 -29.712  -2.405  1.00 57.60           C  
+HETATM    6  C4  PEG A 302       2.305 -31.084  -1.791  1.00 60.45           C  
+HETATM    7  O4  PEG A 302       0.995 -31.614  -1.602  1.00 53.09           O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6
+END

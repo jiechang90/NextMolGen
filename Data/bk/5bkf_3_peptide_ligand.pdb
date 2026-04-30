@@ -1,0 +1,12 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+HETATM    1  N   GLY B 503      87.471 123.630 140.106  1.00 45.22           N  
+HETATM    2  CA  GLY B 503      87.207 122.292 140.670  1.00 45.22           C  
+HETATM    3  C   GLY B 503      85.839 121.771 140.266  1.00 45.22           C  
+HETATM    4  O   GLY B 503      85.798 120.711 139.624  1.00 45.22           O  
+HETATM    5  OXT GLY B 503      84.841 122.415 140.589  1.00 45.22           O  
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4    5
+CONECT    4    3
+CONECT    5    3
+END

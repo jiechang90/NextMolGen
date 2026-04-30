@@ -1,0 +1,54 @@
+CRYST1   67.280   67.280  164.730  90.00  90.00  90.00 P 41          1
+HETATM    1  CA1 GTX C 200      32.783  -7.109 124.393  1.00 14.20           C  
+HETATM    2  CA2 GTX C 200      32.369  -9.291 119.310  1.00 18.30           C  
+HETATM    3  CA3 GTX C 200      28.860 -10.544 119.541  1.00 23.31           C  
+HETATM    4  CB1 GTX C 200      33.919  -7.032 123.389  1.00 15.07           C  
+HETATM    5  CB2 GTX C 200      33.016 -10.170 118.230  1.00 19.07           C  
+HETATM    6  CG1 GTX C 200      34.077  -8.262 122.502  1.00 14.97           C  
+HETATM    7  SG2 GTX C 200      34.550  -9.400 117.629  1.00 20.13           S  
+HETATM    8  CD1 GTX C 200      33.148  -8.252 121.323  1.00 15.61           C  
+HETATM    9  OE1 GTX C 200      32.210  -7.468 121.159  1.00 14.81           O  
+HETATM   10  C1  GTX C 200      32.902  -8.368 125.241  1.00 15.43           C  
+HETATM   11  C1S GTX C 200      34.531  -9.911 115.894  1.00 20.77           C  
+HETATM   12  N1  GTX C 200      32.778  -5.923 125.300  1.00 13.54           N  
+HETATM   13  C2  GTX C 200      31.068  -9.868 119.814  1.00 19.25           C  
+HETATM   14  C2S GTX C 200      35.788  -9.526 115.120  1.00 20.75           C  
+HETATM   15  N2  GTX C 200      33.338  -9.191 120.406  1.00 16.72           N  
+HETATM   16  O2  GTX C 200      30.975 -10.577 120.820  1.00 19.96           O  
+HETATM   17  C3  GTX C 200      27.563  -9.802 119.497  1.00 24.18           C  
+HETATM   18  C3S GTX C 200      36.225 -10.790 114.362  1.00 21.42           C  
+HETATM   19  N3  GTX C 200      29.973  -9.763 119.034  1.00 20.20           N  
+HETATM   20  C4S GTX C 200      37.750 -10.906 114.468  1.00 22.38           C  
+HETATM   21  C5S GTX C 200      38.297  -9.549 114.015  1.00 22.75           C  
+HETATM   22  C6S GTX C 200      39.783  -9.680 113.767  1.00 22.24           C  
+HETATM   23  O11 GTX C 200      33.388  -8.232 126.391  1.00 14.62           O  
+HETATM   24  O12 GTX C 200      32.483  -9.443 124.727  1.00 15.53           O  
+HETATM   25  O31 GTX C 200      27.419  -9.070 118.505  1.00 28.27           O  
+HETATM   26  O32 GTX C 200      26.681  -9.921 120.348  1.00 24.21           O  
+CONECT    1    4   10   12
+CONECT    2    5   13   15
+CONECT    3   17   19
+CONECT    4    1    6
+CONECT    5    2    7
+CONECT    6    4    8
+CONECT    7    5   11
+CONECT    8    6    9   15
+CONECT    9    8
+CONECT   10    1   23   24
+CONECT   11    7   14
+CONECT   12    1
+CONECT   13    2   16   19
+CONECT   14   11   18
+CONECT   15    8    2
+CONECT   16   13
+CONECT   17    3   25   26
+CONECT   18   14   20
+CONECT   19   13    3
+CONECT   20   18   21
+CONECT   21   20   22
+CONECT   22   21
+CONECT   23   10
+CONECT   24   10
+CONECT   25   17
+CONECT   26   17
+END

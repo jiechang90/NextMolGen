@@ -1,0 +1,32 @@
+CRYST1   78.804   78.804   38.002  90.00  90.00  90.00 P 43 21 2     1
+HETATM    1  C1  NDG A 201       5.960  24.196   2.788  0.89 20.42           C  
+HETATM    2  O1  NDG A 201       5.362  25.441   2.507  0.89 20.69           O  
+HETATM    3  C2  NDG A 201       5.823  23.884   4.278  0.89 19.95           C  
+HETATM    4  N2  NDG A 201       4.423  23.985   4.668  0.89 20.69           N  
+HETATM    5  C3  NDG A 201       6.673  24.849   5.104  0.89 21.79           C  
+HETATM    6  O3  NDG A 201       6.632  24.465   6.477  0.89 22.40           O  
+HETATM    7  C4  NDG A 201       8.110  24.887   4.608  0.89 24.42           C  
+HETATM    8  O4  NDG A 201       8.819  25.924   5.282  0.89 25.43           O  
+HETATM    9  C5  NDG A 201       8.135  25.187   3.114  0.89 21.83           C  
+HETATM   10  O5  NDG A 201       7.341  24.215   2.420  0.89 21.49           O  
+HETATM   11  C6  NDG A 201       9.530  25.095   2.535  0.89 24.64           C  
+HETATM   12  O6  NDG A 201       9.543  25.295   1.126  0.89 27.80           O  
+HETATM   13  C7  NDG A 201       3.778  23.090   5.430  0.89 23.51           C  
+HETATM   14  O7  NDG A 201       4.332  22.094   5.886  0.89 23.25           O  
+HETATM   15  C8  NDG A 201       2.329  23.377   5.687  0.89 21.05           C  
+CONECT    1    2    3   10
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3   13
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    1    9
+CONECT   11    9   12
+CONECT   12   11
+CONECT   13    4   14   15
+CONECT   14   13
+CONECT   15   13
+END

@@ -1,0 +1,71 @@
+CRYST1  100.864   88.289  131.207  90.00  92.97  90.00 P 1 21 1      1
+HETATM    1  P   AMP A 601      -2.524   7.666  19.627  1.00 42.53           P  
+ANISOU    1  P   AMP A 601     3231  11197   1732    419    332     59       P  
+HETATM    2  O1P AMP A 601      -2.907   8.138  18.195  1.00 43.46           O  
+ANISOU    2  O1P AMP A 601     3326  11337   1848    414    325      9       O  
+HETATM    3  O2P AMP A 601      -1.138   6.960  19.814  1.00 41.90           O1-
+ANISOU    3  O2P AMP A 601     3162  11096   1661    457    323     80       O1-
+HETATM    4  O3P AMP A 601      -2.794   8.758  20.641  1.00 41.33           O  
+ANISOU    4  O3P AMP A 601     3081  11082   1541    411    336     82       O  
+HETATM    5  C5' AMP A 601      -4.076   5.683  18.774  1.00 42.83           C  
+ANISOU    5  C5' AMP A 601     3278  11153   1842    368    352     20       C  
+HETATM    6  O5' AMP A 601      -3.558   6.433  19.898  1.00 43.08           O  
+ANISOU    6  O5' AMP A 601     3314  11215   1841    387    351     64       O  
+HETATM    7  C4' AMP A 601      -5.216   4.834  19.257  1.00 42.85           C  
+ANISOU    7  C4' AMP A 601     3288  11120   1873    317    370     31       C  
+HETATM    8  O4' AMP A 601      -6.439   5.578  19.072  1.00 43.01           O  
+ANISOU    8  O4' AMP A 601     3268  11195   1880    285    374     15       O  
+HETATM    9  C3' AMP A 601      -5.382   3.530  18.484  1.00 43.14           C  
+ANISOU    9  C3' AMP A 601     3348  11088   1954    293    371     -2       C  
+HETATM   10  O3' AMP A 601      -4.625   2.513  19.098  1.00 42.94           O  
+ANISOU   10  O3' AMP A 601     3371  10990   1955    315    378     32       O  
+HETATM   11  C2' AMP A 601      -6.891   3.303  18.464  1.00 43.82           C  
+ANISOU   11  C2' AMP A 601     3412  11184   2055    222    381    -13       C  
+HETATM   12  O2' AMP A 601      -7.289   2.365  19.419  1.00 43.41           O  
+ANISOU   12  O2' AMP A 601     3388  11077   2028    182    403     30       O  
+HETATM   13  C1' AMP A 601      -7.433   4.722  18.590  1.00 44.71           C  
+ANISOU   13  C1' AMP A 601     3473  11387   2127    231    379    -10       C  
+HETATM   14  N1  AMP A 601     -10.781   4.738  14.773  1.00 57.59           N  
+ANISOU   14  N1  AMP A 601     4959  13160   3762     96    314   -177       N  
+HETATM   15  C2  AMP A 601     -10.841   4.207  16.004  1.00 55.44           C  
+ANISOU   15  C2  AMP A 601     4708  12843   3514     75    345   -133       C  
+HETATM   16  N3  AMP A 601      -9.911   4.221  16.955  1.00 54.06           N  
+ANISOU   16  N3  AMP A 601     4577  12625   3338    116    364    -90       N  
+HETATM   17  C4  AMP A 601      -8.838   4.919  16.546  1.00 51.18           C  
+ANISOU   17  C4  AMP A 601     4229  12269   2949    182    349    -98       C  
+HETATM   18  C5  AMP A 601      -8.623   5.508  15.314  1.00 52.33           C  
+ANISOU   18  C5  AMP A 601     4358  12455   3070    206    323   -140       C  
+HETATM   19  C6  AMP A 601      -9.659   5.398  14.377  1.00 54.73           C  
+ANISOU   19  C6  AMP A 601     4622  12799   3373    163    304   -180       C  
+HETATM   20  N6  AMP A 601      -9.605   5.933  13.157  1.00 56.05           N  
+ANISOU   20  N6  AMP A 601     4772  13014   3510    180    276   -217       N  
+HETATM   21  N7  AMP A 601      -7.374   6.118  15.258  1.00 51.57           N  
+ANISOU   21  N7  AMP A 601     4286  12358   2952    265    319   -130       N  
+HETATM   22  C8  AMP A 601      -6.875   5.917  16.453  1.00 50.62           C  
+ANISOU   22  C8  AMP A 601     4191  12203   2840    278    338    -85       C  
+HETATM   23  N9  AMP A 601      -7.732   5.226  17.279  1.00 48.34           N  
+ANISOU   23  N9  AMP A 601     3902  11889   2577    232    357    -62       N  
+CONECT    1    2    3    4    6
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    7    6
+CONECT    6    1    5
+CONECT    7    5    8    9
+CONECT    8    7   13
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13    8   11   23
+CONECT   14   15   19
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18   23
+CONECT   18   17   19   21
+CONECT   19   18   14   20
+CONECT   20   19
+CONECT   21   18   22
+CONECT   22   21   23
+CONECT   23   13   17   22
+END

@@ -1,0 +1,108 @@
+CRYST1   65.292   83.048  127.632  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  PA  GDP A 203     -19.690  16.259  -4.302  1.00 18.78           P  
+ANISOU    1  PA  GDP A 203     2420   2024   2691   -445    -81    220       P  
+HETATM    2  PB  GDP A 203     -21.850  15.415  -6.099  1.00 18.06           P  
+ANISOU    2  PB  GDP A 203     2222   1887   2755   -477   -138    227       P  
+HETATM    3  C5' GDP A 203     -20.646  16.855  -1.913  1.00 18.63           C  
+ANISOU    3  C5' GDP A 203     2420   2033   2625   -433     38    321       C  
+HETATM    4  O5' GDP A 203     -19.640  16.228  -2.656  1.00 18.53           O  
+ANISOU    4  O5' GDP A 203     2419   2003   2620   -438    -27    274       O  
+HETATM    5  C4' GDP A 203     -20.098  17.135  -0.640  1.00 22.45           C  
+ANISOU    5  C4' GDP A 203     2950   2541   3039   -410     74    337       C  
+HETATM    6  O4' GDP A 203     -19.867  15.881   0.156  1.00 20.07           O  
+ANISOU    6  O4' GDP A 203     2660   2217   2750   -412     68    385       O  
+HETATM    7  C3' GDP A 203     -18.636  17.805  -0.683  1.00 23.99           C  
+ANISOU    7  C3' GDP A 203     3194   2760   3162   -393     48    269       C  
+HETATM    8  O3' GDP A 203     -18.593  18.836   0.415  1.00 27.32           O  
+ANISOU    8  O3' GDP A 203     3652   3217   3511   -365     99    272       O  
+HETATM    9  C2' GDP A 203     -17.832  16.866  -0.502  1.00 24.81           C  
+ANISOU    9  C2' GDP A 203     3313   2849   3265   -394     11    267       C  
+HETATM   10  O2' GDP A 203     -16.634  17.299   0.225  1.00 22.84           O  
+ANISOU   10  O2' GDP A 203     3111   2628   2940   -371      5    234       O  
+HETATM   11  C1' GDP A 203     -18.583  15.793   0.483  1.00 22.26           C  
+ANISOU   11  C1' GDP A 203     2981   2505   2971   -396     39    350       C  
+HETATM   12  N1  GDP A 203     -17.017  11.599   2.905  1.00 23.30           N  
+ANISOU   12  N1  GDP A 203     3180   2556   3117   -366     -7    499       N  
+HETATM   13  O1A GDP A 203     -18.644  15.285  -4.766  1.00 16.20           O1-
+ANISOU   13  O1A GDP A 203     2109   1675   2371   -445   -144    186       O1-
+HETATM   14  O1B GDP A 203     -22.372  14.016  -6.026  1.00 17.91           O1-
+ANISOU   14  O1B GDP A 203     2168   1813   2824   -506   -173    257       O1-
+HETATM   15  C2  GDP A 203     -17.293  12.799   3.385  1.00 25.99           C  
+ANISOU   15  C2  GDP A 203     3534   2947   3396   -348     39    491       C  
+HETATM   16  N2  GDP A 203     -17.172  12.983   4.808  1.00 25.78           N  
+ANISOU   16  N2  GDP A 203     3549   2959   3288   -305     86    534       N  
+HETATM   17  O2A GDP A 203     -19.514  17.649  -4.832  1.00 19.29           O  
+ANISOU   17  O2A GDP A 203     2494   2124   2709   -428    -62    182       O  
+HETATM   18  O2B GDP A 203     -22.962  16.414  -6.280  1.00 21.23           O1-
+ANISOU   18  O2B GDP A 203     2589   2314   3163   -473    -98    244       O1-
+HETATM   19  N3  GDP A 203     -17.688  13.814   2.638  1.00 24.81           N  
+ANISOU   19  N3  GDP A 203     3363   2813   3252   -362     45    446       N  
+HETATM   20  O3A GDP A 203     -21.204  15.724  -4.621  1.00 18.35           O  
+ANISOU   20  O3A GDP A 203     2305   1941   2724   -468    -81    261       O  
+HETATM   21  O3B GDP A 203     -20.771  15.589  -7.151  1.00 16.60           O  
+ANISOU   21  O3B GDP A 203     2063   1714   2531   -457   -188    157       O  
+HETATM   22  C4  GDP A 203     -17.812  13.617   1.308  1.00 22.43           C  
+ANISOU   22  C4  GDP A 203     3024   2480   3018   -394      0    408       C  
+HETATM   23  C5  GDP A 203     -17.529  12.387   0.742  1.00 20.04           C  
+ANISOU   23  C5  GDP A 203     2708   2129   2778   -411    -52    408       C  
+HETATM   24  C6  GDP A 203     -17.114  11.359   1.597  1.00 20.98           C  
+ANISOU   24  C6  GDP A 203     2851   2228   2893   -398    -55    455       C  
+HETATM   25  O6  GDP A 203     -16.833  10.077   1.125  1.00 20.26           O  
+ANISOU   25  O6  GDP A 203     2749   2080   2867   -412   -106    459       O  
+HETATM   26  N7  GDP A 203     -17.735  12.520  -0.592  1.00 20.33           N  
+ANISOU   26  N7  GDP A 203     2711   2148   2863   -433    -91    359       N  
+HETATM   27  C8  GDP A 203     -18.123  13.768  -0.812  1.00 21.82           C  
+ANISOU   27  C8  GDP A 203     2894   2374   3022   -430    -60    336       C  
+HETATM   28  N9  GDP A 203     -18.165  14.446   0.330  1.00 20.88           N  
+ANISOU   28  N9  GDP A 203     2803   2292   2838   -407     -6    364       N  
+HETATM   29 HN21 GDP A 203     -17.953  12.770   5.396  1.00 30.98           H  
+HETATM   30 HN22 GDP A 203     -16.307  13.303   5.201  1.00 30.98           H  
+HETATM   31 HO2' GDP A 203     -15.910  17.341  -0.372  1.00 27.45           H  
+HETATM   32 HO3' GDP A 203     -18.550  19.704   0.045  1.00 32.82           H  
+HETATM   33  H8  GDP A 203     -18.371  14.176  -1.783  1.00 26.22           H  
+HETATM   34  H1' GDP A 203     -18.374  16.097   1.503  1.00 26.75           H  
+HETATM   35  H2' GDP A 203     -17.595  16.458  -1.479  1.00 29.81           H  
+HETATM   36  H3' GDP A 203     -18.399  18.252  -1.642  1.00 28.83           H  
+HETATM   37  H4' GDP A 203     -20.795  17.807  -0.154  1.00 26.98           H  
+HETATM   38  H5' GDP A 203     -21.502  16.197  -1.814  1.00 22.39           H  
+HETATM   39 H5'' GDP A 203     -20.948  17.777  -2.400  1.00 22.39           H  
+CONECT    1    4   13   17   20
+CONECT    2   14   18   20   21
+CONECT    3    5   38   39    4
+CONECT    4    1    3
+CONECT    5    3    6    7   37
+CONECT    6    5   11
+CONECT    7    5    8    9   36
+CONECT    8    7   32
+CONECT    9    7   10   11   35
+CONECT   10    9   31
+CONECT   11    6    9   28   34
+CONECT   12   15   24
+CONECT   13    1
+CONECT   14    2
+CONECT   15   12   16   19
+CONECT   16   15   29   30
+CONECT   17    1
+CONECT   18    2
+CONECT   19   15   22
+CONECT   20    2    1
+CONECT   21    2
+CONECT   22   19   23   28
+CONECT   23   22   24   26
+CONECT   24   23   12   25
+CONECT   25   24
+CONECT   26   23   27
+CONECT   27   26   33   28
+CONECT   28   11   22   27
+CONECT   29   16
+CONECT   30   16
+CONECT   31   10
+CONECT   32    8
+CONECT   33   27
+CONECT   34   11
+CONECT   35    9
+CONECT   36    7
+CONECT   37    5
+CONECT   38    3
+CONECT   39    3
+END

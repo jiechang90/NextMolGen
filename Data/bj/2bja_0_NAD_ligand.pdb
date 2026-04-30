@@ -1,0 +1,71 @@
+CRYST1  102.007  102.007  278.319  90.00  90.00 120.00 H 3           1
+HETATM    1  PA  NAD A1517       9.767  33.544  92.278  1.00 35.83           P  
+HETATM    2  PN ANAD A1517       7.303  34.062  90.862  0.50 47.43           P  
+HETATM    3  PN BNAD A1517       9.862  34.609  89.552  0.50 46.12           P  
+HETATM    4  C1B NAD A1517       9.270  29.091  93.860  1.00 23.12           C  
+HETATM    5  N1A NAD A1517       6.380  29.190  98.134  1.00 26.48           N  
+HETATM    6  O1AANAD A1517      10.512  33.945  91.015  0.50 38.67           O  
+HETATM    7  O1ABNAD A1517      10.307  34.348  93.399  0.50 36.44           O  
+HETATM    8  O1NANAD A1517       7.044  32.841  90.053  0.50 48.39           O  
+HETATM    9  O1NBNAD A1517       9.853  33.687  88.393  0.50 48.80           O  
+HETATM   10  C2A NAD A1517       7.515  28.512  97.818  1.00 25.45           C  
+HETATM   11  C2B NAD A1517       9.219  29.027  92.321  1.00 21.29           C  
+HETATM   12  O2AANAD A1517      10.232  34.276  93.488  0.50 37.04           O  
+HETATM   13  O2ABNAD A1517       8.272  33.726  92.140  0.50 39.14           O  
+HETATM   14  O2B NAD A1517       8.523  27.894  91.862  1.00 19.10           O  
+HETATM   15  O2NANAD A1517       7.961  35.250  90.235  0.50 49.22           O1-
+HETATM   16  O2NBNAD A1517      10.508  35.948  89.452  0.50 47.18           O1-
+HETATM   17  C3B NAD A1517      10.710  29.036  91.951  1.00 22.34           C  
+HETATM   18  N3A NAD A1517       8.206  28.550  96.664  1.00 23.51           N  
+HETATM   19  O3 ANAD A1517       8.185  33.655  92.130  0.50 43.13           O  
+HETATM   20  O3 BNAD A1517      10.437  33.824  90.856  0.50 43.56           O  
+HETATM   21  O3B NAD A1517      11.305  27.761  92.202  1.00 22.89           O  
+HETATM   22  C4A NAD A1517       7.630  29.405  95.761  1.00 24.73           C  
+HETATM   23  C4B NAD A1517      11.295  30.000  93.036  1.00 25.00           C  
+HETATM   24  O4B NAD A1517      10.436  29.820  94.208  1.00 25.54           O  
+HETATM   25  C5A NAD A1517       6.462  30.172  95.938  1.00 24.10           C  
+HETATM   26  C5B NAD A1517      11.369  31.499  92.735  1.00 28.93           C  
+HETATM   27  O5B NAD A1517      10.003  31.988  92.542  1.00 35.90           O  
+HETATM   28  O5DANAD A1517       5.975  34.594  91.580  0.50 48.42           O  
+HETATM   29  O5DBNAD A1517       8.368  34.885  90.039  0.50 49.32           O  
+HETATM   30  C6A NAD A1517       5.814  30.035  97.212  1.00 25.38           C  
+HETATM   31  N6A NAD A1517       4.703  30.679  97.563  1.00 24.66           N  
+HETATM   32  N7A NAD A1517       6.181  30.912  94.807  1.00 25.25           N  
+HETATM   33  C8A NAD A1517       7.157  30.592  93.979  1.00 24.60           C  
+HETATM   34  N9A NAD A1517       8.065  29.682  94.480  1.00 24.29           N  
+CONECT    1    6    7   12   13
+CONECT    1   19   20   27
+CONECT    2    8   15   28   19
+CONECT    3    9   16   29   20
+CONECT    4   34   11   24
+CONECT    5   10   30
+CONECT    6    1
+CONECT    7    1
+CONECT    8    2
+CONECT    9    3
+CONECT   10    5   18
+CONECT   11    4   14   17
+CONECT   12    1
+CONECT   13    1
+CONECT   14   11
+CONECT   15    2
+CONECT   16    3
+CONECT   17   11   21   23
+CONECT   18   10   22
+CONECT   19    1    2
+CONECT   20    1    3
+CONECT   21   17
+CONECT   22   18   25   34
+CONECT   23   17   24   26
+CONECT   24   23    4
+CONECT   25   22   30   32
+CONECT   26   23   27
+CONECT   27    1   26
+CONECT   28    2
+CONECT   29    3
+CONECT   30   25    5   31
+CONECT   31   30
+CONECT   32   25   33
+CONECT   33   32   34
+CONECT   34    4   22   33
+END

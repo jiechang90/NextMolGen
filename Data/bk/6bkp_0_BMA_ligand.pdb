@@ -1,0 +1,24 @@
+CRYST1  100.326  100.326  394.081  90.00  90.00 120.00 H 3 2         1
+HETATM    1  C1  BMA D   3     -18.696  28.002  96.638  1.00 98.43           C  
+HETATM    2  C2  BMA D   3     -17.355  27.595  97.243  1.00 98.98           C  
+HETATM    3  O2  BMA D   3     -16.919  26.363  96.649  1.00 97.98           O  
+HETATM    4  C3  BMA D   3     -16.314  28.704  97.053  1.00 99.00           C  
+HETATM    5  O3  BMA D   3     -15.006  28.232  97.415  1.00 97.65           O  
+HETATM    6  C4  BMA D   3     -16.275  29.239  95.620  1.00 98.55           C  
+HETATM    7  O4  BMA D   3     -15.564  30.483  95.649  1.00 98.85           O  
+HETATM    8  C5  BMA D   3     -17.675  29.451  95.014  1.00 97.41           C  
+HETATM    9  O5  BMA D   3     -18.501  28.303  95.254  1.00 98.47           O  
+HETATM   10  C6  BMA D   3     -17.693  29.763  93.506  1.00 94.17           C  
+HETATM   11  O6  BMA D   3     -16.523  29.318  92.801  1.00 92.02           O  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+END

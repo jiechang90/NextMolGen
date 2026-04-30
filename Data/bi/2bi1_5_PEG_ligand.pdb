@@ -1,0 +1,16 @@
+CRYST1  143.016   83.763   66.700  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  C1  PEG B1366       8.727  32.002  27.363  1.00 34.79           C  
+HETATM    2  O1  PEG B1366       7.835  33.093  27.050  1.00 38.77           O  
+HETATM    3  C2  PEG B1366       9.266  31.289  26.218  1.00 37.27           C  
+HETATM    4  O2  PEG B1366       8.670  29.987  25.994  1.00 37.20           O  
+HETATM    5  C3  PEG B1366       9.504  29.095  25.194  1.00 41.30           C  
+HETATM    6  C4  PEG B1366       8.643  28.111  24.530  1.00 48.99           C  
+HETATM    7  O4  PEG B1366       7.238  28.305  24.871  1.00 56.16           O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6
+END

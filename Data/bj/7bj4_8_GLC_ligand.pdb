@@ -1,0 +1,70 @@
+CRYST1  122.299  142.969  172.870  90.00  98.64  90.00 P 1 21 1      2
+HETATM    1  C1  GLC T   1     -64.957 -30.198  -6.454  0.63 63.15           C  
+HETATM    2  C2  GLC T   1     -63.678 -29.709  -7.124  0.63 49.35           C  
+HETATM    3  O2  GLC T   1     -62.545 -30.100  -6.341  0.63 55.61           O  
+HETATM    4  C3  GLC T   1     -63.690 -28.193  -7.279  0.63 45.79           C  
+HETATM    5  O3  GLC T   1     -62.593 -27.788  -8.105  0.63 45.79           O  
+HETATM    6  C4  GLC T   1     -64.997 -27.718  -7.903  0.63 47.81           C  
+HETATM    7  O4  GLC T   1     -65.071 -26.290  -7.825  0.63 49.22           O  
+HETATM    8  C5  GLC T   1     -66.195 -28.330  -7.187  0.63 59.31           C  
+HETATM    9  O5  GLC T   1     -66.083 -29.752  -7.206  0.63 70.53           O  
+HETATM   10  C6  GLC T   1     -67.502 -27.913  -7.849  0.63 50.22           C  
+HETATM   11  O6  GLC T   1     -68.600 -28.280  -7.006  0.63 45.79           O  
+HETATM   12  C1  FRU T   2     -63.499 -31.158  -4.042  0.63 58.15           C  
+HETATM   13  O1  FRU T   2     -63.221 -31.628  -2.725  0.63 53.86           O  
+HETATM   14  C2  FRU T   2     -64.949 -30.693  -4.134  0.63 61.96           C  
+HETATM   15  O2  FRU T   2     -65.036 -29.672  -5.131  0.63 62.91           O  
+HETATM   16  C3  FRU T   2     -65.446 -30.210  -2.770  0.63 55.31           C  
+HETATM   17  O3  FRU T   2     -65.872 -28.841  -2.776  0.63 53.36           O  
+HETATM   18  C4  FRU T   2     -66.613 -31.105  -2.402  0.63 49.13           C  
+HETATM   19  O4  FRU T   2     -66.336 -31.796  -1.181  0.63 45.79           O  
+HETATM   20  C5  FRU T   2     -66.765 -32.101  -3.541  0.63 56.31           C  
+HETATM   21  O5  FRU T   2     -65.768 -31.802  -4.521  0.63 66.55           O  
+HETATM   22  C6  FRU T   2     -68.149 -32.011  -4.172  0.63 49.56           C  
+HETATM   23  O6  FRU T   2     -68.813 -33.273  -4.045  0.63 45.79           O  
+HETATM   24  C1  FRU T   3     -61.020 -30.674  -2.901  0.63 58.20           C  
+HETATM   25  O1  FRU T   3     -60.872 -30.582  -4.322  0.63 54.58           O  
+HETATM   26  C2  FRU T   3     -61.832 -31.915  -2.546  0.63 49.37           C  
+HETATM   27  C3  FRU T   3     -61.521 -32.364  -1.118  0.63 45.79           C  
+HETATM   28  O3  FRU T   3     -62.631 -32.207  -0.224  0.63 45.79           O  
+HETATM   29  C4  FRU T   3     -61.133 -33.827  -1.211  0.63 49.40           C  
+HETATM   30  O4  FRU T   3     -59.822 -34.022  -0.674  0.63 57.23           O  
+HETATM   31  C5  FRU T   3     -61.148 -34.178  -2.690  0.63 45.79           C  
+HETATM   32  O5  FRU T   3     -61.467 -32.989  -3.418  0.63 45.79           O  
+HETATM   33  C6  FRU T   3     -62.182 -35.256  -2.989  0.63 53.87           C  
+HETATM   34  O6  FRU T   3     -63.491 -34.677  -2.975  0.63 60.34           O  
+CONECT    1    2    9   15
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+CONECT   12   13   14
+CONECT   13   12   26
+CONECT   14   12   15   16   21
+CONECT   15    1   14
+CONECT   16   14   17   18
+CONECT   17   16
+CONECT   18   16   19   20
+CONECT   19   18
+CONECT   20   18   21   22
+CONECT   21   14   20
+CONECT   22   20   23
+CONECT   23   22
+CONECT   24   25   26
+CONECT   25   24
+CONECT   26   13   24   27   32
+CONECT   27   26   28   29
+CONECT   28   27
+CONECT   29   27   30   31
+CONECT   30   29
+CONECT   31   29   32   33
+CONECT   32   26   31
+CONECT   33   31   34
+CONECT   34   33
+END

@@ -1,0 +1,30 @@
+CRYST1   85.850   97.804   69.881  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1 CL1  FTV A 503      31.572  35.780  35.925  1.00 31.37          CL  
+HETATM    2 CL2  FTV A 503      32.612  37.615  30.989  1.00 30.13          CL  
+HETATM    3  C1  FTV A 503      32.803  31.972  34.744  1.00 22.61           C  
+HETATM    4  O1  FTV A 503      32.925  33.338  35.152  1.00 21.66           O  
+HETATM    5  C2  FTV A 503      32.874  34.325  34.109  1.00 18.27           C  
+HETATM    6  O2  FTV A 503      35.129  31.910  34.175  1.00 18.17           O  
+HETATM    7  C3  FTV A 503      31.856  31.274  35.751  1.00 20.61           C  
+HETATM    8  O3  FTV A 503      34.414  30.320  35.489  1.00 18.14           O1-
+HETATM    9  C4  FTV A 503      32.254  35.535  34.368  1.00 22.66           C  
+HETATM   10  C5  FTV A 503      33.432  34.137  32.848  1.00 18.75           C  
+HETATM   11  C6  FTV A 503      34.199  31.359  34.804  1.00 23.69           C  
+HETATM   12  C7  FTV A 503      32.175  36.548  33.441  1.00 22.24           C  
+HETATM   13  C8  FTV A 503      33.355  35.161  31.897  1.00 19.59           C  
+HETATM   14  C9  FTV A 503      32.714  36.353  32.188  1.00 22.04           C  
+CONECT    1    9
+CONECT    2   14
+CONECT    3    7   11    4
+CONECT    4    3    5
+CONECT    5    4    9   10
+CONECT    6   11
+CONECT    7    3
+CONECT    8   11
+CONECT    9    1    5   12
+CONECT   10    5   13
+CONECT   11    3    6    8
+CONECT   12    9   14
+CONECT   13   10   14
+CONECT   14   12    2   13
+END

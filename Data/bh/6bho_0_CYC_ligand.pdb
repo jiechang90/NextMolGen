@@ -1,0 +1,162 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+HETATM    1  CAA CYC A 800      29.983 -12.976   7.476  1.00  0.00           C  
+HETATM    2  CAB CYC A 800      34.575  -7.911  11.510  1.00  0.00           C  
+HETATM    3  CAC CYC A 800      35.499 -19.214  13.211  1.00  0.00           C  
+HETATM    4  CAD CYC A 800      28.477 -17.663  10.155  1.00  0.00           C  
+HETATM    5  NA  CYC A 800      32.876 -14.327   9.399  1.00  0.00           N  
+HETATM    6  CBA CYC A 800      28.824 -12.486   8.355  1.00  0.00           C  
+HETATM    7  CBB CYC A 800      34.020  -8.213  12.909  1.00  0.00           C  
+HETATM    8  CBC CYC A 800      35.738 -17.763  12.748  1.00  0.00           C  
+HETATM    9  CBD CYC A 800      27.702 -18.421  11.267  1.00  0.00           C  
+HETATM   10  NB  CYC A 800      36.262 -10.739   9.902  1.00  0.00           N  
+HETATM   11  OB  CYC A 800      37.288  -8.803  10.739  1.00  0.00           O  
+HETATM   12  CGA CYC A 800      28.061 -13.696   8.845  1.00  0.00           C  
+HETATM   13  CGD CYC A 800      28.265 -18.048  12.637  1.00  0.00           C  
+HETATM   14  ND  CYC A 800      32.214 -17.389  10.231  1.00  0.00           N  
+HETATM   15  CHA CYC A 800      30.626 -15.647   9.216  1.00  0.00           C  
+HETATM   16  CHB CYC A 800      34.645 -12.539   9.205  1.00  0.00           C  
+HETATM   17  CHD CYC A 800      33.042 -19.494  11.372  1.00  0.00           C  
+HETATM   18  CMA CYC A 800      32.365 -11.305   7.494  1.00  0.00           C  
+HETATM   19  CMB CYC A 800      32.641 -10.414  10.566  1.00  0.00           C  
+HETATM   20  CMC CYC A 800      37.319 -21.461  10.897  1.00  0.00           C  
+HETATM   21  CMD CYC A 800      30.096 -20.369  10.780  1.00  0.00           C  
+HETATM   22  C1A CYC A 800      31.438 -14.561   8.950  1.00  0.00           C  
+HETATM   23  C1B CYC A 800      35.016 -11.320   9.770  1.00  0.00           C  
+HETATM   24  C1C CYC A 800      36.268 -19.501   9.766  1.00  0.00           C  
+HETATM   25  C1D CYC A 800      32.045 -18.657  10.732  1.00  0.00           C  
+HETATM   26  O1A CYC A 800      27.898 -13.833  10.080  1.00  0.00           O  
+HETATM   27  O1D CYC A 800      28.434 -18.967  13.481  1.00  0.00           O  
+HETATM   28  C2A CYC A 800      31.244 -13.340   8.216  1.00  0.00           C  
+HETATM   29  C2B CYC A 800      34.127 -10.256  10.432  1.00  0.00           C  
+HETATM   30  C2C CYC A 800      36.767 -20.039  11.106  1.00  0.00           C  
+HETATM   31  C2D CYC A 800      30.663 -19.020  10.560  1.00  0.00           C  
+HETATM   32  O2A CYC A 800      27.636 -14.514   7.979  1.00  0.00           O  
+HETATM   33  O2D CYC A 800      28.519 -16.847  12.868  1.00  0.00           O  
+HETATM   34  C3A CYC A 800      32.296 -12.597   8.242  1.00  0.00           C  
+HETATM   35  C3B CYC A 800      34.898  -9.199  10.847  1.00  0.00           C  
+HETATM   36  C3C CYC A 800      35.451 -20.120  11.993  1.00  0.00           C  
+HETATM   37  C3D CYC A 800      29.977 -17.874  10.161  1.00  0.00           C  
+HETATM   38  C4A CYC A 800      33.333 -13.047   8.938  1.00  0.00           C  
+HETATM   39  C4B CYC A 800      36.292  -9.493  10.518  1.00  0.00           C  
+HETATM   40  C4C CYC A 800      34.378 -19.584  11.046  1.00  0.00           C  
+HETATM   41  C4D CYC A 800      30.990 -16.852   9.832  1.00  0.00           C  
+HETATM   42  NC  CYC A 800      34.920 -19.251   9.890  1.00  0.00           N  
+HETATM   43  OC  CYC A 800      36.911 -19.345   8.725  1.00  0.00           O  
+HETATM   44 HAA1 CYC A 800      29.649 -13.845   6.898  1.00  0.00           H  
+HETATM   45 HAA2 CYC A 800      30.222 -12.177   6.748  1.00  0.00           H  
+HETATM   46 HAB1 CYC A 800      33.825  -7.378  10.887  1.00  0.00           H  
+HETATM   47 HAB2 CYC A 800      35.505  -7.303  11.577  1.00  0.00           H  
+HETATM   48 HAC1 CYC A 800      34.486 -19.237  13.660  1.00  0.00           H  
+HETATM   49 HAD1 CYC A 800      28.078 -17.975   9.174  1.00  0.00           H  
+HETATM   50 HAD2 CYC A 800      28.281 -16.573  10.273  1.00  0.00           H  
+HETATM   51  HB  CYC A 800      37.102 -11.192   9.603  1.00  0.00           H  
+HETATM   52 HBA1 CYC A 800      28.140 -11.857   7.753  1.00  0.00           H  
+HETATM   53 HBA2 CYC A 800      29.205 -11.889   9.213  1.00  0.00           H  
+HETATM   54 HBB1 CYC A 800      34.751  -8.811  13.496  1.00  0.00           H  
+HETATM   55 HBB2 CYC A 800      33.819  -7.269  13.453  1.00  0.00           H  
+HETATM   56 HBB3 CYC A 800      33.075  -8.784  12.841  1.00  0.00           H  
+HETATM   57 HBC1 CYC A 800      34.936 -17.437  12.057  1.00  0.00           H  
+HETATM   58 HBC2 CYC A 800      35.736 -17.086  13.613  1.00  0.00           H  
+HETATM   59 HBC3 CYC A 800      36.714 -17.659  12.233  1.00  0.00           H  
+HETATM   60 HBD1 CYC A 800      27.771 -19.515  11.119  1.00  0.00           H  
+HETATM   61 HBD2 CYC A 800      26.633 -18.128  11.231  1.00  0.00           H  
+HETATM   62  HD  CYC A 800      33.108 -16.915  10.150  1.00  0.00           H  
+HETATM   63  HHA CYC A 800      29.594 -15.555   8.907  1.00  0.00           H  
+HETATM   64  HHB CYC A 800      35.454 -13.213   8.950  1.00  0.00           H  
+HETATM   65  HHD CYC A 800      32.704 -20.091  12.221  1.00  0.00           H  
+HETATM   66 HMA1 CYC A 800      31.514 -10.652   7.780  1.00  0.00           H  
+HETATM   67 HMA2 CYC A 800      33.314 -10.777   7.726  1.00  0.00           H  
+HETATM   68 HMA3 CYC A 800      32.324 -11.494   6.400  1.00  0.00           H  
+HETATM   69 HMB1 CYC A 800      32.313  -9.988  11.530  1.00  0.00           H  
+HETATM   70 HMB2 CYC A 800      32.380 -11.488  10.530  1.00  0.00           H  
+HETATM   71 HMB3 CYC A 800      32.144  -9.877   9.735  1.00  0.00           H  
+HETATM   72 HMC1 CYC A 800      37.660 -21.888  11.864  1.00  0.00           H  
+HETATM   73 HMC2 CYC A 800      38.177 -21.440  10.197  1.00  0.00           H  
+HETATM   74 HMC3 CYC A 800      36.535 -22.124  10.471  1.00  0.00           H  
+HETATM   75 HMD1 CYC A 800      30.887 -21.138  10.649  1.00  0.00           H  
+HETATM   76 HMD2 CYC A 800      29.285 -20.566  10.049  1.00  0.00           H  
+HETATM   77 HMD3 CYC A 800      29.684 -20.450  11.809  1.00  0.00           H  
+HETATM   78  HC  CYC A 800      34.409 -18.842   9.129  1.00  0.00           H  
+HETATM   79  H2C CYC A 800      37.526 -19.344  11.556  1.00  0.00           H  
+HETATM   80  H3C CYC A 800      35.208 -21.159  12.300  1.00  0.00           H  
+CONECT    1    6   44   45   28
+CONECT    2    7   46   47   35
+CONECT    3    8   48   36
+CONECT    4    9   49   50   37
+CONECT    5   22   38
+CONECT    6    1   12   52   53
+CONECT    7    2   54   55   56
+CONECT    8    3   57   58   59
+CONECT    9    4   13   60   61
+CONECT   10   23   39   51
+CONECT   11   39
+CONECT   12    6   26   32
+CONECT   13    9   27   33
+CONECT   14   25   41   62
+CONECT   15   22   41   63
+CONECT   16   23   64   38
+CONECT   17   25   65   40
+CONECT   18   66   67   68   34
+CONECT   19   69   70   71   29
+CONECT   20   72   73   74   30
+CONECT   21   75   76   77   31
+CONECT   22    5   15   28
+CONECT   23   10   16   29
+CONECT   24   30   43   42
+CONECT   25   14   17   31
+CONECT   26   12
+CONECT   27   13
+CONECT   28   22    1   34
+CONECT   29   23   19   35
+CONECT   30   24   20   36   79
+CONECT   31   25   21   37
+CONECT   32   12
+CONECT   33   13
+CONECT   34   28   18   38
+CONECT   35   29    2   39
+CONECT   36   30    3   40   80
+CONECT   37   31    4   41
+CONECT   38    5   34   16
+CONECT   39   10   35   11
+CONECT   40   36   17   42
+CONECT   41   14   15   37
+CONECT   42   24   40   78
+CONECT   43   24
+CONECT   44    1
+CONECT   45    1
+CONECT   46    2
+CONECT   47    2
+CONECT   48    3
+CONECT   49    4
+CONECT   50    4
+CONECT   51   10
+CONECT   52    6
+CONECT   53    6
+CONECT   54    7
+CONECT   55    7
+CONECT   56    7
+CONECT   57    8
+CONECT   58    8
+CONECT   59    8
+CONECT   60    9
+CONECT   61    9
+CONECT   62   14
+CONECT   63   15
+CONECT   64   16
+CONECT   65   17
+CONECT   66   18
+CONECT   67   18
+CONECT   68   18
+CONECT   69   19
+CONECT   70   19
+CONECT   71   19
+CONECT   72   20
+CONECT   73   20
+CONECT   74   20
+CONECT   75   21
+CONECT   76   21
+CONECT   77   21
+CONECT   78   42
+CONECT   79   30
+CONECT   80   36
+END

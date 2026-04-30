@@ -1,0 +1,47 @@
+CRYST1  143.801   84.297   67.264  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  P   PLP A1361      47.888  25.335   8.903  1.00  9.63           P  
+ANISOU    1  P   PLP A1361     1027   1596   1037     58    -19   -183       P  
+HETATM    2  O1P PLP A1361      47.510  26.224   7.783  1.00  9.54           O  
+ANISOU    2  O1P PLP A1361     1051   1547   1026    -29    -22   -177       O  
+HETATM    3  O2P PLP A1361      48.160  26.090  10.182  1.00  9.74           O1-
+ANISOU    3  O2P PLP A1361      967   1561   1173    143   -165   -177       O1-
+HETATM    4  O3P PLP A1361      47.027  24.139   9.111  1.00 10.83           O  
+ANISOU    4  O3P PLP A1361     1265   1804   1047   -288    115   -155       O  
+HETATM    5  O4P PLP A1361      49.320  24.678   8.466  1.00 10.41           O  
+ANISOU    5  O4P PLP A1361     1033   1708   1213     69    122   -113       O  
+HETATM    6  N1  PLP A1361      53.725  23.697   8.488  1.00  9.50           N  
+ANISOU    6  N1  PLP A1361      899   1654   1059     49    244   -288       N  
+HETATM    7  C2  PLP A1361      53.959  23.220   7.240  1.00  8.83           C  
+ANISOU    7  C2  PLP A1361      908   1380   1066     48     19   -177       C  
+HETATM    8  C2A PLP A1361      55.237  22.424   6.986  1.00 10.03           C  
+ANISOU    8  C2A PLP A1361      950   1766   1096    171     94   -440       C  
+HETATM    9  C3  PLP A1361      53.007  23.417   6.261  1.00 10.46           C  
+ANISOU    9  C3  PLP A1361      840   2098   1037   -107     47   -183       C  
+HETATM   10  O3  PLP A1361      53.205  22.927   5.027  1.00 12.09           O  
+ANISOU   10  O3  PLP A1361     1251   2310   1034   -228    141   -209       O  
+HETATM   11  C4  PLP A1361      51.833  24.127   6.545  1.00 11.51           C  
+ANISOU   11  C4  PLP A1361      796   2436   1140     61    160    120       C  
+HETATM   12  C4A PLP A1361      50.801  24.512   5.492  1.00 19.80           C  
+ANISOU   12  C4A PLP A1361     1082   5120   1322    483   -184    116       C  
+HETATM   13  C5  PLP A1361      51.654  24.662   7.815  1.00 10.27           C  
+ANISOU   13  C5  PLP A1361      922   1747   1234    -42    176    -10       C  
+HETATM   14  C5A PLP A1361      50.459  25.542   8.211  1.00 11.48           C  
+ANISOU   14  C5A PLP A1361      988   1530   1842     78     94    -82       C  
+HETATM   15  C6  PLP A1361      52.627  24.436   8.778  1.00  9.50           C  
+ANISOU   15  C6  PLP A1361      779   1599   1232    -41    208   -142       C  
+CONECT    1    2    3    4    5
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1   14
+CONECT    6    7   15
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13    5
+CONECT   15    6   13
+END

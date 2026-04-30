@@ -1,0 +1,98 @@
+CRYST1   77.250   97.120  105.500  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  CAP COA A 400       2.576  52.696  43.173  1.00 36.95           C  
+HETATM    2  OAP COA A 400       2.816  53.931  43.919  1.00 39.19           O  
+HETATM    3  CBP COA A 400       3.735  52.483  41.992  1.00 35.76           C  
+HETATM    4  CDP COA A 400       3.744  53.772  41.079  1.00 34.91           C  
+HETATM    5  CEP COA A 400       3.541  51.216  41.155  1.00 35.46           C  
+HETATM    6  P1A COA A 400       8.290  51.572  45.840  1.00 40.61           P  
+HETATM    7  P2A COA A 400       5.569  51.095  45.016  1.00 34.77           P  
+HETATM    8  P3B COA A 400      12.342  56.539  45.205  1.00 56.08           P  
+HETATM    9  S1P COA A 400       0.861  53.516  36.768  1.00 71.77           S  
+HETATM   10  C2P COA A 400      -0.718  54.241  37.414  1.00 68.99           C  
+HETATM   11  C3P COA A 400      -1.139  53.668  38.741  1.00 66.51           C  
+HETATM   12  N4P COA A 400      -1.158  54.809  39.768  1.00 63.89           N  
+HETATM   13  C5P COA A 400      -2.073  54.952  40.728  1.00 61.59           C  
+HETATM   14  O5P COA A 400      -3.073  55.813  40.661  1.00 62.30           O  
+HETATM   15  C6P COA A 400      -1.775  54.121  41.982  1.00 56.63           C  
+HETATM   16  C7P COA A 400      -0.522  54.615  42.726  1.00 50.63           C  
+HETATM   17  N8P COA A 400       0.662  53.899  42.232  1.00 44.74           N  
+HETATM   18  C9P COA A 400       1.088  52.744  42.676  1.00 40.05           C  
+HETATM   19  O9P COA A 400       0.501  51.599  42.295  1.00 39.24           O  
+HETATM   20  C1B COA A 400       9.948  54.524  49.130  1.00 60.73           C  
+HETATM   21  N1A COA A 400      13.419  52.172  52.268  1.00 67.48           N  
+HETATM   22  O1A COA A 400       7.827  51.317  47.216  1.00 41.57           O1-
+HETATM   23  C2A COA A 400      12.765  53.495  52.340  1.00 66.85           C  
+HETATM   24  C2B COA A 400      10.826  55.594  48.603  1.00 60.45           C  
+HETATM   25  O2A COA A 400       9.616  50.982  45.523  1.00 40.50           O  
+HETATM   26  O2B COA A 400      10.500  56.916  48.943  1.00 63.23           O  
+HETATM   27  C3B COA A 400      10.914  55.367  47.133  1.00 57.72           C  
+HETATM   28  N3A COA A 400      11.846  53.947  51.381  1.00 65.60           N  
+HETATM   29  O3A COA A 400       7.160  51.102  44.998  1.00 38.40           O  
+HETATM   30  O3B COA A 400      10.937  56.495  46.072  1.00 56.29           O  
+HETATM   31  C4A COA A 400      11.585  53.065  50.346  1.00 64.70           C  
+HETATM   32  C4B COA A 400       9.518  54.643  46.742  1.00 55.33           C  
+HETATM   33  O4A COA A 400       5.063  49.943  45.736  1.00 36.39           O1-
+HETATM   34  O4B COA A 400       8.984  54.167  48.109  1.00 58.32           O  
+HETATM   35  C5A COA A 400      12.156  51.714  50.137  1.00 65.80           C  
+HETATM   36  C5B COA A 400       9.622  53.812  45.527  1.00 50.69           C  
+HETATM   37  O5A COA A 400       5.091  52.357  45.649  1.00 36.62           O  
+HETATM   38  O5B COA A 400       8.279  53.195  45.543  1.00 43.68           O  
+HETATM   39  C6A COA A 400      13.142  51.264  51.190  1.00 66.34           C  
+HETATM   40  N6A COA A 400      13.715  50.097  51.119  1.00 66.20           N  
+HETATM   41  O6A COA A 400       5.220  51.125  43.438  1.00 37.42           O  
+HETATM   42  N7A COA A 400      11.690  51.120  49.032  1.00 65.48           N  
+HETATM   43  O7A COA A 400      12.176  57.382  43.880  1.00 54.05           O  
+HETATM   44  C8A COA A 400      10.845  52.002  48.502  1.00 64.16           C  
+HETATM   45  O8A COA A 400      12.709  55.054  44.858  1.00 55.17           O1-
+HETATM   46  N9A COA A 400      10.720  53.224  49.238  1.00 63.37           N  
+HETATM   47  O9A COA A 400      13.426  57.182  46.191  1.00 56.83           O  
+HETATM   48  CCP COA A 400       5.176  52.288  42.643  1.00 35.88           C  
+CONECT    1    2   18    3
+CONECT    2    1
+CONECT    3    1    4    5   48
+CONECT    4    3
+CONECT    5    3
+CONECT    6   22   25   29   38
+CONECT    7   33   37   41   29
+CONECT    8   43   45   47   30
+CONECT    9   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14   15
+CONECT   14   13
+CONECT   15   13   16
+CONECT   16   15   17
+CONECT   17   16   18
+CONECT   18    1   17   19
+CONECT   19   18
+CONECT   20   24   34   46
+CONECT   21   23   39
+CONECT   22    6
+CONECT   23   21   28
+CONECT   24   20   26   27
+CONECT   25    6
+CONECT   26   24
+CONECT   27   24   30   32
+CONECT   28   23   31
+CONECT   29    6    7
+CONECT   30   27    8
+CONECT   31   28   35   46
+CONECT   32   27   34   36
+CONECT   33    7
+CONECT   34   20   32
+CONECT   35   31   39   42
+CONECT   36   32   38
+CONECT   37    7
+CONECT   38   36    6
+CONECT   39   21   35   40
+CONECT   40   39
+CONECT   41    7   48
+CONECT   42   35   44
+CONECT   43    8
+CONECT   44   42   46
+CONECT   45    8
+CONECT   46   31   44   20
+CONECT   47    8
+CONECT   48    3   41
+END

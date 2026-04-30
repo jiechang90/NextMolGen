@@ -1,0 +1,38 @@
+CRYST1  114.885  144.299   76.517  90.00 116.26  90.00 C 1 2 1       2
+HETATM    1  CAB TZQ B 201      31.093  19.048  13.460  1.00 33.26           C  
+HETATM    2  CAD TZQ B 201      30.978  20.379  13.495  1.00 32.55           C  
+HETATM    3  CAE TZQ B 201      31.269  21.205  14.522  1.00 32.75           C  
+HETATM    4  CAF TZQ B 201      30.939  22.424  14.101  1.00 30.32           C  
+HETATM    5  CAG TZQ B 201      30.486  22.238  12.866  1.00 32.44           C  
+HETATM    6  CAI TZQ B 201      30.082  23.327  11.950  1.00 34.82           C  
+HETATM    7  CAK TZQ B 201      31.366  24.682  10.480  1.00 52.06           C  
+HETATM    8  CAL TZQ B 201      32.572  25.369  10.265  1.00 52.34           C  
+HETATM    9  CAM TZQ B 201      32.615  26.467   9.420  1.00 57.10           C  
+HETATM   10  CAN TZQ B 201      31.455  26.875   8.776  1.00 60.43           C  
+HETATM   11  CAO TZQ B 201      30.265  26.190   8.982  1.00 62.83           C  
+HETATM   12  CAP TZQ B 201      30.207  25.103   9.824  1.00 58.73           C  
+HETATM   13  OAA TZQ B 201      30.857  18.451  12.387  1.00 31.66           O  
+HETATM   14  OAC TZQ B 201      31.321  18.394  14.502  1.00 33.05           O  
+HETATM   15  OAH TZQ B 201      30.513  21.050  12.472  1.00 28.55           O  
+HETATM   16  OAJ TZQ B 201      31.329  23.587  11.307  1.00 39.27           O  
+HETATM   17 CLAQ TZQ B 201      28.798  26.655   8.237  1.00 93.96          CL  
+HETATM   18  FAR TZQ B 201      31.480  27.938   7.948  1.00 57.47           F  
+CONECT    1    2   14   13
+CONECT    2    1    3   15
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6   15
+CONECT    6    5   16
+CONECT    7    8   12   16
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   18   11
+CONECT   11   10   17   12
+CONECT   12    7   11
+CONECT   13    1
+CONECT   14    1
+CONECT   15    2    5
+CONECT   16    6    7
+CONECT   17   11
+CONECT   18   10
+END

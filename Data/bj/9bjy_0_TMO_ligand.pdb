@@ -1,0 +1,30 @@
+CRYST1   75.280   75.280  279.505  90.00  90.00 120.00 H 3 2         3
+HETATM    1  CAA TMO A 202      50.342 -21.732 130.751  1.00 15.77           C  
+HETATM    2  CAB TMO A 202      49.745 -19.419 130.534  1.00 16.29           C  
+HETATM    3  CAD TMO A 202      49.859 -20.502 132.669  1.00 16.75           C  
+HETATM    4  NAC TMO A 202      49.516 -20.657 131.259  1.00 13.48           N  
+HETATM    5  OAE TMO A 202      48.152 -20.979 131.124  1.00 12.62           O  
+HETATM    6  HAA TMO A 202      50.221 -22.521 131.302  1.00 18.94           H  
+HETATM    7 HAAA TMO A 202      51.274 -21.462 130.774  1.00 18.94           H  
+HETATM    8 HAAB TMO A 202      50.086 -21.933 129.837  1.00 18.94           H  
+HETATM    9  HAB TMO A 202      50.660 -19.128 130.672  1.00 19.56           H  
+HETATM   10 HABA TMO A 202      49.591 -19.565 129.588  1.00 19.56           H  
+HETATM   11 HABB TMO A 202      49.137 -18.737 130.859  1.00 19.56           H  
+HETATM   12  HAD TMO A 202      49.333 -19.783 133.052  1.00 20.12           H  
+HETATM   13 HADA TMO A 202      49.670 -21.329 133.140  1.00 20.12           H  
+HETATM   14 HADB TMO A 202      50.802 -20.291 132.751  1.00 20.12           H  
+CONECT    1    4    6    7    8
+CONECT    2    9   10   11    4
+CONECT    3   12   13   14    4
+CONECT    4    1    2    3    5
+CONECT    5    4
+CONECT    6    1
+CONECT    7    1
+CONECT    8    1
+CONECT    9    2
+CONECT   10    2
+CONECT   11    2
+CONECT   12    3
+CONECT   13    3
+CONECT   14    3
+END

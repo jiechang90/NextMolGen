@@ -1,0 +1,14 @@
+CRYST1   53.940   53.940   72.750  90.00  90.00  90.00 I 4 2 2       1
+HETATM    1  C1  GOL A  55      31.483   8.647  18.697  1.00 51.58           C  
+HETATM    2  O1  GOL A  55      32.484   8.944  17.727  1.00 51.32           O  
+HETATM    3  C2  GOL A  55      30.180   8.068  18.124  1.00 51.51           C  
+HETATM    4  O2  GOL A  55      30.284   7.587  16.778  1.00 51.62           O  
+HETATM    5  C3  GOL A  55      29.583   6.928  18.992  1.00 51.51           C  
+HETATM    6  O3  GOL A  55      28.687   6.122  18.216  1.00 51.30           O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5
+END

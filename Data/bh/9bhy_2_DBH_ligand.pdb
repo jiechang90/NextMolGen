@@ -1,0 +1,34 @@
+CRYST1   56.410   74.478   75.493  85.04  69.89  70.29 P 1           1
+HETATM    1  C3  DBH B 601      -0.698  46.271  55.184  0.99 23.51           C  
+HETATM    2  O3  DBH B 601      -2.094  46.410  55.216  0.99 21.44           O  
+HETATM    3  C6  DBH B 601       0.096  47.022  56.025  0.99 22.32           C  
+HETATM    4  O6  DBH B 601      -0.500  47.930  56.900  0.99 23.00           O  
+HETATM    5  C9  DBH B 601       1.475  46.882  55.995  0.99 23.80           C  
+HETATM    6  O9  DBH B 601      -2.195  44.759  53.318  0.99 27.97           O  
+HETATM    7  C12 DBH B 601       2.072  45.989  55.124  0.99 24.73           C  
+HETATM    8  C15 DBH B 601       1.283  45.231  54.280  0.99 25.76           C  
+HETATM    9  O17 DBH B 601      -0.423  43.564  52.786  0.99 31.62           O  
+HETATM   10  C18 DBH B 601      -0.096  45.379  54.317  0.99 25.83           C  
+HETATM   11  C21 DBH B 601      -0.960  44.524  53.407  0.99 27.97           C  
+HETATM   12 HC12 DBH B 601       3.150  45.885  55.104  0.99 29.67           H  
+HETATM   13 HC15 DBH B 601       1.738  44.527  53.595  0.99 30.91           H  
+HETATM   14  HC9 DBH B 601       2.090  47.477  56.659  0.99 28.57           H  
+HETATM   15  HO3 DBH B 601      -2.446  45.895  55.924  0.99 25.73           H  
+HETATM   16  HO6 DBH B 601      -0.621  48.755  56.456  0.99 27.60           H  
+CONECT    1    2    3   10
+CONECT    2    1   15
+CONECT    3    1    4    5
+CONECT    4    3   16
+CONECT    5    3   14    7
+CONECT    6   11
+CONECT    7    5   12    8
+CONECT    8    7   13   10
+CONECT    9   11
+CONECT   10    1    8   11
+CONECT   11    9    6   10
+CONECT   12    7
+CONECT   13    8
+CONECT   14    5
+CONECT   15    2
+CONECT   16    4
+END

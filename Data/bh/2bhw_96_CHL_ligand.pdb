@@ -1,0 +1,92 @@
+CRYST1  211.400  128.000   62.000  90.00 101.80  90.00 C 1 2 1       1
+HETATM    1  CAA CHL C 613      36.774  79.939  25.465  1.00 98.10           C  
+HETATM    2  CAB CHL C 613      44.039  77.898  31.067  1.00 78.42           C  
+HETATM    3  CAC CHL C 613      37.157  78.185  35.767  1.00 78.68           C  
+HETATM    4  CAD CHL C 613      33.366  78.809  28.660  1.00 93.18           C  
+HETATM    5  NA  CHL C 613      38.196  78.280  28.082  1.00 84.23           N  
+HETATM    6  CBA CHL C 613      36.972  80.224  23.982  1.00107.99           C  
+HETATM    7  CBB CHL C 613      45.218  77.968  30.384  1.00 81.21           C  
+HETATM    8  CBC CHL C 613      36.663  76.797  36.100  1.00 77.19           C  
+HETATM    9  CBD CHL C 613      34.320  78.854  27.448  1.00 93.52           C  
+HETATM   10  NB  CHL C 613      40.458  78.057  29.997  1.00 78.35           N  
+HETATM   11  OBD CHL C 613      32.136  78.910  28.525  1.00 95.86           O  
+HETATM   12  CGA CHL C 613      36.914  81.735  23.789  1.00117.20           C  
+HETATM   13  CGD CHL C 613      33.922  77.835  26.391  1.00 96.45           C  
+HETATM   14  ND  CHL C 613      36.391  78.333  30.428  1.00 81.39           N  
+HETATM   15  CED CHL C 613      32.511  77.303  24.441  1.00 98.21           C  
+HETATM   16  CHA CHL C 613      35.730  78.585  28.031  1.00 88.31           C  
+HETATM   17  CHB CHL C 613      40.606  78.141  27.545  1.00 79.52           C  
+HETATM   18  CHC CHL C 613      41.021  77.945  32.398  1.00 78.81           C  
+HETATM   19  CHD CHL C 613      36.125  78.291  32.845  1.00 77.31           C  
+HETATM   20  CMA CHL C 613      38.957  77.080  24.968  1.00 82.53           C  
+HETATM   21  CMB CHL C 613      43.604  77.978  27.983  1.00 73.73           C  
+HETATM   22  CMC CHL C 613      40.361  77.997  35.595  1.00 83.64           C  
+HETATM   23  CMD CHL C 613      33.030  78.723  32.195  1.00 80.12           C  
+HETATM   24  OMC CHL C 613      39.895  78.024  36.755  1.00 84.65           O  
+HETATM   25  C1A CHL C 613      36.977  78.474  27.400  1.00 86.65           C  
+HETATM   26  C1B CHL C 613      41.159  78.067  28.812  1.00 77.30           C  
+HETATM   27  C1C CHL C 613      39.719  78.008  32.951  1.00 80.60           C  
+HETATM   28  C1D CHL C 613      35.604  78.401  31.555  1.00 80.61           C  
+HETATM   29  O1A CHL C 613      37.176  82.226  22.676  1.00121.44           O  
+HETATM   30  O1D CHL C 613      34.483  76.691  26.333  1.00 99.54           O  
+HETATM   31  C2A CHL C 613      37.206  78.570  25.936  1.00 88.17           C  
+HETATM   32  C2B CHL C 613      42.572  77.992  29.083  1.00 74.56           C  
+HETATM   33  C2C CHL C 613      39.383  78.044  34.380  1.00 82.89           C  
+HETATM   34  C2D CHL C 613      34.206  78.592  31.211  1.00 81.87           C  
+HETATM   35  O2A CHL C 613      36.572  82.600  24.828  1.00119.69           O  
+HETATM   36  O2D CHL C 613      32.923  78.220  25.465  1.00 97.32           O  
+HETATM   37  C3A CHL C 613      38.714  78.394  25.753  1.00 83.35           C  
+HETATM   38  C3B CHL C 613      42.720  77.938  30.451  1.00 76.02           C  
+HETATM   39  C3C CHL C 613      38.014  78.125  34.481  1.00 80.28           C  
+HETATM   40  C3D CHL C 613      34.191  78.653  29.853  1.00 85.85           C  
+HETATM   41  C4A CHL C 613      39.251  78.251  27.184  1.00 82.33           C  
+HETATM   42  C4B CHL C 613      41.357  77.968  31.021  1.00 76.29           C  
+HETATM   43  C4C CHL C 613      37.486  78.162  33.146  1.00 76.75           C  
+HETATM   44  C4D CHL C 613      35.548  78.505  29.401  1.00 83.90           C  
+HETATM   45  NC  CHL C 613      38.529  78.059  32.226  1.00 77.58           N  
+CONECT    1    6   31
+CONECT    2    7   38
+CONECT    3    8   39
+CONECT    4    9   11   40
+CONECT    5   25   41
+CONECT    6    1   12
+CONECT    7    2
+CONECT    8    3
+CONECT    9    4   13   16
+CONECT   10   26   42
+CONECT   11    4
+CONECT   12    6   29   35
+CONECT   13    9   30   36
+CONECT   14   28   44
+CONECT   15   36
+CONECT   16    9   25   44
+CONECT   17   26   41
+CONECT   18   27   42
+CONECT   19   28   43
+CONECT   20   37
+CONECT   21   32
+CONECT   22   24   33
+CONECT   23   34
+CONECT   24   22
+CONECT   25    5   16   31
+CONECT   26   10   17   32
+CONECT   27   18   33   45
+CONECT   28   14   19   34
+CONECT   29   12
+CONECT   30   13
+CONECT   31   25    1   37
+CONECT   32   26   21   38
+CONECT   33   27   22   39
+CONECT   34   28   23   40
+CONECT   35   12
+CONECT   36   13   15
+CONECT   37   31   20   41
+CONECT   38   32    2   42
+CONECT   39   33    3   43
+CONECT   40   34    4   44
+CONECT   41    5   17   37
+CONECT   42   10   18   38
+CONECT   43   19   39   45
+CONECT   44   14   16   40
+CONECT   45   27   43
+END

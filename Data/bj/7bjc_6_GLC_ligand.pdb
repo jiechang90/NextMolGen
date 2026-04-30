@@ -1,0 +1,48 @@
+CRYST1  117.746  141.804  169.318  90.00  97.54  90.00 P 1 21 1      2
+HETATM    1  C1  GLC Q   1     -15.361  66.037  36.353  1.00 73.12           C  
+HETATM    2  C2  GLC Q   1     -15.308  66.865  35.071  1.00 71.96           C  
+HETATM    3  O2  GLC Q   1     -13.951  66.966  34.630  1.00 82.48           O  
+HETATM    4  C3  GLC Q   1     -15.868  68.267  35.277  1.00 64.47           C  
+HETATM    5  O3  GLC Q   1     -15.977  68.932  34.014  1.00 70.56           O  
+HETATM    6  C4  GLC Q   1     -17.208  68.235  35.984  1.00 50.06           C  
+HETATM    7  O4  GLC Q   1     -17.458  69.573  36.412  1.00 35.05           O  
+HETATM    8  C5  GLC Q   1     -17.177  67.320  37.206  1.00 68.42           C  
+HETATM    9  O5  GLC Q   1     -16.700  66.020  36.850  1.00 72.07           O  
+HETATM   10  C6  GLC Q   1     -18.548  67.183  37.865  1.00 70.47           C  
+HETATM   11  O6  GLC Q   1     -19.491  66.588  36.965  1.00 66.36           O  
+HETATM   12  C1  FRU Q   2     -12.534  65.126  37.235  1.00 84.21           C  
+HETATM   13  O1  FRU Q   2     -12.908  63.915  36.552  1.00 84.52           O  
+HETATM   14  C2  FRU Q   2     -13.685  65.659  38.092  1.00 80.49           C  
+HETATM   15  O2  FRU Q   2     -14.474  66.593  37.341  1.00 79.84           O  
+HETATM   16  C3  FRU Q   2     -13.146  66.333  39.358  1.00 80.35           C  
+HETATM   17  O3  FRU Q   2     -13.257  67.759  39.361  1.00 81.24           O  
+HETATM   18  C4  FRU Q   2     -13.964  65.745  40.484  1.00 80.09           C  
+HETATM   19  O4  FRU Q   2     -13.077  65.287  41.494  1.00 82.67           O  
+HETATM   20  C5  FRU Q   2     -14.754  64.584  39.892  1.00 80.41           C  
+HETATM   21  O5  FRU Q   2     -14.517  64.563  38.489  1.00 75.73           O  
+HETATM   22  C6  FRU Q   2     -16.243  64.703  40.169  1.00 85.88           C  
+HETATM   23  O6  FRU Q   2     -16.935  63.577  39.606  1.00 80.94           O  
+CONECT    1    2    9   15
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+CONECT   12   13   14
+CONECT   13   12
+CONECT   14   12   15   16   21
+CONECT   15    1   14
+CONECT   16   14   17   18
+CONECT   17   16
+CONECT   18   16   19   20
+CONECT   19   18
+CONECT   20   18   21   22
+CONECT   21   14   20
+CONECT   22   20   23
+CONECT   23   22
+END

@@ -1,0 +1,47 @@
+CRYST1  158.346  158.346   94.213  90.00  90.00 120.00 P 3 2 1       1
+HETATM    1  P   PLP A 501     -79.992 -10.703  29.684  1.00 16.08           P  
+ANISOU    1  P   PLP A 501     2201   1901   2009     73    -91     29       P  
+HETATM    2  O1P PLP A 501     -79.802  -9.501  28.787  1.00 17.53           O  
+ANISOU    2  O1P PLP A 501     2406   2081   2174     77    -89     30       O  
+HETATM    3  O2P PLP A 501     -81.445 -10.892  30.026  1.00 17.44           O1-
+ANISOU    3  O2P PLP A 501     2355   2069   2203     68   -116     33       O1-
+HETATM    4  O3P PLP A 501     -79.177 -10.591  30.945  1.00 18.06           O  
+ANISOU    4  O3P PLP A 501     2429   2165   2270     72    -67     32       O  
+HETATM    5  O4P PLP A 501     -79.470 -12.019  28.917  1.00 21.28           O  
+ANISOU    5  O4P PLP A 501     2883   2550   2654     76    -93     21       O  
+HETATM    6  N1  PLP A 501     -79.281 -16.002  26.584  1.00 20.24           N  
+ANISOU    6  N1  PLP A 501     2829   2374   2488     78   -123     -2       N  
+HETATM    7  C2  PLP A 501     -80.037 -16.806  27.401  1.00 20.61           C  
+ANISOU    7  C2  PLP A 501     2852   2422   2557     72   -140      1       C  
+HETATM    8  C2A PLP A 501     -79.961 -18.303  27.212  1.00 19.08           C  
+ANISOU    8  C2A PLP A 501     2672   2217   2361     72   -148     -6       C  
+HETATM    9  C3  PLP A 501     -80.850 -16.229  28.371  1.00 24.39           C  
+ANISOU    9  C3  PLP A 501     3298   2912   3059     67   -148      9       C  
+HETATM   10  O3  PLP A 501     -81.604 -17.010  29.194  1.00 23.55           O  
+ANISOU   10  O3  PLP A 501     3169   2805   2974     59   -160     12       O  
+HETATM   11  C4  PLP A 501     -80.899 -14.834  28.529  1.00 24.12           C  
+ANISOU   11  C4  PLP A 501     3252   2886   3025     68   -140     14       C  
+HETATM   12  C4A PLP A 501     -81.485 -14.312  29.805  1.00 27.56           C  
+ANISOU   12  C4A PLP A 501     3651   3334   3486     62   -137     22       C  
+HETATM   13  C5  PLP A 501     -80.119 -14.023  27.676  1.00 21.10           C  
+ANISOU   13  C5  PLP A 501     2895   2503   2619     74   -126     12       C  
+HETATM   14  C5A PLP A 501     -80.132 -12.509  27.763  1.00 19.89           C  
+ANISOU   14  C5A PLP A 501     2735   2358   2465     75   -118     18       C  
+HETATM   15  C6  PLP A 501     -79.322 -14.624  26.723  1.00 19.16           C  
+ANISOU   15  C6  PLP A 501     2683   2247   2351     79   -116      4       C  
+CONECT    1    2    3    4    5
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1   14
+CONECT    6    7   15
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13    5
+CONECT   15    6   13
+END

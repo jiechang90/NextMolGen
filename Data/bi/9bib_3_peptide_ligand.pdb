@@ -1,0 +1,22 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+HETATM    1  N   GLU D1001     200.668 187.434 160.737  1.00 21.36           N  
+HETATM    2  CA  GLU D1001     201.180 187.723 159.403  1.00 21.36           C  
+HETATM    3  C   GLU D1001     200.710 189.091 158.920  1.00 21.36           C  
+HETATM    4  O   GLU D1001     199.958 189.781 159.608  1.00 21.36           O  
+HETATM    5  CB  GLU D1001     200.746 186.639 158.413  1.00 21.36           C  
+HETATM    6  CG  GLU D1001     201.198 185.235 158.787  1.00 21.36           C  
+HETATM    7  CD  GLU D1001     202.705 185.063 158.726  1.00 21.36           C  
+HETATM    8  OE1 GLU D1001     203.371 185.849 158.020  1.00 21.36           O  
+HETATM    9  OE2 GLU D1001     203.224 184.138 159.385  1.00 21.36           O  
+HETATM   10  OXT GLU D1001     201.069 189.535 157.830  1.00 21.36           O  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4   10
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7
+CONECT   10    3
+END

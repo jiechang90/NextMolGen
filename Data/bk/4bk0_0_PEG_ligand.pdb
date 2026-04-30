@@ -1,0 +1,36 @@
+CRYST1   50.670   61.210   81.650  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  PEG B1621      11.298  55.215  -2.446  1.00 60.02           C  
+HETATM    2  O1  PEG B1621      11.065  56.579  -2.548  1.00 62.87           O  
+HETATM    3  C2  PEG B1621      10.897  54.700  -1.096  1.00 55.53           C  
+HETATM    4  O2  PEG B1621      11.956  54.388  -0.237  1.00 51.24           O  
+HETATM    5  C3  PEG B1621      11.680  53.809   1.000  1.00 49.05           C  
+HETATM    6  C4  PEG B1621      12.793  53.922   1.993  1.00 50.96           C  
+HETATM    7  O4  PEG B1621      12.896  55.190   2.540  1.00 52.85           O  
+HETATM    8  HO1 PEG B1621      11.219  56.844  -3.380  1.00 75.44           H  
+HETATM    9  HO4 PEG B1621      13.543  55.198   3.146  1.00 63.42           H  
+HETATM   10  H11 PEG B1621      12.243  55.036  -2.590  1.00 72.02           H  
+HETATM   11  H12 PEG B1621      10.778  54.755  -3.128  1.00 72.02           H  
+HETATM   12  H21 PEG B1621      10.374  53.891  -1.229  1.00 66.63           H  
+HETATM   13  H22 PEG B1621      10.329  55.364  -0.667  1.00 66.63           H  
+HETATM   14  H31 PEG B1621      10.891  54.240   1.374  1.00 58.87           H  
+HETATM   15  H32 PEG B1621      11.481  52.867   0.861  1.00 58.87           H  
+HETATM   16  H41 PEG B1621      12.634  53.287   2.712  1.00 61.15           H  
+HETATM   17  H42 PEG B1621      13.632  53.697   1.554  1.00 61.15           H  
+CONECT    1    2    3   10   11
+CONECT    2    1    8
+CONECT    3    1    4   12   13
+CONECT    4    3    5
+CONECT    5    4    6   14   15
+CONECT    6    5    7   16   17
+CONECT    7    6    9
+CONECT    8    2
+CONECT    9    7
+CONECT   10    1
+CONECT   11    1
+CONECT   12    3
+CONECT   13    3
+CONECT   14    5
+CONECT   15    5
+CONECT   16    6
+CONECT   17    6
+END

@@ -1,0 +1,124 @@
+CRYST1   65.519   82.052  127.902  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  PA  GNP A 201      13.246  25.503   3.984  1.00 20.12           P  
+ANISOU    1  PA  GNP A 201     2329   2441   2874    425    139    207       P  
+HETATM    2  PB  GNP A 201      11.069  26.217   5.749  1.00 18.89           P  
+ANISOU    2  PB  GNP A 201     2099   2227   2851    441    208    216       P  
+HETATM    3  PG  GNP A 201       9.289  24.405   7.260  1.00 34.78           P  
+ANISOU    3  PG  GNP A 201     4062   4259   4893    417    204    201       P  
+HETATM    4  C5' GNP A 201      12.264  24.760   1.664  1.00 19.76           C  
+ANISOU    4  C5' GNP A 201     2280   2425   2802    429     30    280       C  
+HETATM    5  O5' GNP A 201      13.292  25.451   2.407  1.00 20.13           O  
+ANISOU    5  O5' GNP A 201     2343   2460   2844    427     88    244       O  
+HETATM    6  C4' GNP A 201      12.791  24.464   0.268  1.00 22.31           C  
+ANISOU    6  C4' GNP A 201     2636   2779   3061    414    -13    292       C  
+HETATM    7  O4' GNP A 201      13.016  25.748  -0.365  1.00 22.08           O  
+ANISOU    7  O4' GNP A 201     2615   2735   3040    415      0    329       O  
+HETATM    8  C3' GNP A 201      14.158  23.782   0.333  1.00 23.78           C  
+ANISOU    8  C3' GNP A 201     2857   2993   3185    402      2    233       C  
+HETATM    9  O3' GNP A 201      14.269  23.012  -0.869  1.00 29.26           O  
+ANISOU    9  O3' GNP A 201     3575   3719   3824    386    -44    233       O  
+HETATM   10  C2' GNP A 201      15.120  24.958   0.216  1.00 22.50           C  
+ANISOU   10  C2' GNP A 201     2711   2823   3014    399     46    231       C  
+HETATM   11  O2' GNP A 201      16.258  24.545  -0.540  1.00 27.51           O  
+ANISOU   11  O2' GNP A 201     3377   3492   3584    382     44    200       O  
+HETATM   12  C1' GNP A 201      14.363  25.852  -0.748  1.00 23.79           C  
+ANISOU   12  C1' GNP A 201     2870   2974   3196    399     22    297       C  
+HETATM   13  N1  GNP A 201      15.915  30.151  -3.036  1.00 23.17           N  
+ANISOU   13  N1  GNP A 201     2859   2844   3100    356     76    428       N  
+HETATM   14  O1A GNP A 201      13.245  24.066   4.474  1.00 17.62           O1-
+ANISOU   14  O1A GNP A 201     2017   2150   2527    413    112    179       O1-
+HETATM   15  O1B GNP A 201      12.150  26.178   6.808  1.00 17.35           O  
+ANISOU   15  O1B GNP A 201     1937   2041   2613    417    250    161       O  
+HETATM   16  O1G GNP A 201      10.322  24.257   8.280  1.00 20.01           O  
+ANISOU   16  O1G GNP A 201     2232   2400   2972    391    238    152       O  
+HETATM   17  C2  GNP A 201      15.659  28.924  -3.578  1.00 25.11           C  
+ANISOU   17  C2  GNP A 201     3111   3135   3295    347     31    416       C  
+HETATM   18  N2  GNP A 201      15.776  28.817  -4.916  1.00 25.74           N  
+ANISOU   18  N2  GNP A 201     3223   3250   3306    315     -7    448       N  
+HETATM   19  O2A GNP A 201      14.372  26.403   4.467  1.00 18.30           O  
+ANISOU   19  O2A GNP A 201     2120   2200   2632    417    191    177       O  
+HETATM   20  O2B GNP A 201      10.377  27.517   5.621  1.00 18.15           O  
+ANISOU   20  O2B GNP A 201     1973   2086   2837    464    240    245       O  
+HETATM   21  O2G GNP A 201       8.082  25.283   7.736  1.00 30.66           O  
+ANISOU   21  O2G GNP A 201     3486   3701   4463    433    256    212       O  
+HETATM   22  N3  GNP A 201      15.275  27.870  -2.859  1.00 23.84           N  
+ANISOU   22  N3  GNP A 201     2928   2982   3147    364     23    376       N  
+HETATM   23  N3B GNP A 201      10.063  24.932   5.828  1.00 20.24           N  
+ANISOU   23  N3B GNP A 201     2245   2419   3026    435    165    228       N  
+HETATM   24  O3A GNP A 201      11.797  26.063   4.276  1.00 19.23           O  
+ANISOU   24  O3A GNP A 201     2172   2295   2842    442    152    241       O  
+HETATM   25  O3G GNP A 201       8.703  22.985   6.902  1.00 31.13           O  
+ANISOU   25  O3G GNP A 201     3591   3824   4411    406    139    218       O  
+HETATM   26  C4  GNP A 201      15.136  28.147  -1.545  1.00 22.76           C  
+ANISOU   26  C4  GNP A 201     2764   2811   3073    388     64    352       C  
+HETATM   27  C5  GNP A 201      15.386  29.340  -0.900  1.00 22.06           C  
+ANISOU   27  C5  GNP A 201     2669   2680   3034    397    114    355       C  
+HETATM   28  C6  GNP A 201      15.809  30.472  -1.689  1.00 20.34           C  
+ANISOU   28  C6  GNP A 201     2473   2447   2809    382    122    396       C  
+HETATM   29  O6  GNP A 201      16.107  31.635  -1.284  1.00 20.36           O  
+ANISOU   29  O6  GNP A 201     2476   2406   2854    384    165    403       O  
+HETATM   30  N7  GNP A 201      15.155  29.216   0.476  1.00 18.54           N  
+ANISOU   30  N7  GNP A 201     2199   2212   2635    413    151    315       N  
+HETATM   31  C8  GNP A 201      14.765  27.971   0.622  1.00 20.85           C  
+ANISOU   31  C8  GNP A 201     2481   2532   2908    416    119    296       C  
+HETATM   32  N9  GNP A 201      14.744  27.258  -0.564  1.00 22.21           N  
+ANISOU   32  N9  GNP A 201     2672   2742   3026    403     66    314       N  
+HETATM   33  HN1 GNP A 201      16.163  30.776  -3.573  1.00 27.84           H  
+HETATM   34 HN21 GNP A 201      15.986  29.509  -5.381  1.00 30.92           H  
+HETATM   35 HN22 GNP A 201      15.614  28.070  -5.310  1.00 30.92           H  
+HETATM   36 HNB3 GNP A 201       9.912  24.493   5.104  1.00 24.32           H  
+HETATM   37 HO2' GNP A 201      16.931  24.467  -0.033  1.00 33.05           H  
+HETATM   38 HO3' GNP A 201      15.046  23.104  -1.203  1.00 35.15           H  
+HETATM   39  H8  GNP A 201      14.525  27.604   1.442  1.00 25.05           H  
+HETATM   40  H1' GNP A 201      14.481  25.564  -1.666  1.00 28.58           H  
+HETATM   41  H2' GNP A 201      15.302  25.352   1.084  1.00 27.03           H  
+HETATM   42  H3' GNP A 201      14.289  23.292   1.160  1.00 28.57           H  
+HETATM   43  H4' GNP A 201      12.180  23.942  -0.274  1.00 26.80           H  
+HETATM   44 H5'1 GNP A 201      12.039  23.930   2.112  1.00 23.74           H  
+HETATM   45 H5'2 GNP A 201      11.473  25.319   1.604  1.00 23.74           H  
+CONECT    1    5   14   19   24
+CONECT    2   15   20   24   23
+CONECT    3   16   21   23   25
+CONECT    4    6   44   45    5
+CONECT    5    1    4
+CONECT    6    4    7    8   43
+CONECT    7    6   12
+CONECT    8    6    9   10   42
+CONECT    9    8   38
+CONECT   10    8   11   12   41
+CONECT   11   10   37
+CONECT   12    7   10   32   40
+CONECT   13   17   33   28
+CONECT   14    1
+CONECT   15    2
+CONECT   16    3
+CONECT   17   13   18   22
+CONECT   18   17   34   35
+CONECT   19    1
+CONECT   20    2
+CONECT   21    3
+CONECT   22   17   26
+CONECT   23    3    2   36
+CONECT   24    2    1
+CONECT   25    3
+CONECT   26   22   27   32
+CONECT   27   26   28   30
+CONECT   28   27   13   29
+CONECT   29   28
+CONECT   30   27   31
+CONECT   31   30   39   32
+CONECT   32   12   26   31
+CONECT   33   13
+CONECT   34   18
+CONECT   35   18
+CONECT   36   23
+CONECT   37   11
+CONECT   38    9
+CONECT   39   31
+CONECT   40   12
+CONECT   41   10
+CONECT   42    8
+CONECT   43    6
+CONECT   44    4
+CONECT   45    4
+END

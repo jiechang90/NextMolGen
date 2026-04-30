@@ -1,0 +1,26 @@
+CRYST1   60.280  105.360  225.360  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  SOR B 505      -4.075 103.572  -1.002  1.00 82.13           C  
+HETATM    2  O1  SOR B 505      -5.281 103.728  -0.209  1.00 68.29           O  
+HETATM    3  C2  SOR B 505      -3.602 104.879  -1.712  1.00 84.46           C  
+HETATM    4  O2  SOR B 505      -4.701 105.549  -2.366  1.00 79.63           O  
+HETATM    5  C3  SOR B 505      -2.414 104.674  -2.700  1.00 81.14           C  
+HETATM    6  O3  SOR B 505      -2.583 103.507  -3.528  1.00 71.55           O  
+HETATM    7  C4  SOR B 505      -2.148 105.910  -3.598  1.00 79.84           C  
+HETATM    8  O4  SOR B 505      -3.339 106.231  -4.323  1.00 74.56           O  
+HETATM    9  C5  SOR B 505      -1.017 105.754  -4.638  1.00 78.34           C  
+HETATM   10  O5  SOR B 505      -0.696 104.374  -4.868  1.00 72.06           O  
+HETATM   11  C6  SOR B 505       0.274 106.481  -4.247  1.00 79.81           C  
+HETATM   12  O6  SOR B 505       1.427 105.866  -4.863  1.00 74.03           O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12
+CONECT   12   11
+END

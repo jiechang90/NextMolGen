@@ -1,0 +1,18 @@
+CRYST1   78.700   78.700  314.600  90.00  90.00 120.00 H 3 2         9
+HETATM    1  C1  OXP A  63      -2.657 -17.391  77.652  1.00 22.39           C  
+HETATM    2  O1  OXP A  63      -3.052 -17.791  76.565  1.00 25.21           O  
+HETATM    3  C2  OXP A  63      -2.812 -15.957  77.982  1.00 21.74           C  
+HETATM    4  O2  OXP A  63      -2.056 -18.235  78.486  1.00 26.69           O  
+HETATM    5  C3  OXP A  63      -4.117 -15.288  77.811  1.00 13.32           C  
+HETATM    6  O3  OXP A  63      -1.868 -15.352  78.440  1.00 26.18           O  
+HETATM    7  C4  OXP A  63      -4.325 -13.961  77.998  1.00 16.64           C  
+HETATM    8  C5  OXP A  63      -3.219 -13.002  78.360  1.00 12.84           C  
+CONECT    1    2    4    3
+CONECT    2    1
+CONECT    3    1    5    6
+CONECT    4    1
+CONECT    5    3    7
+CONECT    6    3
+CONECT    7    5    8
+CONECT    8    7
+END

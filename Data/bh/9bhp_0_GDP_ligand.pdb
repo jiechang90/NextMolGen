@@ -1,0 +1,86 @@
+CRYST1   65.456   82.648  127.829  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  PA  GDP A 202      19.665  15.971   4.308  1.00 25.24           P  
+ANISOU    1  PA  GDP A 202     2927   3056   3607     69   -190    134       P  
+HETATM    2  PB  GDP A 202      21.851  15.196   6.080  1.00 25.53           P  
+ANISOU    2  PB  GDP A 202     2840   3087   3775     57   -247     19       P  
+HETATM    3  C5' GDP A 202      20.416  16.692   1.909  1.00 27.43           C  
+ANISOU    3  C5' GDP A 202     3181   3484   3758     47    -50    214       C  
+HETATM    4  O5' GDP A 202      19.452  16.028   2.676  1.00 26.77           O  
+ANISOU    4  O5' GDP A 202     3137   3335   3698     88   -137    174       O  
+HETATM    5  C4' GDP A 202      19.902  16.952   0.638  1.00 28.86           C  
+ANISOU    5  C4' GDP A 202     3410   3724   3832     53    -18    277       C  
+HETATM    6  O4' GDP A 202      19.773  15.675  -0.155  1.00 27.32           O  
+ANISOU    6  O4' GDP A 202     3222   3616   3544    119    -33    194       O  
+HETATM    7  C3' GDP A 202      18.415  17.554   0.721  1.00 31.26           C  
+ANISOU    7  C3' GDP A 202     3794   3948   4135     63    -80    353       C  
+HETATM    8  O3' GDP A 202      18.247  18.642  -0.306  1.00 33.26           O  
+ANISOU    8  O3' GDP A 202     4093   4220   4325     30    -37    477       O  
+HETATM    9  C2' GDP A 202      17.661  16.600   0.473  1.00 29.95           C  
+ANISOU    9  C2' GDP A 202     3652   3809   3921    116   -137    303       C  
+HETATM   10  O2' GDP A 202      16.450  17.094  -0.208  1.00 30.31           O  
+ANISOU   10  O2' GDP A 202     3756   3851   3912    132   -176    383       O  
+HETATM   11  C1' GDP A 202      18.521  15.578  -0.522  1.00 27.75           C  
+ANISOU   11  C1' GDP A 202     3346   3654   3544    144    -93    224       C  
+HETATM   12  N1  GDP A 202      16.891  11.371  -2.945  1.00 29.32           N  
+ANISOU   12  N1  GDP A 202     3668   4015   3456    317   -269    -99       N  
+HETATM   13  O1A GDP A 202      18.716  14.959   4.903  1.00 23.72           O1-
+ANISOU   13  O1A GDP A 202     2778   2825   3411    108   -268     91       O1-
+HETATM   14  O1B GDP A 202      20.762  15.259   7.127  1.00 22.26           O1-
+ANISOU   14  O1B GDP A 202     2506   2586   3365     44   -307     31       O1-
+HETATM   15  C2  GDP A 202      17.169  12.565  -3.447  1.00 28.76           C  
+ANISOU   15  C2  GDP A 202     3596   4003   3330    281   -196      9       C  
+HETATM   16  N2  GDP A 202      17.013  12.775  -4.873  1.00 30.28           N  
+ANISOU   16  N2  GDP A 202     3840   4316   3348    278   -169     36       N  
+HETATM   17  O2A GDP A 202      19.397  17.341   4.884  1.00 24.85           O  
+ANISOU   17  O2A GDP A 202     2902   2930   3611     12   -173    196       O  
+HETATM   18  O2B GDP A 202      22.444  13.807   6.028  1.00 21.76           O1-
+ANISOU   18  O2B GDP A 202     2321   2644   3303    130   -292    -59       O1-
+HETATM   19  N3  GDP A 202      17.583  13.570  -2.692  1.00 27.78           N  
+ANISOU   19  N3  GDP A 202     3433   3825   3298    240   -153     94       N  
+HETATM   20  O3A GDP A 202      21.228  15.545   4.598  1.00 25.71           O  
+ANISOU   20  O3A GDP A 202     2896   3160   3714     65   -176     71       O  
+HETATM   21  O3B GDP A 202      22.928  16.207   6.428  1.00 25.03           O  
+ANISOU   21  O3B GDP A 202     2706   3029   3775    -15   -212     34       O  
+HETATM   22  C4  GDP A 202      17.734  13.394  -1.366  1.00 28.33           C  
+ANISOU   22  C4  GDP A 202     3464   3794   3506    239   -183     66       C  
+HETATM   23  C5  GDP A 202      17.456  12.164  -0.801  1.00 27.97           C  
+ANISOU   23  C5  GDP A 202     3422   3697   3507    277   -257    -33       C  
+HETATM   24  C6  GDP A 202      17.019  11.128  -1.648  1.00 26.44           C  
+ANISOU   24  C6  GDP A 202     3270   3546   3229    316   -300   -115       C  
+HETATM   25  O6  GDP A 202      16.720   9.857  -1.139  1.00 23.80           O  
+ANISOU   25  O6  GDP A 202     2953   3140   2950    345   -381   -211       O  
+HETATM   26  N7  GDP A 202      17.695  12.295   0.513  1.00 25.66           N  
+ANISOU   26  N7  GDP A 202     3098   3317   3333    260   -275    -26       N  
+HETATM   27  C8  GDP A 202      18.099  13.531   0.751  1.00 27.11           C  
+ANISOU   27  C8  GDP A 202     3257   3496   3547    215   -217     57       C  
+HETATM   28  N9  GDP A 202      18.124  14.220  -0.379  1.00 28.45           N  
+ANISOU   28  N9  GDP A 202     3443   3741   3625    200   -161    119       N  
+CONECT    1    4   13   17   20
+CONECT    2   14   18   20   21
+CONECT    3    5    4
+CONECT    4    1    3
+CONECT    5    3    6    7
+CONECT    6    5   11
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    6    9   28
+CONECT   12   15   24
+CONECT   13    1
+CONECT   14    2
+CONECT   15   12   16   19
+CONECT   16   15
+CONECT   17    1
+CONECT   18    2
+CONECT   19   15   22
+CONECT   20    2    1
+CONECT   21    2
+CONECT   22   19   23   28
+CONECT   23   22   24   26
+CONECT   24   23   12   25
+CONECT   25   24
+CONECT   26   23   27
+CONECT   27   26   28
+CONECT   28   11   22   27
+END

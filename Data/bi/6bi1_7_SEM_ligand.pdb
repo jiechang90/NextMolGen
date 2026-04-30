@@ -1,0 +1,52 @@
+CRYST1  100.240  100.240  100.240  90.00  90.00  90.00 P 21 3        1
+HETATM    1  N  BSEM A 308      -2.338  12.164  28.476  1.00 41.78           N  
+HETATM    2  CA BSEM A 308      -0.932  12.072  28.090  1.00 43.53           C  
+HETATM    3  C  BSEM A 308      -0.724  10.977  27.041  1.00 45.30           C  
+HETATM    4  O  BSEM A 308      -1.325   9.779  27.466  1.00 44.02           O  
+HETATM    5  CB BSEM A 308      -0.079  11.758  29.320  1.00 41.95           C  
+HETATM    6  OG BSEM A 308      -0.433  12.676  30.307  1.00 39.23           O  
+HETATM    7  C6'BSEM A 308      -0.256  14.426  32.892  1.00 33.50           C  
+HETATM    8  C5'BSEM A 308      -1.033  15.357  33.794  1.00 31.90           C  
+HETATM    9  C4'BSEM A 308      -2.228  15.016  34.234  1.00 34.13           C  
+HETATM   10  C3'BSEM A 308      -2.851  13.696  33.813  1.00 36.92           C  
+HETATM   11  C2'BSEM A 308      -2.178  12.888  33.017  1.00 38.19           C  
+HETATM   12  C1'BSEM A 308      -0.791  13.281  32.528  1.00 36.31           C  
+HETATM   13  C' BSEM A 308      -0.014  12.361  31.603  1.00 37.70           C  
+HETATM   14  H  BSEM A 308      -2.626  11.365  28.741  1.00 50.13           H  
+HETATM   15  HA BSEM A 308      -0.651  12.923  27.719  1.00 52.24           H  
+HETATM   16  HB2BSEM A 308      -0.259  10.856  29.627  1.00 50.34           H  
+HETATM   17  HB3BSEM A 308       0.862  11.853  29.103  1.00 50.34           H  
+HETATM   18  H'1BSEM A 308      -0.219  11.434  31.805  1.00 45.24           H  
+HETATM   19  H'2BSEM A 308       0.938  12.521  31.695  1.00 45.24           H  
+HETATM   20  H2 BSEM A 308      -2.820  12.437  27.779  1.00 50.13           H  
+HETATM   21  H2'BSEM A 308      -2.550  12.076  32.757  1.00 45.83           H  
+HETATM   22  H3'BSEM A 308      -3.697  13.458  34.118  1.00 44.30           H  
+HETATM   23  H4'BSEM A 308      -2.698  15.592  34.793  1.00 40.96           H  
+HETATM   24  H5'BSEM A 308      -0.656  16.165  34.060  1.00 38.28           H  
+HETATM   25  H6'BSEM A 308       0.588  14.668  32.584  1.00 40.21           H  
+CONECT    1   14   20    2
+CONECT    2    1    5   15    3
+CONECT    3    2    4
+CONECT    4    3
+CONECT    5    2    6   16   17
+CONECT    6    5   13
+CONECT    7   25    8   12
+CONECT    8    7   24    9
+CONECT    9    8   23   10
+CONECT   10    9   22   11
+CONECT   11   10   21   12
+CONECT   12    7   11   13
+CONECT   13    6   12   18   19
+CONECT   14    1
+CONECT   15    2
+CONECT   16    5
+CONECT   17    5
+CONECT   18   13
+CONECT   19   13
+CONECT   20    1
+CONECT   21   11
+CONECT   22   10
+CONECT   23    9
+CONECT   24    8
+CONECT   25    7
+END

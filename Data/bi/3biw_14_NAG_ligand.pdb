@@ -1,0 +1,58 @@
+CRYST1  229.830  148.796  123.602  90.00  90.38  90.00 C 1 2 1       1
+HETATM    1  C1  NAG K   1     -68.512  93.797  63.609  1.00129.43           C  
+HETATM    2  C2  NAG K   1     -69.669  94.749  63.165  1.00132.87           C  
+HETATM    3  N2  NAG K   1     -69.622  96.020  63.908  1.00135.32           N  
+HETATM    4  C3  NAG K   1     -71.031  94.086  63.377  1.00134.96           C  
+HETATM    5  O3  NAG K   1     -71.953  94.686  62.485  1.00134.50           O  
+HETATM    6  C4  NAG K   1     -70.993  92.545  63.166  1.00136.30           C  
+HETATM    7  O4  NAG K   1     -72.281  91.932  63.488  1.00142.28           O  
+HETATM    8  C5  NAG K   1     -69.939  91.889  64.077  1.00133.42           C  
+HETATM    9  O5  NAG K   1     -68.968  92.843  64.580  1.00133.07           O  
+HETATM   10  C6  NAG K   1     -69.179  90.735  63.491  1.00130.99           C  
+HETATM   11  O6  NAG K   1     -68.423  90.092  64.501  1.00127.57           O  
+HETATM   12  C7  NAG K   1     -70.628  96.922  63.916  1.00135.46           C  
+HETATM   13  O7  NAG K   1     -70.591  97.995  63.277  1.00133.11           O  
+HETATM   14  C8  NAG K   1     -71.835  96.640  64.813  1.00134.21           C  
+HETATM   15  C1  NAG K   2     -73.512  92.452  63.050  1.00157.87           C  
+HETATM   16  C2  NAG K   2     -73.989  93.619  63.979  1.00158.88           C  
+HETATM   17  N2  NAG K   2     -74.448  93.102  65.264  1.00159.49           N  
+HETATM   18  C3  NAG K   2     -75.144  94.425  63.348  1.00158.90           C  
+HETATM   19  O3  NAG K   2     -75.351  95.621  64.086  1.00158.86           O  
+HETATM   20  C4  NAG K   2     -74.852  94.766  61.884  1.00158.53           C  
+HETATM   21  O4  NAG K   2     -75.964  95.433  61.312  1.00158.47           O  
+HETATM   22  C5  NAG K   2     -74.578  93.467  61.134  1.00158.16           C  
+HETATM   23  O5  NAG K   2     -73.380  92.858  61.664  1.00159.40           O  
+HETATM   24  C6  NAG K   2     -74.392  93.628  59.634  1.00156.57           C  
+HETATM   25  O6  NAG K   2     -73.593  94.759  59.327  1.00154.82           O  
+HETATM   26  C7  NAG K   2     -73.654  92.375  66.049  1.00159.49           C  
+HETATM   27  O7  NAG K   2     -72.587  92.794  66.503  1.00159.20           O  
+HETATM   28  C8  NAG K   2     -74.123  90.968  66.391  1.00158.76           C  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2   12
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6   15
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+CONECT   12    3   13   14
+CONECT   13   12
+CONECT   14   12
+CONECT   15    7   16   23
+CONECT   16   15   17   18
+CONECT   17   16   26
+CONECT   18   16   19   20
+CONECT   19   18
+CONECT   20   18   21   22
+CONECT   21   20
+CONECT   22   20   23   24
+CONECT   23   15   22
+CONECT   24   22   25
+CONECT   25   24
+CONECT   26   17   27   28
+CONECT   27   26
+CONECT   28   26
+END

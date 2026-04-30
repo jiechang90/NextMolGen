@@ -1,0 +1,10 @@
+CRYST1   53.940   53.940   72.750  90.00  90.00  90.00 I 4 2 2       1
+HETATM    1  C   ACT A  53      23.963  13.330  35.729  1.00 76.62           C  
+HETATM    2  O   ACT A  53      23.774  14.626  35.741  1.00 76.73           O  
+HETATM    3  CH3 ACT A  53      23.788  12.556  34.403  1.00 76.58           C  
+HETATM    4  OXT ACT A  53      24.421  12.627  36.875  1.00 76.81           O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+END

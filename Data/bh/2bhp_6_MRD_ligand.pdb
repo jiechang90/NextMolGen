@@ -1,0 +1,18 @@
+CRYST1  102.179  102.179  278.614  90.00  90.00 120.00 H 3           1
+HETATM    1  CM  MRD A1523      28.393  43.973  74.016  1.00 36.54           C  
+HETATM    2  C1  MRD A1523      29.394  43.080  76.104  1.00 36.46           C  
+HETATM    3  C2  MRD A1523      28.221  43.812  75.486  1.00 37.00           C  
+HETATM    4  O2  MRD A1523      28.173  45.107  76.124  1.00 38.83           O  
+HETATM    5  C3  MRD A1523      26.862  43.117  75.740  1.00 34.85           C  
+HETATM    6  C4  MRD A1523      26.281  43.240  77.149  1.00 32.57           C  
+HETATM    7  O4  MRD A1523      26.804  42.240  77.994  1.00 29.77           O  
+HETATM    8  C5  MRD A1523      24.772  43.065  77.120  1.00 29.38           C  
+CONECT    1    3
+CONECT    2    3
+CONECT    3    2    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5    7    8
+CONECT    7    6
+CONECT    8    6
+END

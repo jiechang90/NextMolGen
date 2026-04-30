@@ -1,0 +1,82 @@
+CRYST1   70.096   50.551   70.595  90.00 115.22  90.00 P 1 21 1      1
+HETATM    1  CAP COA A 302     -36.984  -5.757 -26.016  1.00 90.23           C  
+HETATM    2  OAP COA A 302     -36.865  -5.210 -27.321  1.00 82.96           O  
+HETATM    3  CBP COA A 302     -36.119  -4.929 -25.056  1.00 84.18           C  
+HETATM    4  CDP COA A 302     -35.029  -5.799 -24.426  1.00 88.02           C  
+HETATM    5  CEP COA A 302     -37.013  -4.386 -23.941  1.00 84.13           C  
+HETATM    6  P1A COA A 302     -30.808  -3.791 -25.869  1.00 67.42           P  
+HETATM    7  P2A COA A 302     -33.336  -3.391 -27.274  1.00 81.89           P  
+HETATM    8  P3B COA A 302     -32.298  -9.560 -25.663  1.00 86.51           P  
+HETATM    9  N8P COA A 302     -37.282  -8.024 -25.190  1.00108.45           N  
+HETATM   10  C9P COA A 302     -36.652  -7.241 -26.054  1.00 95.04           C  
+HETATM   11  O9P COA A 302     -35.854  -7.669 -26.885  1.00 95.32           O  
+HETATM   12  C1B COA A 302     -28.104  -8.059 -25.195  1.00 70.07           C  
+HETATM   13  N1A COA A 302     -23.205  -8.096 -23.760  1.00 59.81           N  
+HETATM   14  O1A COA A 302     -30.074  -3.128 -26.984  1.00 72.10           O1-
+HETATM   15  C2A COA A 302     -24.062  -9.075 -24.072  1.00 61.94           C  
+HETATM   16  C2B COA A 302     -29.379  -7.701 -24.440  1.00 72.15           C  
+HETATM   17  O2A COA A 302     -30.386  -3.510 -24.468  1.00 63.55           O  
+HETATM   18  O2B COA A 302     -29.565  -8.526 -23.312  1.00 76.46           O  
+HETATM   19  C3B COA A 302     -30.442  -7.935 -25.510  1.00 78.30           C  
+HETATM   20  N3A COA A 302     -25.337  -8.995 -24.439  1.00 57.66           N  
+HETATM   21  O3A COA A 302     -32.366  -3.468 -26.006  1.00 77.35           O  
+HETATM   22  O3B COA A 302     -30.709  -9.323 -25.643  1.00 81.55           O  
+HETATM   23  C4A COA A 302     -25.734  -7.715 -24.474  1.00 62.05           C  
+HETATM   24  C4B COA A 302     -29.735  -7.428 -26.753  1.00 80.72           C  
+HETATM   25  O4A COA A 302     -32.683  -4.067 -28.432  1.00 82.96           O1-
+HETATM   26  O4B COA A 302     -28.350  -7.806 -26.559  1.00 74.27           O  
+HETATM   27  C5A COA A 302     -24.978  -6.603 -24.181  1.00 60.23           C  
+HETATM   28  C5B COA A 302     -29.815  -5.938 -26.974  1.00 76.16           C  
+HETATM   29  O5A COA A 302     -33.829  -1.994 -27.434  1.00 81.82           O  
+HETATM   30  O5B COA A 302     -30.827  -5.371 -26.111  1.00 76.84           O  
+HETATM   31  C6A COA A 302     -23.641  -6.816 -23.805  1.00 56.51           C  
+HETATM   32  N6A COA A 302     -22.797  -5.840 -23.491  1.00 59.14           N  
+HETATM   33  O6A COA A 302     -34.550  -4.298 -26.770  1.00 85.54           O  
+HETATM   34  N7A COA A 302     -25.742  -5.454 -24.330  1.00 62.50           N  
+HETATM   35  O7A COA A 302     -32.863  -8.694 -26.768  1.00 94.39           O  
+HETATM   36  C8A COA A 302     -26.924  -5.886 -24.701  1.00 67.37           C  
+HETATM   37  O8A COA A 302     -32.513 -11.030 -25.927  1.00 94.67           O1-
+HETATM   38  N9A COA A 302     -26.974  -7.249 -24.805  1.00 65.68           N  
+HETATM   39  O9A COA A 302     -32.799  -9.146 -24.299  1.00 90.39           O  
+HETATM   40  CCP COA A 302     -35.461  -3.760 -25.779  1.00 85.81           C  
+CONECT    1    2   10    3
+CONECT    2    1
+CONECT    3    1    4    5   40
+CONECT    4    3
+CONECT    5    3
+CONECT    6   14   17   21   30
+CONECT    7   25   29   33   21
+CONECT    8   35   37   39   22
+CONECT    9   10
+CONECT   10    1    9   11
+CONECT   11   10
+CONECT   12   16   26   38
+CONECT   13   15   31
+CONECT   14    6
+CONECT   15   13   20
+CONECT   16   12   18   19
+CONECT   17    6
+CONECT   18   16
+CONECT   19   16   22   24
+CONECT   20   15   23
+CONECT   21    6    7
+CONECT   22   19    8
+CONECT   23   20   27   38
+CONECT   24   19   26   28
+CONECT   25    7
+CONECT   26   12   24
+CONECT   27   23   31   34
+CONECT   28   24   30
+CONECT   29    7
+CONECT   30   28    6
+CONECT   31   13   27   32
+CONECT   32   31
+CONECT   33    7   40
+CONECT   34   27   36
+CONECT   35    8
+CONECT   36   34   38
+CONECT   37    8
+CONECT   38   23   36   12
+CONECT   39    8
+CONECT   40    3   33
+END

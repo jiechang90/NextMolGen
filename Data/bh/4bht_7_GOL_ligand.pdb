@@ -1,0 +1,30 @@
+CRYST1  100.975  152.861  169.366  90.00  90.00  90.00 P 21 21 21    2
+HETATM    1  C1  GOL C1448     -11.019  -3.933   3.303  1.00 55.49           C  
+HETATM    2  O1  GOL C1448     -10.324  -4.500   4.401  1.00 68.57           O  
+HETATM    3  C2  GOL C1448     -11.778  -2.765   3.879  1.00 42.62           C  
+HETATM    4  O2  GOL C1448     -11.179  -2.502   5.105  1.00 47.48           O  
+HETATM    5  C3  GOL C1448     -13.201  -3.182   4.160  1.00 44.10           C  
+HETATM    6  O3  GOL C1448     -13.874  -2.202   4.902  1.00 46.85           O  
+HETATM    7  HO1 GOL C1448      -9.963  -5.374   4.143  1.00 82.28           H  
+HETATM    8  HO2 GOL C1448     -11.239  -3.297   5.675  1.00 56.97           H  
+HETATM    9  HO3 GOL C1448     -14.811  -2.464   5.015  1.00 56.22           H  
+HETATM   10  H2  GOL C1448     -11.744  -1.905   3.210  1.00 51.14           H  
+HETATM   11  H11 GOL C1448     -11.705  -4.659   2.866  1.00 66.59           H  
+HETATM   12  H12 GOL C1448     -10.319  -3.597   2.538  1.00 66.59           H  
+HETATM   13  H31 GOL C1448     -13.202  -4.121   4.713  1.00 52.91           H  
+HETATM   14  H32 GOL C1448     -13.724  -3.348   3.218  1.00 52.91           H  
+CONECT    1    2    3   11   12
+CONECT    2    1    7
+CONECT    3    1    4    5   10
+CONECT    4    3    8
+CONECT    5    3    6   13   14
+CONECT    6    5    9
+CONECT    7    2
+CONECT    8    4
+CONECT    9    6
+CONECT   10    3
+CONECT   11    1
+CONECT   12    1
+CONECT   13    5
+CONECT   14    5
+END

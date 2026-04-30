@@ -1,0 +1,14 @@
+CRYST1   45.762   74.007   53.339  90.00 109.33  90.00 P 1 21 1      1
+HETATM    1  O   DMS A 406      -0.698   4.004 -18.573  1.00 71.70           O  
+ANISOU    1  O   DMS A 406     9453   8985   8804     46    129    -18       O  
+HETATM    2  C1  DMS A 406      -1.766   5.250 -20.726  1.00 71.88           C  
+ANISOU    2  C1  DMS A 406     9561   8999   8752     64     87      4       C  
+HETATM    3  C2  DMS A 406       0.674   3.850 -20.906  1.00 71.89           C  
+ANISOU    3  C2  DMS A 406     9579   9004   8733     88    200     11       C  
+HETATM    4  S   DMS A 406      -0.299   4.841 -19.735  1.00 71.95           S  
+ANISOU    4  S   DMS A 406     9524   9012   8800     60    149      9       S  
+CONECT    1    4
+CONECT    2    4
+CONECT    3    4
+CONECT    4    1    2    3
+END

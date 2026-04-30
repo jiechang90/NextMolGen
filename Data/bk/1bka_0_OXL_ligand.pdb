@@ -1,0 +1,26 @@
+CRYST1  155.460   96.920   55.850  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  OXL A 695     -29.163  24.873   0.527  1.00 40.04           C  
+HETATM    2  O1  OXL A 695     -28.003  24.406   0.825  1.00 41.61           O  
+HETATM    3  C2  OXL A 695     -30.378  24.350   1.365  1.00 38.27           C  
+HETATM    4  O2  OXL A 695     -30.038  23.488   2.254  1.00 43.36           O  
+HETATM    5  O3  OXL A 695     -29.509  25.714  -0.354  1.00 46.02           O  
+HETATM    6  O4  OXL A 695     -31.531  24.804   1.114  1.00 37.25           O  
+HETATM    7  C1  OXL A 696      12.644  24.757  18.757  1.00 33.93           C  
+HETATM    8  O1  OXL A 696      13.243  24.499  17.655  1.00 19.95           O  
+HETATM    9  C2  OXL A 696      11.897  26.150  18.730  1.00 22.95           C  
+HETATM   10  O2  OXL A 696      11.980  26.742  17.600  1.00 20.00           O  
+HETATM   11  O3  OXL A 696      12.616  24.075  19.847  1.00 31.43           O  
+HETATM   12  O4  OXL A 696      11.298  26.494  19.845  1.00 29.55           O  
+CONECT    1    2    3    5
+CONECT    2    1
+CONECT    3    1    4    6
+CONECT    4    3
+CONECT    5    1
+CONECT    6    3
+CONECT    7    8    9   11
+CONECT    8    7
+CONECT    9    7   10   12
+CONECT   10    9
+CONECT   11    7
+CONECT   12    9
+END

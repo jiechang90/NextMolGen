@@ -1,0 +1,16 @@
+CRYST1  141.063  141.063  260.792  90.00  90.00 120.00 P 62 2 2      2
+HETATM    1  C1  MLI B 402      38.335   2.258  36.943  1.00 35.60           C  
+HETATM    2  C2  MLI B 402      38.422   1.327  35.767  1.00 37.86           C  
+HETATM    3  C3  MLI B 402      39.528   3.158  36.945  1.00 38.42           C  
+HETATM    4  O6  MLI B 402      37.906   1.640  34.673  1.00 33.92           O  
+HETATM    5  O7  MLI B 402      39.001   0.245  35.938  1.00 33.90           O  
+HETATM    6  O8  MLI B 402      39.356   4.363  36.599  1.00 40.65           O  
+HETATM    7  O9  MLI B 402      40.621   2.642  37.302  1.00 30.96           O  
+CONECT    1    2    3
+CONECT    2    1    4    5
+CONECT    3    1    6    7
+CONECT    4    2
+CONECT    5    2
+CONECT    6    3
+CONECT    7    3
+END

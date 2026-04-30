@@ -1,0 +1,32 @@
+CRYST1   59.580   66.620  152.510  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1 BPGE A1604      52.301 -16.531   6.754  0.50  0.00           C  
+ANISOU    1  C1 BPGE A1604     3070   2678   2743    145     32    -67       C  
+HETATM    2  O1 BPGE A1604      52.472 -17.824   7.358  0.50  0.00           O  
+ANISOU    2  O1 BPGE A1604     2949   2945   2454    241    -98   -114       O  
+HETATM    3  C2 BPGE A1604      51.085 -15.811   7.324  0.50  0.00           C  
+ANISOU    3  C2 BPGE A1604     3088   2740   2549    343    115     99       C  
+HETATM    4  O2 BPGE A1604      51.556 -14.761   8.158  0.50  0.00           O  
+ANISOU    4  O2 BPGE A1604     2938   2926   3400     -3   -254     61       O  
+HETATM    5  C3 BPGE A1604      50.588 -13.718   8.393  0.50  0.00           C  
+ANISOU    5  C3 BPGE A1604     3119   2352   2624   -199     48    229       C  
+HETATM    6  O3 BPGE A1604      49.535 -14.105  10.797  0.50  0.00           O  
+ANISOU    6  O3 BPGE A1604     3861   3594   3803    111    -31    103       O  
+HETATM    7  C4 BPGE A1604      49.377 -14.141   9.313  0.50  0.00           C  
+ANISOU    7  C4 BPGE A1604     3349   3271   3429    -18     26     29       C  
+HETATM    8  O4 BPGE A1604      49.398 -13.553  13.584  0.50  0.00           O  
+ANISOU    8  O4 BPGE A1604     4285   4143   3872      0     35     85       O  
+HETATM    9  C5 BPGE A1604      48.351 -14.454  11.536  0.50  0.00           C  
+ANISOU    9  C5 BPGE A1604     3811   3531   3389     10    -12      3       C  
+HETATM   10  C6 BPGE A1604      48.441 -14.450  13.080  0.50  0.00           C  
+ANISOU   10  C6 BPGE A1604     3983   3913   3891     79      0    -45       C  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3    5
+CONECT    5    4    7
+CONECT    6    7    9
+CONECT    7    5    6
+CONECT    8   10
+CONECT    9    6   10
+CONECT   10    8    9
+END

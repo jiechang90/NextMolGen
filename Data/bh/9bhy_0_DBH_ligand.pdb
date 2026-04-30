@@ -1,0 +1,34 @@
+CRYST1   56.410   74.478   75.493  85.04  69.89  70.29 P 1           1
+HETATM    1  C3  DBH A 601       2.749  19.924  17.418  0.82 22.74           C  
+HETATM    2  O3  DBH A 601       1.356  19.757  17.359  0.82 20.91           O  
+HETATM    3  C6  DBH A 601       3.588  19.252  16.548  0.82 21.94           C  
+HETATM    4  O6  DBH A 601       3.046  18.388  15.596  0.82 23.09           O  
+HETATM    5  C9  DBH A 601       4.962  19.429  16.617  0.82 21.67           C  
+HETATM    6  O9  DBH A 601       2.962  22.390  20.073  0.82 29.71           O  
+HETATM    7  C12 DBH A 601       5.509  20.280  17.559  0.82 22.16           C  
+HETATM    8  C15 DBH A 601       4.680  20.952  18.439  0.82 24.08           C  
+HETATM    9  O17 DBH A 601       1.168  21.367  19.314  0.82 25.42           O  
+HETATM   10  C18 DBH A 601       3.308  20.769  18.365  0.82 25.21           C  
+HETATM   11  C21 DBH A 601       2.416  21.540  19.319  0.82 24.52           C  
+HETATM   12 HC12 DBH A 601       6.582  20.419  17.609  0.82 26.60           H  
+HETATM   13 HC15 DBH A 601       5.101  21.619  19.182  0.82 28.90           H  
+HETATM   14  HC9 DBH A 601       5.609  18.898  15.929  0.82 26.00           H  
+HETATM   15  HO3 DBH A 601       1.122  19.316  16.560  0.82 25.09           H  
+HETATM   16  HO6 DBH A 601       2.360  18.841  15.133  0.82 27.71           H  
+CONECT    1    2    3   10
+CONECT    2    1   15
+CONECT    3    1    4    5
+CONECT    4    3   16
+CONECT    5    3   14    7
+CONECT    6   11
+CONECT    7    5   12    8
+CONECT    8    7   13   10
+CONECT    9   11
+CONECT   10    1    8   11
+CONECT   11    9    6   10
+CONECT   12    7
+CONECT   13    8
+CONECT   14    5
+CONECT   15    2
+CONECT   16    4
+END

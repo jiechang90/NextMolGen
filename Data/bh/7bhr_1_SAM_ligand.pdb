@@ -1,0 +1,56 @@
+CRYST1   67.454   94.211  117.297  90.00  90.00  90.00 I 2 2 2       1
+HETATM    1  N   SAM A 402      43.885  39.044  43.330  1.00 20.14           N  
+HETATM    2  CA  SAM A 402      44.694  37.920  42.812  1.00 16.92           C  
+HETATM    3  C   SAM A 402      46.126  37.984  43.311  1.00 14.38           C  
+HETATM    4  O   SAM A 402      47.075  37.659  42.622  1.00 14.58           O  
+HETATM    5  CB  SAM A 402      44.642  37.921  41.284  1.00 22.46           C  
+HETATM    6  CG  SAM A 402      43.276  37.477  40.777  1.00 23.95           C  
+HETATM    7  SD  SAM A 402      42.824  35.732  41.016  1.00 18.90           S  
+HETATM    8  CE  SAM A 402      43.979  34.833  39.972  1.00 18.56           C  
+HETATM    9  C5' SAM A 402      41.379  35.988  40.028  1.00 15.25           C  
+HETATM   10  C4' SAM A 402      40.412  34.831  39.966  1.00 12.12           C  
+HETATM   11  O4' SAM A 402      41.143  33.667  39.517  1.00 13.37           O  
+HETATM   12  C3' SAM A 402      39.789  34.422  41.292  1.00 12.09           C  
+HETATM   13  O3' SAM A 402      38.632  35.199  41.594  1.00 14.27           O  
+HETATM   14  C2' SAM A 402      39.461  32.955  41.037  1.00 12.32           C  
+HETATM   15  O2' SAM A 402      38.311  32.807  40.226  1.00 12.75           O  
+HETATM   16  C1' SAM A 402      40.680  32.528  40.225  1.00 11.82           C  
+HETATM   17  OXT SAM A 402      46.228  38.381  44.532  1.00 15.24           O  
+HETATM   18  N1  SAM A 402      44.526  29.155  40.284  1.00 12.40           N  
+HETATM   19  C2  SAM A 402      43.729  29.587  39.302  1.00 11.51           C  
+HETATM   20  N3  SAM A 402      42.760  30.505  39.355  1.00 11.90           N  
+HETATM   21  C4  SAM A 402      42.673  31.043  40.587  1.00 11.06           C  
+HETATM   22  C5  SAM A 402      43.417  30.689  41.701  1.00 11.40           C  
+HETATM   23  C6  SAM A 402      44.398  29.696  41.520  1.00 11.20           C  
+HETATM   24  N6  SAM A 402      45.199  29.241  42.498  1.00 13.11           N  
+HETATM   25  N7  SAM A 402      43.024  31.426  42.810  1.00 11.41           N  
+HETATM   26  C8  SAM A 402      42.016  32.138  42.368  1.00 11.08           C  
+HETATM   27  N9  SAM A 402      41.762  31.971  41.027  1.00 11.06           N  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4   17
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10
+CONECT   10    9   11   12
+CONECT   11   10   16
+CONECT   12   10   13   14
+CONECT   13   12
+CONECT   14   12   15   16
+CONECT   15   14
+CONECT   16   11   14   27
+CONECT   17    3
+CONECT   18   19   23
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22   27
+CONECT   22   21   23   25
+CONECT   23   22   18   24
+CONECT   24   23
+CONECT   25   22   26
+CONECT   26   25   27
+CONECT   27   16   21   26
+END

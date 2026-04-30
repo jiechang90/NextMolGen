@@ -1,0 +1,30 @@
+CRYST1  173.490   58.120   68.650  90.00 108.29  90.00 C 1 2 1       1
+HETATM    1  N   BTB A1546      87.010   9.022  16.206  1.00 63.68           N  
+HETATM    2  C1  BTB A1546      84.916   7.864  15.555  1.00 64.20           C  
+HETATM    3  O1  BTB A1546      84.136   7.975  16.740  1.00 64.69           O  
+HETATM    4  C2  BTB A1546      85.813   9.097  15.339  1.00 64.03           C  
+HETATM    5  C3  BTB A1546      85.034  10.395  15.553  1.00 64.06           C  
+HETATM    6  O3  BTB A1546      83.779  10.357  14.890  1.00 64.61           O  
+HETATM    7  C4  BTB A1546      86.296   9.120  13.888  1.00 63.64           C  
+HETATM    8  O4  BTB A1546      86.670   7.819  13.461  1.00 63.25           O  
+HETATM    9  C5  BTB A1546      87.489   7.706  16.665  1.00 63.20           C  
+HETATM   10  C6  BTB A1546      87.460   7.590  18.187  1.00 62.72           C  
+HETATM   11  O6  BTB A1546      86.201   7.122  18.636  1.00 61.32           O  
+HETATM   12  C7  BTB A1546      87.776  10.245  16.504  1.00 63.73           C  
+HETATM   13  C8  BTB A1546      87.542  10.734  17.935  1.00 64.61           C  
+HETATM   14  O8  BTB A1546      86.159  10.916  18.212  1.00 66.07           O  
+CONECT    1    9   12    4
+CONECT    2    3    4
+CONECT    3    2
+CONECT    4    2    1    5    7
+CONECT    5    4    6
+CONECT    6    5
+CONECT    7    4    8
+CONECT    8    7
+CONECT    9    1   10
+CONECT   10    9   11
+CONECT   11   10
+CONECT   12    1   13
+CONECT   13   12   14
+CONECT   14   13
+END

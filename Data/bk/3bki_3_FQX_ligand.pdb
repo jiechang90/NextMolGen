@@ -1,0 +1,34 @@
+CRYST1   62.340   92.260  195.240  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  CAD FQX P 264       2.719  -4.011   9.654  1.00 24.19           C  
+HETATM    2  CAE FQX P 264       0.472  -5.482   8.698  1.00 20.96           C  
+HETATM    3  CAJ FQX P 264       2.250  -2.466   6.283  1.00 20.22           C  
+HETATM    4  CAK FQX P 264       1.139  -3.194   5.810  1.00 20.32           C  
+HETATM    5  CAL FQX P 264       2.125  -5.017  10.443  1.00 25.52           C  
+HETATM    6  CAM FQX P 264       2.178  -3.748   8.383  1.00 21.66           C  
+HETATM    7  CAN FQX P 264       1.059  -4.481   7.906  1.00 19.91           C  
+HETATM    8  CAO FQX P 264       1.022  -5.740   9.973  1.00 26.07           C  
+HETATM    9  NAF FQX P 264       2.451  -5.440  11.663  1.00 27.46           N  
+HETATM   10  NAG FQX P 264       2.754  -2.759   7.572  1.00 20.67           N  
+HETATM   11  NAH FQX P 264       0.555  -4.189   6.618  1.00 19.00           N  
+HETATM   12  NAP FQX P 264       0.682  -6.608  10.906  1.00 26.38           N  
+HETATM   13  OAA FQX P 264       2.833  -1.585   5.664  1.00 21.84           O  
+HETATM   14  OAB FQX P 264       0.604  -3.034   4.722  1.00 18.42           O  
+HETATM   15  OAC FQX P 264      -0.410  -7.508  10.726  1.00 31.21           O  
+HETATM   16  OAI FQX P 264       1.555  -6.473  12.023  1.00 31.66           O  
+CONECT    1    6    5
+CONECT    2    8    7
+CONECT    3    4   10   13
+CONECT    4    3   11   14
+CONECT    5    1    8    9
+CONECT    6    1   10    7
+CONECT    7    2    6   11
+CONECT    8    2    5   12
+CONECT    9    5   16
+CONECT   10    3    6
+CONECT   11    4    7
+CONECT   12    8   15   16
+CONECT   13    3
+CONECT   14    4
+CONECT   15   12
+CONECT   16   12    9
+END

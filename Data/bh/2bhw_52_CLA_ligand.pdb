@@ -1,0 +1,96 @@
+CRYST1  211.400  128.000   62.000  90.00 101.80  90.00 C 1 2 1       1
+HETATM    1  CAA CLA B 608      75.278  51.237  58.095  1.00103.42           C  
+HETATM    2  CAB CLA B 608      79.898  53.935  65.480  1.00 93.58           C  
+HETATM    3  CAC CLA B 608      79.997  60.379  60.198  1.00 90.21           C  
+HETATM    4  CAD CLA B 608      74.840  55.796  55.946  1.00102.00           C  
+HETATM    5  NA  CLA B 608      76.066  53.780  60.206  1.00 97.55           N  
+HETATM    6  CBA CLA B 608      76.563  51.720  57.375  1.00109.64           C  
+HETATM    7  CBB CLA B 608      80.757  54.958  65.743  1.00 90.60           C  
+HETATM    8  CBC CLA B 608      80.656  60.032  58.889  1.00 88.94           C  
+HETATM    9  CBD CLA B 608      74.522  54.447  56.636  1.00102.20           C  
+HETATM   10  NB  CLA B 608      77.877  54.576  62.392  1.00 97.97           N  
+HETATM   11  OBD CLA B 608      74.448  56.047  54.812  1.00104.36           O  
+HETATM   12  CGA CLA B 608      77.493  50.531  57.062  1.00115.25           C  
+HETATM   13  CGD CLA B 608      73.046  54.222  56.892  1.00105.78           C  
+HETATM   14  ND  CLA B 608      76.746  56.347  58.857  1.00 98.25           N  
+HETATM   15  CED CLA B 608      71.085  54.648  58.365  1.00103.28           C  
+HETATM   16  CHA CLA B 608      75.240  54.520  57.990  1.00100.47           C  
+HETATM   17  CHB CLA B 608      76.621  52.514  62.234  1.00 97.15           C  
+HETATM   18  CHC CLA B 608      79.464  56.316  63.166  1.00 96.39           C  
+HETATM   19  CHD CLA B 608      78.012  58.407  58.934  1.00 96.04           C  
+HETATM   20  CMA CLA B 608      73.820  51.580  61.393  1.00 88.95           C  
+HETATM   21  CMB CLA B 608      78.044  51.757  64.825  1.00 98.18           C  
+HETATM   22  CMC CLA B 608      80.928  59.111  63.044  1.00 92.07           C  
+HETATM   23  CMD CLA B 608      76.586  58.812  55.979  1.00 96.82           C  
+HETATM   24  C1  CLA B 608      79.747  49.516  56.838  1.00116.64           C  
+HETATM   25  C1A CLA B 608      75.324  53.571  59.043  1.00 98.86           C  
+HETATM   26  C1B CLA B 608      77.509  53.344  62.833  1.00 97.96           C  
+HETATM   27  C1C CLA B 608      79.282  57.228  62.108  1.00 95.81           C  
+HETATM   28  C1D CLA B 608      77.099  57.531  58.297  1.00 97.71           C  
+HETATM   29  O1A CLA B 608      77.004  49.371  57.038  1.00115.50           O  
+HETATM   30  O1D CLA B 608      72.396  53.345  56.216  1.00108.03           O  
+HETATM   31  C2  CLA B 608      81.091  49.898  56.468  1.00115.01           C  
+HETATM   32  C2A CLA B 608      74.675  52.214  59.077  1.00 97.66           C  
+HETATM   33  C2B CLA B 608      78.206  53.036  64.046  1.00 97.19           C  
+HETATM   34  C2C CLA B 608      79.936  58.519  62.003  1.00 94.13           C  
+HETATM   35  C2D CLA B 608      76.465  57.672  56.971  1.00 97.45           C  
+HETATM   36  O2A CLA B 608      78.857  50.688  56.757  1.00117.73           O  
+HETATM   37  O2D CLA B 608      72.465  54.888  58.001  1.00106.19           O  
+HETATM   38  C3  CLA B 608      81.625  50.212  55.224  1.00114.62           C  
+HETATM   39  C3A CLA B 608      75.031  51.660  60.458  1.00 92.85           C  
+HETATM   40  C3B CLA B 608      79.025  54.057  64.337  1.00 95.41           C  
+HETATM   41  C3C CLA B 608      79.533  59.086  60.809  1.00 92.71           C  
+HETATM   42  C3D CLA B 608      75.726  56.544  56.822  1.00 99.51           C  
+HETATM   43  C4A CLA B 608      75.951  52.692  61.049  1.00 96.10           C  
+HETATM   44  C4B CLA B 608      78.822  55.061  63.272  1.00 96.87           C  
+HETATM   45  C4C CLA B 608      78.638  58.170  60.188  1.00 94.55           C  
+HETATM   46  C4D CLA B 608      75.902  55.747  57.991  1.00 99.57           C  
+HETATM   47  NC  CLA B 608      78.502  57.041  60.988  1.00 96.37           N  
+CONECT    1    6   32
+CONECT    2    7   40
+CONECT    3    8   41
+CONECT    4    9   11   42
+CONECT    5   25   43
+CONECT    6    1   12
+CONECT    7    2
+CONECT    8    3
+CONECT    9    4   13   16
+CONECT   10   26   44
+CONECT   11    4
+CONECT   12    6   29   36
+CONECT   13    9   30   37
+CONECT   14   28   46
+CONECT   15   37
+CONECT   16    9   25   46
+CONECT   17   26   43
+CONECT   18   27   44
+CONECT   19   28   45
+CONECT   20   39
+CONECT   21   33
+CONECT   22   34
+CONECT   23   35
+CONECT   24   31   36
+CONECT   25    5   16   32
+CONECT   26   10   17   33
+CONECT   27   18   34   47
+CONECT   28   14   19   35
+CONECT   29   12
+CONECT   30   13
+CONECT   31   24   38
+CONECT   32   25    1   39
+CONECT   33   26   21   40
+CONECT   34   27   22   41
+CONECT   35   28   23   42
+CONECT   36   12   24
+CONECT   37   13   15
+CONECT   38   31
+CONECT   39   32   20   43
+CONECT   40   33    2   44
+CONECT   41   34    3   45
+CONECT   42   35    4   46
+CONECT   43    5   17   39
+CONECT   44   10   18   40
+CONECT   45   19   41   47
+CONECT   46   14   16   42
+CONECT   47   27   45
+END

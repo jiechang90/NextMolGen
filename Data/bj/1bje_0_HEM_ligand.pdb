@@ -1,0 +1,88 @@
+CRYST1   64.019   28.812   35.840  90.00 106.95  90.00 P 1 21 1      1
+HETATM    1  CAA HEM A 154      15.269  34.433   7.741  1.00 10.73           C  
+HETATM    2  CAB HEM A 154      12.007  25.022   7.318  1.00 11.70           C  
+HETATM    3  CAC HEM A 154      15.013  26.724   0.131  1.00 10.34           C  
+HETATM    4  CAD HEM A 154      16.743  34.060   2.687  1.00 15.68           C  
+HETATM    5  NA  HEM A 154      14.551  30.941   6.401  1.00 11.98           N  
+HETATM    6  CBA HEM A 154      14.070  35.413   7.984  1.00 10.05           C  
+HETATM    7  CBB HEM A 154      12.020  24.056   8.462  1.00 13.43           C  
+HETATM    8  CBC HEM A 154      15.122  25.289  -0.361  1.00 13.52           C  
+HETATM    9  CBD HEM A 154      18.284  33.764   2.910  1.00 18.12           C  
+HETATM   10  NB  HEM A 154      13.583  28.293   6.301  1.00 10.17           N  
+HETATM   11  CGA HEM A 154      13.100  35.453   6.802  1.00 10.76           C  
+HETATM   12  CGD HEM A 154      19.093  34.991   3.113  1.00 20.83           C  
+HETATM   13  ND  HEM A 154      15.140  30.796   3.635  1.00 11.94           N  
+HETATM   14  CHA HEM A 154      15.392  32.789   5.076  1.00 13.28           C  
+HETATM   15  CHB HEM A 154      13.734  29.636   8.337  1.00 11.76           C  
+HETATM   16  CHC HEM A 154      13.115  26.418   4.810  1.00  9.66           C  
+HETATM   17  CHD HEM A 154      15.281  29.356   1.652  1.00 10.30           C  
+HETATM   18  CMA HEM A 154      14.149  32.236   9.938  1.00  9.98           C  
+HETATM   19  CMB HEM A 154      12.399  27.162   9.761  1.00  5.56           C  
+HETATM   20  CMC HEM A 154      13.497  24.682   2.226  1.00 10.04           C  
+HETATM   21  CMD HEM A 154      16.622  31.852   0.284  1.00 12.33           C  
+HETATM   22  C1A HEM A 154      14.986  32.252   6.267  1.00 11.08           C  
+HETATM   23  C1B HEM A 154      13.378  28.469   7.678  1.00  9.82           C  
+HETATM   24  C1C HEM A 154      13.700  26.899   3.668  1.00  8.82           C  
+HETATM   25  C1D HEM A 154      15.484  30.552   2.310  1.00 11.68           C  
+HETATM   26  O1A HEM A 154      13.584  35.739   5.681  1.00  6.76           O  
+HETATM   27  O1D HEM A 154      19.756  35.389   2.123  1.00 24.02           O  
+HETATM   28  C2A HEM A 154      14.890  32.932   7.537  1.00 11.19           C  
+HETATM   29  C2B HEM A 154      12.772  27.327   8.257  1.00  7.84           C  
+HETATM   30  C2C HEM A 154      13.958  26.145   2.447  1.00 10.52           C  
+HETATM   31  C2D HEM A 154      16.077  31.719   1.740  1.00 11.32           C  
+HETATM   32  O2A HEM A 154      11.891  35.084   7.092  1.00 11.75           O  
+HETATM   33  O2D HEM A 154      19.083  35.528   4.233  1.00 25.02           O  
+HETATM   34  C3A HEM A 154      14.431  32.062   8.449  1.00 11.07           C  
+HETATM   35  C3B HEM A 154      12.613  26.415   7.294  1.00  9.26           C  
+HETATM   36  C3C HEM A 154      14.555  26.974   1.568  1.00  9.60           C  
+HETATM   37  C3D HEM A 154      16.085  32.636   2.687  1.00 12.81           C  
+HETATM   38  C4A HEM A 154      14.192  30.802   7.744  1.00 12.41           C  
+HETATM   39  C4B HEM A 154      13.104  27.006   6.059  1.00 10.70           C  
+HETATM   40  C4C HEM A 154      14.747  28.250   2.246  1.00  8.86           C  
+HETATM   41  C4D HEM A 154      15.530  32.093   3.885  1.00 12.54           C  
+HETATM   42  NC  HEM A 154      14.210  28.182   3.514  1.00  9.75           N  
+HETATM   43 FE   HEM A 154      14.308  29.566   4.953  1.00 13.90          FE  
+CONECT    1    6   28
+CONECT    2    7   35
+CONECT    3    8   36
+CONECT    4    9   37
+CONECT    5   43   22   38
+CONECT    6    1   11
+CONECT    7    2
+CONECT    8    3
+CONECT    9    4   12
+CONECT   10   43   23   39
+CONECT   11    6   26   32
+CONECT   12    9   27   33
+CONECT   13   43   25   41
+CONECT   14   22   41
+CONECT   15   23   38
+CONECT   16   24   39
+CONECT   17   25   40
+CONECT   18   34
+CONECT   19   29
+CONECT   20   30
+CONECT   21   31
+CONECT   22   14    5   28
+CONECT   23   15   10   29
+CONECT   24   16   30   42
+CONECT   25   17   13   31
+CONECT   26   11
+CONECT   27   12
+CONECT   28   22    1   34
+CONECT   29   23   19   35
+CONECT   30   24   20   36
+CONECT   31   25   21   37
+CONECT   32   11
+CONECT   33   12
+CONECT   34   28   18   38
+CONECT   35   29    2   39
+CONECT   36   30    3   40
+CONECT   37   31    4   41
+CONECT   38   15   34    5
+CONECT   39   16   35   10
+CONECT   40   17   36   42
+CONECT   41   14   37   13
+CONECT   42   24   40   43
+CONECT   43    5   10   13   42
+END

@@ -1,0 +1,22 @@
+CRYST1   56.329   74.170   75.557  85.05  69.91  70.09 P 1           1
+HETATM    1  C1  EDO B 602       0.903 -24.521 -21.769  1.00 56.39           C  
+HETATM    2  O1  EDO B 602       0.987 -23.455 -22.744  1.00 55.89           O  
+HETATM    3  C2  EDO B 602       1.615 -25.792 -22.256  1.00 55.68           C  
+HETATM    4  O2  EDO B 602       1.291 -26.932 -21.429  1.00 56.20           O  
+HETATM    5  HO1 EDO B 602       0.497 -22.685 -22.423  1.00 67.03           H  
+HETATM    6  HO2 EDO B 602       1.747 -27.715 -21.766  1.00 67.40           H  
+HETATM    7  H11 EDO B 602      -0.147 -24.748 -21.572  1.00 67.63           H  
+HETATM    8  H12 EDO B 602       1.357 -24.190 -20.832  1.00 67.63           H  
+HETATM    9  H21 EDO B 602       2.695 -25.630 -22.241  1.00 66.78           H  
+HETATM   10  H22 EDO B 602       1.321 -25.999 -23.287  1.00 66.78           H  
+CONECT    1    2    3    7    8
+CONECT    2    1    5
+CONECT    3    1    4    9   10
+CONECT    4    3    6
+CONECT    5    2
+CONECT    6    4
+CONECT    7    1
+CONECT    8    1
+CONECT    9    3
+CONECT   10    3
+END

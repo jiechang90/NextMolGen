@@ -1,0 +1,20 @@
+CRYST1   75.404   75.404  279.606  90.00  90.00 120.00 H 3 2         3
+HETATM    1  CA  PYR A 201     -43.737  75.540  54.335  1.00 26.51           C  
+HETATM    2  C   PYR A 201     -42.600  76.597  54.178  1.00 25.77           C  
+HETATM    3  O   PYR A 201     -42.715  77.631  54.846  1.00 25.80           O  
+HETATM    4  CB  PYR A 201     -45.140  75.977  53.964  1.00 42.00           C  
+HETATM    5  OXT PYR A 201     -41.684  76.276  53.389  1.00 28.18           O  
+HETATM    6  O3  PYR A 201     -43.477  74.409  54.702  1.00 18.91           O  
+HETATM    7  HB1 PYR A 201     -45.285  75.923  53.007  1.00 50.40           H  
+HETATM    8  HB2 PYR A 201     -45.306  76.894  54.234  1.00 50.40           H  
+HETATM    9  HB3 PYR A 201     -45.808  75.421  54.394  1.00 50.40           H  
+CONECT    1    4    6    2
+CONECT    2    1    3    5
+CONECT    3    2
+CONECT    4    1    7    8    9
+CONECT    5    2
+CONECT    6    1
+CONECT    7    4
+CONECT    8    4
+CONECT    9    4
+END

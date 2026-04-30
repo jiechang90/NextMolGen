@@ -1,0 +1,16 @@
+CRYST1   88.848   90.835  188.547  90.00  90.00  90.00 F 2 2 2       1
+HETATM    1  C1  TAU A 331      34.746   9.095  35.889  1.00 55.54           C  
+HETATM    2  N1  TAU A 331      35.413   8.823  36.900  1.00 55.53           N  
+HETATM    3  O1  TAU A 331      32.090   8.328  35.144  1.00 55.61           O  
+HETATM    4  C2  TAU A 331      34.327   9.371  34.731  1.00 55.54           C  
+HETATM    5  O2  TAU A 331      32.229  10.722  34.815  1.00 55.40           O  
+HETATM    6  O3  TAU A 331      32.599   9.219  32.959  1.00 55.63           O  
+HETATM    7  S   TAU A 331      32.790   9.413  34.415  1.00 55.58           S  
+CONECT    1    2    4
+CONECT    2    1
+CONECT    3    7
+CONECT    4    1    7
+CONECT    5    7
+CONECT    6    7
+CONECT    7    4    3    5    6
+END

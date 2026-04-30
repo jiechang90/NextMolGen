@@ -1,0 +1,16 @@
+CRYST1   38.753   56.557   56.009  90.00 103.53  90.00 P 1 21 1      1
+HETATM    1  C1  PEG A 401       4.626  21.901 -16.538  1.00 60.94           C  
+HETATM    2  O1  PEG A 401       4.964  23.222 -16.082  1.00 61.81           O  
+HETATM    3  C2  PEG A 401       4.115  21.064 -15.369  1.00 60.77           C  
+HETATM    4  O2  PEG A 401       2.830  20.521 -15.679  1.00 60.54           O  
+HETATM    5  C3  PEG A 401       2.009  20.375 -14.514  1.00 59.44           C  
+HETATM    6  C4  PEG A 401       0.554  20.164 -14.926  1.00 58.47           C  
+HETATM    7  O4  PEG A 401      -0.278  21.190 -14.381  1.00 57.01           O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7
+CONECT    7    6
+END

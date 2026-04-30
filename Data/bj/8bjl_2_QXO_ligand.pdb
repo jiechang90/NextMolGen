@@ -1,0 +1,44 @@
+CRYST1   47.073   66.280   49.342  90.00  92.66  90.00 P 1 21 1      1
+HETATM    1  N  BQXO A 402      84.960   5.697  67.178  0.36 10.78           N  
+ANISOU    1  N  BQXO A 402     1468   1832    796    155     84    118       N  
+HETATM    2  C  BQXO A 402      86.757   4.448  66.025  0.36  9.79           C  
+ANISOU    2  C  BQXO A 402     1432   1653    634     33    -17    107       C  
+HETATM    3  O  BQXO A 402      88.059   4.246  66.010  0.36  9.78           O  
+ANISOU    3  O  BQXO A 402     1532   1566    618     37    158    137       O  
+HETATM    4  C1 BQXO A 402      86.222   4.978  67.335  0.36 10.06           C  
+ANISOU    4  C1 BQXO A 402     1403   1747    671    148     17    126       C  
+HETATM    5  O1 BQXO A 402      86.029   4.227  65.079  0.36  9.32           O  
+ANISOU    5  O1 BQXO A 402     1380   1633    529    -71   -190     20       O  
+HETATM    6  C2 BQXO A 402      83.761   5.359  67.766  0.36 11.27           C  
+ANISOU    6  C2 BQXO A 402     1535   1907    840    163    111     84       C  
+HETATM    7  C3 BQXO A 402      82.807   6.256  67.435  0.36 11.68           C  
+ANISOU    7  C3 BQXO A 402     1620   1938    881    135     93     40       C  
+HETATM    8  C4 BQXO A 402      83.421   7.232  66.586  0.36 11.90           C  
+ANISOU    8  C4 BQXO A 402     1645   1951    925    119     71      7       C  
+HETATM    9  C5 BQXO A 402      84.766   6.852  66.437  0.36 11.33           C  
+ANISOU    9  C5 BQXO A 402     1572   1883    850    131    100     57       C  
+HETATM   10  C6 BQXO A 402      85.649   7.584  65.655  0.36 11.42           C  
+ANISOU   10  C6 BQXO A 402     1613   1894    830     75    162     21       C  
+HETATM   11  C7 BQXO A 402      85.153   8.712  65.038  0.36 11.75           C  
+ANISOU   11  C7 BQXO A 402     1650   1935    879     82    153     11       C  
+HETATM   12  C8 BQXO A 402      83.850   9.139  65.160  0.36 12.03           C  
+ANISOU   12  C8 BQXO A 402     1684   1969    920    101     85      2       C  
+HETATM   13  C9 BQXO A 402      82.982   8.390  65.937  0.36 12.14           C  
+ANISOU   13  C9 BQXO A 402     1670   1990    954    124     47      4       C  
+HETATM   14  F  BQXO A 402      86.003   9.439  64.264  0.36 12.03           F  
+ANISOU   14  F  BQXO A 402     1699   1935    936    154    213     72       F  
+CONECT    1    4    6    9
+CONECT    2    3    4    5
+CONECT    3    2
+CONECT    4    1    2
+CONECT    5    2
+CONECT    6    1    7
+CONECT    7    6    8
+CONECT    8    7    9   13
+CONECT    9    1    8   10
+CONECT   10    9   11
+CONECT   11   10   12   14
+CONECT   12   11   13
+CONECT   13    8   12
+CONECT   14   11
+END

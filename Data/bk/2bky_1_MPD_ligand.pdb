@@ -1,0 +1,18 @@
+CRYST1  102.788  102.788   66.566  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  CM  MPD A1099      -3.536  37.406  38.414  1.00 28.05           C  
+HETATM    2  C1  MPD A1099      -2.721  39.057  36.784  1.00 26.09           C  
+HETATM    3  C2  MPD A1099      -2.298  37.861  37.643  1.00 27.07           C  
+HETATM    4  O2  MPD A1099      -1.809  36.705  36.869  1.00 22.56           O  
+HETATM    5  C3  MPD A1099      -1.161  38.266  38.588  1.00 28.16           C  
+HETATM    6  C4  MPD A1099      -0.788  37.156  39.593  1.00 29.56           C  
+HETATM    7  O4  MPD A1099      -0.344  35.981  38.945  1.00 29.50           O  
+HETATM    8  C5  MPD A1099       0.319  37.555  40.568  1.00 30.52           C  
+CONECT    1    3
+CONECT    2    3
+CONECT    3    2    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5    7    8
+CONECT    7    6
+CONECT    8    6
+END

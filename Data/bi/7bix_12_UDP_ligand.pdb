@@ -1,0 +1,52 @@
+CRYST1  197.470  152.820  125.110  90.00 121.39  90.00 C 1 2 1       4
+HETATM    1  PA  UDP J 302     -14.314   2.995  32.631  1.00 63.61           P  
+HETATM    2  PB  UDP J 302     -15.725   1.470  34.610  0.90 61.03           P  
+HETATM    3  C5' UDP J 302     -16.025   3.700  30.757  1.00 50.95           C  
+HETATM    4  O5' UDP J 302     -15.053   4.080  31.752  1.00 56.14           O  
+HETATM    5  C4' UDP J 302     -15.462   4.009  29.394  1.00 49.09           C  
+HETATM    6  O4' UDP J 302     -15.499   5.432  29.164  1.00 51.38           O  
+HETATM    7  C3' UDP J 302     -14.002   3.640  29.194  1.00 50.48           C  
+HETATM    8  O3' UDP J 302     -13.859   2.260  28.879  1.00 62.26           O  
+HETATM    9  C2' UDP J 302     -13.608   4.539  28.023  1.00 45.31           C  
+HETATM   10  O2' UDP J 302     -14.001   3.971  26.779  1.00 38.75           O  
+HETATM   11  C1' UDP J 302     -14.433   5.802  28.301  1.00 52.70           C  
+HETATM   12  N1  UDP J 302     -13.663   6.883  28.939  1.00 57.74           N  
+HETATM   13  O1A UDP J 302     -13.403   2.255  31.726  1.00 72.81           O1-
+HETATM   14  O1B UDP J 302     -14.728   0.302  34.703  0.90 56.55           O1-
+HETATM   15  C2  UDP J 302     -12.663   7.479  28.195  1.00 57.46           C  
+HETATM   16  O2  UDP J 302     -12.397   7.143  27.050  1.00 66.61           O  
+HETATM   17  O2A UDP J 302     -13.689   3.625  33.875  1.00 60.10           O  
+HETATM   18  O2B UDP J 302     -15.259   2.619  35.507  0.90 69.72           O1-
+HETATM   19  N3  UDP J 302     -11.978   8.481  28.839  1.00 47.59           N  
+HETATM   20  O3A UDP J 302     -15.486   2.033  33.147  0.90 66.24           O  
+HETATM   21  O3B UDP J 302     -17.148   1.073  34.831  0.90 57.88           O  
+HETATM   22  C4  UDP J 302     -12.192   8.938  30.124  1.00 48.09           C  
+HETATM   23  O4  UDP J 302     -11.492   9.859  30.573  1.00 49.17           O  
+HETATM   24  C5  UDP J 302     -13.244   8.271  30.829  1.00 52.87           C  
+HETATM   25  C6  UDP J 302     -13.934   7.285  30.227  1.00 56.99           C  
+CONECT    1   13   17   20    4
+CONECT    2   14   18   21   20
+CONECT    3    4    5
+CONECT    4    3    1
+CONECT    5    3    6    7
+CONECT    6    5   11
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    6    9   12
+CONECT   12   11   15   25
+CONECT   13    1
+CONECT   14    2
+CONECT   15   12   16   19
+CONECT   16   15
+CONECT   17    1
+CONECT   18    2
+CONECT   19   15   22
+CONECT   20    1    2
+CONECT   21    2
+CONECT   22   19   23   24
+CONECT   23   22
+CONECT   24   22   25
+CONECT   25   12   24
+END

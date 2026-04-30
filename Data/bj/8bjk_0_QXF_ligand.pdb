@@ -1,0 +1,71 @@
+CRYST1   51.490   83.780   94.330  90.00  90.00  90.00 P 2 21 21     1
+HETATM    1 CL1  QXF A 804       8.757  -0.679  28.521  1.00 23.48          CL  
+ANISOU    1 CL1  QXF A 804     2822   3245   2854    218    300    -23      CL  
+HETATM    2  C1  QXF A 804       7.584   0.009  29.589  1.00  8.76           C  
+ANISOU    2  C1  QXF A 804      908   1737    683   -356   -346    319       C  
+HETATM    3  N1  QXF A 804       4.055   1.134  29.526  1.00  9.04           N  
+ANISOU    3  N1  QXF A 804      953   1098   1383    279     67    192       N  
+HETATM    4  O1  QXF A 804       5.717   6.584  25.350  1.00 10.61           O  
+ANISOU    4  O1  QXF A 804     1209   1772   1050    225    195     58       O  
+HETATM    5  S1  QXF A 804       2.973  -0.034  29.215  1.00 14.48           S  
+ANISOU    5  S1  QXF A 804     1790   1921   1791    169   -253   -135       S  
+HETATM    6  C2  QXF A 804       7.924   0.217  30.912  1.00  8.70           C  
+ANISOU    6  C2  QXF A 804     1085   1634    584     62    -15    -21       C  
+HETATM    7  N2  QXF A 804       3.823   4.797  29.309  1.00  8.16           N  
+ANISOU    7  N2  QXF A 804     1562    586    952     33     -4     31       N  
+HETATM    8  O2  QXF A 804       3.655  -1.196  28.741  1.00 15.47           O  
+ANISOU    8  O2  QXF A 804     2111   1598   2169    152   -157   -306       O  
+HETATM    9  C3  QXF A 804       6.963   0.724  31.755  1.00  9.44           C  
+ANISOU    9  C3  QXF A 804      603   1714   1269     70     41     60       C  
+HETATM   10  N3  QXF A 804       4.087   7.788  26.301  1.00  8.42           N  
+ANISOU   10  N3  QXF A 804     1321    767   1111    145    -21    153       N  
+HETATM   11  O3  QXF A 804       1.916   0.528  28.440  1.00 17.25           O  
+ANISOU   11  O3  QXF A 804     1884   2475   2193    371   -368     90       O  
+HETATM   12  C4  QXF A 804       5.693   1.002  31.284  1.00  7.62           C  
+ANISOU   12  C4  QXF A 804      750   1486    656      1   -110     46       C  
+HETATM   13  N4  QXF A 804       4.236   8.801  25.322  1.00  8.99           N  
+ANISOU   13  N4  QXF A 804     1516   1208    692    -30    -37    208       N  
+HETATM   14  C5  QXF A 804       5.371   0.820  29.939  1.00  7.15           C  
+ANISOU   14  C5  QXF A 804      790   1299    624    -34     12      8       C  
+HETATM   15  C6  QXF A 804       6.320   0.295  29.072  1.00  8.56           C  
+ANISOU   15  C6  QXF A 804      615   1528   1109     16    101     64       C  
+HETATM   16  C7  QXF A 804       3.513   2.457  29.805  1.00  7.91           C  
+ANISOU   16  C7  QXF A 804     1436    681    886    -66    -63    110       C  
+HETATM   17  C8  QXF A 804       3.899   3.541  28.845  1.00  7.07           C  
+ANISOU   17  C8  QXF A 804     1445    639    602     45     21      1       C  
+HETATM   18  C9  QXF A 804       4.319   3.237  27.564  1.00  7.63           C  
+ANISOU   18  C9  QXF A 804     1472    837    589    -12     88     38       C  
+HETATM   19  C10 QXF A 804       4.637   4.278  26.730  1.00  8.22           C  
+ANISOU   19  C10 QXF A 804     1569    523   1029    -47    -39     51       C  
+HETATM   20  C11 QXF A 804       4.526   5.591  27.166  1.00  6.77           C  
+ANISOU   20  C11 QXF A 804     1328    650    594     69     40    -42       C  
+HETATM   21  C12 QXF A 804       4.105   5.809  28.476  1.00  7.31           C  
+ANISOU   21  C12 QXF A 804     1365    852    557     22     45     27       C  
+HETATM   22  C13 QXF A 804       4.845   6.695  26.229  1.00  6.82           C  
+ANISOU   22  C13 QXF A 804     1075    698    815     35     41     43       C  
+HETATM   23  C14 QXF A 804       2.378  -0.384  30.781  1.00 13.86           C  
+ANISOU   23  C14 QXF A 804     1964   1867   1432    102   -356    -25       C  
+CONECT    1    2
+CONECT    2    1    6   15
+CONECT    3    5   16   14
+CONECT    4   22
+CONECT    5    3    8   11   23
+CONECT    6    2    9
+CONECT    7   17   21
+CONECT    8    5
+CONECT    9    6   12
+CONECT   10   13   22
+CONECT   11    5
+CONECT   12    9   14
+CONECT   13   10
+CONECT   14   12    3   15
+CONECT   15    2   14
+CONECT   16    3   17
+CONECT   17   16    7   18
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21   22
+CONECT   21   20    7
+CONECT   22   20    4   10
+CONECT   23    5
+END

@@ -1,0 +1,22 @@
+CRYST1   85.850   97.804   69.881  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  C1  AKG A 502      28.928  30.231  32.277  1.00 15.79           C  
+HETATM    2  O1  AKG A 502      30.146  30.026  32.475  1.00 12.43           O  
+HETATM    3  C2  AKG A 502      28.529  31.253  31.298  1.00 14.65           C  
+HETATM    4  O2  AKG A 502      28.095  29.552  32.921  1.00 13.30           O  
+HETATM    5  C3  AKG A 502      27.095  31.727  31.093  1.00 11.58           C  
+HETATM    6  O3  AKG A 502      24.512  31.168  28.526  1.00 13.35           O  
+HETATM    7  C4  AKG A 502      26.527  31.142  29.794  1.00 11.35           C  
+HETATM    8  O4  AKG A 502      24.448  31.818  30.638  1.00 13.06           O  
+HETATM    9  C5  AKG A 502      25.044  31.380  29.642  1.00 12.87           C  
+HETATM   10  O5  AKG A 502      29.435  31.763  30.626  1.00 13.21           O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5   10
+CONECT    4    1
+CONECT    5    3    7
+CONECT    6    9
+CONECT    7    5    9
+CONECT    8    9
+CONECT    9    7    6    8
+CONECT   10    3
+END

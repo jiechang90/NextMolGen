@@ -1,0 +1,25 @@
+CRYST1   71.950   71.950  115.470  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  N   CXM A   1      59.717 -16.180  30.911  1.00 24.78           N  
+HETATM    2  CA  CXM A   1      60.156 -14.887  30.370  1.00 25.01           C  
+HETATM    3  C   CXM A   1      60.861 -14.155  31.513  1.00 25.44           C  
+HETATM    4  O   CXM A   1      60.531 -14.401  32.694  1.00 23.13           O  
+HETATM    5  CB  CXM A   1      58.979 -13.986  29.971  1.00 26.21           C  
+HETATM    6  CG  CXM A   1      58.037 -14.511  28.983  1.00 28.65           C  
+HETATM    7  SD  CXM A   1      56.667 -13.366  28.677  1.00 29.50           S  
+HETATM    8  CE  CXM A   1      55.539 -13.666  30.044  1.00 28.04           C  
+HETATM    9  CN  CXM A   1      59.621 -17.327  30.220  1.00 23.95           C  
+HETATM   10  ON1 CXM A   1      59.724 -17.328  28.972  1.00 25.79           O  
+HETATM   11  ON2 CXM A   1      59.108 -18.301  30.779  1.00 24.33           O  
+TER   
+CONECT    1    2    9
+CONECT    2    1    3    5
+CONECT    3    2    4
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7
+CONECT    9    1   10   11
+CONECT   10    9
+CONECT   11    9
+END

@@ -1,0 +1,30 @@
+CRYST1   46.750  130.750   76.500  90.00  98.14  90.00 P 1 21 1      1
+HETATM    1  C1  FER A 908      11.331  -0.210  22.033  1.00 79.56           C  
+HETATM    2  O1  FER A 908      14.643   2.670  21.571  1.00 82.68           O  
+HETATM    3  C2  FER A 908      11.190  -1.197  21.030  1.00 78.30           C  
+HETATM    4  O2  FER A 908      14.008   3.602  23.444  1.00 83.38           O  
+HETATM    5  C3  FER A 908      10.137  -2.173  21.111  1.00 77.89           C  
+HETATM    6  O3  FER A 908       9.892  -3.194  20.190  1.00 77.58           O  
+HETATM    7  C4  FER A 908       9.234  -2.149  22.199  1.00 78.01           C  
+HETATM    8  O4  FER A 908       8.226  -3.104  22.251  1.00 77.08           O  
+HETATM    9  C5  FER A 908       9.365  -1.165  23.207  1.00 78.31           C  
+HETATM   10  C6  FER A 908      10.404  -0.202  23.130  1.00 78.99           C  
+HETATM   11  C7  FER A 908      12.450   0.765  21.879  1.00 80.95           C  
+HETATM   12  C8  FER A 908      12.739   1.777  22.747  1.00 82.39           C  
+HETATM   13  C9  FER A 908      13.879   2.735  22.552  1.00 83.10           C  
+HETATM   14  C10 FER A 908      10.727  -3.337  19.037  1.00 76.47           C  
+CONECT    1   11    3   10
+CONECT    2   13
+CONECT    3    1    5
+CONECT    4   13
+CONECT    5    3    6    7
+CONECT    6    5   14
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10
+CONECT   10    9    1
+CONECT   11    1   12
+CONECT   12   11   13
+CONECT   13   12    2    4
+CONECT   14    6
+END

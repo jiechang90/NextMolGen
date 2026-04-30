@@ -1,0 +1,41 @@
+CRYST1   47.073   66.280   49.342  90.00  92.66  90.00 P 1 21 1      1
+HETATM    1  C1  CIT A 405      88.651  16.754  53.297  0.65 14.96           C  
+ANISOU    1  C1  CIT A 405     2345   2014   1323    592   -194    230       C  
+HETATM    2  O1  CIT A 405      88.686  15.868  52.415  0.65 15.37           O  
+ANISOU    2  O1  CIT A 405     2418   2043   1380    601   -184    193       O  
+HETATM    3  C2  CIT A 405      88.939  16.398  54.738  0.65 14.19           C  
+ANISOU    3  C2  CIT A 405     2156   1992   1243    591   -141    247       C  
+HETATM    4  O2  CIT A 405      88.376  17.936  52.971  0.65 15.71           O  
+ANISOU    4  O2  CIT A 405     2510   2062   1396    492   -228    287       O  
+HETATM    5  C3  CIT A 405      90.280  15.687  54.894  0.65 13.43           C  
+ANISOU    5  C3  CIT A 405     2021   1959   1123    423    -27    290       C  
+HETATM    6  O3  CIT A 405      92.423  13.983  56.261  0.65 10.41           O  
+ANISOU    6  O3  CIT A 405     1474   1656    824    438     57    166       O  
+HETATM    7  C4  CIT A 405      90.592  15.543  56.375  0.65 11.83           C  
+ANISOU    7  C4  CIT A 405     1774   1758    964    362      8    201       C  
+HETATM    8  O4  CIT A 405      92.827  15.922  57.110  0.65 10.18           O  
+ANISOU    8  O4  CIT A 405     1538   1495    836    186     81    109       O  
+HETATM    9  C5  CIT A 405      92.028  15.118  56.585  0.65 10.63           C  
+ANISOU    9  C5  CIT A 405     1622   1592    826    262    101    220       C  
+HETATM   10  O5  CIT A 405      91.033  14.058  53.309  0.65 15.07           O  
+ANISOU   10  O5  CIT A 405     2228   2192   1308    318      8    310       O  
+HETATM   11  C6  CIT A 405      90.232  14.318  54.232  0.65 13.89           C  
+ANISOU   11  C6  CIT A 405     2064   2074   1139    364    -46    326       C  
+HETATM   12  O6  CIT A 405      89.385  13.464  54.583  0.65 14.50           O  
+ANISOU   12  O6  CIT A 405     2171   2142   1196    273   -106    234       O  
+HETATM   13  O7  CIT A 405      91.309  16.461  54.219  0.65 14.52           O  
+ANISOU   13  O7  CIT A 405     2219   2082   1216    200     20    351       O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5
+CONECT    4    1
+CONECT    5    3    7   11   13
+CONECT    6    9
+CONECT    7    5    9
+CONECT    8    9
+CONECT    9    7    6    8
+CONECT   10   11
+CONECT   11    5   10   12
+CONECT   12   11
+CONECT   13    5
+END

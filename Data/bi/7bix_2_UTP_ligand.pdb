@@ -1,0 +1,82 @@
+CRYST1  197.470  152.820  125.110  90.00 121.39  90.00 C 1 2 1       4
+HETATM    1  PA  UTP C 301      -0.765 -42.052  18.182  1.00 39.16           P  
+HETATM    2  PB  UTP C 301       1.996 -41.114  17.879  1.00 46.41           P  
+HETATM    3  PG  UTP C 301       3.948 -42.908  16.774  1.00 63.73           P  
+HETATM    4  C5' UTP C 301      -1.799 -39.712  18.339  1.00 39.97           C  
+HETATM    5  O5' UTP C 301      -1.834 -41.005  18.847  1.00 39.75           O  
+HETATM    6  C4' UTP C 301      -2.535 -38.802  19.261  1.00 40.57           C  
+HETATM    7  O4' UTP C 301      -3.752 -39.448  19.741  1.00 41.07           O  
+HETATM    8  C3' UTP C 301      -1.726 -38.465  20.475  1.00 43.06           C  
+HETATM    9  O3' UTP C 301      -1.524 -37.048  20.394  1.00 39.00           O  
+HETATM   10  C2' UTP C 301      -2.513 -38.838  21.674  1.00 46.33           C  
+HETATM   11  O2' UTP C 301      -2.485 -37.747  22.595  1.00 58.22           O  
+HETATM   12  C1' UTP C 301      -3.881 -39.183  21.172  1.00 40.92           C  
+HETATM   13  N1  UTP C 301      -4.372 -40.322  21.880  1.00 37.23           N  
+HETATM   14  O1A UTP C 301      -1.432 -42.960  17.249  1.00 34.26           O1-
+HETATM   15  O1B UTP C 301       2.229 -41.876  19.112  1.00 44.30           O1-
+HETATM   16  O1G UTP C 301       5.072 -42.620  17.663  1.00 73.25           O  
+HETATM   17  C2  UTP C 301      -5.689 -40.214  22.464  1.00 42.58           C  
+HETATM   18  O2  UTP C 301      -6.304 -39.206  22.332  1.00 41.67           O  
+HETATM   19  O2A UTP C 301      -0.244 -42.981  19.179  1.00 42.27           O1-
+HETATM   20  O2B UTP C 301       2.391 -39.744  18.226  1.00 46.47           O  
+HETATM   21  O2G UTP C 301       4.546 -43.318  15.503  1.00 69.38           O1-
+HETATM   22  N3  UTP C 301      -6.236 -41.307  23.184  1.00 43.80           N  
+HETATM   23  O3A UTP C 301       0.415 -41.186  17.422  1.00 50.20           O  
+HETATM   24  O3B UTP C 301       2.914 -41.646  16.628  1.00 51.74           O  
+HETATM   25  O3G UTP C 301       3.344 -44.121  17.320  1.00 63.22           O  
+HETATM   26  C4  UTP C 301      -5.494 -42.500  23.332  1.00 28.93           C  
+HETATM   27  O4  UTP C 301      -5.959 -43.403  23.935  1.00 28.14           O  
+HETATM   28  C5  UTP C 301      -4.106 -42.618  22.723  1.00 27.97           C  
+HETATM   29  C6  UTP C 301      -3.591 -41.578  22.040  1.00 31.50           C  
+HETATM   30  HA  UTP C 301      -1.856 -37.864  23.154  1.00 70.04           H  
+HETATM   31  HB  UTP C 301      -1.879 -36.672  21.068  1.00 46.98           H  
+HETATM   32  H3  UTP C 301      -7.021 -41.243  23.530  1.00 52.73           H  
+HETATM   33  H5  UTP C 301      -3.616 -43.402  22.822  1.00 33.74           H  
+HETATM   34  H6  UTP C 301      -2.742 -41.645  21.665  1.00 37.97           H  
+HETATM   35  H1' UTP C 301      -4.497 -38.444  21.298  1.00 49.28           H  
+HETATM   36  H2' UTP C 301      -2.164 -39.617  22.134  1.00 55.77           H  
+HETATM   37  H3' UTP C 301      -0.891 -38.955  20.530  1.00 51.85           H  
+HETATM   38  H4' UTP C 301      -2.741 -37.988  18.776  1.00 48.87           H  
+HETATM   39 H5'1 UTP C 301      -0.877 -39.419  18.263  1.00 48.14           H  
+HETATM   40 H5'2 UTP C 301      -2.217 -39.695  17.464  1.00 48.14           H  
+CONECT    1    5   14   19   23
+CONECT    2   15   20   24   23
+CONECT    3   16   21   25   24
+CONECT    4    6   39   40    5
+CONECT    5    1    4
+CONECT    6    4    7    8   38
+CONECT    7    6   12
+CONECT    8    6    9   37   10
+CONECT    9    8   31
+CONECT   10    8   11   36   12
+CONECT   11   10   30
+CONECT   12    7   10   13   35
+CONECT   13   12   17   29
+CONECT   14    1
+CONECT   15    2
+CONECT   16    3
+CONECT   17   13   18   22
+CONECT   18   17
+CONECT   19    1
+CONECT   20    2
+CONECT   21    3
+CONECT   22   17   26   32
+CONECT   23    1    2
+CONECT   24    2    3
+CONECT   25    3
+CONECT   26   22   27   28
+CONECT   27   26
+CONECT   28   26   33   29
+CONECT   29   13   28   34
+CONECT   30   11
+CONECT   31    9
+CONECT   32   22
+CONECT   33   28
+CONECT   34   29
+CONECT   35   12
+CONECT   36   10
+CONECT   37    8
+CONECT   38    6
+CONECT   39    4
+CONECT   40    4
+END

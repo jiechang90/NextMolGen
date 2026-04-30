@@ -1,0 +1,64 @@
+CRYST1   98.100   98.100   80.040  90.00  90.00 120.00 P 65          1
+HETATM    1  CAA BI1 B1307     -36.849   2.485   2.613  1.00 46.26           C  
+HETATM    2  CAB BI1 B1307     -37.799   1.961   3.475  1.00 47.22           C  
+HETATM    3  CAC BI1 B1307     -39.151   1.870   3.078  1.00 47.34           C  
+HETATM    4  CAD BI1 B1307     -39.542   2.309   1.814  1.00 47.14           C  
+HETATM    5  CAE BI1 B1307     -38.573   2.819   0.941  1.00 47.40           C  
+HETATM    6  CAF BI1 B1307     -37.246   2.920   1.352  1.00 46.84           C  
+HETATM    7  CAG BI1 B1307     -40.749   2.331   1.100  1.00 45.56           C  
+HETATM    8  CAI BI1 B1307     -42.121   1.937   1.599  1.00 44.72           C  
+HETATM    9  CAJ BI1 B1307     -43.339   1.508   0.900  1.00 41.06           C  
+HETATM   10  CAK BI1 B1307     -43.516   1.401  -0.554  1.00 42.28           C  
+HETATM   11  CAL BI1 B1307     -44.681   1.778  -1.205  1.00 40.82           C  
+HETATM   12  CAM BI1 B1307     -42.476   1.022  -1.404  1.00 43.03           C  
+HETATM   13  CAN BI1 B1307     -43.062   1.150  -2.671  1.00 41.89           C  
+HETATM   14  CAP BI1 B1307     -41.129   0.588  -1.192  1.00 40.17           C  
+HETATM   15  CAQ BI1 B1307     -40.337   0.247  -2.284  1.00 40.87           C  
+HETATM   16  CAR BI1 B1307     -40.907   0.338  -3.567  1.00 41.97           C  
+HETATM   17  CAS BI1 B1307     -42.247   0.786  -3.766  1.00 41.64           C  
+HETATM   18  CAT BI1 B1307     -42.591   1.983   3.008  1.00 42.93           C  
+HETATM   19  CAV BI1 B1307     -44.386   1.380   1.932  1.00 41.79           C  
+HETATM   20  CAW BI1 B1307     -40.511   2.898  -0.148  1.00 46.69           C  
+HETATM   21  CAY BI1 B1307     -38.402   3.777  -1.318  1.00 47.35           C  
+HETATM   22  NAH BI1 B1307     -39.169   3.160  -0.222  1.00 47.96           N  
+HETATM   23  NAO BI1 B1307     -44.365   1.602  -2.516  1.00 41.75           N  
+HETATM   24  NAU BI1 B1307     -43.911   1.641   3.177  1.00 41.25           N  
+HETATM   25  OAX BI1 B1307     -45.616   1.038   1.712  1.00 43.23           O  
+HETATM   26  OAZ BI1 B1307     -41.832   2.297   3.996  1.00 41.82           O  
+HETATM   27  CBA BI1 B1307     -39.099   3.773  -2.676  1.00 49.36           C  
+HETATM   28  CBB BI1 B1307     -38.170   4.441  -3.708  1.00 49.76           C  
+HETATM   29  CBD BI1 B1307     -37.521   4.497  -6.106  1.00 49.65           C  
+HETATM   30  CBE BI1 B1307     -39.556   3.140  -5.494  1.00 51.10           C  
+HETATM   31  NBC BI1 B1307     -38.433   4.006  -5.094  1.00 50.82           N  
+CONECT    1    2    6
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    7    5
+CONECT    5    4    6   22
+CONECT    6    5    1
+CONECT    7    4    8   20
+CONECT    8    7    9   18
+CONECT    9    8   10   19
+CONECT   10    9   11   12
+CONECT   11   10   23
+CONECT   12   10   13   14
+CONECT   13   12   23   17
+CONECT   14   12   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   13
+CONECT   18    8   24   26
+CONECT   19    9   25   24
+CONECT   20    7   22
+CONECT   21   22   27
+CONECT   22   21    5   20
+CONECT   23   13   11
+CONECT   24   18   19
+CONECT   25   19
+CONECT   26   18
+CONECT   27   21   28
+CONECT   28   27   31
+CONECT   29   31
+CONECT   30   31
+CONECT   31   29   28   30
+END

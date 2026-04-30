@@ -1,0 +1,14 @@
+CRYST1   50.440   50.440  245.270  90.00  90.00 120.00 P 65 2 2      1
+HETATM    1  C   ACT A1217      29.515   3.970   7.647  1.00 44.84           C  
+ANISOU    1  C   ACT A1217     5741   5768   5527    -50     -8    211       C  
+HETATM    2  O   ACT A1217      29.603   2.876   8.259  1.00 46.24           O1-
+ANISOU    2  O   ACT A1217     5935   5826   5806    -50    -74    291       O1-
+HETATM    3  CH3 ACT A1217      28.236   4.735   7.632  1.00 43.82           C  
+ANISOU    3  CH3 ACT A1217     5675   5634   5340     20    -75    226       C  
+HETATM    4  OXT ACT A1217      30.558   4.365   7.076  1.00 45.41           O  
+ANISOU    4  OXT ACT A1217     5861   5864   5526    -98    -16    205       O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+END

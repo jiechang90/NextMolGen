@@ -1,0 +1,83 @@
+CRYST1   71.780   48.790   44.220  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  C1  XYS B   5     -13.295 -20.387   1.173  1.00  8.13           C  
+ANISOU    1  C1  XYS B   5     1183    682   1222    -85     94   -271       C  
+HETATM    2  C2  XYS B   5     -14.601 -20.308   1.905  1.00  7.68           C  
+ANISOU    2  C2  XYS B   5     1153    482   1283    -49    181   -192       C  
+HETATM    3  O2  XYS B   5     -15.444 -21.376   1.473  1.00  8.98           O  
+ANISOU    3  O2  XYS B   5     1237    557   1618   -151     20   -247       O  
+HETATM    4  C3  XYS B   5     -15.280 -18.979   1.624  1.00  6.51           C  
+ANISOU    4  C3  XYS B   5      833    474   1164    -76    198   -146       C  
+HETATM    5  O3  XYS B   5     -16.451 -18.845   2.411  1.00  6.81           O  
+ANISOU    5  O3  XYS B   5      779    628   1177   -143     96   -113       O  
+HETATM    6  C4  XYS B   5     -14.311 -17.837   1.917  1.00  6.14           C  
+ANISOU    6  C4  XYS B   5      880    467    983    -91      8   -130       C  
+HETATM    7  O4  XYS B   5     -14.833 -16.560   1.498  1.00  6.65           O  
+ANISOU    7  O4  XYS B   5      960    556   1009   -139     73   -115       O  
+HETATM    8  C5  XYS B   5     -12.953 -18.068   1.253  1.00  7.36           C  
+ANISOU    8  C5  XYS B   5     1071    561   1165   -153    303   -231       C  
+HETATM    9  O5  XYS B   5     -12.423 -19.345   1.549  1.00  8.08           O  
+ANISOU    9  O5  XYS B   5      866    806   1395    -50    145   -202       O  
+HETATM   10  C1  XYS B   6     -17.432 -16.084  -7.970  1.00 17.26           C  
+ANISOU   10  C1  XYS B   6     2883   2528   1143   -676   -277   -195       C  
+HETATM   11  C2  XYS B   6     -17.536 -14.925  -8.907  1.00 20.62           C  
+ANISOU   11  C2  XYS B   6     3184   3018   1629   -274   -162    -21       C  
+HETATM   12  O2  XYS B   6     -16.221 -14.565  -9.303  1.00 24.90           O  
+ANISOU   12  O2  XYS B   6     3533   4413   1514   -691    -34    858       O  
+HETATM   13  C3  XYS B   6     -18.320 -13.795  -8.294  1.00 19.41           C  
+ANISOU   13  C3  XYS B   6     3141   2677   1556   -380   -347    211       C  
+HETATM   14  O3  XYS B   6     -18.500 -12.818  -9.241  1.00 23.89           O  
+ANISOU   14  O3  XYS B   6     3977   3082   2018    -63   -289    947       O  
+HETATM   15  C4  XYS B   6     -19.641 -14.323  -7.822  1.00 17.31           C  
+ANISOU   15  C4  XYS B   6     2941   2067   1569     75   -385   -618       C  
+HETATM   16  O4  XYS B   6     -20.371 -13.347  -7.129  1.00 18.51           O  
+ANISOU   16  O4  XYS B   6     3267   2263   1503    -39   -651   -242       O  
+HETATM   17  C5  XYS B   6     -19.437 -15.524  -6.866  1.00 16.25           C  
+ANISOU   17  C5  XYS B   6     2643   2014   1517   -225   -452   -536       C  
+HETATM   18  O5  XYS B   6     -18.697 -16.503  -7.555  1.00 17.84           O  
+ANISOU   18  O5  XYS B   6     2857   2238   1683   -188   -394   -754       O  
+HETATM   19  C1  XYS B   7     -13.888 -10.391  -0.914  1.00  7.61           C  
+ANISOU   19  C1  XYS B   7      981    664   1244   -128     41     66       C  
+HETATM   20  C2  XYS B   7     -13.664  -9.192  -0.011  1.00  6.95           C  
+ANISOU   20  C2  XYS B   7     1015    561   1063   -129    -25    -51       C  
+HETATM   21  O2  XYS B   7     -14.631  -9.147   1.035  1.00  6.98           O  
+ANISOU   21  O2  XYS B   7     1168    464   1016   -172   -132     42       O  
+HETATM   22  C3  XYS B   7     -13.750  -7.894  -0.778  1.00  8.07           C  
+ANISOU   22  C3  XYS B   7     1397    504   1165   -398    135     53       C  
+HETATM   23  O3  XYS B   7     -13.359  -6.852   0.090  1.00  9.75           O  
+ANISOU   23  O3  XYS B   7     1513    585   1605   -394     12      6       O  
+HETATM   24  C4  XYS B   7     -12.890  -7.958  -2.019  1.00 10.59           C  
+ANISOU   24  C4  XYS B   7     1593    812   1618   -321    326    144       C  
+HETATM   25  O4  XYS B   7     -13.126  -6.823  -2.846  1.00 15.00           O  
+ANISOU   25  O4  XYS B   7     2730    984   1983   -307    575    525       O  
+HETATM   26  C5  XYS B   7     -13.075  -9.234  -2.797  1.00 10.81           C  
+ANISOU   26  C5  XYS B   7     1930    988   1188   -438    322    -10       C  
+HETATM   27  O5  XYS B   7     -12.953 -10.398  -1.972  1.00  8.91           O  
+ANISOU   27  O5  XYS B   7     1296    807   1278   -276    235    -45       O  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9
+CONECT    9    1    8
+CONECT   10   11   18
+CONECT   11   10   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17   15   18
+CONECT   18   10   17
+CONECT   19   20   27
+CONECT   20   19   21   22
+CONECT   21   20
+CONECT   22   20   23   24
+CONECT   23   22
+CONECT   24   22   25   26
+CONECT   25   24
+CONECT   26   24   27
+CONECT   27   19   26
+END

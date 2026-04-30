@@ -1,0 +1,26 @@
+CRYST1   56.441   58.614   78.993  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N   TRS A 405      13.880  57.354   6.324  0.89 38.33           N  
+ANISOU    1  N   TRS A 405     4195   6728   3643  -1517    372   -511       N  
+HETATM    2  C   TRS A 405      13.955  56.392   5.221  0.89 42.29           C  
+ANISOU    2  C   TRS A 405     5194   6719   4157  -1060    462   -663       C  
+HETATM    3  C1  TRS A 405      14.490  55.074   5.771  0.89 44.94           C  
+ANISOU    3  C1  TRS A 405     5990   6773   4313  -1072    397   -485       C  
+HETATM    4  O1  TRS A 405      14.943  54.250   4.722  0.89 47.54           O  
+ANISOU    4  O1  TRS A 405     6360   7124   4579   -837    395   -217       O  
+HETATM    5  C2  TRS A 405      12.558  56.213   4.636  0.89 42.72           C  
+ANISOU    5  C2  TRS A 405     5042   6799   4391  -1114   1019   -872       C  
+HETATM    6  O2  TRS A 405      12.628  55.612   3.360  0.89 45.79           O  
+ANISOU    6  O2  TRS A 405     5432   7074   4892  -1278   1084   -774       O  
+HETATM    7  C3  TRS A 405      14.902  56.970   4.175  0.89 44.72           C  
+ANISOU    7  C3  TRS A 405     5819   6667   4507   -794    146   -690       C  
+HETATM    8  O3  TRS A 405      15.072  56.070   3.101  0.89 48.91           O  
+ANISOU    8  O3  TRS A 405     6628   6932   5022   -451     44   -773       O  
+CONECT    1    2
+CONECT    2    1    3    5    7
+CONECT    3    2    4
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5
+CONECT    7    2    8
+CONECT    8    7
+END

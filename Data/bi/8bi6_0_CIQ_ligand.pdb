@@ -1,0 +1,76 @@
+CRYST1  132.033  132.033  168.988  90.00  90.00  90.00 P 43 21 2     1
+HETATM    1  CAA CIQ A 501     -64.272  19.003 -12.482  1.00 70.97           C  
+HETATM    2  CAB CIQ A 501     -57.696  19.882 -21.516  1.00108.56           C  
+HETATM    3  CAC CIQ A 501     -58.917  17.769 -21.926  1.00121.95           C  
+HETATM    4  CAD CIQ A 501     -60.658  16.115 -11.071  1.00 65.97           C  
+HETATM    5  CAE CIQ A 501     -61.742  17.766 -13.121  1.00 73.61           C  
+HETATM    6  CAF CIQ A 501     -55.380  12.860 -15.592  1.00112.40           C  
+HETATM    7  CAG CIQ A 501     -54.952  14.279 -15.171  1.00114.54           C  
+HETATM    8  CAH CIQ A 501     -56.246  12.246 -14.486  1.00114.54           C  
+HETATM    9  CAI CIQ A 501     -66.456  18.602  -7.701  1.00 71.10           C  
+HETATM   10  CAJ CIQ A 501     -65.428  19.581  -7.032  1.00 68.91           C  
+HETATM   11  CAK CIQ A 501     -63.330  16.012  -7.538  1.00 72.13           C  
+HETATM   12  CAL CIQ A 501     -62.178  15.984  -8.582  1.00 73.96           C  
+HETATM   13  CAM CIQ A 501     -56.196  15.216 -15.051  1.00117.53           C  
+HETATM   14  CAN CIQ A 501     -57.421  13.202 -14.041  1.00116.69           C  
+HETATM   15  CAO CIQ A 501     -58.437  18.883 -17.062  1.00111.40           C  
+HETATM   16  CAP CIQ A 501     -60.572  17.996 -18.066  1.00103.69           C  
+HETATM   17  CAQ CIQ A 501     -66.270  17.310  -6.966  1.00 65.17           C  
+HETATM   18  CAR CIQ A 501     -64.703  18.811  -5.944  1.00 66.51           C  
+HETATM   19  CAS CIQ A 501     -64.035  17.390  -7.530  1.00 70.20           C  
+HETATM   20  CAT CIQ A 501     -57.730  18.717 -18.464  1.00117.16           C  
+HETATM   21  CAU CIQ A 501     -59.755  17.611 -19.274  1.00113.80           C  
+HETATM   22  NAX CIQ A 501     -60.262  17.852 -15.611  1.00 93.33           N  
+HETATM   23  OAY CIQ A 501     -63.537  18.332 -11.471  1.00 68.16           O  
+HETATM   24  OAZ CIQ A 501     -62.567  16.848  -9.703  1.00 63.16           O  
+HETATM   25  CBA CIQ A 501     -62.381  17.676 -11.861  1.00 77.67           C  
+HETATM   26  CBB CIQ A 501     -61.831  16.853 -10.852  1.00 66.07           C  
+HETATM   27  CBG CIQ A 501     -58.100  18.531 -20.860  1.00117.82           C  
+HETATM   28  CBH CIQ A 501     -59.574  17.815 -16.940  1.00102.72           C  
+HETATM   29  CBI CIQ A 501     -57.021  14.722 -13.848  1.00111.69           C  
+HETATM   30  NBJ CIQ A 501     -64.954  17.441  -6.333  1.00 68.61           N  
+HETATM   31  NBK CIQ A 501     -58.801  18.717 -19.518  1.00123.52           N  
+HETATM   32  N1  CIQ A 501     -58.713  16.292 -14.663  1.00 87.10           N  
+HETATM   33  C2  CIQ A 501     -58.217  15.508 -13.658  1.00100.94           C  
+HETATM   34  N3  CIQ A 501     -58.899  15.473 -12.477  1.00 83.51           N  
+HETATM   35  C4  CIQ A 501     -60.029  16.206 -12.309  1.00 68.90           C  
+HETATM   36  C5  CIQ A 501     -60.561  17.024 -13.347  1.00 73.63           C  
+HETATM   37  C6  CIQ A 501     -59.839  17.061 -14.564  1.00 86.07           C  
+CONECT    1   23
+CONECT    2   27
+CONECT    3   27
+CONECT    4   26   35
+CONECT    5   25   36
+CONECT    6    7    8
+CONECT    7    6   13
+CONECT    8    6   14
+CONECT    9   10   17
+CONECT   10    9   18
+CONECT   11   12   19
+CONECT   12   11   24
+CONECT   13    7   29
+CONECT   14    8   29
+CONECT   15   20   28
+CONECT   16   21   28
+CONECT   17    9   30
+CONECT   18   10   30
+CONECT   19   11   30
+CONECT   20   15   31
+CONECT   21   16   31
+CONECT   22   28   37
+CONECT   23    1   25
+CONECT   24   12   26
+CONECT   25    5   23   26
+CONECT   26    4   24   25
+CONECT   27    2    3   31
+CONECT   28   15   16   22
+CONECT   29   13   14   33
+CONECT   30   17   18   19
+CONECT   31   20   21   27
+CONECT   32   33   37
+CONECT   33   32   29   34
+CONECT   34   33   35
+CONECT   35   34    4   36
+CONECT   36   35    5   37
+CONECT   37   32   36   22
+END

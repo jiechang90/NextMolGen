@@ -1,0 +1,74 @@
+CRYST1   60.383   85.070  135.506  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N   KAF A 704      46.184  47.012  42.563  1.00 21.05           N  
+HETATM    2  CA  KAF A 704      47.267  46.956  41.588  1.00 22.70           C  
+HETATM    3  CAG KAF A 704      49.230  44.840  51.856  1.00 22.85           C  
+HETATM    4  CAH KAF A 704      44.032  39.604  50.345  1.00 19.78           C  
+HETATM    5  CAI KAF A 704      48.780  46.106  51.526  1.00 21.28           C  
+HETATM    6  CAJ KAF A 704      49.105  43.806  50.947  1.00 20.88           C  
+HETATM    7  CAK KAF A 704      43.270  40.575  50.967  1.00 19.36           C  
+HETATM    8  CAL KAF A 704      44.949  39.973  49.378  1.00 20.70           C  
+HETATM    9  CAO KAF A 704      48.206  46.329  50.288  1.00 20.52           C  
+HETATM   10  CAP KAF A 704      48.529  44.041  49.712  1.00 20.70           C  
+HETATM   11  CAQ KAF A 704      43.427  41.905  50.624  1.00 18.36           C  
+HETATM   12  CAR KAF A 704      45.104  41.304  49.037  1.00 18.64           C  
+HETATM   13  CAV KAF A 704      45.224  47.310  44.778  1.00 18.26           C  
+HETATM   14  CAW KAF A 704      45.712  47.054  46.216  1.00 16.83           C  
+HETATM   15  CAX KAF A 704      47.428  45.546  48.032  1.00 18.56           C  
+HETATM   16  C   KAF A 704      47.906  48.330  41.419  1.00 22.42           C  
+HETATM   17  O   KAF A 704      47.288  49.311  41.884  1.00 23.56           O  
+HETATM   18  OAA KAF A 704      47.561  47.478  44.281  1.00 17.60           O  
+HETATM   19  OAC KAF A 704      43.694  44.598  49.625  1.00 18.35           O  
+HETATM   20  OAE KAF A 704      45.520  44.669  45.777  1.00 14.40           O  
+HETATM   21  OAF KAF A 704      43.823  45.763  46.936  1.00 17.98           O  
+HETATM   22  CB  KAF A 704      46.764  46.429  40.241  1.00 25.20           C  
+HETATM   23  CBC KAF A 704      46.430  47.265  43.845  1.00 18.56           C  
+HETATM   24  CBE KAF A 704      44.517  43.750  49.275  1.00 18.70           C  
+HETATM   25  CBF KAF A 704      48.073  45.303  49.368  1.00 18.70           C  
+HETATM   26  CBG KAF A 704      44.346  42.281  49.659  1.00 17.62           C  
+HETATM   27  CBL KAF A 704      45.898  45.370  48.082  1.00 17.66           C  
+HETATM   28  CBM KAF A 704      45.239  45.694  46.737  1.00 17.76           C  
+HETATM   29  NBA KAF A 704      45.587  44.017  48.532  1.00 17.87           N  
+HETATM   30  CG  KAF A 704      45.455  47.010  39.786  1.00 30.30           C  
+HETATM   31  CD1 KAF A 704      44.290  46.266  39.871  1.00 32.49           C  
+HETATM   32  CD2 KAF A 704      45.387  48.289  39.259  1.00 31.23           C  
+HETATM   33  CE1 KAF A 704      43.080  46.779  39.439  1.00 33.44           C  
+HETATM   34  CE2 KAF A 704      44.183  48.813  38.824  1.00 34.49           C  
+HETATM   35  CZ  KAF A 704      43.027  48.058  38.914  1.00 35.23           C  
+HETATM   36  OXT KAF A 704      49.017  48.410  40.852  1.00 21.56           O  
+CONECT    1   23    2
+CONECT    2    1   16   22
+CONECT    3    6    5
+CONECT    4    7    8
+CONECT    5    3    9
+CONECT    6    3   10
+CONECT    7    4   11
+CONECT    8    4   12
+CONECT    9    5   25
+CONECT   10    6   25
+CONECT   11    7   26
+CONECT   12    8   26
+CONECT   13   14   23
+CONECT   14   13   28
+CONECT   15   25   27
+CONECT   16    2   17   36
+CONECT   17   16
+CONECT   18   23
+CONECT   19   24
+CONECT   20   28
+CONECT   21   28
+CONECT   22    2   30
+CONECT   23    1   13   18
+CONECT   24   19   26   29
+CONECT   25   15    9   10
+CONECT   26   24   11   12
+CONECT   27   15   29   28
+CONECT   28   14   20   21   27
+CONECT   29   27   24
+CONECT   30   22   31   32
+CONECT   31   30   33
+CONECT   32   30   34
+CONECT   33   31   35
+CONECT   34   32   35
+CONECT   35   33   34
+CONECT   36   16
+END

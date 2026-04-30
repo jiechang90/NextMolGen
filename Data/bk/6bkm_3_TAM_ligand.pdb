@@ -1,0 +1,24 @@
+CRYST1  209.273  131.447   71.921  90.00  97.88  90.00 C 1 2 1       1
+HETATM    1  N   TAM E 507      -0.898  10.225  10.372  1.00 70.45           N  
+HETATM    2  C   TAM E 507      -0.872  11.228  11.435  1.00 72.83           C  
+HETATM    3  C1  TAM E 507      -2.332  11.423  11.897  1.00 74.91           C  
+HETATM    4  C2  TAM E 507      -0.363  12.527  10.784  1.00 72.19           C  
+HETATM    5  C3  TAM E 507       0.050  10.690  12.549  1.00 74.42           C  
+HETATM    6  C4  TAM E 507      -3.143  10.127  12.044  1.00 73.15           C  
+HETATM    7  O4  TAM E 507      -3.774   9.807  10.790  1.00 67.29           O  
+HETATM    8  C5  TAM E 507       1.096  12.522  10.303  1.00 70.01           C  
+HETATM    9  O5  TAM E 507       1.425  11.319   9.596  1.00 67.30           O  
+HETATM   10  C6  TAM E 507       0.140  11.536  13.822  1.00 74.69           C  
+HETATM   11  O6  TAM E 507      -0.916  11.235  14.750  1.00 73.33           O  
+CONECT    1    2
+CONECT    2    1    3    4    5
+CONECT    3    2    6
+CONECT    4    2    8
+CONECT    5    2   10
+CONECT    6    3    7
+CONECT    7    6
+CONECT    8    4    9
+CONECT    9    8
+CONECT   10    5   11
+CONECT   11   10
+END

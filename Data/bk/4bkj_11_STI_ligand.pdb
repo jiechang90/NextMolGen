@@ -1,0 +1,76 @@
+CRYST1   60.074   60.074  180.575  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  STI B1000      20.322  -7.999  12.285  1.00 28.67           C  
+HETATM    2  C2  STI B1000      20.549  -8.588  11.057  1.00 27.88           C  
+HETATM    3  N3  STI B1000      19.594  -8.633  10.136  1.00 21.17           N  
+HETATM    4  C4  STI B1000      18.405  -8.101  10.349  1.00 23.66           C  
+HETATM    5  C5  STI B1000      18.095  -7.481  11.577  1.00 20.71           C  
+HETATM    6  C6  STI B1000      19.076  -7.434  12.573  1.00 27.99           C  
+HETATM    7  C7  STI B1000      16.819  -6.934  11.773  1.00 25.96           C  
+HETATM    8  N8  STI B1000      15.999  -6.801  10.693  1.00 21.75           N  
+HETATM    9  C9  STI B1000      14.776  -6.286  10.829  1.00 29.27           C  
+HETATM   10  N10 STI B1000      14.285  -5.867  12.004  1.00 22.71           N  
+HETATM   11  C11 STI B1000      15.052  -5.975  13.127  1.00 23.22           C  
+HETATM   12  C12 STI B1000      16.341  -6.515  13.045  1.00 21.32           C  
+HETATM   13  N13 STI B1000      14.018  -6.182   9.616  1.00 22.00           N  
+HETATM   14  C14 STI B1000      12.721  -5.553   9.566  1.00 21.26           C  
+HETATM   15  C15 STI B1000      12.636  -4.198   9.280  1.00 18.40           C  
+HETATM   16  C16 STI B1000      11.377  -3.578   9.248  1.00 17.84           C  
+HETATM   17  C17 STI B1000      10.212  -4.356   9.429  1.00 21.30           C  
+HETATM   18  C18 STI B1000      10.305  -5.729   9.702  1.00 21.69           C  
+HETATM   19  C19 STI B1000      11.559  -6.344   9.780  1.00 20.09           C  
+HETATM   20  C20 STI B1000      11.732  -7.833  10.074  1.00 21.76           C  
+HETATM   21  N21 STI B1000      11.202  -2.214   8.886  1.00 20.93           N  
+HETATM   22  C22 STI B1000      12.262  -1.274   8.524  1.00 19.50           C  
+HETATM   23  C23 STI B1000      11.815   0.090   8.058  1.00 18.49           C  
+HETATM   24  C25 STI B1000      10.544   0.618   8.365  1.00 17.25           C  
+HETATM   25  C26 STI B1000      10.150   1.863   7.882  1.00 21.40           C  
+HETATM   26  C27 STI B1000      11.030   2.609   7.091  1.00 20.38           C  
+HETATM   27  C28 STI B1000      12.277   2.097   6.756  1.00 22.05           C  
+HETATM   28  C29 STI B1000      12.682   0.846   7.237  1.00 19.41           C  
+HETATM   29  O29 STI B1000      13.444  -1.563   8.571  1.00 16.86           O  
+HETATM   30  C46 STI B1000      10.618   3.951   6.567  1.00 19.28           C  
+HETATM   31  N48 STI B1000       9.962   4.818   7.540  1.00 17.34           N  
+HETATM   32  C49 STI B1000      10.732   4.928   8.813  1.00 19.05           C  
+HETATM   33  C50 STI B1000       9.971   5.732   9.884  1.00 17.36           C  
+HETATM   34  N51 STI B1000       9.450   7.026   9.428  1.00 18.41           N  
+HETATM   35  C52 STI B1000       8.650   6.817   8.209  1.00 20.57           C  
+HETATM   36  C53 STI B1000       9.472   6.147   7.163  1.00 19.08           C  
+HETATM   37  C54 STI B1000       8.854   7.922  10.463  1.00 17.97           C  
+CONECT    1    2    6
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    7    6
+CONECT    6    1    5
+CONECT    7    5    8   12
+CONECT    8    7    9
+CONECT    9    8   13   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12    7   11
+CONECT   13    9   14
+CONECT   14   13   15   19
+CONECT   15   14   16
+CONECT   16   15   21   17
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   14   18   20
+CONECT   20   19
+CONECT   21   16   22
+CONECT   22   21   23   29
+CONECT   23   22   24   28
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27   30
+CONECT   27   26   28
+CONECT   28   23   27
+CONECT   29   22
+CONECT   30   26   31
+CONECT   31   30   32   36
+CONECT   32   31   33
+CONECT   33   32   34
+CONECT   34   33   37   35
+CONECT   35   34   36
+CONECT   36   31   35
+CONECT   37   34
+END

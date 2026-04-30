@@ -1,0 +1,131 @@
+CRYST1   50.810   75.540  106.570  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  CAA HEC A 301      14.363  -2.049  -2.927  1.00 12.04           C  
+ANISOU    1  CAA HEC A 301     1532   1556   1214    259     41     43       C  
+HETATM    2  CAB HEC A 301       6.813   4.240  -3.946  1.00 10.78           C  
+ANISOU    2  CAB HEC A 301     1339   1401   1112     18   -227    -49       C  
+HETATM    3  CAC HEC A 301      10.877   6.518   2.429  1.00  9.53           C  
+ANISOU    3  CAC HEC A 301     1165   1345    894    140     92    -21       C  
+HETATM    4  CAD HEC A 301      16.650   1.338   0.534  1.00 11.42           C  
+ANISOU    4  CAD HEC A 301     1344   1722   1015    424   -142    -28       C  
+HETATM    5  NA  HEC A 301      12.110   0.933  -2.414  1.00 10.22           N  
+ANISOU    5  NA  HEC A 301     1377   1447    829    178     33   -131       N  
+HETATM    6  CBA HEC A 301      14.209  -2.990  -1.710  1.00 11.38           C  
+ANISOU    6  CBA HEC A 301     1471   1457   1139    166      9    -67       C  
+HETATM    7  CBB HEC A 301       6.256   4.304  -5.163  1.00 11.95           C  
+ANISOU    7  CBB HEC A 301     1429   1568   1274   -207   -421     -6       C  
+HETATM    8  CBC HEC A 301      10.584   7.756   2.633  1.00 10.12           C  
+ANISOU    8  CBC HEC A 301     1211   1369   1038    218    179    -39       C  
+HETATM    9  CBD HEC A 301      16.621   0.139   1.475  1.00 11.32           C  
+ANISOU    9  CBD HEC A 301     1438   1637    969    380   -117    -95       C  
+HETATM   10  NB  HEC A 301       9.908   2.622  -2.608  1.00 10.75           N  
+ANISOU   10  NB  HEC A 301     1179   1764    898    131    -75   -106       N  
+HETATM   11  CGA HEC A 301      15.336  -3.994  -1.767  1.00 11.86           C  
+ANISOU   11  CGA HEC A 301     1566   1568   1106    281     48    -87       C  
+HETATM   12  CGD HEC A 301      17.931  -0.605   1.609  1.00 11.30           C  
+ANISOU   12  CGD HEC A 301     1508   1478   1052    352    -78   -145       C  
+HETATM   13  ND  HEC A 301      13.119   2.474  -0.299  1.00  9.90           N  
+ANISOU   13  ND  HEC A 301     1136   1477    923    216    -76    -53       N  
+HETATM   14  CHA HEC A 301      14.234   0.554  -1.256  1.00 10.83           C  
+ANISOU   14  CHA HEC A 301     1426   1454    988    222    -31    -89       C  
+HETATM   15  CHB HEC A 301      10.238   0.590  -3.919  1.00 10.94           C  
+ANISOU   15  CHB HEC A 301     1362   1521   1025    112    -25     17       C  
+HETATM   16  CHC HEC A 301       8.843   4.646  -1.730  1.00  9.91           C  
+ANISOU   16  CHC HEC A 301     1167   1462    913   -141     25    -12       C  
+HETATM   17  CHD HEC A 301      12.673   4.398   1.161  1.00  9.29           C  
+ANISOU   17  CHD HEC A 301     1159   1123   1039     39    -18     75       C  
+HETATM   18  CMA HEC A 301      11.705  -1.984  -4.777  1.00 11.81           C  
+ANISOU   18  CMA HEC A 301     1789   1394   1038    234   -127   -217       C  
+HETATM   19  CMB HEC A 301       7.615   1.341  -5.294  1.00 11.48           C  
+ANISOU   19  CMB HEC A 301     1400   1746    957    -21   -124   -247       C  
+HETATM   20  CMC HEC A 301       8.376   6.806   0.362  1.00 11.05           C  
+ANISOU   20  CMC HEC A 301     1276   1521   1153    261   -139   -135       C  
+HETATM   21  CMD HEC A 301      15.531   3.970   2.163  1.00 10.56           C  
+ANISOU   21  CMD HEC A 301     1157   1637    978    280   -119   -200       C  
+HETATM   22  C1A HEC A 301      13.246   0.164  -2.119  1.00 10.24           C  
+ANISOU   22  C1A HEC A 301     1305   1476    878    113    114    -35       C  
+HETATM   23  C1B HEC A 301       9.559   1.751  -3.629  1.00 10.04           C  
+ANISOU   23  C1B HEC A 301     1113   1541    933     10    -65     23       C  
+HETATM   24  C1C HEC A 301       9.712   4.872  -0.683  1.00  9.58           C  
+ANISOU   24  C1C HEC A 301     1105   1324    995     27      3    -36       C  
+HETATM   25  C1D HEC A 301      13.496   3.391   0.689  1.00  9.59           C  
+ANISOU   25  C1D HEC A 301     1154   1365    907    126    -27     -7       C  
+HETATM   26  O1A HEC A 301      15.506  -4.632  -2.826  1.00 12.81           O  
+ANISOU   26  O1A HEC A 301     1932   1457   1190    234     42   -176       O  
+HETATM   27  O1D HEC A 301      17.930  -1.654   2.295  1.00 12.84           O  
+ANISOU   27  O1D HEC A 301     1439   1667   1481    412     -6    100       O  
+HETATM   28  C2A HEC A 301      13.285  -0.991  -2.966  1.00 11.51           C  
+ANISOU   28  C2A HEC A 301     1611   1603    898    326    -64   -179       C  
+HETATM   29  C2B HEC A 301       8.335   2.197  -4.245  1.00 10.00           C  
+ANISOU   29  C2B HEC A 301     1135   1526    911     28    -97    -35       C  
+HETATM   30  C2C HEC A 301       9.578   5.905   0.301  1.00  9.25           C  
+ANISOU   30  C2C HEC A 301     1111   1265    931     64    -37     72       C  
+HETATM   31  C2D HEC A 301      14.810   3.086   1.153  1.00  9.88           C  
+ANISOU   31  C2D HEC A 301     1149   1408    974    112    -27    -32       C  
+HETATM   32  O2A HEC A 301      16.034  -4.158  -0.732  1.00 14.02           O  
+ANISOU   32  O2A HEC A 301     1931   1800   1278    549   -151   -212       O  
+HETATM   33  O2D HEC A 301      18.952  -0.117   1.031  1.00 11.88           O  
+ANISOU   33  O2D HEC A 301     1420   1672   1152    426    -62     46       O  
+HETATM   34  C3A HEC A 301      12.139  -0.975  -3.704  1.00 11.22           C  
+ANISOU   34  C3A HEC A 301     1463   1554    993    270      0   -288       C  
+HETATM   35  C3B HEC A 301       7.933   3.293  -3.619  1.00  9.84           C  
+ANISOU   35  C3B HEC A 301     1145   1448    923    -57    -57    -45       C  
+HETATM   36  C3C HEC A 301      10.659   5.861   1.102  1.00  9.58           C  
+ANISOU   36  C3C HEC A 301     1135   1452    835    156     12    -29       C  
+HETATM   37  C3D HEC A 301      15.282   2.047   0.453  1.00  9.69           C  
+ANISOU   37  C3D HEC A 301     1216   1393    853    185     14     25       C  
+HETATM   38  C4A HEC A 301      11.440   0.201  -3.377  1.00  9.88           C  
+ANISOU   38  C4A HEC A 301     1313   1414    805    142    133   -108       C  
+HETATM   39  C4B HEC A 301       8.919   3.607  -2.629  1.00  9.85           C  
+ANISOU   39  C4B HEC A 301     1206   1498    818     15    -81     35       C  
+HETATM   40  C4C HEC A 301      11.452   4.751   0.637  1.00  9.57           C  
+ANISOU   40  C4C HEC A 301     1254   1186    980    116    -87    -43       C  
+HETATM   41  C4D HEC A 301      14.220   1.643  -0.422  1.00  9.89           C  
+ANISOU   41  C4D HEC A 301     1176   1434    924    231     25    -48       C  
+HETATM   42  NC  HEC A 301      10.860   4.151  -0.457  1.00  9.40           N  
+ANISOU   42  NC  HEC A 301     1078   1422    860     13     16     -9       N  
+HETATM   43 FE   HEC A 301      11.488   2.540  -1.426  1.00  9.12          FE  
+ANISOU   43 FE   HEC A 301     1138   1353    768    142    -51    -53      FE  
+CONECT    1    6   28
+CONECT    2    7   35
+CONECT    3    8   36
+CONECT    4    9   37
+CONECT    5   22   38   43
+CONECT    6    1   11
+CONECT    7    2
+CONECT    8    3
+CONECT    9    4   12
+CONECT   10   23   39   43
+CONECT   11    6   26   32
+CONECT   12    9   27   33
+CONECT   13   25   41   43
+CONECT   14   22   41
+CONECT   15   23   38
+CONECT   16   24   39
+CONECT   17   25   40
+CONECT   18   34
+CONECT   19   29
+CONECT   20   30
+CONECT   21   31
+CONECT   22    5   14   28
+CONECT   23   10   15   29
+CONECT   24   16   30   42
+CONECT   25   13   17   31
+CONECT   26   11
+CONECT   27   12
+CONECT   28   22    1   34
+CONECT   29   23   19   35
+CONECT   30   24   20   36
+CONECT   31   25   21   37
+CONECT   32   11
+CONECT   33   12
+CONECT   34   28   18   38
+CONECT   35   29    2   39
+CONECT   36   30    3   40
+CONECT   37   31    4   41
+CONECT   38    5   15   34
+CONECT   39   10   16   35
+CONECT   40   17   36   42
+CONECT   41   13   14   37
+CONECT   42   24   40   43
+CONECT   43    5   10   13   42
+END

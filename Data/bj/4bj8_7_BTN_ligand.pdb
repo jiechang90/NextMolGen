@@ -1,0 +1,34 @@
+CRYST1  182.240  196.840   52.590  90.00  90.00  90.00 P 21 21 2     6
+HETATM    1  N1  BTN H1123     196.642   8.277  -1.077  1.00 14.48           N  
+HETATM    2  S1  BTN H1123     196.321   9.537   1.858  1.00 15.49           S  
+HETATM    3  C2  BTN H1123     194.739   8.772   1.701  1.00 15.99           C  
+HETATM    4  N2  BTN H1123     194.578   8.964  -0.795  1.00 15.87           N  
+HETATM    5  C3  BTN H1123     195.659   9.013  -1.588  1.00 14.93           C  
+HETATM    6  O3  BTN H1123     195.734   9.662  -2.599  1.00 14.02           O  
+HETATM    7  C4  BTN H1123     194.784   8.091   0.355  1.00 15.67           C  
+HETATM    8  C5  BTN H1123     196.232   7.631   0.154  1.00 15.40           C  
+HETATM    9  C6  BTN H1123     197.079   8.064   1.326  1.00 15.19           C  
+HETATM   10  C7  BTN H1123     193.610   9.778   1.899  1.00 16.35           C  
+HETATM   11  C8  BTN H1123     193.341   9.905   3.405  1.00 16.58           C  
+HETATM   12  C9  BTN H1123     192.043  10.647   3.712  1.00 17.25           C  
+HETATM   13  C10 BTN H1123     191.911  11.016   5.203  1.00 17.29           C  
+HETATM   14  C11 BTN H1123     191.722   9.794   6.060  1.00 17.09           C  
+HETATM   15  O11 BTN H1123     191.338   8.765   5.470  1.00 16.06           O  
+HETATM   16  O12 BTN H1123     191.948   9.866   7.313  1.00 17.11           O  
+CONECT    1    5    8
+CONECT    2    9    3
+CONECT    3    2    7   10
+CONECT    4    7    5
+CONECT    5    1    4    6
+CONECT    6    5
+CONECT    7    3    4    8
+CONECT    8    1    7    9
+CONECT    9    2    8
+CONECT   10    3   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15   16
+CONECT   15   14
+CONECT   16   14
+END

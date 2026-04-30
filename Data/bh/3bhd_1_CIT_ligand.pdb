@@ -1,0 +1,28 @@
+CRYST1   60.770   46.810   71.870  90.00 113.97  90.00 P 1 21 1      1
+HETATM    1  C1  CIT B 217       0.750  11.399  51.993  1.00 11.91           C  
+HETATM    2  O1  CIT B 217      -0.250  10.904  52.599  1.00 14.38           O  
+HETATM    3  C2  CIT B 217       0.421  12.515  51.056  1.00 10.33           C  
+HETATM    4  O2  CIT B 217       1.902  10.897  52.155  1.00 12.49           O  
+HETATM    5  C3  CIT B 217       0.276  11.932  49.660  1.00 11.66           C  
+HETATM    6  O3  CIT B 217       0.200  11.920  46.852  1.00 14.80           O  
+HETATM    7  C4  CIT B 217      -0.175  13.100  48.810  1.00 16.41           C  
+HETATM    8  O4  CIT B 217      -1.833  12.905  47.139  1.00 14.62           O  
+HETATM    9  C5  CIT B 217      -0.649  12.609  47.515  1.00 15.44           C  
+HETATM   10  O5  CIT B 217       1.507   9.979  48.991  1.00 11.17           O  
+HETATM   11  C6  CIT B 217       1.552  11.245  49.181  1.00 11.66           C  
+HETATM   12  O6  CIT B 217       2.605  11.926  49.034  1.00 11.40           O  
+HETATM   13  O7  CIT B 217      -0.630  10.805  49.633  1.00  9.82           O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5
+CONECT    4    1
+CONECT    5    3    7   11   13
+CONECT    6    9
+CONECT    7    5    9
+CONECT    8    9
+CONECT    9    7    6    8
+CONECT   10   11
+CONECT   11    5   10   12
+CONECT   12   11
+CONECT   13    5
+END

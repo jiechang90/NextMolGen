@@ -1,0 +1,14 @@
+CRYST1   64.872   62.254   74.545  90.00 102.41  90.00 P 1 21 1      1
+HETATM    1  C   ACT B 701       0.945 -14.941 -21.075  1.00 73.60           C  
+ANISOU    1  C   ACT B 701     9613   8938   9414    332   -571    775       C  
+HETATM    2  O   ACT B 701       0.379 -15.042 -22.192  1.00 73.49           O  
+ANISOU    2  O   ACT B 701     9576   9025   9322    340   -582    852       O  
+HETATM    3  CH3 ACT B 701       1.890 -16.074 -20.618  1.00 73.30           C  
+ANISOU    3  CH3 ACT B 701     9593   8931   9328    312   -563    655       C  
+HETATM    4  OXT ACT B 701       0.811 -13.975 -20.295  1.00 73.92           O  
+ANISOU    4  OXT ACT B 701     9664   8854   9569    350   -573    781       O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+END

@@ -1,0 +1,88 @@
+CRYST1   31.457   43.011   87.954  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  CAA HEC X1123       2.992   6.489  32.814  1.00 27.01           C  
+HETATM    2  CAB HEC X1123       6.072  15.635  35.319  1.00 26.84           C  
+HETATM    3  CAC HEC X1123      11.734  10.539  37.846  1.00 28.34           C  
+HETATM    4  CAD HEC X1123       7.181   4.360  35.495  1.00 27.74           C  
+HETATM    5  NA  HEC X1123       5.177   9.277  34.200  1.00 24.51           N  
+HETATM    6  CBA HEC X1123       3.672   6.092  31.492  1.00 25.23           C  
+HETATM    7  CBB HEC X1123       5.023  16.182  35.989  1.00 28.25           C  
+HETATM    8  CBC HEC X1123      12.094  10.891  39.099  1.00 29.61           C  
+HETATM    9  CBD HEC X1123       6.207   4.193  36.657  1.00 29.28           C  
+HETATM   10  NB  HEC X1123       6.032  11.906  34.911  1.00 23.22           N  
+HETATM   11  CGA HEC X1123       3.148   4.831  30.805  1.00 28.23           C  
+HETATM   12  CGD HEC X1123       6.204   2.788  37.203  1.00 31.23           C  
+HETATM   13  ND  HEC X1123       7.523   8.125  35.388  1.00 26.76           N  
+HETATM   14  CHA HEC X1123       5.574   6.882  34.549  1.00 26.59           C  
+HETATM   15  CHB HEC X1123       4.181  11.368  33.431  1.00 25.61           C  
+HETATM   16  CHC HEC X1123       7.658  13.109  36.290  1.00 26.82           C  
+HETATM   17  CHD HEC X1123       9.699   8.739  36.359  1.00 27.13           C  
+HETATM   18  CMA HEC X1123       2.037   9.475  32.116  1.00 26.23           C  
+HETATM   19  CMB HEC X1123       3.793  14.430  33.304  1.00 28.05           C  
+HETATM   20  CMC HEC X1123      10.382  13.509  37.802  1.00 28.68           C  
+HETATM   21  CMD HEC X1123      10.056   5.638  36.704  1.00 28.05           C  
+HETATM   22  C1A HEC X1123       4.860   7.939  34.038  1.00 26.27           C  
+HETATM   23  C1B HEC X1123       4.993  12.237  34.107  1.00 25.61           C  
+HETATM   24  C1C HEC X1123       8.544  12.094  36.540  1.00 28.36           C  
+HETATM   25  C1D HEC X1123       8.750   7.843  35.962  1.00 28.12           C  
+HETATM   26  O1A HEC X1123       3.768   4.431  29.786  1.00 27.31           O  
+HETATM   27  O1D HEC X1123       6.664   1.861  36.476  1.00 32.58           O  
+HETATM   28  C2A HEC X1123       3.652   7.828  33.257  1.00 25.78           C  
+HETATM   29  C2B HEC X1123       4.866  13.683  34.118  1.00 26.13           C  
+HETATM   30  C2C HEC X1123       9.815  12.196  37.229  1.00 28.24           C  
+HETATM   31  C2D HEC X1123       8.886   6.407  36.081  1.00 26.74           C  
+HETATM   32  O2A HEC X1123       2.118   4.242  31.212  1.00 26.99           O  
+HETATM   33  O2D HEC X1123       5.714   2.601  38.347  1.00 29.83           O  
+HETATM   34  C3A HEC X1123       3.272   9.078  32.942  1.00 25.65           C  
+HETATM   35  C3B HEC X1123       5.830  14.171  34.918  1.00 25.72           C  
+HETATM   36  C3C HEC X1123      10.371  10.976  37.253  1.00 27.54           C  
+HETATM   37  C3D HEC X1123       7.587   5.829  35.544  1.00 27.19           C  
+HETATM   38  C4A HEC X1123       4.214  10.006  33.525  1.00 26.05           C  
+HETATM   39  C4B HEC X1123       6.592  13.046  35.426  1.00 26.21           C  
+HETATM   40  C4C HEC X1123       9.486  10.083  36.562  1.00 28.08           C  
+HETATM   41  C4D HEC X1123       6.808   6.965  35.116  1.00 26.59           C  
+HETATM   42  NC  HEC X1123       8.379  10.789  36.144  1.00 27.29           N  
+HETATM   43 FE   HEC X1123       6.764  10.010  35.118  1.00 27.08          FE  
+CONECT    1    6   28
+CONECT    2    7   35
+CONECT    3    8   36
+CONECT    4    9   37
+CONECT    5   22   38   43
+CONECT    6    1   11
+CONECT    7    2
+CONECT    8    3
+CONECT    9    4   12
+CONECT   10   23   39   43
+CONECT   11    6   26   32
+CONECT   12    9   27   33
+CONECT   13   25   41   43
+CONECT   14   22   41
+CONECT   15   23   38
+CONECT   16   24   39
+CONECT   17   25   40
+CONECT   18   34
+CONECT   19   29
+CONECT   20   30
+CONECT   21   31
+CONECT   22    5   14   28
+CONECT   23   10   15   29
+CONECT   24   16   30   42
+CONECT   25   13   17   31
+CONECT   26   11
+CONECT   27   12
+CONECT   28   22    1   34
+CONECT   29   23   19   35
+CONECT   30   24   20   36
+CONECT   31   25   21   37
+CONECT   32   11
+CONECT   33   12
+CONECT   34   28   18   38
+CONECT   35   29    2   39
+CONECT   36   30    3   40
+CONECT   37   31    4   41
+CONECT   38    5   15   34
+CONECT   39   10   16   35
+CONECT   40   17   36   42
+CONECT   41   13   14   37
+CONECT   42   24   40   43
+CONECT   43    5   10   13   42
+END

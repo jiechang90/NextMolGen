@@ -1,0 +1,26 @@
+CRYST1   56.368   70.338   82.054  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N   ARG A 400     -19.106  -3.302   0.325  1.00  6.98           N  
+HETATM    2  CA  ARG A 400     -18.923  -4.644   0.869  1.00  6.77           C  
+HETATM    3  C   ARG A 400     -19.671  -4.786   2.182  1.00 11.30           C  
+HETATM    4  O   ARG A 400     -19.750  -5.882   2.742  1.00 13.10           O  
+HETATM    5  CB  ARG A 400     -17.438  -4.950   1.095  1.00  6.85           C  
+HETATM    6  CG  ARG A 400     -16.709  -3.877   1.872  1.00  8.73           C  
+HETATM    7  CD  ARG A 400     -15.370  -4.372   2.397  1.00 14.29           C  
+HETATM    8  NE  ARG A 400     -14.603  -5.038   1.354  1.00 11.93           N  
+HETATM    9  CZ  ARG A 400     -13.896  -4.401   0.429  1.00 14.47           C  
+HETATM   10  NH1 ARG A 400     -13.855  -3.063   0.420  1.00  7.39           N  
+HETATM   11  NH2 ARG A 400     -13.230  -5.105  -0.485  1.00 10.44           N  
+HETATM   12  OXT ARG A 400     -20.196  -3.800   2.696  1.00  7.33           O  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4   12
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10   11
+CONECT   10    9
+CONECT   11    9
+CONECT   12    3
+END

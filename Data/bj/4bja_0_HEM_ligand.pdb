@@ -1,0 +1,131 @@
+CRYST1   50.440   50.440  245.270  90.00  90.00 120.00 P 65 2 2      1
+HETATM    1  CAA HEM A 300       6.002  20.115  -3.215  1.00 25.64           C  
+ANISOU    1  CAA HEM A 300     3972   3197   2573    277     88   -109       C  
+HETATM    2  CAB HEM A 300      10.517  12.963  -8.319  1.00 25.72           C  
+ANISOU    2  CAB HEM A 300     3474   3443   2855    285    482   -239       C  
+HETATM    3  CAC HEM A 300       3.824  14.581 -12.373  1.00 27.40           C  
+ANISOU    3  CAC HEM A 300     3435   3659   3317     24   -209    345       C  
+HETATM    4  CAD HEM A 300       2.373  20.716  -7.128  1.00 29.10           C  
+ANISOU    4  CAD HEM A 300     3870   3654   3531    301    -43    -14       C  
+HETATM    5  NA  HEM A 300       6.751  17.797  -6.172  1.00 19.89           N  
+ANISOU    5  NA  HEM A 300     3147   2395   2016    370    -79      8       N  
+HETATM    6  CBA HEM A 300       5.863  19.447  -1.839  1.00 31.78           C  
+ANISOU    6  CBA HEM A 300     4459   4121   3494    179    496    -31       C  
+HETATM    7  CBB HEM A 300      10.358  12.529  -9.545  1.00 30.67           C  
+ANISOU    7  CBB HEM A 300     4334   3635   3684     33    -94   -266       C  
+HETATM    8  CBC HEM A 300       2.584  14.981 -12.154  1.00 30.12           C  
+ANISOU    8  CBC HEM A 300     3802   3997   3644    260    -16    286       C  
+HETATM    9  CBD HEM A 300       3.327  21.897  -7.373  1.00 31.51           C  
+ANISOU    9  CBD HEM A 300     4250   4152   3571    198     92     51       C  
+HETATM   10  NB  HEM A 300       8.033  15.798  -7.630  1.00 20.61           N  
+ANISOU   10  NB  HEM A 300     3269   2654   1907    467    116    -24       N  
+HETATM   11  CGA HEM A 300       4.935  18.325  -1.989  1.00 34.81           C  
+ANISOU   11  CGA HEM A 300     4696   4540   3987    155    429    -49       C  
+HETATM   12  CGD HEM A 300       3.518  22.286  -8.837  1.00 31.90           C  
+ANISOU   12  CGD HEM A 300     4299   4087   3732    192     27     51       C  
+HETATM   13  ND  HEM A 300       4.542  17.700  -7.891  1.00 24.15           N  
+ANISOU   13  ND  HEM A 300     3373   3418   2383    238   -289     45       N  
+HETATM   14  CHA HEM A 300       4.682  19.056  -5.845  1.00 22.43           C  
+ANISOU   14  CHA HEM A 300     3227   2856   2439    191     87     26       C  
+HETATM   15  CHB HEM A 300       9.029  16.928  -5.691  1.00 19.73           C  
+ANISOU   15  CHB HEM A 300     3111   2632   1751    382   -153    147       C  
+HETATM   16  CHC HEM A 300       7.813  14.163  -9.431  1.00 21.99           C  
+ANISOU   16  CHC HEM A 300     3260   2557   2537    112     35    -80       C  
+HETATM   17  CHD HEM A 300       3.845  16.817 -10.067  1.00 24.43           C  
+ANISOU   17  CHD HEM A 300     3591   3129   2559    240   -239    204       C  
+HETATM   18  CMA HEM A 300       8.954  18.657  -3.215  1.00 22.28           C  
+ANISOU   18  CMA HEM A 300     3060   2961   2442     23   -137    -28       C  
+HETATM   19  CMB HEM A 300      11.286  14.791  -5.937  1.00 23.26           C  
+ANISOU   19  CMB HEM A 300     3038   3194   2606    422    -58    189       C  
+HETATM   20  CMC HEM A 300       6.420  12.880 -11.892  1.00 27.10           C  
+ANISOU   20  CMC HEM A 300     4048   3475   2772     46     54   -171       C  
+HETATM   21  CMD HEM A 300       1.755  19.200 -10.022  1.00 29.49           C  
+ANISOU   21  CMD HEM A 300     3820   4032   3351    332   -546    351       C  
+HETATM   22  C1A HEM A 300       5.922  18.674  -5.462  1.00 21.29           C  
+ANISOU   22  C1A HEM A 300     3213   2833   2041    264     37     53       C  
+HETATM   23  C1B HEM A 300       9.014  15.966  -6.657  1.00 19.89           C  
+ANISOU   23  C1B HEM A 300     3075   2293   2188    578     26    169       C  
+HETATM   24  C1C HEM A 300       6.637  14.626  -9.915  1.00 21.34           C  
+ANISOU   24  C1C HEM A 300     3459   2727   1922    210   -142   -133       C  
+HETATM   25  C1D HEM A 300       3.756  17.698  -9.049  1.00 25.14           C  
+ANISOU   25  C1D HEM A 300     3567   3194   2789    322   -405    257       C  
+HETATM   26  O1A HEM A 300       3.840  18.529  -2.585  1.00 36.50           O  
+ANISOU   26  O1A HEM A 300     5086   4828   3955    508    449    -49       O  
+HETATM   27  O1D HEM A 300       2.667  21.994  -9.704  1.00 33.55           O  
+ANISOU   27  O1D HEM A 300     4866   4571   3310    367     88    -41       O  
+HETATM   28  C2A HEM A 300       6.609  19.128  -4.266  1.00 23.13           C  
+ANISOU   28  C2A HEM A 300     3410   2936   2443    298     48    -41       C  
+HETATM   29  C2B HEM A 300      10.042  14.946  -6.827  1.00 19.75           C  
+ANISOU   29  C2B HEM A 300     2712   2754   2036    333    170     67       C  
+HETATM   30  C2C HEM A 300       5.947  14.100 -11.066  1.00 24.51           C  
+ANISOU   30  C2C HEM A 300     3486   3178   2645     63   -123   -126       C  
+HETATM   31  C2D HEM A 300       2.823  18.783  -8.985  1.00 26.50           C  
+ANISOU   31  C2D HEM A 300     3420   3474   3171    250   -287    118       C  
+HETATM   32  O2A HEM A 300       5.340  17.219  -1.544  1.00 38.51           O  
+ANISOU   32  O2A HEM A 300     5287   4888   4454    404    294    277       O  
+HETATM   33  O2D HEM A 300       4.540  22.924  -9.123  1.00 33.39           O  
+ANISOU   33  O2D HEM A 300     4467   4517   3700    247    252     40       O  
+HETATM   34  C3A HEM A 300       7.809  18.522  -4.255  1.00 21.16           C  
+ANISOU   34  C3A HEM A 300     3200   2911   1929    190      8    -49       C  
+HETATM   35  C3B HEM A 300       9.704  14.194  -7.836  1.00 20.68           C  
+ANISOU   35  C3B HEM A 300     3081   2421   2354    234    275     13       C  
+HETATM   36  C3C HEM A 300       4.851  14.817 -11.241  1.00 23.82           C  
+ANISOU   36  C3C HEM A 300     3609   3185   2255     85   -143    117       C  
+HETATM   37  C3D HEM A 300       3.081  19.464  -7.679  1.00 27.76           C  
+ANISOU   37  C3D HEM A 300     3794   3601   3151    362   -229    201       C  
+HETATM   38  C4A HEM A 300       7.913  17.688  -5.432  1.00 20.31           C  
+ANISOU   38  C4A HEM A 300     3056   2712   1949    305    126   -114       C  
+HETATM   39  C4B HEM A 300       8.464  14.700  -8.367  1.00 20.62           C  
+ANISOU   39  C4B HEM A 300     3207   2513   2113    300    -12    -17       C  
+HETATM   40  C4C HEM A 300       4.816  15.854 -10.234  1.00 24.39           C  
+ANISOU   40  C4C HEM A 300     3330   3082   2854    147   -133     54       C  
+HETATM   41  C4D HEM A 300       4.148  18.727  -7.064  1.00 24.34           C  
+ANISOU   41  C4D HEM A 300     3388   3087   2773    390   -192     97       C  
+HETATM   42  NC  HEM A 300       5.909  15.697  -9.441  1.00 22.78           N  
+ANISOU   42  NC  HEM A 300     3606   3006   2042    291   -216     51       N  
+HETATM   43 FE   HEM A 300       6.309  16.779  -7.777  1.00 19.74          FE  
+ANISOU   43 FE   HEM A 300     3402   2469   1627    674   -151    143      FE  
+CONECT    1    6   28
+CONECT    2    7   35
+CONECT    3    8   36
+CONECT    4    9   37
+CONECT    5   43   22   38
+CONECT    6    1   11
+CONECT    7    2
+CONECT    8    3
+CONECT    9    4   12
+CONECT   10   43   23   39
+CONECT   11    6   26   32
+CONECT   12    9   27   33
+CONECT   13   43   25   41
+CONECT   14   22   41
+CONECT   15   23   38
+CONECT   16   24   39
+CONECT   17   25   40
+CONECT   18   34
+CONECT   19   29
+CONECT   20   30
+CONECT   21   31
+CONECT   22   14    5   28
+CONECT   23   15   10   29
+CONECT   24   16   30   42
+CONECT   25   17   13   31
+CONECT   26   11
+CONECT   27   12
+CONECT   28   22    1   34
+CONECT   29   23   19   35
+CONECT   30   24   20   36
+CONECT   31   25   21   37
+CONECT   32   11
+CONECT   33   12
+CONECT   34   28   18   38
+CONECT   35   29    2   39
+CONECT   36   30    3   40
+CONECT   37   31    4   41
+CONECT   38   15   34    5
+CONECT   39   16   35   10
+CONECT   40   17   36   42
+CONECT   41   14   37   13
+CONECT   42   24   40   43
+CONECT   43    5   10   13   42
+END

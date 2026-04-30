@@ -1,0 +1,20 @@
+CRYST1   63.400   77.670  167.330  90.00  95.49  90.00 P 1 21 1      1
+HETATM    1  C1  GOL B 411      13.245   4.038  94.376  1.00 33.43           C  
+ANISOU    1  C1  GOL B 411     3222   4313   5165    162   -479    458       C  
+HETATM    2  O1  GOL B 411      13.378   5.075  93.407  1.00 28.38           O  
+ANISOU    2  O1  GOL B 411     2878   3115   4788    399  -1551   -140       O  
+HETATM    3  C2  GOL B 411      12.339   4.455  95.511  1.00 35.26           C  
+ANISOU    3  C2  GOL B 411     3203   4800   5393    349   -180    850       C  
+HETATM    4  O2  GOL B 411      12.260   3.424  96.497  1.00 37.55           O  
+ANISOU    4  O2  GOL B 411     3158   5732   5377    759   -530   1440       O  
+HETATM    5  C3  GOL B 411      12.791   5.749  96.141  1.00 31.99           C  
+ANISOU    5  C3  GOL B 411     2116   4749   5288     81    140   1123       C  
+HETATM    6  O3  GOL B 411      12.435   6.854  95.316  1.00 29.25           O  
+ANISOU    6  O3  GOL B 411      924   5909   4281    -64    -75   1570       O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5
+END

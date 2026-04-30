@@ -1,0 +1,18 @@
+CRYST1   81.186   63.202   93.455  90.00  91.04  90.00 P 1 21 1      1
+HETATM    1  N   TRS B 904      19.748  -1.597 -14.143  1.00 38.24           N  
+HETATM    2  C   TRS B 904      20.511  -2.226 -15.273  1.00 38.96           C  
+HETATM    3  C1  TRS B 904      22.006  -2.097 -14.973  1.00 39.60           C  
+HETATM    4  O1  TRS B 904      22.338  -2.630 -13.695  1.00 39.99           O  
+HETATM    5  C2  TRS B 904      20.160  -1.486 -16.563  1.00 38.77           C  
+HETATM    6  O2  TRS B 904      20.320  -0.077 -16.426  1.00 38.73           O  
+HETATM    7  C3  TRS B 904      20.102  -3.697 -15.367  1.00 38.73           C  
+HETATM    8  O3  TRS B 904      18.691  -3.861 -15.444  1.00 38.50           O  
+CONECT    1    2
+CONECT    2    1    3    5    7
+CONECT    3    2    4
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5
+CONECT    7    2    8
+CONECT    8    7
+END

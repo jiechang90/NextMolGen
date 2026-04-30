@@ -1,0 +1,80 @@
+CRYST1   63.760  143.530   74.310  90.00  92.05  90.00 P 1 21 1      1
+HETATM    1  N   SAH A 401      10.424   6.034   6.857  1.00 35.79           N  
+ANISOU    1  N   SAH A 401     2926   5000   5669    417   -810   -220       N  
+HETATM    2  CA  SAH A 401       8.998   6.376   7.198  1.00 36.02           C  
+ANISOU    2  CA  SAH A 401     2965   5136   5584    358   -652   -121       C  
+HETATM    3  C   SAH A 401       8.929   7.820   7.711  1.00 36.69           C  
+ANISOU    3  C   SAH A 401     3097   5194   5649    183   -754   -256       C  
+HETATM    4  O   SAH A 401       7.877   8.462   7.695  1.00 37.62           O  
+ANISOU    4  O   SAH A 401     3022   5237   6034    107  -1126    342       O  
+HETATM    5  CB  SAH A 401       8.430   5.430   8.262  1.00 33.69           C  
+ANISOU    5  CB  SAH A 401     2350   4878   5572    371   -675   -265       C  
+HETATM    6  CG  SAH A 401       9.264   5.354   9.529  1.00 33.88           C  
+ANISOU    6  CG  SAH A 401     2400   4850   5620    633   -718   -291       C  
+HETATM    7  SD  SAH A 401       8.567   4.250  10.775  1.00 32.99           S  
+ANISOU    7  SD  SAH A 401     1883   5149   5500    628   -889   -267       S  
+HETATM    8  C5' SAH A 401       9.518   2.725  10.528  1.00 32.80           C  
+ANISOU    8  C5' SAH A 401     2426   4819   5216    420   -598   -398       C  
+HETATM    9  C4' SAH A 401       9.165   1.956   9.275  1.00 31.00           C  
+ANISOU    9  C4' SAH A 401     2022   4727   5029    455   -642   -222       C  
+HETATM   10  O4' SAH A 401       9.962   0.750   9.223  1.00 30.25           O  
+ANISOU   10  O4' SAH A 401     1714   4636   5143    323   -467   -220       O  
+HETATM   11  C3' SAH A 401       7.701   1.501   9.176  1.00 30.72           C  
+ANISOU   11  C3' SAH A 401     2134   4799   4738    276   -607    -70       C  
+HETATM   12  O3' SAH A 401       7.123   1.864   7.927  1.00 30.77           O  
+ANISOU   12  O3' SAH A 401     2076   5080   4534    103   -565   -136       O  
+HETATM   13  C2' SAH A 401       7.792  -0.023   9.313  1.00 29.15           C  
+ANISOU   13  C2' SAH A 401     1653   4755   4668    228   -527   -179       C  
+HETATM   14  O2' SAH A 401       6.775  -0.719   8.627  1.00 28.95           O  
+ANISOU   14  O2' SAH A 401     1218   5100   4682    381   -596   -109       O  
+HETATM   15  C1' SAH A 401       9.160  -0.274   8.693  1.00 28.86           C  
+ANISOU   15  C1' SAH A 401     1496   4737   4732    199   -580     79       C  
+HETATM   16  OXT SAH A 401       9.933   8.376   8.156  1.00 39.22           O  
+ANISOU   16  OXT SAH A 401     3405   5442   6052   -334   -736   -146       O  
+HETATM   17  N1  SAH A 401      11.615  -4.453   6.926  1.00 26.61           N  
+ANISOU   17  N1  SAH A 401     1028   4689   4392    201   -410    354       N  
+HETATM   18  C2  SAH A 401      11.218  -3.324   6.325  1.00 28.42           C  
+ANISOU   18  C2  SAH A 401     1715   4582   4499    293   -361    250       C  
+HETATM   19  N3  SAH A 401      10.588  -2.274   6.842  1.00 29.04           N  
+ANISOU   19  N3  SAH A 401     1888   4702   4443    224   -275    103       N  
+HETATM   20  C4  SAH A 401      10.352  -2.448   8.153  1.00 28.58           C  
+ANISOU   20  C4  SAH A 401     1681   4775   4402    145   -462    197       C  
+HETATM   21  C5  SAH A 401      10.699  -3.553   8.908  1.00 28.70           C  
+ANISOU   21  C5  SAH A 401     1604   4694   4607    247   -505    138       C  
+HETATM   22  C6  SAH A 401      11.368  -4.604   8.247  1.00 27.77           C  
+ANISOU   22  C6  SAH A 401     1429   4777   4345    262   -532    213       C  
+HETATM   23  N6  SAH A 401      11.753  -5.731   8.841  1.00 27.36           N  
+ANISOU   23  N6  SAH A 401     1023   4720   4649    139   -717    207       N  
+HETATM   24  N7  SAH A 401      10.299  -3.381  10.225  1.00 28.13           N  
+ANISOU   24  N7  SAH A 401     1207   4869   4609    181   -554    173       N  
+HETATM   25  C8  SAH A 401       9.733  -2.199  10.241  1.00 28.67           C  
+ANISOU   25  C8  SAH A 401     1335   4815   4742    104   -340    191       C  
+HETATM   26  N9  SAH A 401       9.731  -1.576   9.017  1.00 28.23           N  
+ANISOU   26  N9  SAH A 401     1374   4666   4686     26   -435    105       N  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4   16
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10   11
+CONECT   10    9   15
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   10   13   26
+CONECT   16    3
+CONECT   17   18   22
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21   26
+CONECT   21   20   22   24
+CONECT   22   21   17   23
+CONECT   23   22
+CONECT   24   21   25
+CONECT   25   24   26
+CONECT   26   15   20   25
+END

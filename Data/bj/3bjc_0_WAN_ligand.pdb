@@ -1,0 +1,54 @@
+CRYST1   73.755   73.755  132.509  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  N1  WAN A 901      43.759  15.274  40.756  1.00 41.22           N  
+HETATM    2  S2  WAN A 901      43.510  14.318  42.051  1.00 39.27           S  
+HETATM    3  O3  WAN A 901      42.047  14.286  42.380  1.00 41.02           O  
+HETATM    4  O4  WAN A 901      43.996  12.929  41.764  1.00 39.98           O  
+HETATM    5  C5  WAN A 901      44.396  14.967  43.412  1.00 38.20           C  
+HETATM    6  C6  WAN A 901      43.940  15.050  44.661  1.00 33.92           C  
+HETATM    7  S7  WAN A 901      45.956  15.663  43.305  1.00 35.61           S  
+HETATM    8  C8  WAN A 901      45.966  16.066  44.970  1.00 34.36           C  
+HETATM    9  O9  WAN A 901      46.970  16.699  45.635  1.00 33.50           O  
+HETATM   10  C10 WAN A 901      47.867  17.315  44.698  1.00 33.45           C  
+HETATM   11  C11 WAN A 901      49.134  17.748  45.438  1.00 33.05           C  
+HETATM   12  C12 WAN A 901      44.764  15.643  45.530  1.00 33.96           C  
+HETATM   13  C13 WAN A 901      44.495  15.896  46.871  1.00 32.82           C  
+HETATM   14  N14 WAN A 901      44.754  17.167  47.399  1.00 29.35           N  
+HETATM   15  C15 WAN A 901      44.455  17.435  48.740  1.00 30.26           C  
+HETATM   16  O16 WAN A 901      44.660  18.552  49.213  1.00 28.40           O  
+HETATM   17  N17 WAN A 901      43.969  14.936  47.645  1.00 31.54           N  
+HETATM   18  C18 WAN A 901      43.679  15.174  48.932  1.00 31.09           C  
+HETATM   19  C19 WAN A 901      43.909  16.416  49.509  1.00 30.07           C  
+HETATM   20  N20 WAN A 901      43.506  16.312  50.773  1.00 32.67           N  
+HETATM   21  C21 WAN A 901      43.538  17.427  51.746  1.00 29.40           C  
+HETATM   22  N22 WAN A 901      43.074  15.188  51.034  1.00 31.20           N  
+HETATM   23  C23 WAN A 901      43.136  14.409  49.956  1.00 31.68           C  
+HETATM   24  C24 WAN A 901      42.678  12.952  49.856  1.00 33.39           C  
+HETATM   25  C25 WAN A 901      43.872  12.009  49.699  1.00 37.12           C  
+HETATM   26  C26 WAN A 901      43.648  10.709  50.475  1.00 39.39           C  
+CONECT    1    2
+CONECT    2    1    3    4    5
+CONECT    3    2
+CONECT    4    2
+CONECT    5    2    7    6
+CONECT    6    5   12
+CONECT    7    5    8
+CONECT    8    7    9   12
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10
+CONECT   12    6    8   13
+CONECT   13   12   14   17
+CONECT   14   13   15
+CONECT   15   14   16   19
+CONECT   16   15
+CONECT   17   13   18
+CONECT   18   17   19   23
+CONECT   19   18   15   20
+CONECT   20   19   21   22
+CONECT   21   20
+CONECT   22   20   23
+CONECT   23   18   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25
+END

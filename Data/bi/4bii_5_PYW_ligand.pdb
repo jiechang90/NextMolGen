@@ -1,0 +1,80 @@
+CRYST1   64.852  110.285   67.519  90.00  98.21  90.00 P 1 21 1      1
+HETATM    1  N   PYW D1270      34.330   4.251  29.116  1.00 23.65           N  
+HETATM    2  CA  PYW D1270      34.938   4.942  27.997  1.00 24.38           C  
+HETATM    3  CAA PYW D1270      37.065   4.876  20.800  1.00 40.45           C  
+HETATM    4  CAB PYW D1270      39.327   5.158  23.154  1.00 35.17           C  
+HETATM    5  CAD PYW D1270      33.688   8.056  22.546  1.00 20.37           C  
+HETATM    6  CAK PYW D1270      32.005   6.914  30.735  1.00 17.20           C  
+HETATM    7  CAL PYW D1270      32.035   3.074  33.352  1.00 22.24           C  
+HETATM    8  CAM PYW D1270      30.952   6.025  30.860  1.00 20.99           C  
+HETATM    9  CAN PYW D1270      33.048   3.975  33.603  1.00 22.55           C  
+HETATM   10  CAO PYW D1270      32.179   7.553  29.523  1.00 19.02           C  
+HETATM   11  CAP PYW D1270      31.892   2.575  32.070  1.00 19.37           C  
+HETATM   12  CAQ PYW D1270      30.310   6.371  28.690  1.00 18.89           C  
+HETATM   13  CAR PYW D1270      37.519   6.042  21.650  1.00 37.65           C  
+HETATM   14  CAS PYW D1270      31.540   7.940  27.113  1.00 21.41           C  
+HETATM   15  CAZ PYW D1270      37.873   5.537  23.008  1.00 34.51           C  
+HETATM   16  C   PYW D1270      33.776   5.312  27.074  1.00 22.75           C  
+HETATM   17  O   PYW D1270      33.013   4.446  26.653  1.00 19.44           O  
+HETATM   18  NAT PYW D1270      30.098   5.758  29.867  1.00 16.50           N  
+HETATM   19  NAU PYW D1270      33.925   4.379  32.672  1.00 22.01           N  
+HETATM   20  NAV PYW D1270      33.594   6.616  26.852  1.00 23.73           N  
+HETATM   21  OAE PYW D1270      38.237   4.662  25.828  1.00 28.44           O  
+HETATM   22  OAF PYW D1270      35.584   5.257  30.686  1.00 25.75           O  
+HETATM   23  OAH PYW D1270      35.798   7.699  24.935  1.00 25.88           O  
+HETATM   24  OAI PYW D1270      32.512   2.513  29.804  1.00 18.14           O  
+HETATM   25  OAJ PYW D1270      33.587   9.154  25.428  1.00 24.13           O  
+HETATM   26  OAX PYW D1270      35.611   5.801  23.714  1.00 25.96           O  
+HETATM   27  CB  PYW D1270      36.040   4.111  27.338  1.00 25.17           C  
+HETATM   28  CBA PYW D1270      37.151   4.894  25.352  1.00 27.51           C  
+HETATM   29  CBB PYW D1270      34.681   4.479  30.385  1.00 23.67           C  
+HETATM   30  CBD PYW D1270      35.123   6.993  24.241  1.00 25.01           C  
+HETATM   31  CBE PYW D1270      36.949   5.454  23.978  1.00 29.55           C  
+HETATM   32  CBF PYW D1270      31.331   7.280  28.457  1.00 21.73           C  
+HETATM   33  CBG PYW D1270      32.748   2.993  31.060  1.00 20.98           C  
+HETATM   34  CBH PYW D1270      33.809   3.850  31.439  1.00 21.99           C  
+HETATM   35  CBJ PYW D1270      33.683   7.283  23.860  1.00 21.06           C  
+HETATM   36  CBK PYW D1270      32.877   8.016  24.952  1.00 22.67           C  
+HETATM   37  CBL PYW D1270      32.437   7.146  26.140  1.00 22.63           C  
+HETATM   38  CG2 PYW D1270      35.791   2.620  27.381  1.00 23.07           C  
+HETATM   39  OG1 PYW D1270      35.989   4.580  25.955  1.00 24.12           O  
+CONECT    1   29    2
+CONECT    2    1   16   27
+CONECT    3   13
+CONECT    4   15
+CONECT    5   35
+CONECT    6    8   10
+CONECT    7   11    9
+CONECT    8    6   18
+CONECT    9    7   19
+CONECT   10    6   32
+CONECT   11    7   33
+CONECT   12   32   18
+CONECT   13    3   15
+CONECT   14   37   32
+CONECT   15    4   13   31
+CONECT   16    2   17   20
+CONECT   17   16
+CONECT   18    8   12
+CONECT   19    9   34
+CONECT   20   16   37
+CONECT   21   28
+CONECT   22   29
+CONECT   23   30
+CONECT   24   33
+CONECT   25   36
+CONECT   26   31   30
+CONECT   27    2   38   39
+CONECT   28   21   39   31
+CONECT   29    1   22   34
+CONECT   30   23   26   35
+CONECT   31   26   15   28
+CONECT   32   10   12   14
+CONECT   33   11   24   34
+CONECT   34   29   19   33
+CONECT   35    5   30   36
+CONECT   36   25   35   37
+CONECT   37   14   20   36
+CONECT   38   27
+CONECT   39   28   27
+END

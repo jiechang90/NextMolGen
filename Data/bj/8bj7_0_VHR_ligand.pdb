@@ -1,0 +1,52 @@
+CRYST1   49.328   87.281   88.977  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  N   VHR A 404      10.559  14.164  26.047  1.00  8.24           N  
+HETATM    2  C   VHR A 404       9.975  15.197  25.885  1.00  8.19           C  
+HETATM    3  C1  VHR A 404      12.270  16.972  24.324  1.00  8.23           C  
+HETATM    4  N1  VHR A 404      11.743  15.829  23.615  1.00  9.92           N  
+HETATM    5  S1  VHR A 404      11.182  17.956  25.339  1.00  7.94           S  
+HETATM    6  C2  VHR A 404      10.607  16.067  22.672  1.00  8.60           C  
+HETATM    7  S2  VHR A 404       9.143  16.784  23.306  1.00  7.55           S  
+HETATM    8  C3  VHR A 404       8.254  19.602  23.061  1.00  7.47           C  
+HETATM    9  O3  VHR A 404       7.401  20.020  22.428  1.00  8.22           O  
+HETATM   10  C4  VHR A 404       9.870  20.495  25.038  1.00  7.94           C  
+HETATM   11  N4  VHR A 404      10.040  21.443  25.683  1.00  8.66           N  
+HETATM   12  C5  VHR A 404       8.213  18.594  25.419  1.00  7.79           C  
+HETATM   13  O5  VHR A 404       7.267  19.131  25.932  1.00  8.30           O  
+HETATM   14  C6  VHR A 404       7.478  16.134  25.673  1.00  7.87           C  
+HETATM   15  N6  VHR A 404       6.405  15.681  25.716  1.00  7.54           N  
+HETATM   16  C7  VHR A 404       9.200  17.216  27.338  1.00  7.74           C  
+HETATM   17  O7  VHR A 404       9.141  17.369  28.488  1.00  8.52           O  
+HETATM   18 FE1  VHR A 404       9.543  18.904  24.057  1.00  7.54          FE  
+HETATM   19 FE2  VHR A 404       9.185  16.895  25.604  1.00  7.88          FE  
+HETATM   20  H1  VHR A 404      12.745  17.631  23.591  1.00  8.51           H  
+HETATM   21  H2  VHR A 404      13.074  16.604  24.966  1.00  8.51           H  
+HETATM   22  H3  VHR A 404      10.975  16.698  21.860  1.00  8.62           H  
+HETATM   23  H4  VHR A 404      10.340  15.108  22.219  1.00  8.62           H  
+HETATM   24  H11 VHR A 404      11.825  14.783  24.117  1.00  9.17           H  
+CONECT    1    2
+CONECT    2    1   19
+CONECT    3    4    5   20   21
+CONECT    4    3   24    6
+CONECT    5    3   18   19
+CONECT    6    4    7   22   23
+CONECT    7    6   18   19
+CONECT    8    9   18
+CONECT    9    8
+CONECT   10   11   18
+CONECT   11   10
+CONECT   12   13   18   19
+CONECT   13   12
+CONECT   14   15   19
+CONECT   15   14
+CONECT   16   17   19
+CONECT   17   16
+CONECT   18    8   10   12    5
+CONECT   18    7
+CONECT   19   12   16    2    5
+CONECT   19    7   14
+CONECT   20    3
+CONECT   21    3
+CONECT   22    6
+CONECT   23    6
+CONECT   24    4
+END

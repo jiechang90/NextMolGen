@@ -1,0 +1,61 @@
+CRYST1   85.146   85.485   88.535  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  N   KCX A 169     -27.221  18.065 -38.343  1.00  9.48           N  
+ANISOU    1  N   KCX A 169     1255   1017   1332    -14     23    -57       N  
+HETATM    2  CA  KCX A 169     -26.555  16.777 -38.419  1.00  9.02           C  
+ANISOU    2  CA  KCX A 169     1230    946   1250     -9   -104   -137       C  
+HETATM    3  C   KCX A 169     -27.291  15.720 -37.616  1.00  8.87           C  
+ANISOU    3  C   KCX A 169     1247    966   1156     98    -32    -22       C  
+HETATM    4  O   KCX A 169     -27.624  15.988 -36.459  1.00 10.06           O  
+ANISOU    4  O   KCX A 169     1610   1098   1116     51    140     99       O  
+HETATM    5  CB  KCX A 169     -25.154  16.941 -37.855  1.00 10.06           C  
+ANISOU    5  CB  KCX A 169     1276   1145   1401     77   -436   -234       C  
+HETATM    6  CG  KCX A 169     -24.365  15.652 -37.610  1.00 11.11           C  
+ANISOU    6  CG  KCX A 169     1276   1344   1603     62   -399   -394       C  
+HETATM    7  CD  KCX A 169     -24.037  14.923 -38.894  1.00 12.41           C  
+ANISOU    7  CD  KCX A 169     1422   1789   1504   -124   -293   -204       C  
+HETATM    8  CE  KCX A 169     -23.203  13.687 -38.629  1.00 12.69           C  
+ANISOU    8  CE  KCX A 169     1405   1880   1536   -134    -12   -272       C  
+HETATM    9  NZ  KCX A 169     -21.825  14.075 -38.220  1.00 12.00           N  
+ANISOU    9  NZ  KCX A 169     1384   1649   1527   -119    162   -269       N  
+HETATM   10  CX  KCX A 169     -20.809  13.213 -38.307  1.00 12.41           C  
+ANISOU   10  CX  KCX A 169     1343   1668   1704   -105    209    -31       C  
+HETATM   11  OQ1 KCX A 169     -21.009  12.043 -38.727  1.00 12.30           O  
+ANISOU   11  OQ1 KCX A 169     1429   1631   1612      4   -125    -56       O  
+HETATM   12  OQ2 KCX A 169     -19.650  13.595 -38.020  1.00 11.17           O  
+ANISOU   12  OQ2 KCX A 169     1176   1369   1699   -200    266     -1       O  
+HETATM   13  H   KCX A 169     -27.080  18.479 -37.603  1.00 11.38           H  
+HETATM   14  HA  KCX A 169     -26.493  16.485 -39.352  1.00 10.82           H  
+HETATM   15  HB2 KCX A 169     -25.221  17.404 -37.005  1.00 12.07           H  
+HETATM   16  HB3 KCX A 169     -24.639  17.481 -38.474  1.00 12.07           H  
+HETATM   17  HG2 KCX A 169     -23.531  15.871 -37.166  1.00 13.34           H  
+HETATM   18  HG3 KCX A 169     -24.893  15.058 -37.054  1.00 13.34           H  
+HETATM   19  HD2 KCX A 169     -24.860  14.648 -39.326  1.00 14.89           H  
+HETATM   20  HD3 KCX A 169     -23.532  15.512 -39.476  1.00 14.89           H  
+HETATM   21  HE2 KCX A 169     -23.145  13.155 -39.438  1.00 15.23           H  
+HETATM   22  HE3 KCX A 169     -23.604  13.172 -37.912  1.00 15.23           H  
+HETATM   23  HZ  KCX A 169     -21.655  14.974 -37.930  1.00 14.40           H  
+TER   
+CONECT    1    2   13
+CONECT    2    1    3    5   14
+CONECT    3    2    4
+CONECT    4    3
+CONECT    5    2    6   15   16
+CONECT    6    5    7   17   18
+CONECT    7    6    8   19   20
+CONECT    8    7    9   21   22
+CONECT    9    8   10   23
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10
+CONECT   13    1
+CONECT   14    2
+CONECT   15    5
+CONECT   16    5
+CONECT   17    6
+CONECT   18    6
+CONECT   19    7
+CONECT   20    7
+CONECT   21    8
+CONECT   22    8
+CONECT   23    9
+END

@@ -1,0 +1,56 @@
+CRYST1   44.850   45.493  117.564  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  S15 TVE A 301      -8.421  -2.536   7.685  0.74 57.34           S  
+HETATM    2  C16 TVE A 301      -8.516  -2.726   9.586  0.74 53.23           C  
+HETATM    3  C17 TVE A 301      -7.769  -3.939  10.167  0.74 30.98           C  
+HETATM    4  C18 TVE A 301      -8.423  -5.329  10.351  0.74 38.61           C  
+HETATM    5  O19 TVE A 301      -9.037  -5.595  11.400  0.74 36.18           O1-
+HETATM    6  O20 TVE A 301      -8.179  -6.044   9.360  0.74 49.57           O  
+HETATM    7  N21 TVE A 301      -6.961  -3.582  11.190  0.74 38.75           N  
+HETATM    8  C22 TVE A 301      -7.455  -2.277  11.719  0.74 41.43           C  
+HETATM    9  C23 TVE A 301      -7.819  -1.513  10.394  0.74 40.63           C  
+HETATM   10  C24 TVE A 301      -6.633  -0.986   9.722  0.74 41.05           C  
+HETATM   11  C25 TVE A 301      -6.281  -1.766  12.595  0.74 27.53           C  
+HETATM   12  C26 TVE A 301      -6.678  -0.706  13.628  0.74 33.75           C  
+HETATM   13  C27 TVE A 301      -6.102   0.588  13.131  0.74 32.29           C  
+HETATM   14  O28 TVE A 301      -8.078  -0.651  13.663  0.74 40.55           O  
+HETATM   15  C29 TVE A 301      -5.643  -2.984  13.235  0.74 28.24           C  
+HETATM   16  O30 TVE A 301      -4.699  -3.484  12.677  0.74 28.14           O  
+HETATM   17 H161 TVE A 301      -9.434  -2.868   9.721  0.74 63.86           H  
+HETATM   18 H231 TVE A 301      -8.396  -0.781  10.505  0.74 48.74           H  
+HETATM   19 H241 TVE A 301      -6.792  -0.918   8.799  0.74 49.24           H  
+HETATM   20 H242 TVE A 301      -5.903  -1.559   9.865  0.74 49.24           H  
+HETATM   21 H243 TVE A 301      -6.425  -0.135  10.060  0.74 49.24           H  
+HETATM   22 H251 TVE A 301      -5.624  -1.352  12.068  0.74 33.02           H  
+HETATM   23 H261 TVE A 301      -6.389  -0.864  14.507  0.74 40.49           H  
+HETATM   24 H271 TVE A 301      -5.646   0.481  12.317  0.74 38.73           H  
+HETATM   25 H272 TVE A 301      -5.490   0.957  13.739  0.74 38.73           H  
+HETATM   26 H273 TVE A 301      -6.766   1.236  12.987  0.74 38.73           H  
+HETATM   27 H281 TVE A 301      -8.332  -0.632  14.462  0.74 48.65           H  
+CONECT    1    2
+CONECT    2    1    3    9   17
+CONECT    3    2    4    7
+CONECT    4    3    5    6
+CONECT    5    4
+CONECT    6    4
+CONECT    7    3    8
+CONECT    8    7    9   11
+CONECT    9    2    8   10   18
+CONECT   10    9   19   20   21
+CONECT   11    8   12   15   22
+CONECT   12   11   13   14   23
+CONECT   13   12   24   25   26
+CONECT   14   12   27
+CONECT   15   11   16
+CONECT   16   15
+CONECT   17    2
+CONECT   18    9
+CONECT   19   10
+CONECT   20   10
+CONECT   21   10
+CONECT   22   11
+CONECT   23   12
+CONECT   24   13
+CONECT   25   13
+CONECT   26   13
+CONECT   27   14
+END

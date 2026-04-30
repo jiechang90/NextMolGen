@@ -1,0 +1,64 @@
+CRYST1   83.000   83.000  130.600  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  PA  AGS A 500      54.787  52.673  59.295  1.00 44.33           P  
+HETATM    2  PB  AGS A 500      54.982  55.076  57.658  1.00 25.91           P  
+HETATM    3  PG  AGS A 500      56.636  55.440  55.352  0.40 33.80           P  
+HETATM    4  C5' AGS A 500      54.657  51.604  61.673  1.00 52.59           C  
+HETATM    5  O5' AGS A 500      55.020  52.695  60.868  1.00 49.79           O  
+HETATM    6  C4' AGS A 500      55.054  52.000  63.100  1.00 52.60           C  
+HETATM    7  O4' AGS A 500      54.318  53.121  63.482  1.00 52.33           O  
+HETATM    8  C3' AGS A 500      54.867  50.924  64.173  1.00 52.95           C  
+HETATM    9  O3' AGS A 500      55.842  51.126  65.176  1.00 53.63           O  
+HETATM   10  C2' AGS A 500      53.533  51.382  64.793  1.00 53.48           C  
+HETATM   11  O2' AGS A 500      53.294  50.906  66.137  1.00 53.56           O  
+HETATM   12  C1' AGS A 500      53.699  52.915  64.701  1.00 52.87           C  
+HETATM   13  N1  AGS A 500      51.049  57.230  65.496  1.00 59.20           N  
+HETATM   14  O1A AGS A 500      55.886  52.011  58.553  1.00 41.19           O1-
+HETATM   15  O1B AGS A 500      54.227  54.225  56.710  1.00 19.88           O1-
+HETATM   16  S1G AGS A 500      56.282  56.994  54.525  0.40 30.68           S  
+HETATM   17  C2  AGS A 500      52.399  57.010  65.449  1.00 58.04           C  
+HETATM   18  O2A AGS A 500      53.374  52.273  59.130  1.00 39.15           O  
+HETATM   19  O2B AGS A 500      54.339  56.352  58.064  1.00 22.32           O  
+HETATM   20  O2G AGS A 500      55.728  54.405  54.766  0.40 33.47           O  
+HETATM   21  N3  AGS A 500      53.022  55.849  65.144  1.00 55.54           N  
+HETATM   22  O3A AGS A 500      55.039  54.317  59.013  1.00 34.73           O  
+HETATM   23  O3B AGS A 500      56.328  55.495  56.952  1.00 27.27           O  
+HETATM   24  O3G AGS A 500      58.061  55.042  55.384  0.40 33.56           O  
+HETATM   25  C4  AGS A 500      52.106  54.866  64.816  1.00 56.47           C  
+HETATM   26  C5  AGS A 500      50.682  54.985  64.781  1.00 54.15           C  
+HETATM   27  C6  AGS A 500      50.181  56.268  65.082  1.00 55.60           C  
+HETATM   28  N6  AGS A 500      48.762  56.564  64.951  1.00 54.09           N  
+HETATM   29  N7  AGS A 500      50.067  53.802  64.441  1.00 51.27           N  
+HETATM   30  C8  AGS A 500      51.121  53.015  64.352  1.00 53.33           C  
+HETATM   31  N9  AGS A 500      52.369  53.545  64.622  1.00 53.99           N  
+CONECT    1    5   14   18   22
+CONECT    2   15   19   22   23
+CONECT    3   16   20   23   24
+CONECT    4    6    5
+CONECT    5    1    4
+CONECT    6    4    7    8
+CONECT    7    6   12
+CONECT    8    6    9   10
+CONECT    9    8
+CONECT   10    8   11   12
+CONECT   11   10
+CONECT   12    7   10   31
+CONECT   13   17   27
+CONECT   14    1
+CONECT   15    2
+CONECT   16    3
+CONECT   17   13   21
+CONECT   18    1
+CONECT   19    2
+CONECT   20    3
+CONECT   21   17   25
+CONECT   22    1    2
+CONECT   23    2    3
+CONECT   24    3
+CONECT   25   21   26   31
+CONECT   26   25   27   29
+CONECT   27   26   13   28
+CONECT   28   27
+CONECT   29   26   30
+CONECT   30   29   31
+CONECT   31   12   25   30
+END

@@ -1,0 +1,16 @@
+CRYST1   33.078   33.621   99.138  90.00  96.75  90.00 P 1 21 1      1
+HETATM    1  C   ACT A1063      82.443   3.748  56.171  1.00 28.96           C  
+HETATM    2  O   ACT A1063      83.039   2.714  55.801  1.00 32.36           O  
+HETATM    3  CH3 ACT A1063      82.162   4.026  57.620  1.00 18.61           C  
+HETATM    4  OXT ACT A1063      82.102   4.541  55.264  1.00 25.60           O  
+HETATM    5  H1  ACT A1063      82.645   4.959  57.911  1.00 22.29           H  
+HETATM    6  H2  ACT A1063      81.086   4.111  57.771  1.00 22.29           H  
+HETATM    7  H3  ACT A1063      82.552   3.210  58.228  1.00 22.29           H  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5    6    7
+CONECT    4    1
+CONECT    5    3
+CONECT    6    3
+CONECT    7    3
+END

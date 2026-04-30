@@ -1,0 +1,14 @@
+CRYST1   74.634   80.707  107.597  69.82  77.74  67.97 P 1           1
+HETATM    1  C1  OXL B 902       4.212  -1.951 -68.901  1.00 58.26           C  
+HETATM    2  O1  OXL B 902       4.641  -2.617 -67.956  1.00 58.80           O  
+HETATM    3  C2  OXL B 902       4.051  -0.414 -68.585  1.00 59.91           C  
+HETATM    4  O2  OXL B 902       3.608   0.356 -69.517  1.00 61.14           O  
+HETATM    5  O3  OXL B 902       3.913  -2.419 -70.038  1.00 54.95           O  
+HETATM    6  O4  OXL B 902       4.383  -0.060 -67.406  1.00 57.44           O  
+CONECT    1    2    3    5
+CONECT    2    1
+CONECT    3    1    4    6
+CONECT    4    3
+CONECT    5    1
+CONECT    6    3
+END

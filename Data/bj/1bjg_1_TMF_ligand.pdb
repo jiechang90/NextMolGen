@@ -1,0 +1,68 @@
+CRYST1  133.000  133.000  133.000  90.00  90.00  90.00 I 21 3        2
+HETATM    1  N  ATMF A 267      40.503  73.065  41.988  0.35 64.23           N  
+HETATM    2  CA ATMF A 267      39.861  73.640  40.774  0.35 65.34           C  
+HETATM    3  C  ATMF A 267      39.809  72.874  43.124  0.35 62.40           C  
+HETATM    4  O  ATMF A 267      38.579  72.951  43.103  0.35 64.01           O  
+HETATM    5  NA2ATMF A 267      48.774  71.596  51.401  0.35 39.79           N  
+HETATM    6  CB ATMF A 267      38.993  72.638  40.066  0.35 62.60           C  
+HETATM    7  CG ATMF A 267      37.922  73.263  39.176  0.35 60.53           C  
+HETATM    8  CD ATMF A 267      36.933  72.253  38.608  0.35 59.33           C  
+HETATM    9  OE1ATMF A 267      35.807  72.144  39.147  0.35 57.89           O  
+HETATM   10  OE2ATMF A 267      37.262  71.589  37.605  0.35 57.68           O  
+HETATM   11  N1 ATMF A 267      46.492  71.936  51.464  0.35 42.17           N  
+HETATM   12  O1 ATMF A 267      42.128  73.985  40.086  0.35 70.14           O  
+HETATM   13  C2 ATMF A 267      47.587  71.596  50.788  0.35 43.34           C  
+HETATM   14  O2 ATMF A 267      40.552  74.941  38.881  0.35 68.88           O  
+HETATM   15  N3 ATMF A 267      47.498  71.229  49.506  0.35 43.19           N  
+HETATM   16  C4 ATMF A 267      46.353  71.170  48.806  0.35 43.96           C  
+HETATM   17  C4AATMF A 267      45.177  71.532  49.508  0.35 44.44           C  
+HETATM   18  O4 ATMF A 267      46.329  70.783  47.488  0.35 45.73           O  
+HETATM   19  N5 ATMF A 267      43.963  71.685  48.895  0.35 45.62           N  
+HETATM   20  C6 ATMF A 267      42.815  72.223  49.680  0.35 45.30           C  
+HETATM   21  C7 ATMF A 267      42.967  72.078  51.127  0.35 42.84           C  
+HETATM   22  C8AATMF A 267      45.322  71.909  50.853  0.35 43.72           C  
+HETATM   23  N8 ATMF A 267      44.358  72.245  51.541  0.35 43.95           N  
+HETATM   24  C9 ATMF A 267      41.599  71.512  49.264  0.35 48.11           C  
+HETATM   25  N10ATMF A 267      41.893  70.925  47.949  0.35 50.33           N  
+HETATM   26  C11ATMF A 267      40.491  72.567  44.369  0.35 60.02           C  
+HETATM   27  C12ATMF A 267      41.743  71.926  44.392  0.35 58.39           C  
+HETATM   28  C13ATMF A 267      42.239  71.421  45.606  0.35 56.03           C  
+HETATM   29  C14ATMF A 267      41.500  71.547  46.809  0.35 53.55           C  
+HETATM   30  C15ATMF A 267      40.284  72.262  46.786  0.35 55.20           C  
+HETATM   31  C16ATMF A 267      39.791  72.765  45.577  0.35 57.96           C  
+HETATM   32  CP1ATMF A 267      43.324  70.585  48.154  0.35 48.07           C  
+HETATM   33  CT ATMF A 267      40.925  74.222  39.835  0.35 67.86           C  
+CONECT    1    2    3
+CONECT    2    1    6   33
+CONECT    3    1    4   26
+CONECT    4    3
+CONECT    5   13
+CONECT    6    2    7
+CONECT    7    6    8
+CONECT    8    7    9   10
+CONECT    9    8
+CONECT   10    8
+CONECT   11   13   22
+CONECT   12   33
+CONECT   13   11    5   15
+CONECT   14   33
+CONECT   15   13   16
+CONECT   16   15   17   18
+CONECT   17   16   19   22
+CONECT   18   16
+CONECT   19   17   20   32
+CONECT   20   19   21   24
+CONECT   21   20   23
+CONECT   22   11   17   23
+CONECT   23   21   22
+CONECT   24   20   25
+CONECT   25   24   29   32
+CONECT   26    3   27   31
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   25   28   30
+CONECT   30   29   31
+CONECT   31   26   30
+CONECT   32   19   25
+CONECT   33    2   12   14
+END

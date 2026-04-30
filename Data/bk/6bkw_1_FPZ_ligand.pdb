@@ -1,0 +1,70 @@
+CRYST1  108.765  108.765   41.863  90.00  90.00 120.00 P 61          1
+HETATM    1  P07 FPZ A 705      43.812  -1.961   7.064  1.00 24.27           P  
+HETATM    2  C01 FPZ A 705      48.417  -2.970   6.745  1.00 39.28           C  
+HETATM    3  C02 FPZ A 705      47.864  -2.370   7.866  1.00 45.38           C  
+HETATM    4  C03 FPZ A 705      46.491  -2.071   7.935  1.00 31.91           C  
+HETATM    5  C04 FPZ A 705      45.613  -2.365   6.908  1.00 31.03           C  
+HETATM    6  C05 FPZ A 705      46.182  -2.967   5.788  1.00 48.98           C  
+HETATM    7  C06 FPZ A 705      47.546  -3.273   5.696  1.00 49.65           C  
+HETATM    8  C08 FPZ A 705      43.169  -2.659   8.690  1.00 41.69           C  
+HETATM    9  C09 FPZ A 705      42.015  -2.200   9.331  1.00 35.41           C  
+HETATM   10  C10 FPZ A 705      41.548  -2.720  10.551  1.00 39.94           C  
+HETATM   11  C11 FPZ A 705      42.246  -3.746  11.195  1.00 54.08           C  
+HETATM   12  C12 FPZ A 705      43.399  -4.218  10.584  1.00 55.39           C  
+HETATM   13  C13 FPZ A 705      43.847  -3.681   9.364  1.00 56.45           C  
+HETATM   14  C14 FPZ A 705      43.649  -0.127   7.130  1.00 22.92           C  
+HETATM   15  C15 FPZ A 705      43.005   0.627   6.159  1.00 26.48           C  
+HETATM   16  C16 FPZ A 705      42.901   2.011   6.249  1.00 25.24           C  
+HETATM   17  C17 FPZ A 705      43.437   2.690   7.339  1.00 24.95           C  
+HETATM   18  C18 FPZ A 705      44.074   1.955   8.323  1.00 30.64           C  
+HETATM   19  C19 FPZ A 705      44.173   0.570   8.210  1.00 33.06           C  
+HETATM   20 H011 FPZ A 705      49.326  -3.160   6.702  1.00 47.16           H  
+HETATM   21 H021 FPZ A 705      48.425  -2.157   8.577  1.00 54.48           H  
+HETATM   22 H031 FPZ A 705      46.160  -1.672   8.707  1.00 38.32           H  
+HETATM   23 H051 FPZ A 705      45.687  -3.210   5.040  1.00 58.80           H  
+HETATM   24 H061 FPZ A 705      47.928  -3.674   4.948  1.00 59.60           H  
+HETATM   25 H091 FPZ A 705      41.483  -1.521   8.984  1.00 42.52           H  
+HETATM   26 H101 FPZ A 705      40.777  -2.420  10.977  1.00 47.95           H  
+HETATM   27 H111 FPZ A 705      41.951  -4.105  12.001  1.00 64.91           H  
+HETATM   28 H121 FPZ A 705      43.881  -4.901  10.993  1.00 66.50           H  
+HETATM   29 H131 FPZ A 705      44.625  -4.022   8.985  1.00 67.77           H  
+HETATM   30 H151 FPZ A 705      42.620   0.257   5.397  1.00 31.80           H  
+HETATM   31 H161 FPZ A 705      42.478   2.533   5.607  1.00 30.31           H  
+HETATM   32 H171 FPZ A 705      43.372   3.615   7.411  1.00 29.96           H  
+HETATM   33 H181 FPZ A 705      44.439   2.398   9.055  1.00 36.79           H  
+HETATM   34 H191 FPZ A 705      44.606   0.095   8.882  1.00 39.69           H  
+CONECT    1    5    8   14
+CONECT    2    3    7   20
+CONECT    3    2    4   21
+CONECT    4    3    5   22
+CONECT    5    4    1    6
+CONECT    6    5    7   23
+CONECT    7    2    6   24
+CONECT    8    1    9   13
+CONECT    9    8   25   10
+CONECT   10    9   11   26
+CONECT   11   10   12   27
+CONECT   12   11   13   28
+CONECT   13    8   12   29
+CONECT   14    1   15   19
+CONECT   15   14   16   30
+CONECT   16   15   17   31
+CONECT   17   16   18   32
+CONECT   18   17   19   33
+CONECT   19   14   18   34
+CONECT   20    2
+CONECT   21    3
+CONECT   22    4
+CONECT   23    6
+CONECT   24    7
+CONECT   25    9
+CONECT   26   10
+CONECT   27   11
+CONECT   28   12
+CONECT   29   13
+CONECT   30   15
+CONECT   31   16
+CONECT   32   17
+CONECT   33   18
+CONECT   34   19
+END

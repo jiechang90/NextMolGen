@@ -1,0 +1,62 @@
+CRYST1   91.210   91.210   79.660  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  C1 AFUC C   6     -47.106 -56.044   6.745  0.56 84.24           C  
+ANISOU    1  C1 AFUC C   6    13519   8428  10062  -1689   1114    264       C  
+HETATM    2  C1 BFUC C   6     -54.246 -52.495   7.058  0.44 82.26           C  
+ANISOU    2  C1 BFUC C   6    12456   9064   9736  -2510   1202    -88       C  
+HETATM    3  C2 AFUC C   6     -45.611 -55.951   6.982  0.56 77.98           C  
+ANISOU    3  C2 AFUC C   6    12796   7577   9257  -1473   1058    341       C  
+HETATM    4  C2 BFUC C   6     -54.651 -53.092   5.716  0.44 76.73           C  
+ANISOU    4  C2 BFUC C   6    11732   8351   9069  -2597   1211   -199       C  
+HETATM    5  O2 AFUC C   6     -45.277 -55.559   8.335  0.56 75.50           O  
+ANISOU    5  O2 AFUC C   6    12504   7290   8891  -1387   1054    446       O  
+HETATM    6  O2 BFUC C   6     -54.096 -54.381   5.482  0.44 78.38           O  
+ANISOU    6  O2 BFUC C   6    12112   8364   9304  -2585   1251   -178       O  
+HETATM    7  C3 AFUC C   6     -44.931 -57.254   6.548  0.56 74.63           C  
+ANISOU    7  C3 AFUC C   6    12532   6976   8847  -1409   1088    350       C  
+HETATM    8  C3 BFUC C   6     -56.162 -53.128   5.614  0.44 72.81           C  
+ANISOU    8  C3 BFUC C   6    11122   7992   8552  -2783   1260   -292       C  
+HETATM    9  O3 AFUC C   6     -43.536 -57.062   6.549  0.56 77.55           O  
+ANISOU    9  O3 AFUC C   6    12937   7322   9207  -1205   1025    401       O  
+HETATM   10  O3 BFUC C   6     -56.551 -53.650   4.341  0.44 70.61           O  
+ANISOU   10  O3 BFUC C   6    10812   7717   8300  -2864   1265   -401       O  
+HETATM   11  C4 AFUC C   6     -45.326 -57.604   5.106  0.56 73.80           C  
+ANISOU   11  C4 AFUC C   6    12392   6856   8793  -1505   1090    234       C  
+HETATM   12  C4 BFUC C   6     -56.693 -51.702   5.731  0.44 71.77           C  
+ANISOU   12  C4 BFUC C   6    10800   8077   8391  -2776   1208   -321       C  
+HETATM   13  O4 AFUC C   6     -44.795 -56.634   4.238  0.56 71.72           O  
+ANISOU   13  O4 AFUC C   6    12007   6693   8551  -1430   1005    187       O  
+HETATM   14  O4 BFUC C   6     -56.201 -50.906   4.665  0.44 72.63           O  
+ANISOU   14  O4 BFUC C   6    10819   8252   8526  -2687   1125   -367       O  
+HETATM   15  C5 AFUC C   6     -46.846 -57.634   4.966  0.56 80.14           C  
+ANISOU   15  C5 AFUC C   6    13120   7724   9605  -1725   1145    160       C  
+HETATM   16  C5 BFUC C   6     -56.226 -51.081   7.041  0.44 71.89           C  
+ANISOU   16  C5 BFUC C   6    10842   8095   8378  -2684   1198   -210       C  
+HETATM   17  O5 AFUC C   6     -47.404 -56.398   5.412  0.56 82.97           O  
+ANISOU   17  O5 AFUC C   6    13328   8253   9945  -1765   1114    159       O  
+HETATM   18  O5 BFUC C   6     -54.788 -51.204   7.221  0.44 73.59           O  
+ANISOU   18  O5 BFUC C   6    11188   8160   8614  -2521   1162   -117       O  
+HETATM   19  C6 AFUC C   6     -47.340 -57.831   3.536  0.56 76.60           C  
+ANISOU   19  C6 AFUC C   6    12608   7296   9201  -1827   1141     34       C  
+HETATM   20  C6 BFUC C   6     -56.539 -49.597   7.116  0.44 66.84           C  
+ANISOU   20  C6 BFUC C   6    10026   7654   7717  -2650   1138   -234       C  
+CONECT    1    3   17
+CONECT    2    4   18
+CONECT    3    1    5    7
+CONECT    4    2    6    8
+CONECT    5    3
+CONECT    6    4
+CONECT    7    3    9   11
+CONECT    8    4   10   12
+CONECT    9    7
+CONECT   10    8
+CONECT   11    7   13   15
+CONECT   12    8   14   16
+CONECT   13   11
+CONECT   14   12
+CONECT   15   11   17   19
+CONECT   16   12   18   20
+CONECT   17    1   15
+CONECT   18    2   16
+CONECT   19   15
+CONECT   20   16
+END

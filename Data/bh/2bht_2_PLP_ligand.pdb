@@ -1,0 +1,32 @@
+CRYST1  149.940  149.940  194.010  90.00  90.00  90.00 I 41          3
+HETATM    1  P   PLP C 320      73.714 110.435 132.355  1.00 34.38           P  
+HETATM    2  O1P PLP C 320      75.070 111.140 131.892  1.00 27.44           O  
+HETATM    3  O2P PLP C 320      73.018 111.458 133.366  1.00 39.14           O1-
+HETATM    4  O3P PLP C 320      73.945 109.109 132.932  1.00 41.47           O  
+HETATM    5  O4P PLP C 320      72.774 110.407 131.067  1.00 32.41           O  
+HETATM    6  N1  PLP C 320      68.349 109.397 129.508  1.00 35.25           N  
+HETATM    7  C2  PLP C 320      68.683 108.264 128.878  1.00 34.81           C  
+HETATM    8  C2A PLP C 320      67.635 107.547 128.021  1.00 22.46           C  
+HETATM    9  C3  PLP C 320      69.964 107.745 128.996  1.00 41.49           C  
+HETATM   10  O3  PLP C 320      70.286 106.728 128.386  1.00 26.55           O  
+HETATM   11  C4  PLP C 320      70.919 108.396 129.788  1.00 46.63           C  
+HETATM   12  C4A PLP C 320      72.380 107.913 129.872  1.00 40.70           C  
+HETATM   13  C5  PLP C 320      70.501 109.558 130.452  1.00 29.88           C  
+HETATM   14  C5A PLP C 320      71.467 110.263 131.406  1.00 16.31           C  
+HETATM   15  C6  PLP C 320      69.215 110.036 130.267  1.00 30.47           C  
+CONECT    1    2    3    4    5
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1   14
+CONECT    6    7   15
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13    5
+CONECT   15    6   13
+END

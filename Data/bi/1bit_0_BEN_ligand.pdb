@@ -1,0 +1,20 @@
+CRYST1   77.090   82.330   31.160  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  C   BEN A 246      58.910  78.310 -14.539  1.00 14.54           C  
+HETATM    2  C1  BEN A 246      58.310  77.203 -15.314  1.00 15.07           C  
+HETATM    3  N1  BEN A 246      58.589  78.411 -13.257  1.00  8.67           N  
+HETATM    4  C2  BEN A 246      57.685  76.184 -14.567  1.00 14.62           C  
+HETATM    5  N2  BEN A 246      59.759  79.181 -15.051  1.00 12.06           N  
+HETATM    6  C3  BEN A 246      57.107  75.148 -15.204  1.00 17.58           C  
+HETATM    7  C4  BEN A 246      57.136  75.060 -16.583  1.00 15.97           C  
+HETATM    8  C5  BEN A 246      57.771  76.065 -17.341  1.00 14.92           C  
+HETATM    9  C6  BEN A 246      58.364  77.167 -16.741  1.00 15.22           C  
+CONECT    1    3    5    2
+CONECT    2    1    4    9
+CONECT    3    1
+CONECT    4    2    6
+CONECT    5    1
+CONECT    6    4    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    2    8
+END

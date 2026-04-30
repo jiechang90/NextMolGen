@@ -1,0 +1,29 @@
+CRYST1   63.009   48.023   71.761  90.00  91.04  90.00 P 1 21 1      1
+HETATM    1  P   PGA B1243      65.208  -0.832 -12.373  1.00 14.62           P  
+ANISOU    1  P   PGA B1243     2009   1940   1607    -99      6      6       P  
+HETATM    2  O1P PGA B1243      63.789  -0.031 -12.402  1.00 17.27           O  
+ANISOU    2  O1P PGA B1243     2104   2350   2107    -64     70     17       O  
+HETATM    3  O2P PGA B1243      66.233   0.315 -12.373  1.00 13.14           O  
+ANISOU    3  O2P PGA B1243     2028   1629   1333   -481     78     86       O  
+HETATM    4  O3P PGA B1243      65.199  -1.649 -11.079  1.00 14.78           O1-
+ANISOU    4  O3P PGA B1243     1871   2278   1464   -407   -133    602       O1-
+HETATM    5  O4P PGA B1243      65.289  -1.606 -13.665  1.00 12.02           O  
+ANISOU    5  O4P PGA B1243     2208   1425    932   -112    241   -338       O  
+HETATM    6  C1  PGA B1243      61.412   0.161 -12.769  1.00 15.48           C  
+ANISOU    6  C1  PGA B1243     1772   1889   2219    -10     59   -576       C  
+HETATM    7  O1 APGA B1243      61.379   1.107 -11.679  0.50 10.84           O  
+ANISOU    7  O1 APGA B1243     1245   1353   1522    -49    730   -571       O  
+HETATM    8  O1 BPGA B1243      61.338  -0.496 -14.060  0.50 18.52           O  
+ANISOU    8  O1 BPGA B1243     1884   2336   2816     79    629   -133       O  
+HETATM    9  C2  PGA B1243      62.542  -0.716 -12.217  1.00 15.76           C  
+ANISOU    9  C2  PGA B1243     1907   1771   2309     43    152   -316       C  
+CONECT    1    2    3    4    5
+CONECT    2    1    9
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    7    8    9
+CONECT    7    6
+CONECT    8    6
+CONECT    9    2    6
+END

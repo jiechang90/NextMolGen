@@ -1,0 +1,202 @@
+CRYST1   91.210   91.210   79.660  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  C1 ANAG C   1     -51.820 -55.603   5.996  0.12 93.16           C  
+ANISOU    1  C1 ANAG C   1    14298   9902  11198  -2331   1248    -14       C  
+HETATM    2  C1 BNAG C   1     -51.541 -57.015   6.674  0.88 96.01           C  
+ANISOU    2  C1 BNAG C   1    14866  10061  11553  -2332   1329     61       C  
+HETATM    3  O1 ANAG C   1     -52.641 -56.259   5.086  0.12 92.60           O  
+ANISOU    3  O1 ANAG C   1    14206   9828  11150  -2477   1288   -119       O  
+HETATM    4  O1 BNAG C   1     -51.853 -57.363   5.365  0.88 97.01           O  
+ANISOU    4  O1 BNAG C   1    14956  10186  11718  -2409   1325    -51       O  
+HETATM    5  C2 ANAG C   1     -52.665 -54.811   6.993  0.12 90.89           C  
+ANISOU    5  C2 ANAG C   1    13909   9758  10868  -2399   1262      9       C  
+HETATM    6  C2 BNAG C   1     -50.057 -56.606   6.696  0.88 96.55           C  
+ANISOU    6  C2 BNAG C   1    14978  10082  11623  -2114   1252    132       C  
+HETATM    7  N2 ANAG C   1     -53.519 -53.853   6.307  0.12 86.99           N  
+ANISOU    7  N2 ANAG C   1    13221   9454  10375  -2482   1226    -92       N  
+HETATM    8  N2 BNAG C   1     -49.232 -57.782   6.438  0.88 96.88           N  
+ANISOU    8  N2 BNAG C   1    15193   9934  11683  -2038   1277    162       N  
+HETATM    9  C3 ANAG C   1     -51.762 -54.104   8.000  0.12 88.13           C  
+ANISOU    9  C3 ANAG C   1    13582   9414  10490  -2242   1219    121       C  
+HETATM   10  C3 BNAG C   1     -49.686 -55.939   8.026  0.88 95.24           C  
+ANISOU   10  C3 BNAG C   1    14813   9962  11412  -2018   1236    241       C  
+HETATM   11  O3 ANAG C   1     -52.559 -53.502   9.014  0.12 85.53           O  
+ANISOU   11  O3 ANAG C   1    13176   9204  10119  -2309   1244    147       O  
+HETATM   12  O3 BNAG C   1     -48.383 -55.361   7.977  0.88 91.13           O  
+ANISOU   12  O3 BNAG C   1    14298   9436  10891  -1824   1156    290       O  
+HETATM   13  C4 ANAG C   1     -50.797 -55.092   8.641  0.12 90.13           C  
+ANISOU   13  C4 ANAG C   1    14030   9479  10736  -2133   1249    224       C  
+HETATM   14  C4 BNAG C   1     -50.666 -54.820   8.352  0.88 89.74           C  
+ANISOU   14  C4 BNAG C   1    13947   9456  10695  -2113   1224    207       C  
+HETATM   15  O4 ANAG C   1     -49.850 -54.388   9.436  0.12 85.91           O  
+ANISOU   15  O4 ANAG C   1    13505   8965  10173  -1970   1197    318       O  
+HETATM   16  O4 BNAG C   1     -50.301 -54.220   9.589  0.88 87.31           O  
+ANISOU   16  O4 BNAG C   1    13644   9188  10343  -2023   1210    306       O  
+HETATM   17  C5 ANAG C   1     -50.052 -55.894   7.577  0.12 94.33           C  
+ANISOU   17  C5 ANAG C   1    14653   9878  11310  -2076   1236    190       C  
+HETATM   18  C5 BNAG C   1     -52.080 -55.380   8.375  0.88 89.25           C  
+ANISOU   18  C5 BNAG C   1    13861   9422  10629  -2320   1306    145       C  
+HETATM   19  O5 ANAG C   1     -50.991 -56.528   6.697  0.12 95.60           O  
+ANISOU   19  O5 ANAG C   1    14794  10032  11499  -2240   1283     86       O  
+HETATM   20  O5 BNAG C   1     -52.366 -55.905   7.073  0.88 94.98           O  
+ANISOU   20  O5 BNAG C   1    14573  10120  11396  -2399   1311     39       O  
+HETATM   21  C6 ANAG C   1     -49.193 -56.991   8.163  0.12 95.26           C  
+ANISOU   21  C6 ANAG C   1    14970   9808  11417  -1976   1275    285       C  
+HETATM   22  C6 BNAG C   1     -53.134 -54.336   8.673  0.88 88.59           C  
+ANISOU   22  C6 BNAG C   1    13602   9538  10518  -2418   1298    102       C  
+HETATM   23  O6 ANAG C   1     -47.904 -57.017   7.565  0.12 96.47           O  
+ANISOU   23  O6 ANAG C   1    15171   9894  11590  -1806   1212    299       O  
+HETATM   24  O6 BNAG C   1     -53.796 -53.860   7.507  0.88 90.37           O  
+ANISOU   24  O6 BNAG C   1    13682   9887  10768  -2502   1267    -22       O  
+HETATM   25  C7 ANAG C   1     -54.232 -52.914   6.940  0.12 84.16           C  
+ANISOU   25  C7 ANAG C   1    12738   9257   9984  -2526   1220    -93       C  
+HETATM   26  C7 BNAG C   1     -47.959 -57.933   6.828  0.88 98.80           C  
+ANISOU   26  C7 BNAG C   1    15540  10087  11915  -1853   1245    251       C  
+HETATM   27  O7 ANAG C   1     -54.212 -52.793   8.161  0.12 85.54           O  
+ANISOU   27  O7 ANAG C   1    12952   9427  10123  -2504   1245     -7       O  
+HETATM   28  O7 BNAG C   1     -47.359 -57.073   7.466  0.88 99.07           O  
+ANISOU   28  O7 BNAG C   1    15530  10190  11921  -1732   1192    316       O  
+HETATM   29  C8 ANAG C   1     -55.058 -52.016   6.068  0.12 85.53           C  
+ANISOU   29  C8 ANAG C   1    12717   9621  10159  -2597   1180   -204       C  
+HETATM   30  C8 BNAG C   1     -47.302 -59.224   6.432  0.88 99.08           C  
+ANISOU   30  C8 BNAG C   1    15745   9933  11969  -1798   1279    262       C  
+HETATM   31  HN2ANAG C   1     -53.571 -53.895   5.397  0.12104.49           H  
+HETATM   32  HN2BNAG C   1     -49.613 -58.468   5.975  0.88116.36           H  
+HETATM   33  HO3ANAG C   1     -52.495 -53.981   9.759  0.12102.75           H  
+HETATM   34  HO3BNAG C   1     -48.258 -54.813   8.666  0.88109.46           H  
+HETATM   35  H2 ANAG C   1     -53.232 -55.437   7.482  0.12109.18           H  
+HETATM   36  H2 BNAG C   1     -49.898 -55.937   6.004  0.88115.96           H  
+HETATM   37  H3 ANAG C   1     -51.256 -53.414   7.530  0.12105.87           H  
+HETATM   38  H3 BNAG C   1     -49.706 -56.640   8.705  0.88114.40           H  
+HETATM   39  H4 ANAG C   1     -51.304 -55.710   9.200  0.12108.26           H  
+HETATM   40  H4 BNAG C   1     -50.641 -54.119   7.674  0.88107.80           H  
+HETATM   41  H5 ANAG C   1     -49.490 -55.288   7.057  0.12113.30           H  
+HETATM   42  H5 BNAG C   1     -52.151 -56.084   9.048  0.88107.21           H  
+HETATM   43  H61ANAG C   1     -49.630 -57.851   8.015  0.12114.42           H  
+HETATM   44  H61BNAG C   1     -52.708 -53.580   9.119  0.88106.41           H  
+HETATM   45  H62ANAG C   1     -49.097 -56.842   9.122  0.12114.42           H  
+HETATM   46  H62BNAG C   1     -53.800 -54.726   9.271  0.88106.41           H  
+HETATM   47  H81ANAG C   1     -55.974 -52.350   6.033  0.12102.75           H  
+HETATM   48  H81BNAG C   1     -46.734 -59.073   5.653  0.88119.01           H  
+HETATM   49  H82ANAG C   1     -54.682 -52.003   5.168  0.12102.75           H  
+HETATM   50  H82BNAG C   1     -47.987 -59.883   6.212  0.88119.01           H  
+HETATM   51  H83ANAG C   1     -55.054 -51.112   6.436  0.12102.75           H  
+HETATM   52  H83BNAG C   1     -46.759 -59.553   7.172  0.88119.01           H  
+HETATM   53  C1  NAG C   2     -49.801 -52.898   9.306  1.00 66.86           C  
+ANISOU   53  C1  NAG C   2    10928   6720   7757  -1926   1119    292       C  
+HETATM   54  C2  NAG C   2     -50.106 -52.184  10.601  1.00 61.27           C  
+ANISOU   54  C2  NAG C   2    10175   6109   6997  -1922   1127    359       C  
+HETATM   55  N2  NAG C   2     -51.340 -52.663  11.197  1.00 62.64           N  
+ANISOU   55  N2  NAG C   2    10347   6308   7146  -2085   1212    351       N  
+HETATM   56  C3  NAG C   2     -50.189 -50.684  10.378  1.00 50.06           C  
+ANISOU   56  C3  NAG C   2     8586   4859   5577  -1899   1056    319       C  
+HETATM   57  O3  NAG C   2     -50.249 -50.155  11.695  1.00 46.47           O  
+ANISOU   57  O3  NAG C   2     8120   4470   5067  -1868   1065    397       O  
+HETATM   58  C4  NAG C   2     -48.972 -50.164   9.623  1.00 44.13           C  
+ANISOU   58  C4  NAG C   2     7826   4086   4857  -1748    970    316       C  
+HETATM   59  O4  NAG C   2     -49.177 -48.840   9.103  1.00 39.18           O  
+ANISOU   59  O4  NAG C   2     7038   3607   4243  -1753    909    258       O  
+HETATM   60  C5  NAG C   2     -48.594 -51.053   8.444  1.00 45.67           C  
+ANISOU   60  C5  NAG C   2     8088   4166   5099  -1742    970    266       C  
+HETATM   61  O5  NAG C   2     -48.572 -52.448   8.798  1.00 54.38           O  
+ANISOU   61  O5  NAG C   2     9350   5118   6196  -1764   1041    306       O  
+HETATM   62  C6  NAG C   2     -47.209 -50.730   7.943  1.00 40.11           C  
+ANISOU   62  C6  NAG C   2     7408   3418   4416  -1569    895    289       C  
+HETATM   63  O6  NAG C   2     -47.076 -51.018   6.567  1.00 55.88           O  
+ANISOU   63  O6  NAG C   2     9389   5384   6461  -1582    875    209       O  
+HETATM   64  C7  NAG C   2     -51.375 -53.492  12.240  1.00 64.94           C  
+ANISOU   64  C7  NAG C   2    10765   6506   7402  -2092   1281    439       C  
+HETATM   65  O7  NAG C   2     -50.349 -53.936  12.762  1.00 61.57           O  
+ANISOU   65  O7  NAG C   2    10467   5966   6959  -1953   1275    532       O  
+HETATM   66  C8  NAG C   2     -52.738 -53.861  12.722  1.00 63.58           C  
+ANISOU   66  C8  NAG C   2    10566   6383   7209  -2275   1366    416       C  
+HETATM   67  HN2 NAG C   2     -52.131 -52.383  10.839  1.00 75.28           H  
+HETATM   68  HO3 NAG C   2     -50.846 -49.496  11.713  1.00 55.88           H  
+HETATM   69  HO6 NAG C   2     -47.339 -51.858   6.438  1.00 67.17           H  
+HETATM   70  H2  NAG C   2     -49.368 -52.366  11.214  1.00 73.64           H  
+HETATM   71  H3  NAG C   2     -50.961 -50.426   9.840  1.00 60.18           H  
+HETATM   72  H4  NAG C   2     -48.248 -50.155  10.279  1.00 53.07           H  
+HETATM   73  H5  NAG C   2     -49.266 -50.944   7.745  1.00 54.91           H  
+HETATM   74  H61 NAG C   2     -46.558 -51.258   8.444  1.00 48.25           H  
+HETATM   75  H62 NAG C   2     -47.031 -49.782   8.089  1.00 48.25           H  
+HETATM   76  H81 NAG C   2     -53.154 -54.472  12.086  1.00 76.41           H  
+HETATM   77  H82 NAG C   2     -53.284 -53.055  12.803  1.00 76.41           H  
+HETATM   78  H83 NAG C   2     -52.669 -54.295  13.594  1.00 76.41           H  
+CONECT    1    3    5   19
+CONECT    2    4    6   20
+CONECT    3    1
+CONECT    4    2
+CONECT    5    1    7    9   35
+CONECT    6    2    8   10   36
+CONECT    7    5   31   25
+CONECT    8    6   32   26
+CONECT    9    5   11   13   37
+CONECT   10    6   12   14   38
+CONECT   11    9   33
+CONECT   12   10   34
+CONECT   13    9   15   17   39
+CONECT   14   10   16   18   40
+CONECT   15   13   53
+CONECT   16   14   53
+CONECT   17   13   19   21   41
+CONECT   18   14   20   22   42
+CONECT   19    1   17
+CONECT   20    2   18
+CONECT   21   17   23   43   45
+CONECT   22   18   24   44   46
+CONECT   23   21
+CONECT   24   22
+CONECT   25    7   27   29
+CONECT   26    8   28   30
+CONECT   27   25
+CONECT   28   26
+CONECT   29   25   47   49   51
+CONECT   30   26   48   50   52
+CONECT   31    7
+CONECT   32    8
+CONECT   33   11
+CONECT   34   12
+CONECT   35    5
+CONECT   36    6
+CONECT   37    9
+CONECT   38   10
+CONECT   39   13
+CONECT   40   14
+CONECT   41   17
+CONECT   42   18
+CONECT   43   21
+CONECT   44   22
+CONECT   45   21
+CONECT   46   22
+CONECT   47   29
+CONECT   48   30
+CONECT   49   29
+CONECT   50   30
+CONECT   51   29
+CONECT   52   30
+CONECT   53   15   16   54   61
+CONECT   54   53   55   56   70
+CONECT   55   54   67   64
+CONECT   56   54   57   58   71
+CONECT   57   56   68
+CONECT   58   56   59   60   72
+CONECT   59   58
+CONECT   60   58   61   62   73
+CONECT   61   53   60
+CONECT   62   60   63   74   75
+CONECT   63   62   69
+CONECT   64   55   65   66
+CONECT   65   64
+CONECT   66   64   76   77   78
+CONECT   67   55
+CONECT   68   57
+CONECT   69   63
+CONECT   70   54
+CONECT   71   56
+CONECT   72   58
+CONECT   73   60
+CONECT   74   62
+CONECT   75   62
+CONECT   76   66
+CONECT   77   66
+CONECT   78   66
+END

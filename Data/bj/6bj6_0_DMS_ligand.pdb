@@ -1,0 +1,22 @@
+CRYST1   99.850   99.850   99.850  90.00  90.00  90.00 P 21 3        1
+HETATM    1  O   DMS A 301      25.407  27.062  55.508  1.00 26.94           O  
+HETATM    2  C1  DMS A 301      22.767  26.403  55.887  1.00 28.85           C  
+HETATM    3  C2  DMS A 301      23.957  28.502  57.211  1.00 22.26           C  
+HETATM    4  S   DMS A 301      24.052  27.678  55.587  1.00 25.00           S  
+HETATM    5  H11 DMS A 301      21.828  26.873  56.026  1.00 34.62           H  
+HETATM    6  H12 DMS A 301      23.016  25.848  56.754  1.00 34.62           H  
+HETATM    7  H13 DMS A 301      22.715  25.751  55.054  1.00 34.62           H  
+HETATM    8  H21 DMS A 301      22.980  28.884  57.357  1.00 26.71           H  
+HETATM    9  H22 DMS A 301      24.180  27.804  57.975  1.00 26.71           H  
+HETATM   10  H23 DMS A 301      24.655  29.297  57.245  1.00 26.71           H  
+CONECT    1    4
+CONECT    2    5    6    7    4
+CONECT    3    8    9   10    4
+CONECT    4    1    2    3
+CONECT    5    2
+CONECT    6    2
+CONECT    7    2
+CONECT    8    3
+CONECT    9    3
+CONECT   10    3
+END

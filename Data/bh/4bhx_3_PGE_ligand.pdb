@@ -1,0 +1,22 @@
+CRYST1   83.615   83.615   55.233  90.00  90.00 120.00 P 65          1
+HETATM    1  C1  PGE A1094       9.510  44.631  10.413  1.00 47.21           C  
+HETATM    2  O1  PGE A1094       8.921  43.893   9.305  1.00 39.69           O  
+HETATM    3  C2  PGE A1094       8.840  44.352  11.753  1.00 47.21           C  
+HETATM    4  O2  PGE A1094       8.809  42.940  12.021  1.00 45.25           O  
+HETATM    5  C3  PGE A1094       9.555  42.510  13.162  1.00 36.60           C  
+HETATM    6  O3  PGE A1094       9.280  40.222  12.338  1.00 34.48           O  
+HETATM    7  C4  PGE A1094       9.238  41.071  13.490  1.00 35.69           C  
+HETATM    8  O4  PGE A1094      10.442  38.275  10.575  1.00 32.60           O  
+HETATM    9  C5  PGE A1094       9.229  38.833  12.683  1.00 36.62           C  
+HETATM   10  C6  PGE A1094       9.305  37.950  11.432  1.00 38.00           C  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3    5
+CONECT    5    4    7
+CONECT    6    7    9
+CONECT    7    5    6
+CONECT    8   10
+CONECT    9    6   10
+CONECT   10    8    9
+END

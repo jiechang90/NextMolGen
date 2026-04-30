@@ -1,0 +1,28 @@
+CRYST1   60.770   46.810   71.870  90.00 113.97  90.00 P 1 21 1      1
+HETATM    1  C1  CIT A 219      -0.622  11.477  15.096  1.00 24.84           C  
+HETATM    2  O1  CIT A 219       0.041  10.647  14.451  1.00 24.23           O  
+HETATM    3  C2  CIT A 219      -0.129  12.068  16.378  1.00 23.30           C  
+HETATM    4  O2  CIT A 219      -1.736  11.805  14.663  1.00 21.63           O  
+HETATM    5  C3  CIT A 219       1.007  11.264  16.988  1.00 27.08           C  
+HETATM    6  O3  CIT A 219       3.662  12.107  19.249  1.00 28.42           O  
+HETATM    7  C4  CIT A 219       1.538  12.015  18.201  1.00 28.21           C  
+HETATM    8  O4  CIT A 219       2.928  10.094  18.722  1.00 32.65           O  
+HETATM    9  C5  CIT A 219       2.776  11.359  18.761  1.00 32.04           C  
+HETATM   10  O5  CIT A 219       1.021   8.864  16.743  1.00 24.25           O  
+HETATM   11  C6  CIT A 219       0.558   9.871  17.356  1.00 27.25           C  
+HETATM   12  O6  CIT A 219      -0.283   9.748  18.274  1.00 26.09           O  
+HETATM   13  O7  CIT A 219       2.056  11.104  16.006  1.00 30.17           O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1    5
+CONECT    4    1
+CONECT    5    3    7   11   13
+CONECT    6    9
+CONECT    7    5    9
+CONECT    8    9
+CONECT    9    7    6    8
+CONECT   10   11
+CONECT   11    5   10   12
+CONECT   12   11
+CONECT   13    5
+END

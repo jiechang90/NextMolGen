@@ -1,0 +1,284 @@
+CRYST1    1.000    1.000    1.000  90.00  90.00  90.00 P 1           1
+HETATM    1  PA  MGD h 502     260.196 159.907 145.166  1.00 42.79           P  
+ANISOU    1  PA  MGD h 502     5419   5419   5419      0      0      0       P  
+HETATM    2  PB  MGD h 502     258.142 161.397 143.719  1.00 42.79           P  
+ANISOU    2  PB  MGD h 502     5419   5419   5419      0      0      0       P  
+HETATM    3  C5' MGD h 502     259.143 163.638 143.455  1.00 42.79           C  
+ANISOU    3  C5' MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM    4  O5' MGD h 502     257.985 162.997 143.827  1.00 42.79           O  
+ANISOU    4  O5' MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM    5  C4' MGD h 502     259.006 165.116 143.879  1.00 42.79           C  
+ANISOU    5  C4' MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM    6  O4' MGD h 502     260.105 165.898 143.133  1.00 42.79           O  
+ANISOU    6  O4' MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM    7  C3' MGD h 502     257.900 165.566 143.466  1.00 42.79           C  
+ANISOU    7  C3' MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM    8  O3' MGD h 502     257.356 166.498 144.427  1.00 42.79           O  
+ANISOU    8  O3' MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM    9  C2' MGD h 502     258.244 166.454 142.136  1.00 42.79           C  
+ANISOU    9  C2' MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   10  O2' MGD h 502     257.264 167.505 142.052  1.00 42.79           O  
+ANISOU   10  O2' MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM   11  C1' MGD h 502     259.318 167.007 142.436  1.00 42.79           C  
+ANISOU   11  C1' MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   12  N1  MGD h 502     263.327 169.804 140.923  1.00 42.79           N  
+ANISOU   12  N1  MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   13  O1A MGD h 502     260.009 160.392 146.565  1.00 42.79           O1-
+ANISOU   13  O1A MGD h 502     5419   5419   5419      0      0      0       O1-
+HETATM   14  O1B MGD h 502     257.168 160.688 144.599  1.00 42.79           O1-
+ANISOU   14  O1B MGD h 502     5419   5419   5419      0      0      0       O1-
+HETATM   15  C2  MGD h 502     262.920 169.514 142.247  1.00 42.79           C  
+ANISOU   15  C2  MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   16  N2  MGD h 502     263.661 170.050 143.361  1.00 42.79           N  
+ANISOU   16  N2  MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   17  O2A MGD h 502     261.654 159.717 144.929  1.00 42.79           O  
+ANISOU   17  O2A MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM   18  O2B MGD h 502     257.897 161.015 142.304  1.00 42.79           O  
+ANISOU   18  O2B MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM   19  N3  MGD h 502     261.758 168.689 142.448  1.00 42.79           N  
+ANISOU   19  N3  MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   20  O3A MGD h 502     259.491 158.458 144.934  1.00 42.79           O  
+ANISOU   20  O3A MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM   21  O3B MGD h 502     259.681 161.041 144.114  1.00 42.79           O  
+ANISOU   21  O3B MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM   22  C4  MGD h 502     261.029 168.166 141.275  1.00 42.79           C  
+ANISOU   22  C4  MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   23  C5  MGD h 502     261.422 168.428 140.019  1.00 42.79           C  
+ANISOU   23  C5  MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   24  C6  MGD h 502     262.643 169.288 139.808  1.00 42.79           C  
+ANISOU   24  C6  MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   25  O6  MGD h 502     263.021 169.535 138.728  1.00 42.79           O  
+ANISOU   25  O6  MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM   26  N7  MGD h 502     260.594 167.833 139.185  1.00 42.79           N  
+ANISOU   26  N7  MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   27  C8  MGD h 502     259.671 167.200 139.917  1.00 42.79           C  
+ANISOU   27  C8  MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   28  N9  MGD h 502     259.968 167.421 141.197  1.00 42.79           N  
+ANISOU   28  N9  MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   29  C10 MGD h 502     260.373 157.472 144.516  1.00 42.79           C  
+ANISOU   29  C10 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   30  C11 MGD h 502     259.932 156.050 144.925  1.00 42.79           C  
+ANISOU   30  C11 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   31  O11 MGD h 502     258.464 155.965 145.496  1.00 42.79           O  
+ANISOU   31  O11 MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM   32  C12 MGD h 502     259.972 155.359 143.837  1.00 42.79           C  
+ANISOU   32  C12 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   33  S12 MGD h 502     261.529 155.475 142.959  1.00 42.79           S  
+ANISOU   33  S12 MGD h 502     5419   5419   5419      0      0      0       S  
+HETATM   34  C13 MGD h 502     259.237 154.029 143.848  1.00 42.79           C  
+ANISOU   34  C13 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   35  S13 MGD h 502     259.386 153.026 142.378  1.00 42.79           S  
+ANISOU   35  S13 MGD h 502     5419   5419   5419      0      0      0       S  
+HETATM   36  C14 MGD h 502     258.049 153.907 144.598  1.00 42.79           C  
+ANISOU   36  C14 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   37  N15 MGD h 502     256.935 154.435 143.609  1.00 42.79           N  
+ANISOU   37  N15 MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   38  C16 MGD h 502     255.710 154.614 144.257  1.00 42.79           C  
+ANISOU   38  C16 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   39  C17 MGD h 502     254.452 154.579 143.492  1.00 42.79           C  
+ANISOU   39  C17 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   40  O17 MGD h 502     254.485 154.395 142.332  1.00 42.79           O  
+ANISOU   40  O17 MGD h 502     5419   5419   5419      0      0      0       O  
+HETATM   41  N18 MGD h 502     253.164 154.782 144.179  1.00 42.79           N  
+ANISOU   41  N18 MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   42  C19 MGD h 502     253.136 155.024 145.688  1.00 42.79           C  
+ANISOU   42  C19 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   43  N19 MGD h 502     251.893 155.221 146.381  1.00 42.79           N  
+ANISOU   43  N19 MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   44  N20 MGD h 502     254.400 155.053 146.473  1.00 42.79           N  
+ANISOU   44  N20 MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   45  C21 MGD h 502     255.657 154.863 145.827  1.00 42.79           C  
+ANISOU   45  C21 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   46  N22 MGD h 502     256.807 154.889 146.611  1.00 42.79           N  
+ANISOU   46  N22 MGD h 502     5419   5419   5419      0      0      0       N  
+HETATM   47  C23 MGD h 502     258.152 154.720 145.811  1.00 42.79           C  
+ANISOU   47  C23 MGD h 502     5419   5419   5419      0      0      0       C  
+HETATM   48  PA  MGD h 503     257.679 148.792 138.774  1.00 43.93           P  
+ANISOU   48  PA  MGD h 503     5564   5564   5564      0      0      0       P  
+HETATM   49  PB  MGD h 503     255.447 147.532 140.131  1.00 43.93           P  
+ANISOU   49  PB  MGD h 503     5564   5564   5564      0      0      0       P  
+HETATM   50  C5' MGD h 503     255.301 145.079 140.992  1.00 43.93           C  
+ANISOU   50  C5' MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   51  O5' MGD h 503     255.877 145.956 140.082  1.00 43.93           O  
+ANISOU   51  O5' MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   52  C4' MGD h 503     255.093 143.701 140.299  1.00 43.93           C  
+ANISOU   52  C4' MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   53  O4' MGD h 503     256.097 142.675 140.873  1.00 43.93           O  
+ANISOU   53  O4' MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   54  C3' MGD h 503     253.957 143.248 140.616  1.00 43.93           C  
+ANISOU   54  C3' MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   55  O3' MGD h 503     253.444 142.433 139.538  1.00 43.93           O  
+ANISOU   55  O3' MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   56  C2' MGD h 503     254.207 142.240 141.890  1.00 43.93           C  
+ANISOU   56  C2' MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   57  O2' MGD h 503     253.059 141.361 141.996  1.00 43.93           O  
+ANISOU   57  O2' MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   58  C1' MGD h 503     255.223 141.582 141.532  1.00 43.93           C  
+ANISOU   58  C1' MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   59  N1  MGD h 503     258.849 137.966 142.849  1.00 43.93           N  
+ANISOU   59  N1  MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   60  O1A MGD h 503     259.128 148.493 139.000  1.00 43.93           O1-
+ANISOU   60  O1A MGD h 503     5564   5564   5564      0      0      0       O1-
+HETATM   61  O1B MGD h 503     254.573 147.886 138.970  1.00 43.93           O1-
+ANISOU   61  O1B MGD h 503     5564   5564   5564      0      0      0       O1-
+HETATM   62  C2  MGD h 503     258.344 138.286 141.552  1.00 43.93           C  
+ANISOU   62  C2  MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   63  N2  MGD h 503     258.844 137.572 140.401  1.00 43.93           N  
+ANISOU   63  N2  MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   64  O2A MGD h 503     257.211 147.979 137.618  1.00 43.93           O  
+ANISOU   64  O2A MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   65  O2B MGD h 503     254.680 147.800 141.390  1.00 43.93           O  
+ANISOU   65  O2B MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   66  N3  MGD h 503     257.334 139.322 141.391  1.00 43.93           N  
+ANISOU   66  N3  MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   67  O3A MGD h 503     257.507 150.370 138.449  1.00 43.93           O  
+ANISOU   67  O3A MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   68  O3B MGD h 503     256.790 148.453 140.102  1.00 43.93           O  
+ANISOU   68  O3B MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   69  C4  MGD h 503     256.823 140.056 142.573  1.00 43.93           C  
+ANISOU   69  C4  MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   70  C5  MGD h 503     257.298 139.762 143.804  1.00 43.93           C  
+ANISOU   70  C5  MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   71  C6  MGD h 503     258.357 138.676 143.976  1.00 43.93           C  
+ANISOU   71  C6  MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   72  O6  MGD h 503     258.776 138.413 145.046  1.00 43.93           O  
+ANISOU   72  O6  MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   73  N7  MGD h 503     256.689 140.552 144.675  1.00 43.93           N  
+ANISOU   73  N7  MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   74  C8  MGD h 503     255.835 141.341 144.000  1.00 43.93           C  
+ANISOU   74  C8  MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   75  N9  MGD h 503     255.930 141.020 142.704  1.00 43.93           N  
+ANISOU   75  N9  MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   76  C10 MGD h 503     258.466 151.225 138.943  1.00 43.93           C  
+ANISOU   76  C10 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   77  C11 MGD h 503     259.045 151.913 137.708  1.00 43.93           C  
+ANISOU   77  C11 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   78  O11 MGD h 503     258.128 153.127 137.325  1.00 43.93           O  
+ANISOU   78  O11 MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   79  C12 MGD h 503     260.185 152.363 138.093  1.00 43.93           C  
+ANISOU   79  C12 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   80  S12 MGD h 503     260.546 151.698 139.713  1.00 43.93           S  
+ANISOU   80  S12 MGD h 503     5564   5564   5564      0      0      0       S  
+HETATM   81  C13 MGD h 503     260.498 153.830 137.801  1.00 43.93           C  
+ANISOU   81  C13 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   82  S13 MGD h 503     261.090 154.847 139.141  1.00 43.93           S  
+ANISOU   82  S13 MGD h 503     5564   5564   5564      0      0      0       S  
+HETATM   83  C14 MGD h 503     259.832 154.493 136.754  1.00 43.93           C  
+ANISOU   83  C14 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   84  N15 MGD h 503     259.301 155.838 137.401  1.00 43.93           N  
+ANISOU   84  N15 MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   85  C16 MGD h 503     258.338 156.454 136.581  1.00 43.93           C  
+ANISOU   85  C16 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   86  C17 MGD h 503     258.049 157.909 136.661  1.00 43.93           C  
+ANISOU   86  C17 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   87  O17 MGD h 503     258.623 158.608 137.417  1.00 43.93           O  
+ANISOU   87  O17 MGD h 503     5564   5564   5564      0      0      0       O  
+HETATM   88  N18 MGD h 503     257.030 158.493 135.766  1.00 43.93           N  
+ANISOU   88  N18 MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   89  C19 MGD h 503     256.266 157.609 134.770  1.00 43.93           C  
+ANISOU   89  C19 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   90  N19 MGD h 503     255.263 158.109 133.868  1.00 43.93           N  
+ANISOU   90  N19 MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   91  N20 MGD h 503     256.541 156.158 134.689  1.00 43.93           N  
+ANISOU   91  N20 MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   92  C21 MGD h 503     257.515 155.576 135.524  1.00 43.93           C  
+ANISOU   92  C21 MGD h 503     5564   5564   5564      0      0      0       C  
+HETATM   93  N22 MGD h 503     257.684 154.221 135.332  1.00 43.93           N  
+ANISOU   93  N22 MGD h 503     5564   5564   5564      0      0      0       N  
+HETATM   94  C23 MGD h 503     258.765 153.607 136.289  1.00 43.93           C  
+ANISOU   94  C23 MGD h 503     5564   5564   5564      0      0      0       C  
+CONECT    1   13   17   20   21
+CONECT    2    4   14   18   21
+CONECT    3    5    4
+CONECT    4    2    3
+CONECT    5    3    6    7
+CONECT    6    5   11
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    6    9   28
+CONECT   12   15   24
+CONECT   13    1
+CONECT   14    2
+CONECT   15   12   16   19
+CONECT   16   15
+CONECT   17    1
+CONECT   18    2
+CONECT   19   15   22
+CONECT   20    1   29
+CONECT   21    2    1
+CONECT   22   19   23   28
+CONECT   23   22   24   26
+CONECT   24   23   12   25
+CONECT   25   24
+CONECT   26   23   27
+CONECT   27   26   28
+CONECT   28   11   22   27
+CONECT   29   20   30
+CONECT   30   29   31   32
+CONECT   31   30   47
+CONECT   32   30   33   34
+CONECT   33   32
+CONECT   34   32   35   36
+CONECT   35   34
+CONECT   36   34   37   47
+CONECT   37   36   38
+CONECT   38   37   39   45
+CONECT   39   38   40   41
+CONECT   40   39
+CONECT   41   39   42
+CONECT   42   41   43   44
+CONECT   43   42
+CONECT   44   42   45
+CONECT   45   38   44   46
+CONECT   46   45   47
+CONECT   47   31   36   46
+CONECT   48   60   64   67   68
+CONECT   49   51   61   65   68
+CONECT   50   52   51
+CONECT   51   49   50
+CONECT   52   50   53   54
+CONECT   53   52   58
+CONECT   54   52   55   56
+CONECT   55   54
+CONECT   56   54   57   58
+CONECT   57   56
+CONECT   58   53   56   75
+CONECT   59   62   71
+CONECT   60   48
+CONECT   61   49
+CONECT   62   59   63   66
+CONECT   63   62
+CONECT   64   48
+CONECT   65   49
+CONECT   66   62   69
+CONECT   67   48   76
+CONECT   68   49   48
+CONECT   69   66   70   75
+CONECT   70   69   71   73
+CONECT   71   70   59   72
+CONECT   72   71
+CONECT   73   70   74
+CONECT   74   73   75
+CONECT   75   58   69   74
+CONECT   76   67   77
+CONECT   77   76   78   79
+CONECT   78   77   94
+CONECT   79   77   80   81
+CONECT   80   79
+CONECT   81   79   82   83
+CONECT   82   81
+CONECT   83   81   84   94
+CONECT   84   83   85
+CONECT   85   84   86   92
+CONECT   86   85   87   88
+CONECT   87   86
+CONECT   88   86   89
+CONECT   89   88   90   91
+CONECT   90   89
+CONECT   91   89   92
+CONECT   92   85   91   93
+CONECT   93   92   94
+CONECT   94   78   83   93
+END

@@ -1,0 +1,50 @@
+CRYST1   93.590   93.590  363.740  90.00  90.00  90.00 P 41 2 2      3
+HETATM    1  N   X6C F1203      39.096  28.853   0.166  1.00 56.32           N  
+HETATM    2  CA  X6C F1203      38.967  29.373   1.596  1.00 55.73           C  
+HETATM    3  CAA X6C F1203      39.559  28.993  -2.283  1.00 55.90           C  
+HETATM    4  CAE X6C F1203      42.721  30.788   5.571  1.00 64.38           C  
+HETATM    5  CAF X6C F1203      40.527  29.765   5.618  1.00 63.89           C  
+HETATM    6  CAG X6C F1203      43.091  30.031   6.696  1.00 66.82           C  
+HETATM    7  CAH X6C F1203      40.920  28.985   6.715  1.00 65.63           C  
+HETATM    8  CAI X6C F1203      42.613  26.729   9.848  1.00 76.76           C  
+HETATM    9  CAJ X6C F1203      43.478  28.661   9.270  1.00 77.12           C  
+HETATM   10  CAK X6C F1203      41.083  31.440   3.880  1.00 60.42           C  
+HETATM   11  CAQ X6C F1203      39.453  29.639  -0.884  1.00 59.97           C  
+HETATM   12  CAS X6C F1203      41.437  30.653   5.012  1.00 63.49           C  
+HETATM   13  CAT X6C F1203      42.193  29.123   7.288  1.00 68.72           C  
+HETATM   14  CAU X6C F1203      42.541  28.375   8.360  1.00 75.42           C  
+HETATM   15  C   X6C F1203      40.166  29.869   2.157  1.00 56.50           C  
+HETATM   16  O   X6C F1203      41.279  29.449   1.801  1.00 54.13           O  
+HETATM   17  NAN X6C F1203      43.513  27.665  10.163  1.00 77.55           N  
+HETATM   18  NAO X6C F1203      39.979  30.839   3.085  1.00 57.48           N  
+HETATM   19  OAB X6C F1203      39.726  30.831  -0.761  1.00 65.88           O  
+HETATM   20  OAP X6C F1203      41.964  27.131   8.714  1.00 76.98           O  
+HETATM   21  CB  X6C F1203      38.446  28.203   2.430  1.00 52.18           C  
+HETATM   22  CG  X6C F1203      37.859  27.226   1.432  1.00 50.56           C  
+HETATM   23  CD2 X6C F1203      38.701  27.412   0.173  1.00 51.83           C  
+HETATM   24  OD1 X6C F1203      36.456  27.512   1.198  1.00 46.38           O  
+CONECT    1    2   23   11
+CONECT    2    1   15   21
+CONECT    3   11
+CONECT    4    6   12
+CONECT    5    7   12
+CONECT    6    4   13
+CONECT    7    5   13
+CONECT    8   17   20
+CONECT    9   14   17
+CONECT   10   12   18
+CONECT   11    3    1   19
+CONECT   12   10    4    5
+CONECT   13    6    7   14
+CONECT   14   13    9   20
+CONECT   15    2   16   18
+CONECT   16   15
+CONECT   17    8    9
+CONECT   18   15   10
+CONECT   19   11
+CONECT   20   14    8
+CONECT   21    2   22
+CONECT   22   21   24   23
+CONECT   23    1   22
+CONECT   24   22
+END

@@ -1,0 +1,22 @@
+CRYST1   79.955   79.955   72.186  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  N1A B4P A 800      -3.698   9.092  17.708  0.40 53.44           N  
+HETATM    2  C2A B4P A 800      -3.586   9.008  19.042  0.40 53.66           C  
+HETATM    3  N3A B4P A 800      -2.539   9.291  19.818  0.40 53.60           N  
+HETATM    4  C4A B4P A 800      -1.497   9.711  19.076  0.40 53.77           C  
+HETATM    5  C5A B4P A 800      -1.458   9.850  17.699  0.35 53.72           C  
+HETATM    6  C6A B4P A 800      -2.631   9.518  16.993  0.30 53.64           C  
+HETATM    7  N6A B4P A 800      -2.744   9.602  15.665  0.35 53.61           N  
+HETATM    8  N7A B4P A 800      -0.216  10.310  17.286  0.10 53.94           N  
+HETATM    9  C8A B4P A 800       0.459  10.438  18.403  0.20 53.95           C  
+HETATM   10  N9A B4P A 800      -0.255  10.093  19.525  0.10 53.93           N  
+CONECT    1    2    6
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5   10
+CONECT    5    4    6    8
+CONECT    6    5    1    7
+CONECT    7    6
+CONECT    8    5    9
+CONECT    9    8   10
+CONECT   10    4    9
+END

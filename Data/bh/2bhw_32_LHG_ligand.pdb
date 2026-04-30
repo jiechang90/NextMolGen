@@ -1,0 +1,100 @@
+CRYST1  211.400  128.000   62.000  90.00 101.80  90.00 C 1 2 1       1
+HETATM    1  P   LHG A 801      49.389  53.940  18.537  1.00 90.28           P  
+HETATM    2  C1  LHG A 801      45.308  55.310  15.389  1.00114.48           C  
+HETATM    3  O1  LHG A 801      45.495  56.686  15.204  1.00116.24           O  
+HETATM    4  C2  LHG A 801      46.647  54.603  15.718  1.00110.97           C  
+HETATM    5  O2  LHG A 801      46.681  53.291  15.206  1.00113.94           O  
+HETATM    6  C3  LHG A 801      47.028  54.561  17.207  1.00104.40           C  
+HETATM    7  O3  LHG A 801      48.306  54.002  17.113  1.00 97.45           O  
+HETATM    8  C4  LHG A 801      49.079  55.789  20.355  1.00 83.54           C  
+HETATM    9  O4  LHG A 801      49.769  52.491  18.854  1.00 92.33           O1-
+HETATM   10  C5  LHG A 801      48.516  56.131  21.735  1.00 81.06           C  
+HETATM   11  O5  LHG A 801      50.830  54.873  18.102  1.00 90.34           O  
+HETATM   12  C6  LHG A 801      49.215  55.309  22.835  1.00 80.08           C  
+HETATM   13  O6  LHG A 801      48.668  54.513  20.025  1.00 85.05           O  
+HETATM   14  C7  LHG A 801      48.082  57.950  23.175  1.00 81.63           C  
+HETATM   15  O7  LHG A 801      48.821  57.463  22.076  1.00 81.10           O  
+HETATM   16  C8  LHG A 801      48.439  59.335  23.692  1.00 81.61           C  
+HETATM   17  O8  LHG A 801      50.544  54.940  22.496  1.00 78.66           O  
+HETATM   18  C9  LHG A 801      47.166  60.100  23.975  1.00 84.45           C  
+HETATM   19  O9  LHG A 801      47.269  57.231  23.782  1.00 80.52           O  
+HETATM   20  C10 LHG A 801      47.482  61.468  24.533  1.00 86.37           C  
+HETATM   21  O10 LHG A 801      52.679  54.563  23.271  1.00 74.54           O  
+HETATM   22  C11 LHG A 801      47.178  61.606  26.019  1.00 86.73           C  
+HETATM   23  C12 LHG A 801      46.973  63.078  26.381  1.00 87.06           C  
+HETATM   24  C13 LHG A 801      46.825  63.230  27.886  1.00 87.84           C  
+HETATM   25  C14 LHG A 801      47.895  64.192  28.384  1.00 90.73           C  
+HETATM   26  C15 LHG A 801      47.752  64.347  29.886  1.00 93.56           C  
+HETATM   27  C16 LHG A 801      47.227  65.728  30.232  1.00 97.33           C  
+HETATM   28  C17 LHG A 801      47.063  65.829  31.745  1.00 99.96           C  
+HETATM   29  C18 LHG A 801      47.575  67.156  32.297  1.00100.73           C  
+HETATM   30  C19 LHG A 801      47.402  67.222  33.815  1.00101.18           C  
+HETATM   31  C20 LHG A 801      47.923  68.553  34.362  1.00102.61           C  
+HETATM   32  C21 LHG A 801      47.757  68.644  35.874  1.00102.25           C  
+HETATM   33  C22 LHG A 801      46.859  67.539  36.408  1.00100.51           C  
+HETATM   34  C23 LHG A 801      51.523  54.862  23.553  1.00 78.74           C  
+HETATM   35  C24 LHG A 801      51.311  55.441  24.968  1.00 81.37           C  
+HETATM   36  C25 LHG A 801      51.918  56.638  25.750  1.00 79.81           C  
+HETATM   37  C26 LHG A 801      51.204  56.909  27.096  1.00 79.22           C  
+HETATM   38  C27 LHG A 801      49.806  57.574  27.010  1.00 79.49           C  
+HETATM   39  C28 LHG A 801      48.702  56.534  27.227  1.00 86.12           C  
+HETATM   40  C29 LHG A 801      47.828  56.844  28.461  1.00 89.45           C  
+HETATM   41  C30 LHG A 801      46.766  57.893  28.165  1.00 90.27           C  
+HETATM   42  C31 LHG A 801      45.866  57.404  27.015  1.00 95.26           C  
+HETATM   43  C32 LHG A 801      44.846  58.512  26.740  1.00100.13           C  
+HETATM   44  C33 LHG A 801      43.869  58.126  25.647  1.00100.81           C  
+HETATM   45  C34 LHG A 801      42.911  59.303  25.449  1.00101.01           C  
+HETATM   46  C35 LHG A 801      41.858  59.018  24.376  1.00101.63           C  
+HETATM   47  C36 LHG A 801      42.010  57.616  23.770  1.00101.26           C  
+HETATM   48  C37 LHG A 801      40.939  57.336  22.701  1.00101.57           C  
+HETATM   49  C38 LHG A 801      40.927  55.876  22.223  1.00100.50           C  
+CONECT    1    9   11   13    7
+CONECT    2    4    3
+CONECT    3    2
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7
+CONECT    7    6    1
+CONECT    8   10   13
+CONECT    9    1
+CONECT   10    8   12   15
+CONECT   11    1
+CONECT   12   10   17
+CONECT   13    1    8
+CONECT   14   16   19   15
+CONECT   15   10   14
+CONECT   16   14   18
+CONECT   17   12   34
+CONECT   18   16   20
+CONECT   19   14
+CONECT   20   18   22
+CONECT   21   34
+CONECT   22   20   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32
+CONECT   32   31   33
+CONECT   33   32
+CONECT   34   17   21   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   46
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48   47   49
+CONECT   49   48
+END

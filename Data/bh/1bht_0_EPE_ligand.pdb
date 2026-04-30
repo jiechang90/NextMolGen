@@ -1,0 +1,32 @@
+CRYST1   88.320   88.320  117.284  90.00  90.00  90.00 P 43 21 2     1
+HETATM    1  N1  EPE A   1      94.780  26.665  59.486  1.00 40.32           N  
+HETATM    2  O1S EPE A   1      97.569  23.039  58.808  1.00 43.15           O  
+HETATM    3  C2  EPE A   1      93.525  26.178  58.769  1.00 38.42           C  
+HETATM    4  O2S EPE A   1      96.595  22.037  60.841  1.00 42.34           O  
+HETATM    5  C3  EPE A   1      92.473  27.265  58.866  1.00 41.58           C  
+HETATM    6  O3S EPE A   1      97.792  24.203  60.960  1.00 42.10           O  
+HETATM    7  N4  EPE A   1      92.971  28.584  58.253  1.00 41.11           N  
+HETATM    8  C5  EPE A   1      94.279  29.001  58.912  1.00 41.73           C  
+HETATM    9  C6  EPE A   1      95.293  27.905  58.773  1.00 38.62           C  
+HETATM   10  C7  EPE A   1      91.935  29.696  58.528  1.00 42.58           C  
+HETATM   11  C8  EPE A   1      90.830  29.675  57.462  1.00 45.23           C  
+HETATM   12  O8  EPE A   1      89.601  30.491  57.964  1.00 43.64           O  
+HETATM   13  C9  EPE A   1      95.885  25.631  59.396  1.00 39.75           C  
+HETATM   14  C10 EPE A   1      95.405  24.273  59.837  1.00 42.73           C  
+HETATM   15  S   EPE A   1      96.905  23.332  60.131  1.00 43.00           S  
+CONECT    1    3    9   13
+CONECT    2   15
+CONECT    3    1    5
+CONECT    4   15
+CONECT    5    3    7
+CONECT    6   15
+CONECT    7    5    8   10
+CONECT    8    7    9
+CONECT    9    1    8
+CONECT   10    7   11
+CONECT   11   10   12
+CONECT   12   11
+CONECT   13    1   14
+CONECT   14   13   15
+CONECT   15   14    2    4    6
+END

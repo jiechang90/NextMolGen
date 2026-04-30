@@ -1,0 +1,22 @@
+CRYST1   97.479   97.479  213.595  90.00  90.00  90.00 P 41 21 2     6
+HETATM    1  C1  EDO G 201      -7.860  26.751  23.705  1.00 53.32           C  
+HETATM    2  O1  EDO G 201      -8.426  26.189  22.515  1.00 50.89           O  
+HETATM    3  C2  EDO G 201      -8.655  27.984  24.117  1.00 57.10           C  
+HETATM    4  O2  EDO G 201      -8.250  28.404  25.425  1.00 55.81           O  
+HETATM    5  HO1 EDO G 201      -7.919  25.407  22.256  1.00 61.16           H  
+HETATM    6  HO2 EDO G 201      -8.756  29.186  25.684  1.00 67.07           H  
+HETATM    7  H11 EDO G 201      -7.881  26.012  24.509  1.00 64.07           H  
+HETATM    8  H12 EDO G 201      -6.819  27.027  23.524  1.00 64.07           H  
+HETATM    9  H21 EDO G 201      -8.482  28.790  23.401  1.00 68.61           H  
+HETATM   10  H22 EDO G 201      -9.722  27.752  24.118  1.00 68.61           H  
+CONECT    1    2    3    7    8
+CONECT    2    1    5
+CONECT    3    1    4    9   10
+CONECT    4    3    6
+CONECT    5    2
+CONECT    6    4
+CONECT    7    1
+CONECT    8    1
+CONECT    9    3
+CONECT   10    3
+END

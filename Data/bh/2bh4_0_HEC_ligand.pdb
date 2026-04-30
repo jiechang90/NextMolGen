@@ -1,0 +1,131 @@
+CRYST1   30.868   42.880   87.480  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  CAA HEC X1123       3.246   6.461  32.600  1.00 14.31           C  
+ANISOU    1  CAA HEC X1123     2081   1534   1820    -75     73    225       C  
+HETATM    2  CAB HEC X1123       6.250  15.639  35.041  1.00 15.02           C  
+ANISOU    2  CAB HEC X1123     1714   1620   2372    327     -8   -276       C  
+HETATM    3  CAC HEC X1123      12.046  10.636  37.521  1.00 17.48           C  
+ANISOU    3  CAC HEC X1123     2072   1775   2793    463   -358   -289       C  
+HETATM    4  CAD HEC X1123       7.583   4.363  35.241  1.00 13.34           C  
+ANISOU    4  CAD HEC X1123     1944   1250   1872    328   -384    -22       C  
+HETATM    5  NA  HEC X1123       5.417   9.253  33.955  1.00 13.86           N  
+ANISOU    5  NA  HEC X1123     1630   1561   2074     65   -120   -128       N  
+HETATM    6  CBA HEC X1123       3.837   6.119  31.234  1.00 13.93           C  
+ANISOU    6  CBA HEC X1123     1904   1398   1989     12    170    -61       C  
+HETATM    7  CBB HEC X1123       5.202  16.232  35.687  1.00 14.11           C  
+ANISOU    7  CBB HEC X1123     1967   1287   2107    146    258   -249       C  
+HETATM    8  CBC HEC X1123      12.437  10.996  38.774  1.00 16.10           C  
+ANISOU    8  CBC HEC X1123     2201   2224   1691    590   -647   -264       C  
+HETATM    9  CBD HEC X1123       6.694   4.183  36.487  1.00 15.06           C  
+ANISOU    9  CBD HEC X1123     2459   1127   2133    186    -53     19       C  
+HETATM   10  NB  HEC X1123       6.263  11.895  34.684  1.00 12.34           N  
+ANISOU   10  NB  HEC X1123     1467   1288   1931    -46    -90   -154       N  
+HETATM   11  CGA HEC X1123       3.402   4.805  30.628  1.00 14.21           C  
+ANISOU   11  CGA HEC X1123     2069   1516   1813    199     94    264       C  
+HETATM   12  CGD HEC X1123       6.578   2.737  36.961  1.00 16.16           C  
+ANISOU   12  CGD HEC X1123     3042   1391   1704   -228     75   -208       C  
+HETATM   13  ND  HEC X1123       7.771   8.170  35.145  1.00 12.70           N  
+ANISOU   13  ND  HEC X1123     1644   1458   1724    265   -224   -133       N  
+HETATM   14  CHA HEC X1123       5.866   6.882  34.231  1.00 13.33           C  
+ANISOU   14  CHA HEC X1123     1835   1453   1776    409   -101    -11       C  
+HETATM   15  CHB HEC X1123       4.343  11.350  33.270  1.00 13.25           C  
+ANISOU   15  CHB HEC X1123     1713   1429   1892    468     69    -94       C  
+HETATM   16  CHC HEC X1123       7.899  13.141  36.001  1.00 13.10           C  
+ANISOU   16  CHC HEC X1123     1829   1195   1952    297    -73     59       C  
+HETATM   17  CHD HEC X1123       9.955   8.772  36.112  1.00 15.35           C  
+ANISOU   17  CHD HEC X1123     2062   1616   2153    166   -203   -276       C  
+HETATM   18  CMA HEC X1123       2.176   9.423  32.022  1.00 13.75           C  
+ANISOU   18  CMA HEC X1123     1822   1666   1736    314    -11   -103       C  
+HETATM   19  CMB HEC X1123       4.011  14.448  33.083  1.00 14.21           C  
+ANISOU   19  CMB HEC X1123     1748   1648   2002    324   -149   -317       C  
+HETATM   20  CMC HEC X1123      10.603  13.578  37.441  1.00 16.06           C  
+ANISOU   20  CMC HEC X1123     2164   1721   2214     18   -446    -86       C  
+HETATM   21  CMD HEC X1123      10.328   5.629  36.376  1.00 15.82           C  
+ANISOU   21  CMD HEC X1123     1902   1697   2412    432   -356    131       C  
+HETATM   22  C1A HEC X1123       5.099   7.925  33.771  1.00 12.39           C  
+ANISOU   22  C1A HEC X1123     1806   1487   1414    172   -188      9       C  
+HETATM   23  C1B HEC X1123       5.198  12.232  33.878  1.00 12.49           C  
+ANISOU   23  C1B HEC X1123     1380   1482   1881    274     86   -216       C  
+HETATM   24  C1C HEC X1123       8.780  12.101  36.254  1.00 12.10           C  
+ANISOU   24  C1C HEC X1123     1658   1130   1807    356   -173   -317       C  
+HETATM   25  C1D HEC X1123       9.014   7.876  35.688  1.00 12.38           C  
+ANISOU   25  C1D HEC X1123     1449   1552   1700    274     10    109       C  
+HETATM   26  O1A HEC X1123       4.014   4.419  29.578  1.00 14.92           O  
+ANISOU   26  O1A HEC X1123     1929   1616   2123    248     33    143       O  
+HETATM   27  O1D HEC X1123       7.026   1.831  36.224  1.00 20.43           O  
+ANISOU   27  O1D HEC X1123     3157   2094   2512    181     74     82       O  
+HETATM   28  C2A HEC X1123       3.873   7.791  33.035  1.00 12.39           C  
+ANISOU   28  C2A HEC X1123     1873   1337   1495    209    128    -59       C  
+HETATM   29  C2B HEC X1123       5.069  13.673  33.884  1.00 12.70           C  
+ANISOU   29  C2B HEC X1123     1467   1403   1954    285   -128   -173       C  
+HETATM   30  C2C HEC X1123      10.067  12.238  36.898  1.00 14.05           C  
+ANISOU   30  C2C HEC X1123     1945   1485   1908     95   -611    160       C  
+HETATM   31  C2D HEC X1123       9.156   6.443  35.820  1.00 14.09           C  
+ANISOU   31  C2D HEC X1123     1894   1570   1887    458   -332   -138       C  
+HETATM   32  O2A HEC X1123       2.463   4.140  31.144  1.00 14.17           O  
+ANISOU   32  O2A HEC X1123     1857   1410   2114     96    -52    -68       O  
+HETATM   33  O2D HEC X1123       6.007   2.493  38.055  1.00 20.67           O  
+ANISOU   33  O2D HEC X1123     3900   1732   2220    -75   -279     23       O  
+HETATM   34  C3A HEC X1123       3.451   9.039  32.777  1.00 12.01           C  
+ANISOU   34  C3A HEC X1123     1431   1399   1731    409     69      6       C  
+HETATM   35  C3B HEC X1123       6.014  14.158  34.678  1.00 12.82           C  
+ANISOU   35  C3B HEC X1123     1658   1191   2020    -88     26    257       C  
+HETATM   36  C3C HEC X1123      10.661  11.039  36.943  1.00 15.28           C  
+ANISOU   36  C3C HEC X1123     1845   1756   2202     39   -321    -19       C  
+HETATM   37  C3D HEC X1123       7.908   5.869  35.257  1.00 11.79           C  
+ANISOU   37  C3D HEC X1123     1671    983   1823    454    -26   -244       C  
+HETATM   38  C4A HEC X1123       4.407   9.975  33.348  1.00 12.02           C  
+ANISOU   38  C4A HEC X1123     1416   1199   1951    466     35   -212       C  
+HETATM   39  C4B HEC X1123       6.815  13.058  35.179  1.00 12.23           C  
+ANISOU   39  C4B HEC X1123     1585   1213   1845    -36    -50    118       C  
+HETATM   40  C4C HEC X1123       9.742  10.132  36.264  1.00 11.30           C  
+ANISOU   40  C4C HEC X1123     1505   1001   1787    551   -392   -117       C  
+HETATM   41  C4D HEC X1123       7.064   7.003  34.859  1.00 13.56           C  
+ANISOU   41  C4D HEC X1123     1611   1626   1915    276   -412     -3       C  
+HETATM   42  NC  HEC X1123       8.592  10.809  35.857  1.00 14.91           N  
+ANISOU   42  NC  HEC X1123     1941   1470   2253    136   -614   -180       N  
+HETATM   43 FE   HEC X1123       6.994  10.004  34.954  1.00 13.40          FE  
+ANISOU   43 FE   HEC X1123     1785   1291   2015    282   -185      1      FE  
+CONECT    1    6   28
+CONECT    2    7   35
+CONECT    3    8   36
+CONECT    4    9   37
+CONECT    5   22   38   43
+CONECT    6    1   11
+CONECT    7    2
+CONECT    8    3
+CONECT    9    4   12
+CONECT   10   23   39   43
+CONECT   11    6   26   32
+CONECT   12    9   27   33
+CONECT   13   25   41   43
+CONECT   14   22   41
+CONECT   15   23   38
+CONECT   16   24   39
+CONECT   17   25   40
+CONECT   18   34
+CONECT   19   29
+CONECT   20   30
+CONECT   21   31
+CONECT   22    5   14   28
+CONECT   23   10   15   29
+CONECT   24   16   30   42
+CONECT   25   13   17   31
+CONECT   26   11
+CONECT   27   12
+CONECT   28   22    1   34
+CONECT   29   23   19   35
+CONECT   30   24   20   36
+CONECT   31   25   21   37
+CONECT   32   11
+CONECT   33   12
+CONECT   34   28   18   38
+CONECT   35   29    2   39
+CONECT   36   30    3   40
+CONECT   37   31    4   41
+CONECT   38    5   15   34
+CONECT   39   10   16   35
+CONECT   40   17   36   42
+CONECT   41   13   14   37
+CONECT   42   24   40   43
+CONECT   43    5   10   13   42
+END

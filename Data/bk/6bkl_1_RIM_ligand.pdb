@@ -1,0 +1,28 @@
+CRYST1   36.460   47.840   48.530  90.00  96.76  90.00 P 1 21 1      1
+HETATM    1  CA ARIM D 101      -6.780  -2.767  23.308  0.50 25.43           C  
+HETATM    2  CB ARIM D 101      -7.064  -1.413  22.659  0.50 29.46           C  
+HETATM    3  CG1ARIM D 101     -11.030  -0.258  21.393  0.50 24.86           C  
+HETATM    4  CG2ARIM D 101     -10.026  -1.564  19.520  0.50 26.72           C  
+HETATM    5  CG3ARIM D 101     -10.998  -2.751  21.486  0.50 27.15           C  
+HETATM    6  CD ARIM D 101      -8.421  -1.453  21.961  0.50 27.97           C  
+HETATM    7  CE1ARIM D 101      -9.532  -1.428  23.008  0.50 27.69           C  
+HETATM    8  CE2ARIM D 101      -8.558  -0.243  21.043  0.50 27.75           C  
+HETATM    9  CE3ARIM D 101      -8.530  -2.736  21.136  0.50 29.11           C  
+HETATM   10  CF1ARIM D 101     -10.891  -1.470  22.311  0.50 26.27           C  
+HETATM   11  CF2ARIM D 101      -9.918  -0.284  20.344  0.50 26.56           C  
+HETATM   12  CF3ARIM D 101      -9.887  -2.777  20.437  0.50 27.17           C  
+HETATM   13  NC ARIM D 101      -6.026  -1.115  21.685  0.50 27.56           N  
+CONECT    1    2
+CONECT    2    1    6   13
+CONECT    3   10   11
+CONECT    4   11   12
+CONECT    5   10   12
+CONECT    6    2    7    8    9
+CONECT    7    6   10
+CONECT    8    6   11
+CONECT    9    6   12
+CONECT   10    7    3    5
+CONECT   11    8    3    4
+CONECT   12    9    4    5
+CONECT   13    2
+END

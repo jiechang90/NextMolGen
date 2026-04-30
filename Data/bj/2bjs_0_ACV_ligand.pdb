@@ -1,0 +1,56 @@
+CRYST1   47.149   71.126  100.991  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  ACV A1324      17.478  36.147   5.503  0.50  2.95           C  
+HETATM    2  C2  ACV A1324      16.040  36.336   6.006  0.50  3.40           C  
+HETATM    3  C3  ACV A1324      15.478  37.596   5.374  0.50  3.91           C  
+HETATM    4  C4  ACV A1324      13.977  37.869   5.734  0.50  5.38           C  
+HETATM    5  C7  ACV A1324      13.595  39.173   5.088  0.50  6.86           C  
+HETATM    6  C10 ACV A1324      12.217  39.640   5.345  0.50  5.02           C  
+HETATM    7  N11 ACV A1324      11.188  38.901   4.944  0.50  5.29           N  
+HETATM    8  C12 ACV A1324       9.786  39.346   4.936  0.50  3.64           C  
+HETATM    9  C13 ACV A1324       8.908  38.133   4.715  0.50  3.14           C  
+HETATM   10  N14 ACV A1324      16.025  36.355   7.461  0.50  4.18           N  
+HETATM   11  O15 ACV A1324      12.031  40.725   5.855  0.50  8.20           O  
+HETATM   12  C16 ACV A1324       9.498  40.419   3.929  0.50  5.62           C  
+HETATM   13  S17 ACV A1324       9.901  39.837   2.234  0.50  5.67           S  
+HETATM   14  O18 ACV A1324       9.425  37.058   4.341  0.50  6.81           O  
+HETATM   15  O19 ACV A1324      18.400  36.247   6.360  0.50  3.52           O  
+HETATM   16  O20 ACV A1324      17.661  35.948   4.304  0.50  2.00           O  
+HETATM   17  N29 ACV A1324       7.614  38.303   4.888  0.50  4.77           N  
+HETATM   18  C30 ACV A1324       6.617  37.314   4.409  0.50  4.84           C  
+HETATM   19  C31 ACV A1324       5.392  37.374   5.275  0.50  5.02           C  
+HETATM   20  C32AACV A1324       6.200  37.225   2.925  0.50 14.77           C  
+HETATM   21  C32BACV A1324       6.291  37.962   3.066  0.50 11.67           C  
+HETATM   22  C33AACV A1324       5.559  38.509   2.414  0.50 15.19           C  
+HETATM   23  C33BACV A1324       5.484  36.951   2.237  0.50  8.70           C  
+HETATM   24  C37AACV A1324       7.332  36.798   1.972  0.50 12.00           C  
+HETATM   25  C37BACV A1324       5.535  39.301   3.184  0.50 11.48           C  
+HETATM   26  O42 ACV A1324       4.522  36.562   5.020  0.50  4.00           O  
+HETATM   27  O43 ACV A1324       5.293  38.256   6.173  0.50  6.16           O  
+CONECT    1    2   15   16
+CONECT    2    1    3   10
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5    7   11
+CONECT    7    6    8
+CONECT    8    7    9   12
+CONECT    9    8   14   17
+CONECT   10    2
+CONECT   11    6
+CONECT   12    8   13
+CONECT   13   12
+CONECT   14    9
+CONECT   15    1
+CONECT   16    1
+CONECT   17    9   18
+CONECT   18   17   19   20   21
+CONECT   19   18   26   27
+CONECT   20   18   22   24
+CONECT   21   18   23   25
+CONECT   22   20
+CONECT   23   21
+CONECT   24   20
+CONECT   25   21
+CONECT   26   19
+CONECT   27   19
+END

@@ -1,0 +1,54 @@
+CRYST1   45.935   62.304  107.610  91.64  98.25 111.64 P 1           1
+HETATM    1  N   SAH B4001      -1.565  -2.570   1.960  1.00 21.99           N  
+HETATM    2  CA  SAH B4001      -2.745  -3.359   2.329  1.00 21.65           C  
+HETATM    3  C   SAH B4001      -3.875  -2.551   1.659  1.00 22.58           C  
+HETATM    4  O   SAH B4001      -3.643  -1.694   0.846  1.00 23.45           O  
+HETATM    5  CB  SAH B4001      -2.942  -3.630   3.863  1.00 21.28           C  
+HETATM    6  CG  SAH B4001      -2.998  -2.331   4.645  1.00 21.04           C  
+HETATM    7  SD  SAH B4001      -3.453  -2.667   6.375  1.00 21.02           S  
+HETATM    8  C5' SAH B4001      -2.139  -1.819   7.281  0.98 19.87           C  
+HETATM    9  C4' SAH B4001      -0.906  -2.695   7.210  0.98 19.67           C  
+HETATM   10  O4' SAH B4001       0.131  -2.014   7.944  0.98 19.85           O  
+HETATM   11  C3' SAH B4001      -1.108  -4.044   7.913  0.98 19.73           C  
+HETATM   12  O3' SAH B4001      -0.865  -5.133   7.032  0.98 19.47           O  
+HETATM   13  C2' SAH B4001      -0.174  -3.969   9.127  0.98 19.81           C  
+HETATM   14  O2' SAH B4001       0.427  -5.219   9.417  0.98 20.43           O  
+HETATM   15  C1' SAH B4001       0.872  -2.995   8.625  0.98 19.58           C  
+HETATM   16  OXT SAH B4001      -5.079  -2.899   2.007  1.00 22.91           O  
+HETATM   17  N1  SAH B4001       5.559  -1.366   9.959  1.00 17.20           N  
+HETATM   18  C2  SAH B4001       5.086  -1.884   8.827  1.00 17.27           C  
+HETATM   19  N3  SAH B4001       3.837  -2.258   8.534  1.00 18.44           N  
+HETATM   20  C4  SAH B4001       3.019  -2.059   9.577  1.00 18.42           C  
+HETATM   21  C5  SAH B4001       3.359  -1.522  10.805  1.00 17.97           C  
+HETATM   22  C6  SAH B4001       4.711  -1.164  10.992  1.00 17.65           C  
+HETATM   23  N6  SAH B4001       5.191  -0.614  12.120  1.00 17.04           N  
+HETATM   24  N7  SAH B4001       2.248  -1.448  11.633  1.00 17.91           N  
+HETATM   25  C8  SAH B4001       1.283  -1.950  10.904  1.00 18.56           C  
+HETATM   26  N9  SAH B4001       1.680  -2.350   9.653  1.00 18.89           N  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4   16
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10   11
+CONECT   10    9   15
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   10   13   26
+CONECT   16    3
+CONECT   17   18   22
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21   26
+CONECT   21   20   22   24
+CONECT   22   21   17   23
+CONECT   23   22
+CONECT   24   21   25
+CONECT   25   24   26
+CONECT   26   15   20   25
+END

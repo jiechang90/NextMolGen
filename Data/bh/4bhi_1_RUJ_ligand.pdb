@@ -1,0 +1,24 @@
+CRYST1  107.240  107.240  205.040  90.00  90.00 120.00 H 3 2         1
+HETATM    1  N1  RUJ A 401      22.476  31.899  87.663  1.00 25.75           N  
+HETATM    2  N2  RUJ A 401      21.995  30.677  88.110  1.00 25.94           N  
+HETATM    3  C3  RUJ A 401      20.932  29.888  87.482  1.00 26.70           C  
+HETATM    4  O4  RUJ A 401      20.858  26.847  88.387  1.00 21.62           O  
+HETATM    5  C5  RUJ A 401      21.762  27.439  87.769  1.00 25.58           C  
+HETATM    6  C6  RUJ A 401      21.439  28.616  86.853  1.00 26.34           C  
+HETATM    7  O7  RUJ A 401      22.962  27.054  87.818  1.00 25.04           O  
+HETATM    8  C8  RUJ A 401      23.862  31.780  87.151  1.00 24.87           C  
+HETATM    9  C9  RUJ A 401      21.643  32.501  86.598  1.00 24.88           C  
+HETATM   10  C10 RUJ A 401      22.501  32.877  88.759  1.00 25.03           C  
+HETATM   11  C21 RUJ A 401      22.481  30.059  89.334  1.00 25.25           C  
+CONECT    1    8    9   10    2
+CONECT    2    1   11    3
+CONECT    3    2    6
+CONECT    4    5
+CONECT    5    4    6    7
+CONECT    6    5    3
+CONECT    7    5
+CONECT    8    1
+CONECT    9    1
+CONECT   10    1
+CONECT   11    2
+END

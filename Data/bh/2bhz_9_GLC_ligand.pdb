@@ -1,0 +1,70 @@
+CRYST1   59.145   66.565  153.501  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  GLC H   1      29.952  22.716  19.516  1.00 30.87           C  
+ANISOU    1  C1  GLC H   1     3866   3971   3889     29    -53    -23       C  
+HETATM    2  O1  GLC H   1      30.246  21.933  18.377  0.80 33.43           O  
+ANISOU    2  O1  GLC H   1     4284   4218   4197     76    -36    -94       O  
+HETATM    3  C2  GLC H   1      31.156  23.248  20.285  1.00 28.96           C  
+ANISOU    3  C2  GLC H   1     3661   3649   3691     44     11    -20       C  
+HETATM    4  O2  GLC H   1      32.210  22.274  20.389  1.00 26.48           O  
+ANISOU    4  O2  GLC H   1     3436   3400   3223    -90    -27     30       O  
+HETATM    5  C3  GLC H   1      30.619  23.659  21.654  1.00 28.63           C  
+HETATM    6  O3  GLC H   1      31.696  24.046  22.497  1.00 22.00           O  
+ANISOU    6  O3  GLC H   1     2803   2594   2962    131    141    -23       O  
+HETATM    7  C4  GLC H   1      29.605  24.807  21.476  1.00 31.60           C  
+ANISOU    7  C4  GLC H   1     3988   3955   4062     60    -38     15       C  
+HETATM    8  O4  GLC H   1      28.741  24.999  22.613  1.00 34.83           O  
+ANISOU    8  O4  GLC H   1     4357   4437   4438     25    118     24       O  
+HETATM    9  C5  GLC H   1      28.637  24.476  20.320  1.00 32.07           C  
+ANISOU    9  C5  GLC H   1     4064   4077   4042     13      5     -2       C  
+HETATM   10  O5  GLC H   1      29.296  23.934  19.139  1.00 31.79           O  
+ANISOU   10  O5  GLC H   1     4064   4015   4000     55    -19      9       O  
+HETATM   11  C6  GLC H   1      27.799  25.697  19.915  1.00 32.49           C  
+ANISOU   11  C6  GLC H   1     4096   4122   4126     29     -8     23       C  
+HETATM   12  O6  GLC H   1      28.545  26.549  19.040  1.00 33.11           O  
+ANISOU   12  O6  GLC H   1     4136   4277   4165     -9      5     65       O  
+HETATM   13  C1  GLC H   2      29.364  25.560  23.790  0.75 39.42           C  
+ANISOU   13  C1  GLC H   2     4995   5040   4943     -7    -47    -50       C  
+HETATM   14  C2  GLC H   2      28.633  24.932  24.996  0.75 41.16           C  
+ANISOU   14  C2  GLC H   2     5214   5232   5193     -7     28     13       C  
+HETATM   15  O2  GLC H   2      27.213  25.076  24.857  1.00 41.94           O  
+ANISOU   15  O2  GLC H   2     5275   5342   5316     -7    -11      4       O  
+HETATM   16  C3  GLC H   2      29.090  25.538  26.332  1.00 42.33           C  
+ANISOU   16  C3  GLC H   2     5375   5385   5321     -5     -8    -19       C  
+HETATM   17  O3  GLC H   2      30.227  24.822  26.813  1.00 42.80           O  
+ANISOU   17  O3  GLC H   2     5415   5441   5405     12      1    -18       O  
+HETATM   18  C4  GLC H   2      29.439  27.023  26.207  1.00 42.93           C  
+ANISOU   18  C4  GLC H   2     5451   5431   5428    -15      1      0       C  
+HETATM   19  O4  GLC H   2      29.000  27.709  27.383  1.00 43.83           O  
+ANISOU   19  O4  GLC H   2     5592   5557   5502     -9      4    -33       O  
+HETATM   20  C5  GLC H   2      28.769  27.630  24.964  1.00 42.80           C  
+ANISOU   20  C5  GLC H   2     5435   5433   5391     -2      8    -24       C  
+HETATM   21  O5  GLC H   2      29.348  27.026  23.768  1.00 41.08           O  
+ANISOU   21  O5  GLC H   2     5198   5167   5240    -25     -5    -10       O  
+HETATM   22  C6  GLC H   2      28.849  29.174  24.891  1.00 43.44           C  
+ANISOU   22  C6  GLC H   2     5517   5479   5507      2      5     -8       C  
+HETATM   23  O6  GLC H   2      29.794  29.695  25.840  1.00 44.28           O  
+ANISOU   23  O6  GLC H   2     5598   5626   5600      3    -22    -15       O  
+CONECT    1    2    3   10
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7   13
+CONECT    9    7   10   11
+CONECT   10    1    9
+CONECT   11    9   12
+CONECT   12   11
+CONECT   13    8   14   21
+CONECT   14   13   15   16
+CONECT   15   14
+CONECT   16   14   17   18
+CONECT   17   16
+CONECT   18   16   19   20
+CONECT   19   18
+CONECT   20   18   21   22
+CONECT   21   13   20
+CONECT   22   20   23
+CONECT   23   22
+END

@@ -1,0 +1,30 @@
+CRYST1   62.130  122.678  135.745  90.00  90.00  90.00 P 2 21 21     1
+HETATM    1  N   BTB C 301     -16.636  -7.898  40.273  0.90 26.95           N  
+HETATM    2  C1  BTB C 301     -16.093  -5.613  41.046  0.90 24.15           C  
+HETATM    3  O1  BTB C 301     -15.504  -4.895  42.106  0.90 27.22           O  
+HETATM    4  C2  BTB C 301     -15.790  -7.091  41.191  0.90 25.18           C  
+HETATM    5  C3  BTB C 301     -14.277  -7.236  41.033  0.90 21.34           C  
+HETATM    6  O3  BTB C 301     -13.978  -7.157  39.644  0.90 22.18           O  
+HETATM    7  C4  BTB C 301     -16.106  -7.575  42.580  0.90 25.30           C  
+HETATM    8  O4  BTB C 301     -17.504  -7.462  42.729  0.90 25.53           O  
+HETATM    9  C5  BTB C 301     -16.221  -9.352  40.287  0.90 31.30           C  
+HETATM   10  C6  BTB C 301     -17.098 -10.484  39.769  0.90 32.61           C  
+HETATM   11  O6  BTB C 301     -18.337 -10.394  40.439  0.90 32.93           O  
+HETATM   12  C7  BTB C 301     -18.112  -7.565  40.268  0.90 39.52           C  
+HETATM   13  C8  BTB C 301     -18.656  -7.050  38.941  0.90 37.88           C  
+HETATM   14  O8  BTB C 301     -17.594  -7.014  38.054  0.90 39.31           O  
+CONECT    1    9   12    4
+CONECT    2    3    4
+CONECT    3    2
+CONECT    4    2    1    5    7
+CONECT    5    4    6
+CONECT    6    5
+CONECT    7    4    8
+CONECT    8    7
+CONECT    9    1   10
+CONECT   10    9   11
+CONECT   11   10
+CONECT   12    1   13
+CONECT   13   12   14
+CONECT   14   13
+END

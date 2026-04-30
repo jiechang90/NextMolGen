@@ -1,0 +1,24 @@
+CRYST1  202.985   73.973  148.221  90.00 131.19  90.00 C 1 2 1       1
+HETATM    1  C1  GLC A 601      78.025  -3.195  -5.736  1.00 73.96           C  
+HETATM    2  C2  GLC A 601      77.653  -1.715  -5.684  1.00 74.75           C  
+HETATM    3  O2  GLC A 601      78.798  -1.041  -5.130  1.00 74.33           O  
+HETATM    4  C3  GLC A 601      76.362  -1.456  -4.869  1.00 75.71           C  
+HETATM    5  O3  GLC A 601      75.850  -0.119  -4.996  1.00 76.01           O  
+HETATM    6  C4  GLC A 601      75.239  -2.401  -5.279  1.00 76.23           C  
+HETATM    7  O4  GLC A 601      74.095  -2.193  -4.442  1.00 75.74           O  
+HETATM    8  C5  GLC A 601      75.747  -3.829  -5.160  1.00 76.54           C  
+HETATM    9  O5  GLC A 601      76.886  -4.014  -6.019  1.00 75.77           O  
+HETATM   10  C6  GLC A 601      74.654  -4.823  -5.533  1.00 76.89           C  
+HETATM   11  O6  GLC A 601      75.192  -6.142  -5.410  1.00 77.13           O  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+END

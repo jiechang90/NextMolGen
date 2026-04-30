@@ -1,0 +1,90 @@
+CRYST1  102.590  102.590   84.990  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  PA  NAI A1400      35.592 -14.897   9.988  1.00  9.71           P  
+HETATM    2  PN  NAI A1400      36.188 -15.267   7.137  1.00  9.84           P  
+HETATM    3  C1B NAI A1400      32.092 -10.489  11.627  1.00  8.20           C  
+HETATM    4  C1D NAI A1400      34.828 -15.023   2.627  1.00 12.97           C  
+HETATM    5  N1A NAI A1400      27.833  -7.900  12.645  1.00 14.25           N  
+HETATM    6  N1N NAI A1400      35.836 -16.088   2.259  1.00  7.53           N  
+HETATM    7  O1A NAI A1400      37.054 -14.968  10.302  1.00  9.28           O1-
+HETATM    8  O1N NAI A1400      37.452 -14.466   7.144  1.00 10.52           O1-
+HETATM    9  C2A NAI A1400      29.106  -7.446  12.552  1.00 12.59           C  
+HETATM   10  C2B NAI A1400      32.948 -11.106  12.648  1.00  9.85           C  
+HETATM   11  C2D NAI A1400      33.739 -15.503   3.487  1.00 16.12           C  
+HETATM   12  C2N NAI A1400      36.346 -16.989   3.241  1.00  7.38           C  
+HETATM   13  O2A NAI A1400      34.747 -15.802  10.826  1.00 11.49           O  
+HETATM   14  O2B NAI A1400      33.086 -10.297  13.773  1.00  9.34           O  
+HETATM   15  O2D NAI A1400      32.756 -16.146   2.783  1.00 16.24           O  
+HETATM   16  O2N NAI A1400      36.464 -16.701   6.796  1.00 10.59           O  
+HETATM   17  C3B NAI A1400      34.201 -11.218  11.895  1.00 12.46           C  
+HETATM   18  C3D NAI A1400      33.284 -14.221   4.004  1.00 14.81           C  
+HETATM   19  C3N NAI A1400      37.248 -17.968   2.894  1.00  9.80           C  
+HETATM   20  N3A NAI A1400      30.135  -8.301  12.301  1.00 13.20           N  
+HETATM   21  O3  NAI A1400      35.303 -15.229   8.449  1.00  9.18           O  
+HETATM   22  O3B NAI A1400      34.898 -10.011  11.930  1.00 11.15           O  
+HETATM   23  O3D NAI A1400      32.414 -13.564   3.025  1.00 13.20           O  
+HETATM   24  C4A NAI A1400      29.872  -9.607  12.141  1.00 14.94           C  
+HETATM   25  C4B NAI A1400      33.757 -11.504  10.506  1.00  9.41           C  
+HETATM   26  C4D NAI A1400      34.513 -13.434   4.181  1.00  9.53           C  
+HETATM   27  C4N NAI A1400      37.506 -18.302   1.444  1.00  9.62           C  
+HETATM   28  O4B NAI A1400      32.431 -11.086  10.396  1.00  8.98           O  
+HETATM   29  O4D NAI A1400      35.473 -14.003   3.346  1.00 12.42           O  
+HETATM   30  C5A NAI A1400      28.608 -10.082  12.226  1.00 17.81           C  
+HETATM   31  C5B NAI A1400      33.829 -12.979  10.193  1.00 12.21           C  
+HETATM   32  C5D NAI A1400      34.972 -13.511   5.588  1.00 12.91           C  
+HETATM   33  C5N NAI A1400      37.157 -17.160   0.519  1.00 10.10           C  
+HETATM   34  O5B NAI A1400      35.169 -13.393  10.198  1.00 12.09           O  
+HETATM   35  O5D NAI A1400      35.162 -14.836   6.003  1.00 11.31           O  
+HETATM   36  C6A NAI A1400      27.575  -9.210  12.481  1.00 20.07           C  
+HETATM   37  C6N NAI A1400      36.258 -16.199   0.902  1.00  9.99           C  
+HETATM   38  N6A NAI A1400      26.232  -9.682  12.566  1.00 16.36           N  
+HETATM   39  C7N NAI A1400      37.809 -18.911   3.912  1.00 10.52           C  
+HETATM   40  N7A NAI A1400      28.653 -11.421  12.029  1.00 16.53           N  
+HETATM   41  N7N NAI A1400      37.516 -18.577   5.184  1.00  9.50           N  
+HETATM   42  O7N NAI A1400      38.493 -19.898   3.311  1.00 11.21           O  
+HETATM   43  C8A NAI A1400      29.946 -11.765  11.800  1.00 13.56           C  
+HETATM   44  N9A NAI A1400      30.696 -10.638  11.869  1.00 12.46           N  
+CONECT    1    7   13   21   34
+CONECT    2    8   16   35   21
+CONECT    3   44   10   28
+CONECT    4    6   11   29
+CONECT    5    9   36
+CONECT    6    4   12   37
+CONECT    7    1
+CONECT    8    2
+CONECT    9    5   20
+CONECT   10    3   14   17
+CONECT   11    4   15   18
+CONECT   12    6   19
+CONECT   13    1
+CONECT   14   10
+CONECT   15   11
+CONECT   16    2
+CONECT   17   10   22   25
+CONECT   18   11   23   26
+CONECT   19   12   27   39
+CONECT   20    9   24
+CONECT   21    1    2
+CONECT   22   17
+CONECT   23   18
+CONECT   24   20   30   44
+CONECT   25   17   28   31
+CONECT   26   18   29   32
+CONECT   27   19   33
+CONECT   28   25    3
+CONECT   29   26    4
+CONECT   30   24   36   40
+CONECT   31   25   34
+CONECT   32   26   35
+CONECT   33   27   37
+CONECT   34    1   31
+CONECT   35    2   32
+CONECT   36   30    5   38
+CONECT   37    6   33
+CONECT   38   36
+CONECT   39   19   41   42
+CONECT   40   30   43
+CONECT   41   39
+CONECT   42   39
+CONECT   43   40   44
+CONECT   44    3   24   43
+END

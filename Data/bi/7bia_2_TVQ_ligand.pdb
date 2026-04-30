@@ -1,0 +1,20 @@
+CRYST1   77.410   89.780   68.854  90.00  98.05  90.00 C 1 2 1       1
+HETATM    1  N   TVQ A 403       9.615  -7.645  23.439  1.00 41.22           N  
+HETATM    2  C   TVQ A 403       4.785  -5.744  21.669  1.00 48.41           C  
+HETATM    3  O   TVQ A 403       4.484  -6.447  24.215  1.00 57.52           O  
+HETATM    4  C1  TVQ A 403       6.769  -7.016  23.001  1.00 44.30           C  
+HETATM    5  S1  TVQ A 403      10.501  -5.380  22.083  1.00 48.49           S  
+HETATM    6  C2  TVQ A 403       7.348  -7.556  24.299  1.00 44.26           C  
+HETATM    7  C3  TVQ A 403       8.556  -8.421  24.026  1.00 44.88           C  
+HETATM    8  C4  TVQ A 403      10.030  -6.711  22.875  1.00 43.62           C  
+HETATM    9  S   TVQ A 403       5.498  -5.779  23.324  1.00 63.41           S  
+CONECT    1    7    8
+CONECT    2    9
+CONECT    3    9
+CONECT    4    6    9
+CONECT    5    8
+CONECT    6    4    7
+CONECT    7    1    6
+CONECT    8    1    5
+CONECT    9    2    3    4
+END

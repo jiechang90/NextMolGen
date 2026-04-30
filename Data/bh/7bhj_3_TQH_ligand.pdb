@@ -1,0 +1,38 @@
+CRYST1  114.420  142.200   78.430  90.00 114.68  90.00 C 1 2 1       2
+HETATM    1  CAA TQH E 201      10.092  55.364  33.879  1.00 80.91           C  
+HETATM    2  CAB TQH E 201      10.571  53.988  33.448  1.00 89.20           C  
+HETATM    3  CAC TQH E 201      10.497  52.874  34.175  1.00 82.58           C  
+HETATM    4  CAD TQH E 201      11.044  51.907  33.422  1.00 82.20           C  
+HETATM    5  CAE TQH E 201      11.433  52.448  32.269  1.00 86.47           C  
+HETATM    6  CAG TQH E 201      12.089  51.712  31.145  1.00 91.56           C  
+HETATM    7  CAI TQH E 201      14.365  50.936  30.804  1.00 98.45           C  
+HETATM    8  CAK TQH E 201      15.515  49.136  30.528  1.00 94.06           C  
+HETATM    9  CAN TQH E 201      16.007  47.888  30.624  1.00 90.21           C  
+HETATM   10  CAO TQH E 201      15.246  46.816  30.547  1.00 78.08           C  
+HETATM   11  CAP TQH E 201      15.923  45.664  30.648  1.00 84.54           C  
+HETATM   12  CAQ TQH E 201      17.240  45.802  30.790  1.00 80.51           C  
+HETATM   13  NAH TQH E 201      13.531  51.870  31.261  1.00 97.99           N  
+HETATM   14  NAJ TQH E 201      14.601  49.726  31.313  1.00 92.78           N  
+HETATM   15  NAL TQH E 201      15.827  49.968  29.556  1.00 89.35           N  
+HETATM   16  NAM TQH E 201      15.109  51.099  29.724  1.00110.64           N  
+HETATM   17  OAF TQH E 201      11.193  53.726  32.225  1.00 98.98           O  
+HETATM   18  SAR TQH E 201      17.497  47.396  30.778  1.00103.71           S  
+CONECT    1    2
+CONECT    2    1    3   17
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6   17
+CONECT    6    5   13
+CONECT    7   14   16   13
+CONECT    8    9   14   15
+CONECT    9    8   10   18
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   18
+CONECT   13    6    7
+CONECT   14    7    8
+CONECT   15    8   16
+CONECT   16    7   15
+CONECT   17    2    5
+CONECT   18    9   12
+END

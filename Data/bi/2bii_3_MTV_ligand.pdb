@@ -1,0 +1,56 @@
+CRYST1  122.722  123.080  149.509  90.00  90.00  90.00 C 2 2 21      1
+HETATM    1  OM1 MTV A1479       8.112  -2.660  56.923  1.00 19.90           O  
+HETATM    2  OM2 MTV A1479       9.890  -3.936  54.343  1.00 26.07           O  
+HETATM    3  P   MTV A1479       4.491   2.739  50.772  1.00 20.51           P  
+HETATM    4  O1P MTV A1479       5.499   3.562  51.523  1.00 18.87           O  
+HETATM    5  O2P MTV A1479       5.095   2.055  49.585  1.00 19.72           O1-
+HETATM    6  O3P MTV A1479       3.131   3.343  50.611  1.00 18.33           O  
+HETATM    7  C4' MTV A1479       5.167   0.792  52.412  1.00 20.41           C  
+HETATM    8  O4' MTV A1479       4.102   1.596  51.825  1.00 21.05           O  
+HETATM    9  C3' MTV A1479       4.854  -0.455  52.856  1.00 20.33           C  
+HETATM   10  O3' MTV A1479       3.561  -1.084  52.511  1.00 19.46           O  
+HETATM   11  C2' MTV A1479       5.943  -1.271  53.441  1.00 20.29           C  
+HETATM   12  S2' MTV A1479       7.297  -0.649  54.243  1.00 18.59           S  
+HETATM   13  C1' MTV A1479       5.851  -2.554  53.155  1.00 20.23           C  
+HETATM   14  S1' MTV A1479       7.053  -3.691  53.684  1.00 22.01           S  
+HETATM   15  N1  MTV A1479       0.908  -4.129  50.866  1.00 19.20           N  
+HETATM   16  C2  MTV A1479       0.920  -4.963  49.786  1.00 20.07           C  
+HETATM   17  N2  MTV A1479      -0.280  -5.369  49.297  1.00 21.71           N  
+HETATM   18  N3  MTV A1479       2.066  -5.385  49.217  1.00 19.12           N  
+HETATM   19  C4  MTV A1479       3.296  -5.029  49.647  1.00 19.47           C  
+HETATM   20  O4  MTV A1479       4.305  -5.433  49.067  1.00 18.96           O  
+HETATM   21  N5  MTV A1479       4.580  -3.769  51.289  1.00 20.73           N  
+HETATM   22  C6  MTV A1479       4.599  -3.045  52.443  1.00 21.21           C  
+HETATM   23  C7  MTV A1479       3.387  -2.449  52.983  1.00 18.57           C  
+HETATM   24  N8  MTV A1479       2.123  -2.901  52.409  1.00 18.57           N  
+HETATM   25  C9  MTV A1479       3.395  -4.182  50.765  1.00 19.51           C  
+HETATM   26  C10 MTV A1479       2.111  -3.739  51.367  1.00 19.47           C  
+HETATM   27 MOM1 MTV A1479       8.601  -2.430  54.991  1.00 26.02          MO  
+CONECT    1   27
+CONECT    2   27
+CONECT    3    4    5    6    8
+CONECT    4    3
+CONECT    5    3
+CONECT    6    3
+CONECT    7    8    9
+CONECT    8    7    3
+CONECT    9    7   10   11
+CONECT   10    9   23
+CONECT   11    9   12   13
+CONECT   12   11   27
+CONECT   13   11   14   22
+CONECT   14   13   27
+CONECT   15   16   26
+CONECT   16   15   17   18
+CONECT   17   16
+CONECT   18   16   19
+CONECT   19   18   20   25
+CONECT   20   19
+CONECT   21   22   25
+CONECT   22   21   13   23
+CONECT   23   22   10   24
+CONECT   24   23   26
+CONECT   25   19   21   26
+CONECT   26   15   24   25
+CONECT   27   12   14    1    2
+END

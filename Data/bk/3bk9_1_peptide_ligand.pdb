@@ -1,0 +1,32 @@
+CRYST1   78.222  117.606  139.283  90.00  95.73  90.00 P 1 21 1      1
+HETATM    1  N   TRP A 402      11.093 -17.132   0.210  1.00 15.05           N  
+HETATM    2  CA  TRP A 402      10.089 -16.150   0.656  1.00 16.53           C  
+HETATM    3  C   TRP A 402       8.773 -16.844   0.937  1.00 15.77           C  
+HETATM    4  O   TRP A 402       7.744 -16.221   0.907  1.00 14.37           O  
+HETATM    5  CB  TRP A 402       9.774 -15.130  -0.421  1.00 17.52           C  
+HETATM    6  CG  TRP A 402      10.553 -13.854  -0.403  1.00 18.89           C  
+HETATM    7  CD1 TRP A 402      10.800 -13.072   0.628  1.00 19.34           C  
+HETATM    8  CD2 TRP A 402      11.072 -13.187  -1.591  1.00 18.70           C  
+HETATM    9  CE2 TRP A 402      11.674 -11.977  -1.190  1.00 23.25           C  
+HETATM   10  CE3 TRP A 402      11.048 -13.510  -2.970  1.00 16.30           C  
+HETATM   11  NE1 TRP A 402      11.516 -11.869   0.171  1.00 25.34           N  
+HETATM   12  CZ2 TRP A 402      12.246 -11.103  -2.109  1.00 22.02           C  
+HETATM   13  CZ3 TRP A 402      11.631 -12.669  -3.858  1.00 16.56           C  
+HETATM   14  CH2 TRP A 402      12.210 -11.467  -3.440  1.00 19.41           C  
+HETATM   15  OXT TRP A 402       8.694 -18.041   1.122  1.00 16.07           O  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4   15
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7    8
+CONECT    7    6   11
+CONECT    8    6    9   10
+CONECT    9    8   12   11
+CONECT   10    8   13
+CONECT   11    7    9
+CONECT   12    9   14
+CONECT   13   10   14
+CONECT   14   12   13
+CONECT   15    3
+END

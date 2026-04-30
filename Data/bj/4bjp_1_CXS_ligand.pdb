@@ -1,0 +1,30 @@
+CRYST1  119.025  119.025  139.251  90.00  90.00 120.00 P 61 2 2      1
+HETATM    1  N   CXS A 612      -7.787  14.705  33.207  1.00 55.69           N  
+HETATM    2  C1  CXS A 612      -5.799  11.837  34.311  1.00 60.16           C  
+HETATM    3  O1  CXS A 612      -3.341  12.451  34.621  1.00 61.08           O  
+HETATM    4  C2  CXS A 612      -6.071  12.933  33.282  1.00 57.34           C  
+HETATM    5  O2  CXS A 612      -4.028  10.142  35.082  1.00 61.12           O  
+HETATM    6  C3  CXS A 612      -6.638  14.189  33.928  1.00 56.42           C  
+HETATM    7  O3  CXS A 612      -3.907  10.924  32.798  1.00 61.71           O  
+HETATM    8  C4  CXS A 612      -8.424  15.935  33.640  1.00 55.18           C  
+HETATM    9  C5  CXS A 612      -9.032  16.647  32.440  1.00 54.64           C  
+HETATM   10  C6  CXS A 612      -9.769  17.927  32.825  1.00 54.29           C  
+HETATM   11  C7  CXS A 612     -10.690  17.761  34.030  1.00 53.62           C  
+HETATM   12  C8  CXS A 612     -10.848  16.289  34.387  1.00 54.14           C  
+HETATM   13  C9  CXS A 612      -9.506  15.618  34.674  1.00 55.14           C  
+HETATM   14  S   CXS A 612      -4.215  11.323  34.202  1.00 61.90           S  
+CONECT    1    8    6
+CONECT    2    4   14
+CONECT    3   14
+CONECT    4    2    6
+CONECT    5   14
+CONECT    6    4    1
+CONECT    7   14
+CONECT    8    1    9   13
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13    8   12
+CONECT   14    2    3    5    7
+END

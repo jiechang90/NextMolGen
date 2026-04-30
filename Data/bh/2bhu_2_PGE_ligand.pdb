@@ -1,0 +1,32 @@
+CRYST1   59.580   66.620  152.510  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1 APGE A1604      52.400 -16.551   6.785  0.50 30.27           C  
+ANISOU    1  C1 APGE A1604     3883   3860   3757     61    -37    -53       C  
+HETATM    2  O1 APGE A1604      52.729 -17.744   7.516  0.50 32.13           O  
+ANISOU    2  O1 APGE A1604     4293   4133   3780    -21    -10     88       O  
+HETATM    3  C2 APGE A1604      51.104 -15.895   7.252  0.50 27.38           C  
+ANISOU    3  C2 APGE A1604     3694   3501   3207    -16    -56    -17       C  
+HETATM    4  O2 APGE A1604      51.444 -14.581   7.645  0.50 27.90           O  
+ANISOU    4  O2 APGE A1604     3633   3613   3355    120    -71     34       O  
+HETATM    5  C3 APGE A1604      50.340 -13.804   8.139  0.50 24.78           C  
+ANISOU    5  C3 APGE A1604     3285   3215   2914    -40    -12     42       C  
+HETATM    6  O3 APGE A1604      48.493 -14.002  10.026  0.50 19.62           O  
+ANISOU    6  O3 APGE A1604     2638   2484   2332      3   -257   -386       O  
+HETATM    7  C4 APGE A1604      49.942 -14.164   9.621  0.65 14.11           C  
+ANISOU    7  C4 APGE A1604     2109   1583   1669   -137   -259    175       C  
+HETATM    8  O4 APGE A1604      48.768 -13.824  13.504  0.50 14.75           O  
+ANISOU    8  O4 APGE A1604     1625   2369   1610   -154      9     34       O  
+HETATM    9  C5 APGE A1604      47.894 -14.827  11.141  0.55 15.83           C  
+ANISOU    9  C5 APGE A1604     1933   2092   1988    -50    -88   -517       C  
+HETATM   10  C6 APGE A1604      48.855 -14.810  12.449  0.50 19.64           C  
+ANISOU   10  C6 APGE A1604     2335   2573   2553    -91   -136   -286       C  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4
+CONECT    4    3    5
+CONECT    5    4    7
+CONECT    6    7    9
+CONECT    7    5    6
+CONECT    8   10
+CONECT    9    6   10
+CONECT   10    8    9
+END

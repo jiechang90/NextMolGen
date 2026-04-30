@@ -1,0 +1,30 @@
+CRYST1   70.859  228.288   71.920  90.00 113.71  90.00 P 1 21 1      1
+HETATM    1  C1  NAG E1320       8.253  39.815  22.790  1.00 35.09           C  
+HETATM    2  C2  NAG E1320       7.571  39.452  21.479  1.00 37.35           C  
+HETATM    3  N2  NAG E1320       6.387  38.636  21.656  1.00 35.97           N  
+HETATM    4  C3  NAG E1320       8.488  38.684  20.537  1.00 39.54           C  
+HETATM    5  O3  NAG E1320       7.841  38.534  19.293  1.00 39.51           O  
+HETATM    6  C4  NAG E1320       9.814  39.403  20.366  1.00 42.53           C  
+HETATM    7  O4  NAG E1320      10.667  38.616  19.557  1.00 45.20           O  
+HETATM    8  C5  NAG E1320      10.413  39.654  21.746  1.00 43.14           C  
+HETATM    9  O5  NAG E1320       9.509  40.428  22.512  1.00 36.35           O  
+HETATM   10  C6  NAG E1320      11.736  40.409  21.653  1.00 46.06           C  
+HETATM   11  O6  NAG E1320      11.492  41.752  21.290  1.00 50.29           O  
+HETATM   12  C7  NAG E1320       5.185  39.041  21.251  1.00 36.49           C  
+HETATM   13  O7  NAG E1320       4.973  40.147  20.752  1.00 37.37           O  
+HETATM   14  C8  NAG E1320       4.041  38.092  21.447  1.00 36.10           C  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2   12
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+CONECT   12    3   13   14
+CONECT   13   12
+CONECT   14   12
+END

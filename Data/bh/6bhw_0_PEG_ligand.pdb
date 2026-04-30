@@ -1,0 +1,36 @@
+CRYST1   97.479   97.479  213.595  90.00  90.00  90.00 P 41 21 2     6
+HETATM    1  C1  PEG A 201      29.456  22.972  53.604  1.00 59.84           C  
+HETATM    2  O1  PEG A 201      30.538  23.615  54.219  1.00 64.00           O  
+HETATM    3  C2  PEG A 201      29.471  23.272  52.107  1.00 75.87           C  
+HETATM    4  O2  PEG A 201      30.603  22.674  51.537  1.00 75.57           O  
+HETATM    5  C3  PEG A 201      30.464  22.228  50.215  1.00 61.85           C  
+HETATM    6  C4  PEG A 201      31.389  21.033  50.001  1.00 61.01           C  
+HETATM    7  O4  PEG A 201      32.716  21.475  49.913  1.00 61.54           O  
+HETATM    8  HO1 PEG A 201      30.529  24.441  54.018  1.00 76.90           H  
+HETATM    9  HO4 PEG A 201      33.114  21.326  50.649  1.00 73.94           H  
+HETATM   10  H11 PEG A 201      29.527  22.015  53.743  1.00 71.91           H  
+HETATM   11  H12 PEG A 201      28.627  23.294  53.990  1.00 71.91           H  
+HETATM   12  H21 PEG A 201      28.670  22.910  51.695  1.00 91.14           H  
+HETATM   13  H22 PEG A 201      29.504  24.231  51.967  1.00 91.14           H  
+HETATM   14  H31 PEG A 201      29.545  21.961  50.057  1.00 74.31           H  
+HETATM   15  H32 PEG A 201      30.705  22.941  49.603  1.00 74.31           H  
+HETATM   16  H41 PEG A 201      31.302  20.420  50.747  1.00 73.30           H  
+HETATM   17  H42 PEG A 201      31.145  20.579  49.179  1.00 73.30           H  
+CONECT    1    2    3   10   11
+CONECT    2    1    8
+CONECT    3    1    4   12   13
+CONECT    4    3    5
+CONECT    5    4    6   14   15
+CONECT    6    5    7   16   17
+CONECT    7    6    9
+CONECT    8    2
+CONECT    9    7
+CONECT   10    1
+CONECT   11    1
+CONECT   12    3
+CONECT   13    3
+CONECT   14    5
+CONECT   15    5
+CONECT   16    6
+CONECT   17    6
+END

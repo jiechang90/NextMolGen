@@ -1,0 +1,34 @@
+CRYST1   80.250  109.710  197.300  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  P   PMP A 413      61.935  55.305   3.161  1.00 15.78           P  
+HETATM    2  O1P PMP A 413      61.778  56.719   3.430  1.00  8.02           O  
+HETATM    3  O2P PMP A 413      62.055  54.419   4.440  1.00 14.92           O1-
+HETATM    4  O3P PMP A 413      60.946  54.694   2.310  1.00 16.11           O  
+HETATM    5  O4P PMP A 413      63.392  55.289   2.609  1.00 15.19           O  
+HETATM    6  N1  PMP A 413      66.901  56.238  -0.607  1.00 10.83           N  
+HETATM    7  C2  PMP A 413      67.845  55.446  -0.024  1.00 15.05           C  
+HETATM    8  C2A PMP A 413      69.304  55.469  -0.535  1.00 10.22           C  
+HETATM    9  C3  PMP A 413      67.480  54.632   1.016  1.00 15.93           C  
+HETATM   10  O3  PMP A 413      68.411  53.830   1.614  1.00 11.97           O  
+HETATM   11  C4  PMP A 413      66.141  54.619   1.455  1.00 19.09           C  
+HETATM   12  C4A PMP A 413      65.731  53.705   2.592  1.00 27.37           C  
+HETATM   13  N4A PMP A 413      66.744  53.682   3.512  1.00 35.78           N  
+HETATM   14  C5  PMP A 413      65.185  55.451   0.831  1.00 14.99           C  
+HETATM   15  C5A PMP A 413      63.667  55.500   1.240  1.00 17.66           C  
+HETATM   16  C6  PMP A 413      65.593  56.245  -0.193  1.00 14.69           C  
+CONECT    1    2    3    4    5
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1   15
+CONECT    6    7   16
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   14
+CONECT   12   11   13
+CONECT   13   12
+CONECT   14   11   15   16
+CONECT   15   14    5
+CONECT   16    6   14
+END

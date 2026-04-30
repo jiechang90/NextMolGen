@@ -1,0 +1,11 @@
+CRYST1   71.210  128.080   71.450  90.00 110.67  90.00 P 1 21 1      7
+HETATM    1  C   ACE D   0      59.439   6.057   0.346  1.00 58.12           C  
+ANISOU    1  C   ACE D   0     8591   6964   6528   -670   -235   -398       C  
+HETATM    2  O   ACE D   0      58.233   5.904   0.331  1.00 66.95           O  
+ANISOU    2  O   ACE D   0     9680   8085   7672   -744   -448   -348       O  
+HETATM    3  CH3 ACE D   0      60.257   6.255  -0.927  1.00 53.63           C  
+ANISOU    3  CH3 ACE D   0     8320   6297   5762   -721    -91   -477       C  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+END

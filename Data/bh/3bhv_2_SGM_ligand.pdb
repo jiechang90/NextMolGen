@@ -1,0 +1,14 @@
+CRYST1   74.160  133.968  147.879  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  SGM B   3     -15.236  11.450  18.969  1.00 79.71           C  
+HETATM    2  S1  SGM B   3     -14.133   9.368  18.035  1.00 78.27           S  
+HETATM    3  C2  SGM B   3     -13.151  12.215  17.768  1.00 80.53           C  
+HETATM    4  O2  SGM B   3     -13.910  14.479  18.876  1.00 80.93           O  
+HETATM    5  C3  SGM B   3     -15.171  12.706  16.189  1.00 80.55           C  
+HETATM    6  O3  SGM B   3     -12.542  12.807  15.012  1.00 80.36           O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5
+END

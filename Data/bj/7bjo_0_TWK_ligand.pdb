@@ -1,0 +1,44 @@
+CRYST1   45.220   66.190   54.460  90.00 101.42  90.00 P 1 21 1      1
+HETATM    1  C1  TWK A 301       2.670  -6.457  17.901  1.00 54.94           C  
+HETATM    2  N1  TWK A 301       3.888  -5.646  17.965  1.00 51.67           N  
+HETATM    3  C2  TWK A 301       4.027  -4.608  18.855  1.00 46.82           C  
+HETATM    4  N2  TWK A 301       8.257  -4.157  16.710  1.00 46.95           N  
+HETATM    5  C3  TWK A 301       5.292  -4.015  18.672  1.00 45.05           C  
+HETATM    6  N3  TWK A 301       6.817  -2.276  19.339  1.00 38.91           N  
+HETATM    7  C4  TWK A 301       5.937  -4.719  17.612  1.00 47.91           C  
+HETATM    8  N4  TWK A 301       4.734  -2.459  20.362  1.00 45.60           N  
+HETATM    9  C5  TWK A 301       7.224  -4.418  17.101  1.00 45.64           C  
+HETATM   10  N5  TWK A 301       3.192  -4.124  19.779  1.00 50.05           N  
+HETATM   11  C6  TWK A 301       5.040  -5.749  17.186  1.00 54.00           C  
+HETATM   12  C7  TWK A 301       5.262  -6.696  16.079  1.00 62.86           C  
+HETATM   13  C8  TWK A 301       5.066  -8.060  16.237  1.00 75.87           C  
+HETATM   14  C9  TWK A 301       5.253  -8.930  15.169  1.00 82.18           C  
+HETATM   15  C10 TWK A 301       5.598  -8.452  13.925  1.00 69.82           C  
+HETATM   16  C11 TWK A 301       5.764  -7.088  13.748  1.00 62.02           C  
+HETATM   17  C12 TWK A 301       5.583  -6.214  14.808  1.00 65.95           C  
+HETATM   18  C13 TWK A 301       5.639  -2.902  19.468  1.00 40.90           C  
+HETATM   19  C14 TWK A 301       3.545  -3.070  20.521  1.00 48.04           C  
+HETATM   20  F1  TWK A 301       4.722  -8.537  17.446  1.00 69.59           F  
+HETATM   21  F2  TWK A 301       5.089 -10.264  15.355  1.00 83.80           F  
+CONECT    1    2
+CONECT    2    1    3   11
+CONECT    3    2    5   10
+CONECT    4    9
+CONECT    5    3    7   18
+CONECT    6   18
+CONECT    7    5    9   11
+CONECT    8   18   19
+CONECT    9    4    7
+CONECT   10    3   19
+CONECT   11    2    7   12
+CONECT   12   11   13   17
+CONECT   13   12   14   20
+CONECT   14   13   15   21
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   12   16
+CONECT   18    5    6    8
+CONECT   19    8   10
+CONECT   20   13
+CONECT   21   14
+END

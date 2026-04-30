@@ -1,0 +1,54 @@
+CRYST1   85.757   86.164  177.670  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  CM  MPD G2406      -2.265  22.022  63.044  1.00 65.42           C  
+ANISOU    1  CM  MPD G2406     8400   8245   8212    458    -48    132       C  
+HETATM    2  C1  MPD G2406      -0.636  21.782  64.893  1.00 67.28           C  
+ANISOU    2  C1  MPD G2406     8613   8527   8424    457    -46    144       C  
+HETATM    3  C2  MPD G2406      -1.143  21.152  63.598  1.00 66.70           C  
+ANISOU    3  C2  MPD G2406     8552   8426   8363    466    -46    146       C  
+HETATM    4  O2  MPD G2406      -1.651  19.875  63.875  1.00 68.38           O  
+ANISOU    4  O2  MPD G2406     8767   8633   8579    475    -44    158       O  
+HETATM    5  C3  MPD G2406      -0.013  21.088  62.566  1.00 64.98           C  
+ANISOU    5  C3  MPD G2406     8336   8208   8145    471    -46    150       C  
+HETATM    6  C4  MPD G2406       0.949  19.932  62.844  1.00 65.08           C  
+ANISOU    6  C4  MPD G2406     8342   8234   8152    483    -43    167       C  
+HETATM    7  O4  MPD G2406       1.370  19.368  61.629  1.00 66.67           O  
+ANISOU    7  O4  MPD G2406     8551   8422   8361    491    -42    172       O  
+HETATM    8  C5  MPD G2406       2.169  20.469  63.591  1.00 64.15           C  
+ANISOU    8  C5  MPD G2406     8209   8146   8018    478    -44    168       C  
+HETATM    9  HM1 MPD G2406      -2.708  21.555  62.319  1.00 78.50           H  
+HETATM   10  HM2 MPD G2406      -1.894  22.855  62.713  1.00 78.50           H  
+HETATM   11  HM3 MPD G2406      -2.905  22.211  63.747  1.00 78.50           H  
+HETATM   12  HO2 MPD G2406      -2.398  19.947  64.274  1.00 82.05           H  
+HETATM   13  HO4 MPD G2406       1.404  18.522  61.706  1.00 80.01           H  
+HETATM   14  H4  MPD G2406       0.506  19.258  63.383  1.00 78.10           H  
+HETATM   15  H11 MPD G2406      -0.265  22.658  64.703  1.00 80.74           H  
+HETATM   16  H12 MPD G2406       0.051  21.217  65.280  1.00 80.74           H  
+HETATM   17  H13 MPD G2406      -1.371  21.871  65.519  1.00 80.74           H  
+HETATM   18  H31 MPD G2406       0.492  21.915  62.613  1.00 77.97           H  
+HETATM   19  H32 MPD G2406      -0.391  20.998  61.677  1.00 77.97           H  
+HETATM   20  H51 MPD G2406       2.868  20.687  62.954  1.00 76.98           H  
+HETATM   21  H52 MPD G2406       2.493  19.795  64.209  1.00 76.98           H  
+HETATM   22  H53 MPD G2406       1.921  21.267  64.084  1.00 76.98           H  
+CONECT    1    9   10   11    3
+CONECT    2    3   15   16   17
+CONECT    3    2    1    4    5
+CONECT    4    3   12
+CONECT    5    3    6   18   19
+CONECT    6    5    7    8   14
+CONECT    7    6   13
+CONECT    8    6   20   21   22
+CONECT    9    1
+CONECT   10    1
+CONECT   11    1
+CONECT   12    4
+CONECT   13    7
+CONECT   14    6
+CONECT   15    2
+CONECT   16    2
+CONECT   17    2
+CONECT   18    5
+CONECT   19    5
+CONECT   20    8
+CONECT   21    8
+CONECT   22    8
+END

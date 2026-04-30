@@ -1,0 +1,28 @@
+CRYST1  106.596  163.095  197.581  90.00  90.00  90.00 I 2 2 2       3
+HETATM    1  CA  FLC A1321      -0.962  -9.906 -77.830  1.00105.46           C  
+HETATM    2  CAC FLC A1321      -0.155  -9.105 -76.831  1.00103.14           C  
+HETATM    3  OA1 FLC A1321       0.909  -9.603 -76.396  1.00110.78           O  
+HETATM    4  OA2 FLC A1321      -0.567  -7.973 -76.490  1.00 83.46           O  
+HETATM    5  CB  FLC A1321      -1.994 -10.844 -77.191  1.00117.99           C  
+HETATM    6  CBC FLC A1321      -3.292 -10.120 -76.848  1.00103.84           C  
+HETATM    7  OB1 FLC A1321      -4.334 -10.801 -76.701  1.00 83.38           O  
+HETATM    8  OB2 FLC A1321      -3.313  -8.874 -76.720  1.00 87.20           O  
+HETATM    9  CG  FLC A1321      -1.435 -11.547 -75.937  1.00112.12           C  
+HETATM   10  CGC FLC A1321      -2.110 -12.867 -75.612  1.00 91.79           C  
+HETATM   11  OG1 FLC A1321      -3.034 -13.276 -76.343  1.00 74.28           O  
+HETATM   12  OG2 FLC A1321      -1.718 -13.520 -74.617  1.00 83.80           O  
+HETATM   13  OHB FLC A1321      -2.267 -11.815 -78.212  1.00117.68           O  
+CONECT    1    5    2
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2
+CONECT    5    1    6    9   13
+CONECT    6    5    7    8
+CONECT    7    6
+CONECT    8    6
+CONECT    9    5   10
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10
+CONECT   13    5
+END

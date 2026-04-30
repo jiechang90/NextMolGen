@@ -1,0 +1,10 @@
+CRYST1  117.090   15.629   39.715  90.00 104.46  90.00 C 1 2 1       1
+HETATM    1  C   ACY C 402      47.148   4.911  10.111  1.00 34.55           C  
+HETATM    2  O   ACY C 402      48.353   4.918   9.861  1.00 34.17           O  
+HETATM    3  CH3 ACY C 402      46.057   4.804   9.092  1.00 35.01           C  
+HETATM    4  OXT ACY C 402      46.698   4.995  11.328  1.00 34.71           O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+END

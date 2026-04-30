@@ -1,0 +1,54 @@
+CRYST1   85.757   86.164  177.670  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  CM  MPD A2404      27.266  10.324 -14.349  1.00 59.81           C  
+ANISOU    1  CM  MPD A2404     7588   7539   7599   -403     58   -361       C  
+HETATM    2  C1  MPD A2404      25.969   9.721 -12.291  1.00 61.70           C  
+ANISOU    2  C1  MPD A2404     7836   7758   7848   -359     71   -339       C  
+HETATM    3  C2  MPD A2404      26.068  10.694 -13.467  1.00 61.40           C  
+ANISOU    3  C2  MPD A2404     7792   7746   7792   -379     52   -341       C  
+HETATM    4  O2  MPD A2404      26.246  11.994 -12.949  1.00 60.08           O  
+ANISOU    4  O2  MPD A2404     7636   7579   7614   -352     26   -322       O  
+HETATM    5  C3  MPD A2404      24.787  10.588 -14.305  1.00 60.97           C  
+ANISOU    5  C3  MPD A2404     7720   7725   7722   -404     56   -343       C  
+HETATM    6  C4  MPD A2404      23.617  11.210 -13.555  1.00 60.27           C  
+ANISOU    6  C4  MPD A2404     7632   7646   7621   -380     45   -321       C  
+HETATM    7  O4  MPD A2404      23.986  12.476 -13.087  1.00 62.60           O  
+ANISOU    7  O4  MPD A2404     7940   7936   7908   -353     20   -304       O  
+HETATM    8  C5  MPD A2404      22.425  11.358 -14.489  1.00 60.07           C  
+ANISOU    8  C5  MPD A2404     7588   7660   7577   -404     45   -322       C  
+HETATM    9  HM1 MPD A2404      27.080   9.495 -14.816  1.00 71.78           H  
+HETATM   10  HM2 MPD A2404      27.424  11.030 -14.994  1.00 71.78           H  
+HETATM   11  HM3 MPD A2404      28.054  10.212 -13.794  1.00 71.78           H  
+HETATM   12  HO2 MPD A2404      27.075  12.180 -12.927  1.00 72.10           H  
+HETATM   13  HO4 MPD A2404      23.414  12.745 -12.518  1.00 75.11           H  
+HETATM   14  H4  MPD A2404      23.375  10.644 -12.805  1.00 72.32           H  
+HETATM   15  H11 MPD A2404      26.796   9.741 -11.785  1.00 74.04           H  
+HETATM   16  H12 MPD A2404      25.232   9.981 -11.717  1.00 74.04           H  
+HETATM   17  H13 MPD A2404      25.817   8.823 -12.626  1.00 74.04           H  
+HETATM   18  H31 MPD A2404      24.914  11.031 -15.159  1.00 73.17           H  
+HETATM   19  H32 MPD A2404      24.589   9.651 -14.456  1.00 73.17           H  
+HETATM   20  H51 MPD A2404      22.589  12.084 -15.110  1.00 72.09           H  
+HETATM   21  H52 MPD A2404      22.296  10.533 -14.982  1.00 72.09           H  
+HETATM   22  H53 MPD A2404      21.629  11.551 -13.969  1.00 72.09           H  
+CONECT    1    9   10   11    3
+CONECT    2    3   15   16   17
+CONECT    3    2    1    4    5
+CONECT    4    3   12
+CONECT    5    3    6   18   19
+CONECT    6    5    7    8   14
+CONECT    7    6   13
+CONECT    8    6   20   21   22
+CONECT    9    1
+CONECT   10    1
+CONECT   11    1
+CONECT   12    4
+CONECT   13    7
+CONECT   14    6
+CONECT   15    2
+CONECT   16    2
+CONECT   17    2
+CONECT   18    5
+CONECT   19    5
+CONECT   20    8
+CONECT   21    8
+CONECT   22    8
+END

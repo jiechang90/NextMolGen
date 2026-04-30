@@ -1,0 +1,54 @@
+CRYST1  190.061   63.542  112.019  90.00 125.15  90.00 C 1 2 1       1
+HETATM    1  N   SAH B 500      37.188  -3.860  21.343  1.00 32.63           N  
+HETATM    2  CA  SAH B 500      38.157  -4.501  20.442  1.00 32.75           C  
+HETATM    3  C   SAH B 500      37.587  -4.875  19.080  1.00 31.26           C  
+HETATM    4  O   SAH B 500      36.373  -4.786  18.941  1.00 32.07           O  
+HETATM    5  CB  SAH B 500      38.841  -5.741  21.050  1.00 32.08           C  
+HETATM    6  CG  SAH B 500      37.955  -6.781  21.695  1.00 32.96           C  
+HETATM    7  SD  SAH B 500      38.904  -8.251  22.110  1.00 30.51           S  
+HETATM    8  C5' SAH B 500      39.177  -7.847  23.840  1.00 31.89           C  
+HETATM    9  C4' SAH B 500      40.476  -7.130  24.145  1.00 31.16           C  
+HETATM   10  O4' SAH B 500      40.697  -7.088  25.585  1.00 31.97           O  
+HETATM   11  C3' SAH B 500      41.713  -7.798  23.555  1.00 30.65           C  
+HETATM   12  O3' SAH B 500      42.340  -6.848  22.712  1.00 31.28           O  
+HETATM   13  C2' SAH B 500      42.587  -8.067  24.772  1.00 30.85           C  
+HETATM   14  O2' SAH B 500      43.978  -7.868  24.489  1.00 30.83           O  
+HETATM   15  C1' SAH B 500      42.068  -7.072  25.816  1.00 29.62           C  
+HETATM   16  OXT SAH B 500      38.352  -5.194  18.133  1.00 30.20           O  
+HETATM   17  N1  SAH B 500      44.208  -5.866  30.328  1.00 34.87           N  
+HETATM   18  C2  SAH B 500      44.168  -5.111  29.202  1.00 34.41           C  
+HETATM   19  N3  SAH B 500      43.564  -5.584  28.092  1.00 32.89           N  
+HETATM   20  C4  SAH B 500      42.996  -6.782  28.137  1.00 33.27           C  
+HETATM   21  C5  SAH B 500      43.053  -7.546  29.284  1.00 32.73           C  
+HETATM   22  C6  SAH B 500      43.644  -7.082  30.407  1.00 35.38           C  
+HETATM   23  N6  SAH B 500      43.734  -7.772  31.541  1.00 39.52           N  
+HETATM   24  N7  SAH B 500      42.478  -8.673  29.031  1.00 31.67           N  
+HETATM   25  C8  SAH B 500      41.990  -8.668  27.761  1.00 32.44           C  
+HETATM   26  N9  SAH B 500      42.347  -7.491  27.175  1.00 33.01           N  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4   16
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10   11
+CONECT   10    9   15
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   10   13   26
+CONECT   16    3
+CONECT   17   18   22
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21   26
+CONECT   21   20   22   24
+CONECT   22   21   17   23
+CONECT   23   22
+CONECT   24   21   25
+CONECT   25   24   26
+CONECT   26   15   20   25
+END

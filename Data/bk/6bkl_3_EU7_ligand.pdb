@@ -1,0 +1,28 @@
+CRYST1   36.460   47.840   48.530  90.00  96.76  90.00 P 1 21 1      1
+HETATM    1  CA BEU7 G 101      -1.727  -4.898  47.891  0.50 26.18           C  
+HETATM    2  CB BEU7 G 101      -1.529  -3.523  47.250  0.50 26.41           C  
+HETATM    3  CG1BEU7 G 101       2.758  -4.121  47.294  0.50 21.37           C  
+HETATM    4  CG2BEU7 G 101       2.245  -2.707  45.298  0.50 28.05           C  
+HETATM    5  CG3BEU7 G 101       2.368  -1.667  47.566  0.50 25.77           C  
+HETATM    6  CD BEU7 G 101      -0.034  -3.263  47.050  0.50 27.45           C  
+HETATM    7  CE1BEU7 G 101       0.675  -3.302  48.405  0.50 28.19           C  
+HETATM    8  CE2BEU7 G 101       0.553  -4.342  46.138  0.50 27.28           C  
+HETATM    9  CE3BEU7 G 101       0.163  -1.888  46.409  0.50 29.91           C  
+HETATM   10  CF1BEU7 G 101       2.170  -3.043  48.206  0.50 25.71           C  
+HETATM   11  CF2BEU7 G 101       2.047  -4.082  45.939  0.50 24.83           C  
+HETATM   12  CF3BEU7 G 101       1.659  -1.630  46.210  0.50 25.97           C  
+HETATM   13  NC BEU7 G 101      -2.210  -3.486  45.948  0.50 27.72           N  
+CONECT    1    2
+CONECT    2    1    6   13
+CONECT    3   10   11
+CONECT    4   11   12
+CONECT    5   10   12
+CONECT    6    2    7    8    9
+CONECT    7    6   10
+CONECT    8    6   11
+CONECT    9    6   12
+CONECT   10    7    3    5
+CONECT   11    8    3    4
+CONECT   12    9    4    5
+CONECT   13    2
+END

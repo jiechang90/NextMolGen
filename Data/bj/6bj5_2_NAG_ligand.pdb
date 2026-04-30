@@ -1,0 +1,86 @@
+CRYST1   99.012  122.066  130.095  90.00  94.88  90.00 C 1 2 1       1
+HETATM    1  C1  NAG D   1     -33.592   7.519  50.623  1.00 74.83           C  
+ANISOU    1  C1  NAG D   1     9519   9347   9566    241    131     58       C  
+HETATM    2  C2  NAG D   1     -34.153   6.972  49.314  1.00 74.17           C  
+ANISOU    2  C2  NAG D   1     9417   9268   9496    234    140     55       C  
+HETATM    3  N2  NAG D   1     -35.469   7.537  49.073  1.00 71.08           N  
+ANISOU    3  N2  NAG D   1     9013   8877   9118    229    135     41       N  
+HETATM    4  C3  NAG D   1     -34.218   5.450  49.324  1.00 83.10           C  
+ANISOU    4  C3  NAG D   1    10541  10392  10642    228    138     63       C  
+HETATM    5  O3  NAG D   1     -34.552   4.971  48.017  1.00 91.13           O  
+ANISOU    5  O3  NAG D   1    11540  11408  11678    220    139     54       O  
+HETATM    6  C4  NAG D   1     -32.874   4.875  49.741  1.00 81.56           C  
+ANISOU    6  C4  NAG D   1    10354  10183  10451    227    125     65       C  
+HETATM    7  O4  NAG D   1     -32.981   3.454  49.875  1.00 87.73           O  
+ANISOU    7  O4  NAG D   1    11121  10958  11255    220    118     59       O  
+HETATM    8  C5  NAG D   1     -32.434   5.480  51.067  1.00 69.83           C  
+ANISOU    8  C5  NAG D   1     8882   8694   8956    233    113     60       C  
+HETATM    9  O5  NAG D   1     -32.347   6.901  50.953  1.00 70.74           O  
+ANISOU    9  O5  NAG D   1     8998   8817   9061    237    116     51       O  
+HETATM   10  C6  NAG D   1     -31.081   4.924  51.496  1.00 57.43           C  
+ANISOU   10  C6  NAG D   1     7307   7111   7400    230     98     53       C  
+HETATM   11  O6  NAG D   1     -31.132   3.493  51.499  1.00 44.49           O  
+ANISOU   11  O6  NAG D   1     5676   5463   5764    229     92     63       O  
+HETATM   12  C7  NAG D   1     -36.305   7.024  48.174  1.00 71.97           C  
+ANISOU   12  C7  NAG D   1     9112   8999   9234    226    146     37       C  
+HETATM   13  O7  NAG D   1     -35.911   6.468  47.162  1.00 77.59           O  
+ANISOU   13  O7  NAG D   1     9813   9713   9956    223    143     26       O  
+HETATM   14  C8  NAG D   1     -37.765   7.173  48.486  1.00 67.59           C  
+ANISOU   14  C8  NAG D   1     8557   8454   8671    229    161     46       C  
+HETATM   15  C1  NAG D   2     -33.927   3.060  50.860  1.00 93.28           C  
+ANISOU   15  C1  NAG D   2    11824  11653  11965    215    118     70       C  
+HETATM   16  C2  NAG D   2     -35.184   2.499  50.174  1.00 98.55           C  
+ANISOU   16  C2  NAG D   2    12483  12328  12635    210    132     79       C  
+HETATM   17  N2  NAG D   2     -36.373   3.145  50.701  1.00 99.35           N  
+ANISOU   17  N2  NAG D   2    12589  12443  12717    215    148     90       N  
+HETATM   18  C3  NAG D   2     -35.364   0.974  50.220  1.00 97.91           C  
+ANISOU   18  C3  NAG D   2    12400  12236  12565    204    128     90       C  
+HETATM   19  O3  NAG D   2     -35.484   0.478  48.881  1.00 95.76           O  
+ANISOU   19  O3  NAG D   2    12111  11963  12311    196    129     85       O  
+HETATM   20  C4  NAG D   2     -34.233   0.234  50.924  1.00 94.78           C  
+ANISOU   20  C4  NAG D   2    12013  11826  12173    205    112     91       C  
+HETATM   21  O4  NAG D   2     -34.643  -1.104  51.228  1.00 96.91           O  
+ANISOU   21  O4  NAG D   2    12274  12088  12460    203    101     77       O  
+HETATM   22  C5  NAG D   2     -33.901   0.977  52.210  1.00 82.52           C  
+ANISOU   22  C5  NAG D   2    10478  10275  10600    214    109     93       C  
+HETATM   23  O5  NAG D   2     -33.341   2.262  51.907  1.00 85.93           O  
+ANISOU   23  O5  NAG D   2    10910  10716  11024    220    111     80       O  
+HETATM   24  C6  NAG D   2     -32.915   0.184  53.059  1.00 62.87           C  
+ANISOU   24  C6  NAG D   2     7997   7773   8117    215     94     92       C  
+HETATM   25  O6  NAG D   2     -33.421  -1.140  53.265  1.00 56.07           O  
+ANISOU   25  O6  NAG D   2     7124   6902   7277    208     86     90       O  
+HETATM   26  C7  NAG D   2     -36.541   3.333  52.007  1.00 99.34           C  
+ANISOU   26  C7  NAG D   2    12607  12445  12694    223    150    101       C  
+HETATM   27  O7  NAG D   2     -36.648   4.446  52.495  1.00101.13           O  
+ANISOU   27  O7  NAG D   2    12841  12678  12904    231    154     97       O  
+HETATM   28  C8  NAG D   2     -36.591   2.087  52.841  1.00 91.90           C  
+ANISOU   28  C8  NAG D   2    11674  11495  11749    221    148    117       C  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2   12
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6   15
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+CONECT   12    3   13   14
+CONECT   13   12
+CONECT   14   12
+CONECT   15    7   16   23
+CONECT   16   15   17   18
+CONECT   17   16   26
+CONECT   18   16   19   20
+CONECT   19   18
+CONECT   20   18   21   22
+CONECT   21   20
+CONECT   22   20   23   24
+CONECT   23   15   22
+CONECT   24   22   25
+CONECT   25   24
+CONECT   26   17   27   28
+CONECT   27   26
+CONECT   28   26
+END

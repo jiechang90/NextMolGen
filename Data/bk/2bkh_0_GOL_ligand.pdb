@@ -1,0 +1,14 @@
+CRYST1   68.570  104.437   90.284  90.00  91.26  90.00 P 1 21 1      1
+HETATM    1  C1  GOL A1813      21.580   1.314   2.868  1.00 48.68           C  
+HETATM    2  O1  GOL A1813      20.633   0.276   2.771  1.00 46.96           O  
+HETATM    3  C2  GOL A1813      22.714   1.137   1.853  1.00 48.48           C  
+HETATM    4  O2  GOL A1813      23.746   0.336   2.347  1.00 46.83           O  
+HETATM    5  C3  GOL A1813      22.268   0.489   0.556  1.00 50.04           C  
+HETATM    6  O3  GOL A1813      23.274   0.763  -0.399  1.00 50.88           O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5
+END

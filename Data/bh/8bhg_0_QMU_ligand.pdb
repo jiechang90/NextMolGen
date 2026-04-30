@@ -1,0 +1,94 @@
+CRYST1   81.140  137.637  113.351  90.00 106.06  90.00 P 1 21 1      1
+HETATM    1  N   QMU A 501       8.500  -6.357 236.806  1.00 54.32           N  
+HETATM    2  C   QMU A 501       3.361  -3.664 234.444  1.00 63.46           C  
+HETATM    3  O   QMU A 501       5.561  -3.609 235.626  1.00 54.03           O  
+HETATM    4  C1  QMU A 501       4.084  -3.556 235.765  1.00 62.39           C  
+HETATM    5  N1  QMU A 501       9.640  -4.547 234.747  1.00 47.03           N  
+HETATM    6  O1  QMU A 501       5.661  -3.042 233.432  1.00 59.95           O  
+HETATM    7  C2  QMU A 501       3.709  -4.693 236.698  1.00 65.10           C  
+HETATM    8  N2  QMU A 501       8.528  -2.694 234.205  1.00 47.31           N  
+HETATM    9  O2  QMU A 501      10.183  -6.305 238.287  1.00 55.85           O  
+HETATM   10  C3  QMU A 501       3.790  -2.226 236.406  1.00 66.37           C  
+HETATM   11  C4  QMU A 501       6.182  -3.389 234.462  1.00 52.41           C  
+HETATM   12  C5  QMU A 501       7.630  -3.684 234.573  1.00 50.01           C  
+HETATM   13  C6  QMU A 501       8.294  -4.842 234.930  1.00 49.97           C  
+HETATM   14  C7  QMU A 501       7.941  -6.199 235.458  1.00 54.25           C  
+HETATM   15  C8  QMU A 501       6.431  -6.439 235.676  1.00 59.74           C  
+HETATM   16  C9  QMU A 501       6.342  -7.155 237.016  1.00 61.47           C  
+HETATM   17  C10 QMU A 501       7.449  -6.518 237.812  1.00 58.87           C  
+HETATM   18  C11 QMU A 501       9.807  -6.329 237.126  1.00 56.43           C  
+HETATM   19  C12 QMU A 501      10.798  -6.314 236.029  1.00 52.79           C  
+HETATM   20  C13 QMU A 501      10.731  -5.452 234.914  1.00 46.60           C  
+HETATM   21  C14 QMU A 501       9.708  -3.248 234.322  1.00 47.86           C  
+HETATM   22  C15 QMU A 501      11.725  -5.460 233.942  1.00 45.79           C  
+HETATM   23  C16 QMU A 501      12.797  -6.326 234.063  1.00 46.53           C  
+HETATM   24  C17 QMU A 501      12.885  -7.190 235.139  1.00 46.49           C  
+HETATM   25  C18 QMU A 501      11.894  -7.184 236.105  1.00 50.77           C  
+HETATM   26 BR   QMU A 501      12.069  -8.414 237.537  1.00100.69          BR  
+HETATM   27  H   QMU A 501       3.727  -4.505 233.857  1.00 78.52           H  
+HETATM   28  H1  QMU A 501       3.493  -2.765 233.844  1.00 78.52           H  
+HETATM   29  H2  QMU A 501       2.291  -3.807 234.587  1.00 78.52           H  
+HETATM   30  H3  QMU A 501       2.756  -4.540 237.202  1.00 80.49           H  
+HETATM   31  H4  QMU A 501       4.435  -4.853 237.495  1.00 80.49           H  
+HETATM   32  H5  QMU A 501       3.618  -5.653 236.193  1.00 80.49           H  
+HETATM   33  H6  QMU A 501       4.372  -2.082 237.315  1.00 82.01           H  
+HETATM   34  H7  QMU A 501       4.026  -1.399 235.738  1.00 82.01           H  
+HETATM   35  H8  QMU A 501       2.739  -2.134 236.676  1.00 82.01           H  
+HETATM   36  H9  QMU A 501       8.312  -6.955 234.768  1.00 67.47           H  
+HETATM   37  H10 QMU A 501       5.970  -7.058 234.908  1.00 74.06           H  
+HETATM   38  H11 QMU A 501       5.843  -5.523 235.720  1.00 74.06           H  
+HETATM   39  H12 QMU A 501       5.372  -7.029 237.496  1.00 76.13           H  
+HETATM   40  H13 QMU A 501       6.475  -8.232 236.925  1.00 76.13           H  
+HETATM   41  H14 QMU A 501       7.801  -7.126 238.644  1.00 73.02           H  
+HETATM   42  H15 QMU A 501       7.182  -5.557 238.249  1.00 73.02           H  
+HETATM   43  H16 QMU A 501      10.645  -2.737 234.105  1.00 59.80           H  
+HETATM   44  H17 QMU A 501      11.672  -4.792 233.084  1.00 57.32           H  
+HETATM   45  H18 QMU A 501      13.580  -6.329 233.306  1.00 58.21           H  
+HETATM   46  H19 QMU A 501      13.728  -7.875 235.231  1.00 58.16           H  
+CONECT    1   14   18   17
+CONECT    2   27   28   29    4
+CONECT    3    4   11
+CONECT    4    2    3    7   10
+CONECT    5   13   20   21
+CONECT    6   11
+CONECT    7    4   30   31   32
+CONECT    8   12   21
+CONECT    9   18
+CONECT   10    4   33   34   35
+CONECT   11    3    6   12
+CONECT   12   11    8   13
+CONECT   13   12    5   14
+CONECT   14    1   13   36   15
+CONECT   15   14   16   37   38
+CONECT   16   15   17   39   40
+CONECT   17   16    1   41   42
+CONECT   18    1    9   19
+CONECT   19   18   20   25
+CONECT   20   19    5   22
+CONECT   21    5    8   43
+CONECT   22   20   23   44
+CONECT   23   22   24   45
+CONECT   24   23   25   46
+CONECT   25   19   24   26
+CONECT   26   25
+CONECT   27    2
+CONECT   28    2
+CONECT   29    2
+CONECT   30    7
+CONECT   31    7
+CONECT   32    7
+CONECT   33   10
+CONECT   34   10
+CONECT   35   10
+CONECT   36   14
+CONECT   37   15
+CONECT   38   15
+CONECT   39   16
+CONECT   40   16
+CONECT   41   17
+CONECT   42   17
+CONECT   43   21
+CONECT   44   22
+CONECT   45   23
+CONECT   46   24
+END

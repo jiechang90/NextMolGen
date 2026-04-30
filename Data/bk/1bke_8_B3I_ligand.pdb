@@ -1,0 +1,26 @@
+CRYST1  187.650   38.870   95.910  90.00 105.49  90.00 C 1 2 1       1
+HETATM    1  C  BB3I A2002      29.535   7.496  29.103  0.31 50.12           C  
+HETATM    2  C1 BB3I A2002      30.359   8.606  28.854  0.31 50.12           C  
+HETATM    3  O1 BB3I A2002      29.687   6.798  30.142  0.31 50.12           O  
+HETATM    4  C2 BB3I A2002      30.407   9.707  29.763  0.31 50.12           C  
+HETATM    5  O2 BB3I A2002      28.627   7.189  28.290  0.31 50.12           O  
+HETATM    6  C3 BB3I A2002      31.240  10.823  29.483  0.31 50.12           C  
+HETATM    7  C4 BB3I A2002      32.029  10.835  28.307  0.31 50.12           C  
+HETATM    8  C5 BB3I A2002      31.983   9.744  27.413  0.31 50.12           C  
+HETATM    9  C6 BB3I A2002      31.149   8.636  27.686  0.31 50.12           C  
+HETATM   10  I1 BB3I A2002      29.283   9.696  31.470  0.31 50.12           I  
+HETATM   11  I2 BB3I A2002      31.278  12.415  30.779  0.31 50.12           I  
+HETATM   12  I3 BB3I A2002      33.131   9.751  25.703  0.31 50.12           I  
+CONECT    1    2    3    5
+CONECT    2    1    4    9
+CONECT    3    1
+CONECT    4    2    6   10
+CONECT    5    1
+CONECT    6    4    7   11
+CONECT    7    6    8
+CONECT    8    7    9   12
+CONECT    9    8    2
+CONECT   10    4
+CONECT   11    6
+CONECT   12    8
+END

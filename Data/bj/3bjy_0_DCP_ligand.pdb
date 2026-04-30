@@ -1,0 +1,58 @@
+CRYST1  181.062  199.578   55.677  90.00  90.00  90.00 C 2 2 21      1
+HETATM    1  PA  DCP A 739      24.354  33.532   2.453  1.00 27.94           P  
+HETATM    2  PB  DCP A 739      23.848  35.599   0.361  1.00 25.60           P  
+HETATM    3  PG  DCP A 739      22.925  33.815  -1.765  1.00 26.03           P  
+HETATM    4  C5' DCP A 739      23.693  35.461   3.979  1.00 27.06           C  
+HETATM    5  O5' DCP A 739      24.556  34.201   3.647  1.00 27.20           O  
+HETATM    6  C4' DCP A 739      24.343  36.649   4.593  1.00 28.43           C  
+HETATM    7  O4' DCP A 739      25.213  36.531   5.746  1.00 27.82           O  
+HETATM    8  C3' DCP A 739      24.996  37.500   3.517  1.00 27.08           C  
+HETATM    9  O3' DCP A 739      24.067  38.415   2.954  1.00 24.85           O  
+HETATM   10  C2' DCP A 739      26.278  38.013   4.145  1.00 25.29           C  
+HETATM   11  C1' DCP A 739      26.401  37.299   5.505  1.00 25.27           C  
+HETATM   12  N1  DCP A 739      27.717  36.458   5.142  1.00 27.19           N  
+HETATM   13  O1A DCP A 739      23.037  33.155   2.324  1.00 29.91           O1-
+HETATM   14  O1B DCP A 739      24.481  37.028   0.274  1.00 29.57           O1-
+HETATM   15  O1G DCP A 739      23.881  32.765  -2.493  1.00 28.64           O  
+HETATM   16  C2  DCP A 739      28.935  37.089   5.506  1.00 25.32           C  
+HETATM   17  O2  DCP A 739      28.927  38.183   6.081  1.00 28.75           O  
+HETATM   18  O2A DCP A 739      25.188  32.252   2.145  1.00 29.30           O  
+HETATM   19  O2B DCP A 739      22.394  35.559   0.999  1.00 30.17           O  
+HETATM   20  O2G DCP A 739      22.034  34.633  -2.771  1.00 28.06           O1-
+HETATM   21  N3  DCP A 739      30.089  36.454   5.189  1.00 27.16           N  
+HETATM   22  O3A DCP A 739      24.823  34.795   1.434  1.00 27.72           O  
+HETATM   23  O3B DCP A 739      24.022  34.786  -1.044  1.00 28.44           O  
+HETATM   24  O3G DCP A 739      22.007  33.141  -0.695  1.00 23.30           O  
+HETATM   25  C4  DCP A 739      30.089  35.255   4.542  1.00 29.28           C  
+HETATM   26  N4  DCP A 739      31.249  34.702   4.256  1.00 29.27           N  
+HETATM   27  C5  DCP A 739      28.865  34.586   4.167  1.00 27.08           C  
+HETATM   28  C6  DCP A 739      27.713  35.238   4.492  1.00 27.75           C  
+CONECT    1   13   18   22    5
+CONECT    2   14   19   23   22
+CONECT    3   15   20   24   23
+CONECT    4    5    6
+CONECT    5    4    1
+CONECT    6    4    7    8
+CONECT    7    6   11
+CONECT    8    6    9   10
+CONECT    9    8
+CONECT   10    8   11
+CONECT   11    7   10   12
+CONECT   12   11   16   28
+CONECT   13    1
+CONECT   14    2
+CONECT   15    3
+CONECT   16   12   17   21
+CONECT   17   16
+CONECT   18    1
+CONECT   19    2
+CONECT   20    3
+CONECT   21   16   25
+CONECT   22    1    2
+CONECT   23    2    3
+CONECT   24    3
+CONECT   25   21   26   27
+CONECT   26   25
+CONECT   27   25   28
+CONECT   28   12   27
+END

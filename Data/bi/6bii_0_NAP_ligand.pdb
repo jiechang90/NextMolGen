@@ -1,0 +1,98 @@
+CRYST1  141.063  141.063  260.792  90.00  90.00 120.00 P 62 2 2      2
+HETATM    1  P2B NAP A 401      58.683  27.246   5.046  1.00 30.26           P  
+HETATM    2  PA  NAP A 401      62.375  25.153  10.085  1.00 28.97           P  
+HETATM    3  PN  NAP A 401      62.737  24.221  12.817  1.00 26.93           P  
+HETATM    4  C1B NAP A 401      57.414  28.058   8.714  1.00 28.70           C  
+HETATM    5  C1D NAP A 401      62.175  27.184  17.690  1.00 27.49           C  
+HETATM    6  N1A NAP A 401      53.528  31.446   8.834  1.00 31.12           N  
+HETATM    7  N1N NAP A 401      62.816  26.247  18.661  1.00 29.86           N  
+HETATM    8  O1A NAP A 401      62.735  23.693   9.743  1.00 26.82           O1-
+HETATM    9  O1N NAP A 401      64.031  23.513  12.931  1.00 26.31           O1-
+HETATM   10  O1X NAP A 401      58.905  25.735   5.245  1.00 29.16           O  
+HETATM   11  C2A NAP A 401      53.504  30.098   8.857  1.00 32.95           C  
+HETATM   12  C2B NAP A 401      58.418  27.689   7.635  1.00 30.72           C  
+HETATM   13  C2D NAP A 401      63.133  28.180  17.020  1.00 31.37           C  
+HETATM   14  C2N NAP A 401      62.450  26.234  19.964  1.00 30.15           C  
+HETATM   15  O2A NAP A 401      62.976  26.338   9.349  1.00 29.90           O  
+HETATM   16  O2B NAP A 401      57.835  27.780   6.326  1.00 32.00           O  
+HETATM   17  O2D NAP A 401      62.658  29.544  17.154  1.00 25.30           O  
+HETATM   18  O2N NAP A 401      61.447  23.490  12.681  1.00 21.86           O  
+HETATM   19  O2X NAP A 401      57.817  27.527   3.802  1.00 30.10           O1-
+HETATM   20  C3B NAP A 401      58.801  26.281   8.097  1.00 21.58           C  
+HETATM   21  C3D NAP A 401      63.066  27.713  15.562  1.00 24.13           C  
+HETATM   22  C3N NAP A 401      63.044  25.340  20.878  1.00 34.51           C  
+HETATM   23  N3A NAP A 401      54.577  29.278   8.853  1.00 24.62           N  
+HETATM   24  O3  NAP A 401      62.783  25.281  11.621  1.00 29.87           O  
+HETATM   25  O3B NAP A 401      57.844  25.327   7.631  1.00 24.32           O  
+HETATM   26  O3D NAP A 401      63.266  28.776  14.620  1.00 23.71           O  
+HETATM   27  O3X NAP A 401      60.022  27.962   5.028  1.00 23.03           O  
+HETATM   28  C4A NAP A 401      55.766  29.961   8.779  1.00 22.56           C  
+HETATM   29  C4B NAP A 401      58.725  26.376   9.630  1.00 29.30           C  
+HETATM   30  C4D NAP A 401      61.700  27.108  15.403  1.00 27.90           C  
+HETATM   31  C4N NAP A 401      64.047  24.469  20.408  1.00 30.78           C  
+HETATM   32  O4B NAP A 401      58.007  27.581   9.915  1.00 29.19           O  
+HETATM   33  O4D NAP A 401      61.505  26.450  16.665  1.00 26.69           O  
+HETATM   34  C5A NAP A 401      55.900  31.335   8.745  1.00 23.04           C  
+HETATM   35  C5B NAP A 401      60.079  26.456  10.301  1.00 22.15           C  
+HETATM   36  C5D NAP A 401      61.533  26.157  14.218  1.00 31.29           C  
+HETATM   37  C5N NAP A 401      64.406  24.489  19.063  1.00 34.12           C  
+HETATM   38  O5B NAP A 401      60.796  25.224  10.139  1.00 26.92           O  
+HETATM   39  O5D NAP A 401      62.647  25.246  14.090  1.00 27.61           O  
+HETATM   40  C6A NAP A 401      54.711  32.093   8.765  1.00 28.77           C  
+HETATM   41  C6N NAP A 401      63.760  25.395  18.216  1.00 32.05           C  
+HETATM   42  N6A NAP A 401      54.773  33.436   8.743  1.00 52.52           N  
+HETATM   43  C7N NAP A 401      62.667  25.302  22.342  1.00 29.42           C  
+HETATM   44  N7A NAP A 401      57.245  31.713   8.694  1.00 26.24           N  
+HETATM   45  N7N NAP A 401      61.399  25.589  22.675  1.00 24.00           N  
+HETATM   46  O7N NAP A 401      63.527  24.982  23.171  1.00 28.42           O  
+HETATM   47  C8A NAP A 401      57.896  30.572   8.680  1.00 23.37           C  
+HETATM   48  N9A NAP A 401      57.050  29.493   8.723  1.00 25.79           N  
+CONECT    1   10   19   27   16
+CONECT    2    8   15   24   38
+CONECT    3    9   18   39   24
+CONECT    4   48   12   32
+CONECT    5    7   13   33
+CONECT    6   11   40
+CONECT    7    5   14   41
+CONECT    8    2
+CONECT    9    3
+CONECT   10    1
+CONECT   11    6   23
+CONECT   12    4   16   20
+CONECT   13    5   17   21
+CONECT   14    7   22
+CONECT   15    2
+CONECT   16   12    1
+CONECT   17   13
+CONECT   18    3
+CONECT   19    1
+CONECT   20   12   25   29
+CONECT   21   13   26   30
+CONECT   22   14   31   43
+CONECT   23   11   28
+CONECT   24    2    3
+CONECT   25   20
+CONECT   26   21
+CONECT   27    1
+CONECT   28   23   34   48
+CONECT   29   20   32   35
+CONECT   30   21   33   36
+CONECT   31   22   37
+CONECT   32   29    4
+CONECT   33   30    5
+CONECT   34   28   40   44
+CONECT   35   29   38
+CONECT   36   30   39
+CONECT   37   31   41
+CONECT   38    2   35
+CONECT   39    3   36
+CONECT   40   34    6   42
+CONECT   41    7   37
+CONECT   42   40
+CONECT   43   22   45   46
+CONECT   44   34   47
+CONECT   45   43
+CONECT   46   43
+CONECT   47   44   48
+CONECT   48    4   28   47
+END

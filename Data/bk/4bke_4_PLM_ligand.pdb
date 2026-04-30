@@ -1,0 +1,36 @@
+CRYST1  189.366   39.003   96.296  90.00 105.48  90.00 C 1 2 1       1
+HETATM    1  CA  PLM A1005      -2.878   3.925  41.571  1.00 62.09           C  
+HETATM    2  CB  PLM A1005      -3.151   2.512  42.072  1.00 62.18           C  
+HETATM    3  CD  PLM A1005      -4.327   0.412  41.224  1.00 60.85           C  
+HETATM    4  CE  PLM A1005      -5.444  -0.035  40.284  1.00 60.02           C  
+HETATM    5  C1  PLM A1005       1.154  12.877  38.132  1.00 68.72           C  
+HETATM    6  O1  PLM A1005       2.350  13.041  38.483  1.00 68.45           O  
+HETATM    7  C2  PLM A1005       0.698  11.561  37.538  1.00 67.57           C  
+HETATM    8  O2  PLM A1005       0.343  13.826  38.268  1.00 68.64           O  
+HETATM    9  C3  PLM A1005       1.002  10.400  38.478  1.00 66.38           C  
+HETATM   10  C4  PLM A1005       0.442   9.089  37.941  1.00 65.28           C  
+HETATM   11  C5  PLM A1005       0.791   7.909  38.849  1.00 65.52           C  
+HETATM   12  C6  PLM A1005      -0.074   6.689  38.524  1.00 64.59           C  
+HETATM   13  C7  PLM A1005      -0.209   5.739  39.705  1.00 63.06           C  
+HETATM   14  C8  PLM A1005      -1.648   5.275  39.859  1.00 62.29           C  
+HETATM   15  C9  PLM A1005      -1.718   3.941  40.585  1.00 61.99           C  
+HETATM   16  CC  PLM A1005      -4.387   1.931  41.390  1.00 61.96           C  
+HETATM   17  CF  PLM A1005      -5.549  -1.547  40.147  1.00 59.53           C  
+CONECT    1    2   15
+CONECT    2    1   16
+CONECT    3    4   16
+CONECT    4    3   17
+CONECT    5    6    7    8
+CONECT    6    5
+CONECT    7    5    9
+CONECT    8    5
+CONECT    9    7   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14    1
+CONECT   16    2    3
+CONECT   17    4
+END

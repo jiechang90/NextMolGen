@@ -1,0 +1,134 @@
+CRYST1   95.100  124.400  134.500  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  C1  MAN C   4     108.863 100.044  76.807  1.00 17.52           C  
+HETATM    2  C2  MAN C   4     109.096 100.030  75.281  1.00 21.93           C  
+HETATM    3  O2  MAN C   4     110.197 100.867  74.944  1.00 18.59           O  
+HETATM    4  C3  MAN C   4     109.331  98.582  74.782  1.00 20.81           C  
+HETATM    5  O3  MAN C   4     109.720  98.592  73.393  1.00 15.86           O  
+HETATM    6  C4  MAN C   4     110.455  97.954  75.620  1.00 21.21           C  
+HETATM    7  O4  MAN C   4     110.748  96.637  75.189  1.00 27.25           O  
+HETATM    8  C5  MAN C   4     110.059  97.965  77.087  1.00 19.92           C  
+HETATM    9  O5  MAN C   4     109.880  99.343  77.514  1.00 21.64           O  
+HETATM   10  C6  MAN C   4     111.125  97.337  77.978  1.00 18.86           C  
+HETATM   11  O6  MAN C   4     112.392  97.966  77.715  1.00 16.62           O  
+HETATM   12  C1  MAN C   5     113.406  97.611  78.612  1.00 15.54           C  
+HETATM   13  C2  MAN C   5     114.709  98.320  78.195  1.00 16.98           C  
+HETATM   14  O2  MAN C   5     115.760  98.101  79.162  1.00 13.62           O  
+HETATM   15  C3  MAN C   5     115.177  97.816  76.822  1.00 16.19           C  
+HETATM   16  O3  MAN C   5     116.462  98.344  76.535  1.00 14.90           O  
+HETATM   17  C4  MAN C   5     115.274  96.295  76.804  1.00 16.28           C  
+HETATM   18  O4  MAN C   5     115.515  95.857  75.473  1.00 15.66           O  
+HETATM   19  C5  MAN C   5     114.006  95.613  77.368  1.00 18.58           C  
+HETATM   20  O5  MAN C   5     113.620  96.207  78.645  1.00 20.98           O  
+HETATM   21  C6  MAN C   5     114.243  94.121  77.619  1.00  8.22           C  
+HETATM   22  O6  MAN C   5     115.454  93.904  78.339  1.00  3.81           O  
+HETATM   23  C1  MAN C   6     115.407  98.060  80.520  1.00 17.53           C  
+HETATM   24  C2  MAN C   6     116.627  98.444  81.369  1.00 20.14           C  
+HETATM   25  O2  MAN C   6     116.295  98.534  82.747  1.00 11.27           O  
+HETATM   26  C3  MAN C   6     117.761  97.438  81.154  1.00 18.69           C  
+HETATM   27  O3  MAN C   6     118.615  97.421  82.290  1.00 17.07           O  
+HETATM   28  C4  MAN C   6     117.191  96.032  80.879  1.00 16.56           C  
+HETATM   29  O4  MAN C   6     117.101  95.819  79.484  1.00 15.37           O  
+HETATM   30  C5  MAN C   6     115.799  95.846  81.471  1.00 15.42           C  
+HETATM   31  O5  MAN C   6     114.867  96.789  80.899  1.00 14.10           O  
+HETATM   32  C6  MAN C   6     115.713  95.967  82.979  1.00 13.32           C  
+HETATM   33  O6  MAN C   6     114.380  96.223  83.395  1.00 17.33           O  
+HETATM   34  C1  MAN C   7     108.743  98.785  72.404  1.00 18.84           C  
+HETATM   35  C2  MAN C   7     109.325  98.281  71.084  1.00 15.80           C  
+HETATM   36  O2  MAN C   7     108.403  98.485  70.032  1.00 17.33           O  
+HETATM   37  C3  MAN C   7     110.584  99.056  70.779  1.00 16.27           C  
+HETATM   38  O3  MAN C   7     111.076  98.638  69.521  1.00 15.09           O  
+HETATM   39  C4  MAN C   7     110.295 100.563  70.746  1.00 14.65           C  
+HETATM   40  O4  MAN C   7     111.526 101.266  70.724  1.00 15.97           O  
+HETATM   41  C5  MAN C   7     109.477 101.057  71.959  1.00 16.33           C  
+HETATM   42  O5  MAN C   7     108.373 100.160  72.261  1.00 18.69           O  
+HETATM   43  C6  MAN C   7     108.892 102.460  71.690  1.00 17.95           C  
+HETATM   44  O6  MAN C   7     107.792 102.785  72.529  1.00 10.51           O  
+HETATM   45  C1  MAN C   8     101.951 100.251  80.877  1.00 20.88           C  
+HETATM   46  C2  MAN C   8     101.595 100.816  82.273  1.00 20.69           C  
+HETATM   47  O2  MAN C   8     100.578 101.846  82.167  1.00 27.45           O  
+HETATM   48  C3  MAN C   8     101.075  99.689  83.157  1.00 21.81           C  
+HETATM   49  O3  MAN C   8     100.606 100.222  84.393  1.00 26.35           O  
+HETATM   50  C4  MAN C   8      99.938  98.936  82.447  1.00 20.91           C  
+HETATM   51  O4  MAN C   8      99.541  97.830  83.245  1.00 16.59           O  
+HETATM   52  C5  MAN C   8     100.417  98.457  81.070  1.00 18.06           C  
+HETATM   53  O5  MAN C   8     100.832  99.585  80.302  1.00 17.39           O  
+HETATM   54  C6  MAN C   8      99.431  97.689  80.221  1.00 17.12           C  
+HETATM   55  O6  MAN C   8     100.123  96.882  79.275  1.00 18.59           O  
+HETATM   56  C1  MAN C   9     100.870 102.983  81.383  1.00 29.25           C  
+HETATM   57  C2  MAN C   9     101.362 104.148  82.273  1.00 27.34           C  
+HETATM   58  O2  MAN C   9     102.429 104.839  81.644  1.00 28.31           O  
+HETATM   59  C3  MAN C   9     100.297 105.171  82.706  1.00 26.12           C  
+HETATM   60  O3  MAN C   9     100.926 106.437  82.819  1.00 26.51           O  
+HETATM   61  C4  MAN C   9      99.107 105.306  81.745  1.00 26.17           C  
+HETATM   62  O4  MAN C   9      98.028 105.942  82.424  1.00 22.59           O  
+HETATM   63  C5  MAN C   9      98.684 103.925  81.264  1.00 27.15           C  
+HETATM   64  O5  MAN C   9      99.777 103.354  80.552  1.00 28.67           O  
+HETATM   65  C6  MAN C   9      97.481 103.913  80.333  1.00 29.36           C  
+HETATM   66  O6  MAN C   9      96.990 102.592  80.133  1.00 21.78           O  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5    6
+CONECT    5    4   34
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10   12
+CONECT   12   11   13   20
+CONECT   13   12   14   15
+CONECT   14   13   23
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17   15   18   19
+CONECT   18   17
+CONECT   19   17   20   21
+CONECT   20   12   19
+CONECT   21   19   22
+CONECT   22   21
+CONECT   23   14   24   31
+CONECT   24   23   25   26
+CONECT   25   24
+CONECT   26   24   27   28
+CONECT   27   26
+CONECT   28   26   29   30
+CONECT   29   28
+CONECT   30   28   31   32
+CONECT   31   23   30
+CONECT   32   30   33
+CONECT   33   32
+CONECT   34    5   35   42
+CONECT   35   34   36   37
+CONECT   36   35
+CONECT   37   35   38   39
+CONECT   38   37
+CONECT   39   37   40   41
+CONECT   40   39
+CONECT   41   39   42   43
+CONECT   42   34   41
+CONECT   43   41   44
+CONECT   44   43
+CONECT   45   46   53
+CONECT   46   45   47   48
+CONECT   47   46   56
+CONECT   48   46   49   50
+CONECT   49   48
+CONECT   50   48   51   52
+CONECT   51   50
+CONECT   52   50   53   54
+CONECT   53   45   52
+CONECT   54   52   55
+CONECT   55   54
+CONECT   56   47   57   64
+CONECT   57   56   58   59
+CONECT   58   57
+CONECT   59   57   60   61
+CONECT   60   59
+CONECT   61   59   62   63
+CONECT   62   61
+CONECT   63   61   64   65
+CONECT   64   56   63
+CONECT   65   63   66
+CONECT   66   65
+END

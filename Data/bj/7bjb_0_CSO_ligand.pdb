@@ -1,0 +1,17 @@
+CRYST1   82.535  112.245   62.533  90.00  90.00  90.00 C 2 2 21      1
+HETATM    1  N   CSO A  38     -25.631 -26.055  -6.596  1.00  7.49           N  
+HETATM    2  CA  CSO A  38     -24.506 -25.595  -5.791  1.00  7.86           C  
+HETATM    3  C   CSO A  38     -24.248 -24.101  -6.040  1.00 10.13           C  
+HETATM    4  O   CSO A  38     -24.121 -23.313  -5.101  1.00  7.83           O  
+HETATM    5  CB  CSO A  38     -23.261 -26.433  -6.105  1.00 13.68           C  
+HETATM    6  SG  CSO A  38     -21.812 -25.821  -5.217  1.00 17.48           S  
+HETATM    7  OD  CSO A  38     -20.941 -24.608  -6.187  1.00 15.21           O  
+TER   
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5    7
+CONECT    7    6
+END

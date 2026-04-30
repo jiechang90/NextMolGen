@@ -1,0 +1,58 @@
+CRYST1   73.698   77.943   97.918  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  PA  GDP A   2      -6.812  15.316 -26.395  1.00 19.16           P  
+HETATM    2  PB  GDP A   2      -4.815  13.321 -25.831  1.00 18.92           P  
+HETATM    3  C5' GDP A   2      -9.240  14.499 -25.791  1.00 20.05           C  
+HETATM    4  O5' GDP A   2      -8.237  15.492 -25.682  1.00 18.78           O  
+HETATM    5  C4' GDP A   2     -10.610  15.160 -25.666  1.00 21.46           C  
+HETATM    6  O4' GDP A   2     -10.793  15.670 -24.340  1.00 22.34           O  
+HETATM    7  C3' GDP A   2     -10.769  16.335 -26.611  1.00 22.01           C  
+HETATM    8  O3' GDP A   2     -12.099  16.270 -27.127  1.00 22.07           O  
+HETATM    9  C2' GDP A   2     -10.580  17.565 -25.742  1.00 21.32           C  
+HETATM   10  O2' GDP A   2     -11.354  18.683 -26.185  1.00 21.22           O  
+HETATM   11  C1' GDP A   2     -11.073  17.070 -24.395  1.00 22.53           C  
+HETATM   12  N1  GDP A   2     -12.021  19.532 -19.948  1.00 22.52           N  
+HETATM   13  O1A GDP A   2      -6.008  16.566 -26.125  1.00 18.36           O1-
+HETATM   14  O1B GDP A   2      -4.307  12.969 -24.445  1.00 18.33           O  
+HETATM   15  C2  GDP A   2     -12.873  19.025 -20.854  1.00 22.95           C  
+HETATM   16  N2  GDP A   2     -14.204  19.134 -20.630  1.00 23.25           N  
+HETATM   17  O2A GDP A   2      -6.919  15.000 -27.868  1.00 19.54           O  
+HETATM   18  O2B GDP A   2      -3.853  14.202 -26.555  1.00 17.74           O1-
+HETATM   19  N3  GDP A   2     -12.446  18.406 -21.983  1.00 23.10           N  
+HETATM   20  O3A GDP A   2      -6.239  14.032 -25.604  1.00 19.41           O  
+HETATM   21  O3B GDP A   2      -5.016  12.053 -26.621  1.00 18.11           O  
+HETATM   22  C4  GDP A   2     -11.121  18.276 -22.247  1.00 22.34           C  
+HETATM   23  C5  GDP A   2     -10.138  18.808 -21.296  1.00 23.03           C  
+HETATM   24  C6  GDP A   2     -10.692  19.474 -20.082  1.00 23.49           C  
+HETATM   25  O6  GDP A   2      -9.957  19.964 -19.195  1.00 22.86           O  
+HETATM   26  N7  GDP A   2      -8.920  18.531 -21.817  1.00 23.12           N  
+HETATM   27  C8  GDP A   2      -9.108  17.874 -22.991  1.00 22.62           C  
+HETATM   28  N9  GDP A   2     -10.426  17.732 -23.241  1.00 22.77           N  
+CONECT    1    4   13   17   20
+CONECT    2   14   18   20   21
+CONECT    3    5    4
+CONECT    4    1    3
+CONECT    5    3    6    7
+CONECT    6    5   11
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    6    9   28
+CONECT   12   15   24
+CONECT   13    1
+CONECT   14    2
+CONECT   15   12   16   19
+CONECT   16   15
+CONECT   17    1
+CONECT   18    2
+CONECT   19   15   22
+CONECT   20    2    1
+CONECT   21    2
+CONECT   22   19   23   28
+CONECT   23   22   24   26
+CONECT   24   23   12   25
+CONECT   25   24
+CONECT   26   23   27
+CONECT   27   26   28
+CONECT   28   11   22   27
+END

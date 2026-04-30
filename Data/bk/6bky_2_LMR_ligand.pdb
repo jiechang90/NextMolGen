@@ -1,0 +1,20 @@
+CRYST1   98.665  274.889  116.798  90.00  90.00  90.00 C 1 2 1       2
+HETATM    1  C1  LMR D 501      29.891   9.706  17.742  1.00 81.10           C  
+HETATM    2  O1A LMR D 501      29.415  10.573  16.802  1.00 79.04           O  
+HETATM    3  O1B LMR D 501      29.161   9.117  18.535  1.00 82.23           O  
+HETATM    4  C2  LMR D 501      31.400   9.580  17.642  1.00 78.32           C  
+HETATM    5  O2  LMR D 501      31.962  10.703  18.305  1.00 73.10           O  
+HETATM    6  C3  LMR D 501      31.921   8.334  18.344  1.00 78.28           C  
+HETATM    7  C4  LMR D 501      32.711   7.455  17.414  1.00 77.34           C  
+HETATM    8  O4A LMR D 501      33.050   6.296  18.030  1.00 75.93           O  
+HETATM    9  O4B LMR D 501      33.027   7.712  16.262  1.00 78.34           O  
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1    5    6
+CONECT    5    4
+CONECT    6    4    7
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7
+END

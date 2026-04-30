@@ -1,0 +1,64 @@
+CRYST1   51.200   85.900   59.200  90.00 114.70  90.00 P 1 21 1      1
+HETATM    1  P   FMN A 241      -9.142  -3.213  16.919  1.00 10.81           P  
+HETATM    2  O1P FMN A 241      -8.972  -3.062  18.378  1.00 10.69           O  
+HETATM    3  O2P FMN A 241     -10.460  -3.716  16.474  1.00 10.80           O1-
+HETATM    4  O3P FMN A 241      -8.613  -2.081  16.132  1.00 10.35           O  
+HETATM    5  C5' FMN A 241      -6.781  -4.416  16.533  1.00  9.93           C  
+HETATM    6  O5' FMN A 241      -8.199  -4.453  16.628  1.00  9.80           O  
+HETATM    7  C4' FMN A 241      -6.577  -4.658  15.081  1.00 10.73           C  
+HETATM    8  O4' FMN A 241      -5.718  -5.740  14.810  1.00 12.06           O  
+HETATM    9  C3' FMN A 241      -6.588  -3.402  14.195  1.00 10.37           C  
+HETATM   10  O3' FMN A 241      -6.028  -2.222  14.785  1.00 10.43           O  
+HETATM   11  C2' FMN A 241      -6.426  -3.550  12.686  1.00  9.78           C  
+HETATM   12  O2' FMN A 241      -5.657  -4.665  12.215  1.00 10.78           O  
+HETATM   13  C1' FMN A 241      -6.265  -2.220  11.938  1.00  9.09           C  
+HETATM   14  N1  FMN A 241      -7.008  -3.349   9.417  1.00  8.12           N  
+HETATM   15  C2  FMN A 241      -7.509  -3.770   8.201  1.00  8.40           C  
+HETATM   16  O2  FMN A 241      -8.528  -4.441   8.103  1.00  8.36           O  
+HETATM   17  N3  FMN A 241      -6.738  -3.402   7.113  1.00  7.96           N  
+HETATM   18  C4  FMN A 241      -5.526  -2.719   7.162  1.00  8.04           C  
+HETATM   19  C4A FMN A 241      -5.127  -2.325   8.496  1.00  7.95           C  
+HETATM   20  O4  FMN A 241      -4.943  -2.509   6.096  1.00  7.52           O  
+HETATM   21  C5A FMN A 241      -3.737  -0.890   9.739  1.00  7.28           C  
+HETATM   22  N5  FMN A 241      -4.074  -1.439   8.532  1.00  7.48           N  
+HETATM   23  C6  FMN A 241      -2.775   0.086   9.744  1.00  7.67           C  
+HETATM   24  C7  FMN A 241      -2.469   0.738  10.923  1.00  7.16           C  
+HETATM   25  C7M FMN A 241      -1.553   1.981  10.886  1.00  7.26           C  
+HETATM   26  C8  FMN A 241      -3.075   0.338  12.114  1.00  6.32           C  
+HETATM   27  C8M FMN A 241      -2.728   1.001  13.432  1.00  5.40           C  
+HETATM   28  C9  FMN A 241      -4.003  -0.662  12.108  1.00  6.46           C  
+HETATM   29  C9A FMN A 241      -4.376  -1.261  10.918  1.00  7.25           C  
+HETATM   30  C10 FMN A 241      -5.832  -2.652   9.667  1.00  7.90           C  
+HETATM   31  N10 FMN A 241      -5.403  -2.194  10.902  1.00  7.92           N  
+CONECT    1    2    3    4    6
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    6    7
+CONECT    6    5    1
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   31
+CONECT   14   15   30
+CONECT   15   14   16   17
+CONECT   16   15
+CONECT   17   15   18
+CONECT   18   17   19   20
+CONECT   19   18   22   30
+CONECT   20   18
+CONECT   21   23   29   22
+CONECT   22   19   21
+CONECT   23   21   24
+CONECT   24   23   25   26
+CONECT   25   24
+CONECT   26   24   27   28
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   21   28   31
+CONECT   30   14   19   31
+CONECT   31   29   13   30
+END

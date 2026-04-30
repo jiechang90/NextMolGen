@@ -1,0 +1,20 @@
+CRYST1   55.548  102.021  118.769  90.00  90.00  90.00 I 2 2 2       1
+HETATM    1  P  BPGA A 401       1.436 -19.799 -23.601  0.50 24.93           P  
+HETATM    2  O1PBPGA A 401       2.024 -18.327 -23.885  0.50 26.63           O  
+HETATM    3  O2PBPGA A 401       2.204 -20.385 -22.442  0.50 23.49           O  
+HETATM    4  O3PBPGA A 401      -0.027 -19.718 -23.226  0.50 21.79           O1-
+HETATM    5  O4PBPGA A 401       1.616 -20.658 -24.828  0.50 23.65           O  
+HETATM    6  C1 BPGA A 401       3.677 -16.644 -24.141  0.50 33.31           C  
+HETATM    7  O1 BPGA A 401       4.496 -16.091 -23.365  0.50 31.92           O  
+HETATM    8  C2 BPGA A 401       3.410 -18.130 -24.074  0.50 30.84           C  
+HETATM    9  O2 BPGA A 401       3.069 -15.953 -24.988  0.50 32.22           O  
+CONECT    1    2    3    4    5
+CONECT    2    1    8
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    7    9    8
+CONECT    7    6
+CONECT    8    2    6
+CONECT    9    6
+END

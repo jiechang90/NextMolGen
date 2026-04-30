@@ -1,0 +1,28 @@
+CRYST1   71.160  111.680  113.280  90.00  90.00  90.00 I 2 2 2       1
+HETATM    1  N   Z0B A1797       2.526 -40.430  17.628  1.00 60.99           N  
+HETATM    2  CAC Z0B A1797      -1.418 -43.790  14.851  1.00 72.17           C  
+HETATM    3  CAD Z0B A1797       2.648 -40.778  18.915  1.00 61.95           C  
+HETATM    4  CAG Z0B A1797      -0.484 -42.862  15.149  1.00 69.79           C  
+HETATM    5  CAH Z0B A1797       1.966 -41.803  19.497  1.00 62.58           C  
+HETATM    6  CAJ Z0B A1797      -0.693 -44.046  17.256  1.00 70.74           C  
+HETATM    7  CAK Z0B A1797       0.316 -43.645  19.239  1.00 65.33           C  
+HETATM    8  CAL Z0B A1797       1.673 -41.128  16.882  1.00 60.05           C  
+HETATM    9  CAM Z0B A1797      -0.034 -42.979  16.539  1.00 67.87           C  
+HETATM   10  CAN Z0B A1797       1.066 -42.560  18.716  1.00 62.49           C  
+HETATM   11  CAO Z0B A1797       0.894 -42.218  17.337  1.00 63.00           C  
+HETATM   12  NAC Z0B A1797      -0.535 -44.372  18.546  1.00 69.54           N  
+HETATM   13  SAK Z0B A1797      -1.805 -44.829  16.171  1.00 73.18           S  
+CONECT    1    3    8
+CONECT    2    4   13
+CONECT    3    1    5
+CONECT    4    2    9
+CONECT    5    3   10
+CONECT    6   12   13    9
+CONECT    7   10   12
+CONECT    8    1   11
+CONECT    9    4    6   11
+CONECT   10    5    7   11
+CONECT   11    8    9   10
+CONECT   12    6    7
+CONECT   13    2    6
+END

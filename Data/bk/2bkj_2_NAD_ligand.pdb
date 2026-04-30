@@ -1,0 +1,90 @@
+CRYST1   51.200   85.900   59.200  90.00 114.70  90.00 P 1 21 1      1
+HETATM    1  PA  NAD B 243      12.574  19.534  19.600  1.00 20.44           P  
+HETATM    2  PN  NAD B 243      10.151  21.237  19.253  1.00 20.86           P  
+HETATM    3  C1B NAD B 243      16.242  23.372  21.808  1.00 21.84           C  
+HETATM    4  C1D NAD B 243      11.195  25.986  21.893  1.00 33.10           C  
+HETATM    5  N1A NAD B 243      13.055  25.539  25.270  1.00 21.71           N  
+HETATM    6  N1N NAD B 243      12.364  26.290  21.012  1.00 34.27           N  
+HETATM    7  O1A NAD B 243      12.603  18.058  19.512  1.00 20.40           O1-
+HETATM    8  O1N NAD B 243       8.790  20.758  18.934  1.00 19.62           O1-
+HETATM    9  C2A NAD B 243      13.064  24.264  24.874  1.00 21.73           C  
+HETATM   10  C2B NAD B 243      16.406  22.173  22.721  1.00 22.21           C  
+HETATM   11  C2D NAD B 243       9.799  26.175  21.283  1.00 32.90           C  
+HETATM   12  C2N NAD B 243      13.006  27.535  21.139  1.00 35.34           C  
+HETATM   13  O2A NAD B 243      13.224  20.334  18.539  1.00 20.58           O  
+HETATM   14  O2B NAD B 243      17.764  22.061  23.149  1.00 22.26           O  
+HETATM   15  O2D NAD B 243       9.193  27.443  21.559  1.00 34.81           O  
+HETATM   16  O2N NAD B 243      10.887  22.093  18.294  1.00 20.46           O  
+HETATM   17  C3B NAD B 243      15.974  21.005  21.852  1.00 22.47           C  
+HETATM   18  C3D NAD B 243       8.968  25.113  21.982  1.00 31.76           C  
+HETATM   19  C3N NAD B 243      14.182  27.832  20.442  1.00 36.10           C  
+HETATM   20  N3A NAD B 243      13.921  23.831  23.945  1.00 21.27           N  
+HETATM   21  O3  NAD B 243      11.034  19.958  19.630  1.00 20.41           O  
+HETATM   22  O3B NAD B 243      17.066  20.514  21.069  1.00 24.38           O  
+HETATM   23  O3D NAD B 243       8.479  25.521  23.267  1.00 32.43           O  
+HETATM   24  C4A NAD B 243      14.817  24.680  23.402  1.00 21.19           C  
+HETATM   25  C4B NAD B 243      14.930  21.606  20.934  1.00 22.23           C  
+HETATM   26  C4D NAD B 243       9.968  23.986  22.046  1.00 30.23           C  
+HETATM   27  C4N NAD B 243      14.739  26.863  19.598  1.00 35.80           C  
+HETATM   28  O4B NAD B 243      15.212  23.017  20.862  1.00 21.93           O  
+HETATM   29  O4D NAD B 243      11.237  24.611  22.333  1.00 31.60           O  
+HETATM   30  C5A NAD B 243      14.803  25.970  23.807  1.00 21.16           C  
+HETATM   31  C5B NAD B 243      13.505  21.333  21.394  1.00 21.50           C  
+HETATM   32  C5D NAD B 243      10.008  23.376  20.662  1.00 27.01           C  
+HETATM   33  C5N NAD B 243      14.121  25.618  19.450  1.00 35.35           C  
+HETATM   34  O5B NAD B 243      13.157  19.974  21.071  1.00 20.90           O  
+HETATM   35  O5D NAD B 243      10.095  21.961  20.677  1.00 23.09           O  
+HETATM   36  C6A NAD B 243      13.916  26.440  24.755  1.00 21.46           C  
+HETATM   37  C6N NAD B 243      12.943  25.331  20.150  1.00 35.01           C  
+HETATM   38  N6A NAD B 243      13.898  27.702  25.180  1.00 22.17           N  
+HETATM   39  C7N NAD B 243      14.801  29.238  20.548  1.00 36.60           C  
+HETATM   40  N7A NAD B 243      15.802  26.668  23.287  1.00 20.22           N  
+HETATM   41  N7N NAD B 243      14.203  30.071  21.400  1.00 37.00           N  
+HETATM   42  O7N NAD B 243      15.763  29.568  19.854  1.00 37.25           O  
+HETATM   43  C8A NAD B 243      16.457  25.783  22.527  1.00 20.51           C  
+HETATM   44  N9A NAD B 243      15.859  24.584  22.577  1.00 21.14           N  
+CONECT    1    7   13   21   34
+CONECT    2    8   16   35   21
+CONECT    3   44   10   28
+CONECT    4    6   11   29
+CONECT    5    9   36
+CONECT    6    4   12   37
+CONECT    7    1
+CONECT    8    2
+CONECT    9    5   20
+CONECT   10    3   14   17
+CONECT   11    4   15   18
+CONECT   12    6   19
+CONECT   13    1
+CONECT   14   10
+CONECT   15   11
+CONECT   16    2
+CONECT   17   10   22   25
+CONECT   18   11   23   26
+CONECT   19   12   27   39
+CONECT   20    9   24
+CONECT   21    1    2
+CONECT   22   17
+CONECT   23   18
+CONECT   24   20   30   44
+CONECT   25   17   28   31
+CONECT   26   18   29   32
+CONECT   27   19   33
+CONECT   28   25    3
+CONECT   29   26    4
+CONECT   30   24   36   40
+CONECT   31   25   34
+CONECT   32   26   35
+CONECT   33   27   37
+CONECT   34    1   31
+CONECT   35    2   32
+CONECT   36   30    5   38
+CONECT   37    6   33
+CONECT   38   36
+CONECT   39   19   41   42
+CONECT   40   30   43
+CONECT   41   39
+CONECT   42   39
+CONECT   43   40   44
+CONECT   44    3   24   43
+END

@@ -1,0 +1,76 @@
+CRYST1   93.329   84.661  132.017  90.00  96.26  90.00 P 1 21 1      1
+HETATM    1  N   RDF A 502      -1.358  17.767 -40.714  1.00162.92           N  
+HETATM    2  CA  RDF A 502      -1.888  18.494 -39.578  1.00170.86           C  
+HETATM    3  CA1 RDF A 502      -0.591  21.959 -40.837  1.00176.82           C  
+HETATM    4  C   RDF A 502      -1.832  19.979 -39.860  1.00179.12           C  
+HETATM    5  O   RDF A 502      -2.749  20.700 -39.510  1.00140.38           O  
+HETATM    6  CB  RDF A 502      -1.053  18.177 -38.337  1.00126.38           C  
+HETATM    7  CB1 RDF A 502      -0.159  22.701 -39.580  1.00119.99           C  
+HETATM    8  CG  RDF A 502      -1.320  19.258 -37.243  1.00127.55           C  
+HETATM    9  CG1 RDF A 502       1.400  22.580 -39.413  1.00139.27           C  
+HETATM   10  CD1 RDF A 502      -0.147  19.329 -36.321  1.00150.95           C  
+HETATM   11 CD11 RDF A 502       2.107  21.441 -39.057  1.00135.23           C  
+HETATM   12  CD2 RDF A 502      -2.600  18.874 -36.436  1.00121.67           C  
+HETATM   13 CD21 RDF A 502       2.296  23.607 -39.599  1.00125.28           C  
+HETATM   14  CE2 RDF A 502       3.563  23.108 -39.359  1.00113.75           C  
+HETATM   15  CE3 RDF A 502       2.120  24.957 -39.962  1.00106.60           C  
+HETATM   16  NE1 RDF A 502       3.442  21.771 -39.025  1.00132.06           N  
+HETATM   17  CZ2 RDF A 502       4.683  23.951 -39.478  1.00 94.72           C  
+HETATM   18  CZ3 RDF A 502       3.239  25.799 -40.081  1.00154.30           C  
+HETATM   19  CH2 RDF A 502       4.509  25.303 -39.842  1.00121.09           C  
+HETATM   20  P   RDF A 502      -2.348  17.496 -42.096  1.00 49.20           P  
+HETATM   21  O1P RDF A 502      -3.265  18.675 -42.297  1.00130.92           O  
+HETATM   22  O2P RDF A 502      -3.138  16.303 -41.895  1.00120.48           O  
+HETATM   23  OXT RDF A 502       1.110  23.359 -42.019  1.00150.26           O  
+HETATM   24  C1  RDF A 502      -0.513  18.330 -43.757  1.00104.27           C  
+HETATM   25  N1  RDF A 502      -0.640  20.566 -40.574  1.00201.09           N  
+HETATM   26  O1  RDF A 502      -1.399  17.307 -43.429  1.00106.44           O  
+HETATM   27  C2  RDF A 502       0.537  17.789 -44.688  1.00114.56           C  
+HETATM   28  O2  RDF A 502       1.561  18.795 -44.870  1.00 68.00           O  
+HETATM   29  C3  RDF A 502      -0.032  17.423 -46.027  1.00148.98           C  
+HETATM   30  O3  RDF A 502       1.067  17.063 -46.927  1.00 96.53           O  
+HETATM   31  C4  RDF A 502      -0.797  18.546 -46.634  1.00179.92           C  
+HETATM   32  O4  RDF A 502      -1.472  18.065 -47.864  1.00131.49           O  
+HETATM   33  C5  RDF A 502      -1.851  19.093 -45.690  1.00184.59           C  
+HETATM   34  O5  RDF A 502      -1.282  19.456 -44.370  1.00119.68           O  
+HETATM   35  C6  RDF A 502      -2.470  20.323 -46.318  1.00189.53           C  
+HETATM   36  O6  RDF A 502       0.633  21.367 -42.891  1.00143.60           O  
+HETATM   37  C7  RDF A 502       0.445  22.235 -41.991  1.00164.81           C  
+CONECT    1    2   20
+CONECT    2    1    4    6
+CONECT    3    7   37   25
+CONECT    4    2    5   25
+CONECT    5    4
+CONECT    6    2    8
+CONECT    7    3    9
+CONECT    8    6   10   12
+CONECT    9    7   11   13
+CONECT   10    8
+CONECT   11    9   16
+CONECT   12    8
+CONECT   13    9   14   15
+CONECT   14   13   17   16
+CONECT   15   13   18
+CONECT   16   11   14
+CONECT   17   14   19
+CONECT   18   15   19
+CONECT   19   17   18
+CONECT   20    1   21   22   26
+CONECT   21   20
+CONECT   22   20
+CONECT   23   37
+CONECT   24   26   27   34
+CONECT   25    4    3
+CONECT   26   24   20
+CONECT   27   24   28   29
+CONECT   28   27
+CONECT   29   27   30   31
+CONECT   30   29
+CONECT   31   29   32   33
+CONECT   32   31
+CONECT   33   31   34   35
+CONECT   34   24   33
+CONECT   35   33
+CONECT   36   37
+CONECT   37    3   23   36
+END

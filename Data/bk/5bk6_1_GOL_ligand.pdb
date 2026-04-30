@@ -1,0 +1,14 @@
+CRYST1   62.130  122.678  135.745  90.00  90.00  90.00 P 2 21 21     1
+HETATM    1  C1  GOL A 302       2.215  -7.685  32.297  0.90 31.73           C  
+HETATM    2  O1  GOL A 302       1.276  -8.571  31.573  0.90 27.11           O  
+HETATM    3  C2  GOL A 302       2.807  -6.560  31.418  0.90 29.05           C  
+HETATM    4  O2  GOL A 302       3.701  -7.088  30.380  0.90 19.91           O  
+HETATM    5  C3  GOL A 302       1.676  -5.833  30.704  0.90 27.27           C  
+HETATM    6  O3  GOL A 302       0.857  -5.230  31.653  0.90 30.38           O  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1    4    5
+CONECT    4    3
+CONECT    5    3    6
+CONECT    6    5
+END

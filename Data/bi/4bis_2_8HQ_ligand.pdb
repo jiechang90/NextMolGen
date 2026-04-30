@@ -1,0 +1,30 @@
+CRYST1  100.690  150.150   57.450  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  CA0 8HQ B 601      44.243 -55.334 -29.674  1.00 42.06           C  
+HETATM    2  CAD 8HQ B 601      41.980 -54.554 -29.944  1.00 43.08           C  
+HETATM    3  CAE 8HQ B 601      40.763 -54.627 -30.611  1.00 40.87           C  
+HETATM    4  CAF 8HQ B 601      42.453 -58.094 -33.467  1.00 45.39           C  
+HETATM    5  CAG 8HQ B 601      43.676 -58.033 -32.810  1.00 47.13           C  
+HETATM    6  CAH 8HQ B 601      43.018 -55.393 -30.330  1.00 43.26           C  
+HETATM    7  CAK 8HQ B 601      41.426 -57.248 -33.068  1.00 45.11           C  
+HETATM    8  CAL 8HQ B 601      43.861 -57.133 -31.766  1.00 45.10           C  
+HETATM    9  CAM 8HQ B 601      42.827 -56.290 -31.373  1.00 44.47           C  
+HETATM   10  CAN 8HQ B 601      41.601 -56.346 -32.027  1.00 44.27           C  
+HETATM   11  NAI 8HQ B 601      40.595 -55.539 -31.660  1.00 42.73           N  
+HETATM   12  OAA 8HQ B 601      45.306 -55.400 -30.329  1.00 43.42           O  
+HETATM   13  OAB 8HQ B 601      44.281 -55.217 -28.431  1.00 39.99           O  
+HETATM   14  OAC 8HQ B 601      40.206 -57.256 -33.668  1.00 39.35           O  
+CONECT    1    6   12   13
+CONECT    2    3    6
+CONECT    3    2   11
+CONECT    4    5    7
+CONECT    5    4    8
+CONECT    6    2    1    9
+CONECT    7    4   10   14
+CONECT    8    5    9
+CONECT    9    6    8   10
+CONECT   10    7    9   11
+CONECT   11    3   10
+CONECT   12    1
+CONECT   13    1
+CONECT   14    7
+END

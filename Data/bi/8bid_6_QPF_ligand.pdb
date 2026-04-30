@@ -1,0 +1,62 @@
+CRYST1   63.400   77.670  167.330  90.00  95.49  90.00 P 1 21 1      1
+HETATM    1  CAA QPF C 402      25.820  34.402 151.057  1.00 51.58           C  
+ANISOU    1  CAA QPF C 402     6842   5993   6763  -1648  -1505   -793       C  
+HETATM    2  CAB QPF C 402      26.267  33.901 149.845  1.00 51.12           C  
+ANISOU    2  CAB QPF C 402     6349   5717   7357  -2305  -1118  -1318       C  
+HETATM    3  CAC QPF C 402      27.071  32.761 149.784  1.00 53.64           C  
+ANISOU    3  CAC QPF C 402     6829   6622   6928  -1595  -1458   -656       C  
+HETATM    4  CAD QPF C 402      27.508  32.278 148.547  1.00 51.85           C  
+ANISOU    4  CAD QPF C 402     5993   7461   6246  -1604  -1819   -303       C  
+HETATM    5  CAF QPF C 402      28.307  31.131 148.504  1.00 52.59           C  
+ANISOU    5  CAF QPF C 402     4810   8504   6666  -1308  -1188  -1112       C  
+HETATM    6  CAG QPF C 402      28.739  30.642 147.268  1.00 58.76           C  
+ANISOU    6  CAG QPF C 402     5250   9723   7352   -403   -765  -1675       C  
+HETATM    7  CAH QPF C 402      29.534  29.494 147.201  1.00 65.95           C  
+ANISOU    7  CAH QPF C 402     6709  10437   7912    365   -614   -296       C  
+HETATM    8  CAJ QPF C 402      29.900  28.841 148.381  1.00 57.93           C  
+ANISOU    8  CAJ QPF C 402     5106   9431   7473   -830  -1208   -718       C  
+HETATM    9  CAK QPF C 402      29.466  29.323 149.622  1.00 55.76           C  
+ANISOU    9  CAK QPF C 402     5458   8549   7178   -783   -822    338       C  
+HETATM   10  CAM QPF C 402      30.365  27.463 150.917  1.00 54.53           C  
+ANISOU   10  CAM QPF C 402     4862   6673   9182  -1249  -1334    654       C  
+HETATM   11  CAN QPF C 402      28.668  30.471 149.692  1.00 54.61           C  
+ANISOU   11  CAN QPF C 402     5225   7967   7557  -1116   -868   -258       C  
+HETATM   12  CAO QPF C 402      28.234  30.955 150.940  1.00 60.89           C  
+ANISOU   12  CAO QPF C 402     6806   8499   7830  -1185   -208   -448       C  
+HETATM   13  CAQ QPF C 402      27.433  32.107 150.973  1.00 57.96           C  
+ANISOU   13  CAQ QPF C 402     7576   8071   6373  -1223   -519   -401       C  
+HETATM   14  CAR QPF C 402      26.974  32.631 152.183  1.00 57.90           C  
+ANISOU   14  CAR QPF C 402     8608   6973   6417  -1269   -649   -607       C  
+HETATM   15  CAT QPF C 402      26.171  33.768 152.231  1.00 54.32           C  
+ANISOU   15  CAT QPF C 402     7746   6342   6548  -1712   -956   -220       C  
+HETATM   16  OAE QPF C 402      27.190  32.858 147.506  1.00 56.98           O  
+ANISOU   16  OAE QPF C 402     7350   8584   5714  -2168  -1733     21       O  
+HETATM   17  OAI QPF C 402      29.957  29.014 145.983  1.00 73.56           O  
+ANISOU   17  OAI QPF C 402     6991  12816   8142    603   -663  -1400       O  
+HETATM   18  OAL QPF C 402      29.767  28.758 150.842  1.00 53.88           O  
+ANISOU   18  OAL QPF C 402     4536   7012   8924   -971  -1924   1676       O  
+HETATM   19  OAP QPF C 402      28.563  30.386 151.994  1.00 51.13           O  
+ANISOU   19  OAP QPF C 402     2800   8892   7734  -2587   -115   -681       O  
+HETATM   20  OAS QPF C 402      27.346  31.980 153.322  1.00 64.24           O  
+ANISOU   20  OAS QPF C 402     7829   9283   7293   -518  -2108   -198       O  
+CONECT    1   15    2
+CONECT    2    1    3
+CONECT    3    2   13    4
+CONECT    4    3    5   16
+CONECT    5    4    6   11
+CONECT    6    5    7
+CONECT    7    6    8   17
+CONECT    8    7    9
+CONECT    9    8   18   11
+CONECT   10   18
+CONECT   11    5    9   12
+CONECT   12   11   19   13
+CONECT   13    3   12   14
+CONECT   14   13   20   15
+CONECT   15    1   14
+CONECT   16    4
+CONECT   17    7
+CONECT   18    9   10
+CONECT   19   12
+CONECT   20   14
+END

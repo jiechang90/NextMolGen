@@ -1,0 +1,68 @@
+CRYST1   67.735   73.399  118.408  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  C1  MAN C   4      16.352  -1.482  33.682  1.00 53.25           C  
+ANISOU    1  C1  MAN C   4     6200   6681   7351   -513   -916      3       C  
+HETATM    2  C2  MAN C   4      17.456  -2.362  34.231  1.00 52.63           C  
+ANISOU    2  C2  MAN C   4     6052   6405   7541   -559   -993     76       C  
+HETATM    3  O2  MAN C   4      17.363  -2.423  35.659  1.00 51.66           O  
+ANISOU    3  O2  MAN C   4     6035   6180   7415   -630  -1135    193       O  
+HETATM    4  C3  MAN C   4      17.370  -3.835  33.838  1.00 53.27           C  
+ANISOU    4  C3  MAN C   4     6021   6431   7788   -565   -924    -37       C  
+HETATM    5  O3  MAN C   4      18.420  -4.592  34.465  1.00 52.53           O  
+ANISOU    5  O3  MAN C   4     5862   6136   7960   -602  -1002     68       O  
+HETATM    6  C4  MAN C   4      16.012  -4.351  34.286  1.00 53.40           C  
+ANISOU    6  C4  MAN C   4     6107   6491   7692   -601   -913   -113       C  
+HETATM    7  O4  MAN C   4      15.777  -5.705  33.897  1.00 54.50           O  
+ANISOU    7  O4  MAN C   4     6132   6577   7998   -611   -829   -245       O  
+HETATM    8  C5  MAN C   4      14.938  -3.511  33.618  1.00 53.84           C  
+ANISOU    8  C5  MAN C   4     6215   6762   7480   -555   -843   -215       C  
+HETATM    9  O5  MAN C   4      15.063  -2.097  33.850  1.00 53.32           O  
+ANISOU    9  O5  MAN C   4     6249   6755   7257   -536   -891   -102       O  
+HETATM   10  C6  MAN C   4      13.596  -3.920  34.166  1.00 53.66           C  
+ANISOU   10  C6  MAN C   4     6259   6769   7362   -596   -839   -280       C  
+HETATM   11  O6  MAN C   4      12.627  -3.231  33.354  1.00 54.82           O  
+ANISOU   11  O6  MAN C   4     6417   7128   7284   -540   -769   -393       O  
+HETATM   12  C1  MAN C   7      15.313   3.221  27.031  1.00 94.13           C  
+ANISOU   12  C1  MAN C   7    11237  12923  11604    127   -217    -43       C  
+HETATM   13  C2  MAN C   7      14.141   4.229  26.842  1.00 93.85           C  
+ANISOU   13  C2  MAN C   7    11269  13072  11317    203   -192      7       C  
+HETATM   14  O2  MAN C   7      14.591   5.592  26.626  1.00 95.24           O  
+ANISOU   14  O2  MAN C   7    11466  13234  11485    280   -104    200       O  
+HETATM   15  C3  MAN C   7      13.280   3.788  25.651  1.00 93.66           C  
+ANISOU   15  C3  MAN C   7    11187  13338  11061    307   -128   -141       C  
+HETATM   16  O3  MAN C   7      12.307   4.766  25.288  1.00 92.68           O  
+ANISOU   16  O3  MAN C   7    11101  13406  10706    407    -93    -71       O  
+HETATM   17  C4  MAN C   7      14.139   3.484  24.416  1.00 94.61           C  
+ANISOU   17  C4  MAN C   7    11213  13555  11179    400     -3   -176       C  
+HETATM   18  O4  MAN C   7      13.312   2.685  23.586  1.00 93.76           O  
+ANISOU   18  O4  MAN C   7    11047  13689  10889    448      7   -388       O  
+HETATM   19  C5  MAN C   7      15.440   2.702  24.714  1.00 96.14           C  
+ANISOU   19  C5  MAN C   7    11352  13515  11663    314     -7   -196       C  
+HETATM   20  O5  MAN C   7      16.132   3.235  25.859  1.00 95.16           O  
+ANISOU   20  O5  MAN C   7    11281  13128  11749    224    -80    -36       O  
+HETATM   21  C6  MAN C   7      16.373   2.644  23.505  1.00 96.74           C  
+ANISOU   21  C6  MAN C   7    11342  13667  11747    414    150   -196       C  
+HETATM   22  O6  MAN C   7      17.586   3.368  23.752  1.00 98.09           O  
+ANISOU   22  O6  MAN C   7    11510  13639  12122    411    202     -5       O  
+CONECT    1    2    9
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5    6
+CONECT    5    4
+CONECT    6    4    7    8
+CONECT    7    6
+CONECT    8    6    9   10
+CONECT    9    1    8
+CONECT   10    8   11
+CONECT   11   10
+CONECT   12   13   20
+CONECT   13   12   14   15
+CONECT   14   13
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17   15   18   19
+CONECT   18   17
+CONECT   19   17   20   21
+CONECT   20   12   19
+CONECT   21   19   22
+CONECT   22   21
+END

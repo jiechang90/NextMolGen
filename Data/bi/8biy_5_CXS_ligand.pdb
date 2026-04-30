@@ -1,0 +1,30 @@
+CRYST1   60.137  120.053  152.137  90.00  90.00  90.00 C 2 2 21      3
+HETATM    1  N   CXS D 201      15.973  24.960  50.056  1.00 42.78           N  
+HETATM    2  C1  CXS D 201      14.710  23.607  46.705  1.00 31.51           C  
+HETATM    3  O1  CXS D 201      13.406  22.587  44.698  1.00 48.67           O  
+HETATM    4  C2  CXS D 201      14.920  23.656  48.214  1.00 36.39           C  
+HETATM    5  O2  CXS D 201      14.142  21.054  46.499  1.00 52.71           O  
+HETATM    6  C3  CXS D 201      15.817  24.826  48.612  1.00 36.00           C  
+HETATM    7  O3  CXS D 201      12.305  22.629  46.932  1.00 50.22           O  
+HETATM    8  C4  CXS D 201      16.575  26.218  50.501  1.00 29.02           C  
+HETATM    9  C5  CXS D 201      16.445  26.329  52.012  1.00 29.95           C  
+HETATM   10  C6  CXS D 201      17.041  27.612  52.572  1.00 30.16           C  
+HETATM   11  C7  CXS D 201      18.508  27.764  52.187  1.00 36.16           C  
+HETATM   12  C8  CXS D 201      18.717  27.602  50.687  1.00 28.50           C  
+HETATM   13  C9  CXS D 201      18.051  26.347  50.119  1.00 27.59           C  
+HETATM   14  S   CXS D 201      13.536  22.357  46.158  1.00 46.55           S  
+CONECT    1    8    6
+CONECT    2    4   14
+CONECT    3   14
+CONECT    4    2    6
+CONECT    5   14
+CONECT    6    4    1
+CONECT    7   14
+CONECT    8    1    9   13
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13    8   12
+CONECT   14    2    3    5    7
+END

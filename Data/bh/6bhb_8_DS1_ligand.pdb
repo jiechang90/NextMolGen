@@ -1,0 +1,28 @@
+CRYST1   99.740   99.740   99.740  90.00  90.00  90.00 P 21 3        1
+HETATM    1  N  BDS1 A 309      -4.628  26.247  53.387  0.98 57.71           N  
+HETATM    2  C  BDS1 A 309      -3.375  26.760  53.919  0.98 42.38           C  
+HETATM    3  O  BDS1 A 309       0.160  28.170  55.417  0.98 39.37           O  
+HETATM    4  C1 BDS1 A 309      -2.154  28.503  54.849  0.98 32.17           C  
+HETATM    5  N1 BDS1 A 309      -3.295  28.038  54.364  0.98 39.15           N  
+HETATM    6  C2 BDS1 A 309      -1.062  27.696  54.907  0.98 30.08           C  
+HETATM    7  N2 BDS1 A 309      -2.285  25.961  53.975  0.98 37.59           N  
+HETATM    8  C3 BDS1 A 309      -1.144  26.421  54.458  0.98 33.87           C  
+HETATM    9  H  BDS1 A 309      -5.193  26.785  53.026  0.98 69.25           H  
+HETATM   10  H1 BDS1 A 309      -4.802  25.407  53.434  0.98 69.25           H  
+HETATM   11  H2 BDS1 A 309      -2.101  29.380  55.154  0.98 38.60           H  
+HETATM   12  H3 BDS1 A 309       0.535  27.556  55.869  0.98 47.24           H  
+HETATM   13  H4 BDS1 A 309      -0.399  25.866  54.495  0.98 40.65           H  
+CONECT    1    9   10    2
+CONECT    2    1    5    7
+CONECT    3   12    6
+CONECT    4    5   11    6
+CONECT    5    4    2
+CONECT    6    3    4    8
+CONECT    7    2    8
+CONECT    8    6    7   13
+CONECT    9    1
+CONECT   10    1
+CONECT   11    4
+CONECT   12    3
+CONECT   13    8
+END

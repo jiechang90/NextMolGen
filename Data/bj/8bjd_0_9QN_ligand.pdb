@@ -1,0 +1,64 @@
+CRYST1   76.752   76.752  103.597  90.00  90.00  90.00 P 43 21 2     1
+HETATM    1  N   9QN A 301       0.158  25.406  15.123  1.00 39.92           N  
+HETATM    2  CA  9QN A 301      -0.079  26.471  16.109  1.00 40.93           C  
+HETATM    3  CAC 9QN A 301      -0.879  25.299  14.067  1.00 43.41           C  
+HETATM    4  CAD 9QN A 301      -1.901  24.218  14.459  1.00 39.13           C  
+HETATM    5  CAE 9QN A 301      -1.744  23.992  15.965  1.00 43.25           C  
+HETATM    6  CAH 9QN A 301      -0.471  27.778  13.961  1.00 40.02           C  
+HETATM    7  CAI 9QN A 301      -1.494  26.669  13.784  1.00 42.47           C  
+HETATM    8  CAN 9QN A 301       1.833  23.244  14.940  1.00 50.23           C  
+HETATM    9  CAO 9QN A 301       2.190  22.674  16.150  1.00 48.29           C  
+HETATM   10  CAP 9QN A 301       2.269  21.297  16.252  1.00 55.77           C  
+HETATM   11  CAQ 9QN A 301       1.993  20.465  15.182  1.00 54.57           C  
+HETATM   12  CAR 9QN A 301       1.633  21.062  13.989  1.00 55.66           C  
+HETATM   13  CAS 9QN A 301       1.546  22.435  13.854  1.00 52.67           C  
+HETATM   14  CAW 9QN A 301      -1.827  22.924  13.670  1.00 50.38           C  
+HETATM   15  CAY 9QN A 301      -3.481  25.185  17.261  1.00 40.34           C  
+HETATM   16  CAZ 9QN A 301      -3.467  24.505  18.601  1.00 46.62           C  
+HETATM   17  C   9QN A 301      -1.390  26.309  16.881  1.00 41.69           C  
+HETATM   18  O   9QN A 301      -1.763  27.209  17.636  1.00 38.58           O  
+HETATM   19  NAF 9QN A 301      -2.140  25.207  16.698  1.00 41.87           N  
+HETATM   20  OAL 9QN A 301       2.525  25.578  15.815  1.00 40.42           O  
+HETATM   21  OAM 9QN A 301       1.958  25.347  13.424  1.00 44.17           O  
+HETATM   22  OAX 9QN A 301      -2.233  23.108  12.324  1.00 54.43           O  
+HETATM   23  SAK 9QN A 301       1.713  25.002  14.789  1.00 47.73           S  
+HETATM   24  CB  9QN A 301      -0.032  27.843  15.420  1.00 39.17           C  
+HETATM   25  CBB 9QN A 301      -4.389  24.344  20.695  1.00 58.53           C  
+HETATM   26  CBC 9QN A 301      -3.513  23.350  21.057  1.00 61.12           C  
+HETATM   27  CBD 9QN A 301      -2.580  22.930  20.140  1.00 58.25           C  
+HETATM   28  CBE 9QN A 301      -2.551  23.516  18.891  1.00 41.42           C  
+HETATM   29  NBA 9QN A 301      -4.380  24.925  19.486  1.00 54.54           N  
+HETATM   30 CL1  9QN A 301       2.725  20.579  17.770  1.00 61.91          CL  
+HETATM   31 CL2  9QN A 301       1.272  20.052  12.618  1.00 81.17          CL  
+CONECT    1    2    3   23
+CONECT    2    1   17   24
+CONECT    3    1    4    7
+CONECT    4    3    5   14
+CONECT    5    4   19
+CONECT    6    7   24
+CONECT    7    6    3
+CONECT    8   23    9   13
+CONECT    9    8   10
+CONECT   10    9   11   30
+CONECT   11   10   12
+CONECT   12   11   13   31
+CONECT   13   12    8
+CONECT   14    4   22
+CONECT   15   16   19
+CONECT   16   15   28   29
+CONECT   17    2   18   19
+CONECT   18   17
+CONECT   19    5   17   15
+CONECT   20   23
+CONECT   21   23
+CONECT   22   14
+CONECT   23    8    1   20   21
+CONECT   24    2    6
+CONECT   25   26   29
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   16   27
+CONECT   29   16   25
+CONECT   30   10
+CONECT   31   12
+END

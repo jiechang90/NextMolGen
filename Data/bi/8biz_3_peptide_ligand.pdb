@@ -1,0 +1,23 @@
+CRYST1  158.346  158.346   94.213  90.00  90.00 120.00 P 3 2 1       1
+HETATM    1  N   CYS E 502     -65.253  11.958  28.797  0.75 43.02           N  
+ANISOU    1  N   CYS E 502     5703   5314   5329    -30    309     71       N  
+HETATM    2  CA  CYS E 502     -63.870  11.566  28.809  0.75 42.99           C  
+ANISOU    2  CA  CYS E 502     5672   5309   5354    -39    339     65       C  
+HETATM    3  C   CYS E 502     -63.043  12.792  28.397  0.75 41.40           C  
+ANISOU    3  C   CYS E 502     5485   5097   5150    -56    370     66       C  
+HETATM    4  O   CYS E 502     -63.581  13.706  27.710  0.75 42.32           O  
+ANISOU    4  O   CYS E 502     5644   5203   5233    -58    372     71       O  
+HETATM    5  CB  CYS E 502     -63.678  10.358  27.901  0.75 51.72           C  
+ANISOU    5  CB  CYS E 502     6785   6409   6457    -33    357     56       C  
+HETATM    6  SG  CYS E 502     -62.204   9.426  28.406  0.75 64.05           S  
+ANISOU    6  SG  CYS E 502     8293   7974   8070    -37    379     46       S  
+HETATM    7  OXT CYS E 502     -61.835  12.897  28.750  0.75 38.98           O  
+ANISOU    7  OXT CYS E 502     5147   4788   4876    -67    391     62       O  
+CONECT    1    2
+CONECT    2    1    3    5
+CONECT    3    2    4    7
+CONECT    4    3
+CONECT    5    2    6
+CONECT    6    5
+CONECT    7    3
+END

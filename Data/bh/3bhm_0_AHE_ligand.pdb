@@ -1,0 +1,46 @@
+CRYST1   55.158   55.943   95.274  90.00  90.00  90.00 P 21 21 21    1
+HETATM    1  CA1 AHE A 304      36.040  17.732   9.387  0.80 19.07           C  
+HETATM    2  CA2 AHE A 304      31.211  19.359   6.107  0.80 24.29           C  
+HETATM    3  CA3 AHE A 304      30.301  22.750   4.604  0.80 29.32           C  
+HETATM    4  CB1 AHE A 304      35.306  17.805   8.062  0.80 20.88           C  
+HETATM    5  CB2 AHE A 304      29.878  18.672   6.401  0.80 24.12           C  
+HETATM    6  CG1 AHE A 304      33.815  17.644   8.289  0.80 22.27           C  
+HETATM    7  SG2 AHE A 304      30.083  16.990   7.081  0.80 24.76           S  
+HETATM    8  CD1 AHE A 304      32.995  17.946   7.040  0.80 25.62           C  
+HETATM    9  CD2 AHE A 304      30.036  16.074   5.503  0.80 23.46           C  
+HETATM   10  OE1 AHE A 304      33.149  17.283   6.009  0.80 27.31           O  
+HETATM   11  OE2 AHE A 304      31.315  16.123   4.899  0.80 24.19           O  
+HETATM   12  C1  AHE A 304      36.132  16.275   9.860  0.80 18.66           C  
+HETATM   13  N1  AHE A 304      37.404  18.277   9.215  0.80 22.08           N  
+HETATM   14  C2  AHE A 304      30.891  20.844   6.111  0.80 24.33           C  
+HETATM   15  N2  AHE A 304      32.124  18.952   7.185  0.80 25.15           N  
+HETATM   16  O2  AHE A 304      30.798  21.457   7.169  0.80 23.07           O  
+HETATM   17  C3  AHE A 304      31.436  23.750   4.869  0.80 31.77           C  
+HETATM   18  N3  AHE A 304      30.675  21.349   4.893  0.80 26.01           N  
+HETATM   19  O11 AHE A 304      37.195  15.678   9.594  0.80 16.16           O  
+HETATM   20  O12 AHE A 304      35.137  15.801  10.464  0.80 15.10           O  
+HETATM   21  O31 AHE A 304      31.089  24.945   5.006  0.80 34.11           O  
+HETATM   22  O32 AHE A 304      32.607  23.310   4.914  0.80 31.91           O  
+CONECT    1    4   12   13
+CONECT    2    5   14   15
+CONECT    3   17   18
+CONECT    4    1    6
+CONECT    5    2    7
+CONECT    6    4    8
+CONECT    7    5    9
+CONECT    8    6   10   15
+CONECT    9    7   11
+CONECT   10    8
+CONECT   11    9
+CONECT   12    1   19   20
+CONECT   13    1
+CONECT   14    2   16   18
+CONECT   15    8    2
+CONECT   16   14
+CONECT   17    3   21   22
+CONECT   18   14    3
+CONECT   19   12
+CONECT   20   12
+CONECT   21   17
+CONECT   22   17
+END

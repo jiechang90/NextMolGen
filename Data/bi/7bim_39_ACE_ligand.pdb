@@ -1,0 +1,20 @@
+CRYST1   71.210  128.080   71.450  90.00 110.67  90.00 P 1 21 1      7
+HETATM    1  C   ACE Q   0      41.358  66.453  36.986  1.00 54.98           C  
+ANISOU    1  C   ACE Q   0     6924   6387   7581    208   -987    242       C  
+HETATM    2  O   ACE Q   0      41.942  66.847  36.024  1.00 59.85           O  
+ANISOU    2  O   ACE Q   0     7776   6958   8006    177  -1045    277       O  
+HETATM    3  CH3 ACE Q   0      39.904  65.988  36.928  1.00 46.47           C  
+ANISOU    3  CH3 ACE Q   0     5658   5203   6797    264  -1175    260       C  
+HETATM    4  C   ACE j   0      35.309  68.645  32.808  1.00 64.64           C  
+ANISOU    4  C   ACE j   0     8855   7251   8454   -124   -776   -792       C  
+HETATM    5  O   ACE j   0      34.404  68.984  33.497  1.00 76.04           O  
+ANISOU    5  O   ACE j   0    10580   8682   9628     32   -713   -847       O  
+HETATM    6  CH3 ACE j   0      36.711  68.474  33.359  1.00 58.65           C  
+ANISOU    6  CH3 ACE j   0     8026   6311   7945   -247  -1146   -895       C  
+CONECT    1    2    3
+CONECT    2    1
+CONECT    3    1
+CONECT    4    5    6
+CONECT    5    4
+CONECT    6    4
+END

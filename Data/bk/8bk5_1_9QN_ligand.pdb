@@ -1,0 +1,92 @@
+CRYST1   53.540   53.540   77.360  90.00  90.00 120.00 P 31 2 1      1
+HETATM    1  N  B9QN A 201     -33.985  25.359  -4.098  0.58 15.41           N  
+ANISOU    1  N  B9QN A 201     1815   1732   2903   1006     51   -193       N  
+HETATM    2  CA B9QN A 201     -32.842  25.084  -3.214  0.58 15.65           C  
+ANISOU    2  CA B9QN A 201     1703   1732   3047    915   -144   -203       C  
+HETATM    3  CACB9QN A 201     -34.230  26.780  -4.450  0.58 15.64           C  
+ANISOU    3  CACB9QN A 201     1257   1317   3270   -243   -115   -209       C  
+HETATM    4  CADB9QN A 201     -34.895  27.474  -3.237  0.58 16.49           C  
+ANISOU    4  CADB9QN A 201     1315   1406   2955    557   -231   -415       C  
+HETATM    5  CAEB9QN A 201     -35.341  26.447  -2.189  0.58 15.86           C  
+ANISOU    5  CAEB9QN A 201     1935   1194   3107    558    191   -244       C  
+HETATM    6  CAHB9QN A 201     -31.806  27.254  -4.006  0.58 14.44           C  
+ANISOU    6  CAHB9QN A 201     1285   1478   2919    587   -308   -326       C  
+HETATM    7  CAIB9QN A 201     -32.957  27.437  -4.979  0.58 15.55           C  
+ANISOU    7  CAIB9QN A 201     1145   1441   3109    226   -238   -302       C  
+HETATM    8  CANB9QN A 201     -36.168  23.875  -4.724  0.58 14.68           C  
+ANISOU    8  CANB9QN A 201     1966   1433   2846    910   -124   -144       C  
+HETATM    9  CAOB9QN A 201     -37.165  24.623  -5.320  0.58 16.07           C  
+ANISOU    9  CAOB9QN A 201     1411   1454   3286   -465     71   -414       C  
+HETATM   10  CAPB9QN A 201     -38.479  24.386  -4.978  0.58 17.19           C  
+ANISOU   10  CAPB9QN A 201     1779   1489   3428   -215     85   -272       C  
+HETATM   11  CAQB9QN A 201     -38.838  23.442  -4.040  0.58 15.97           C  
+ANISOU   11  CAQB9QN A 201     1732   1624   3284     89   -105   -277       C  
+HETATM   12  CARB9QN A 201     -37.818  22.727  -3.452  0.58 16.81           C  
+ANISOU   12  CARB9QN A 201     1480   1473   3080     49   -155   -357       C  
+HETATM   13  CASB9QN A 201     -36.492  22.932  -3.766  0.58 16.48           C  
+ANISOU   13  CASB9QN A 201     1639   1497   2967    416   -263   -304       C  
+HETATM   14  CAWB9QN A 201     -36.053  28.351  -3.675  0.58 18.62           C  
+ANISOU   14  CAWB9QN A 201     1567   1479   2990    671    -93   -313       C  
+HETATM   15  CAYB9QN A 201     -34.471  26.170   0.106  0.58 14.80           C  
+ANISOU   15  CAYB9QN A 201     2120   1166   3123    549    410   -177       C  
+HETATM   16  CAZB9QN A 201     -35.762  25.538   0.565  0.58 15.12           C  
+ANISOU   16  CAZB9QN A 201     2288   1201   3115    717    325    -99       C  
+HETATM   17  C  B9QN A 201     -33.048  25.468  -1.746  0.58 15.79           C  
+ANISOU   17  C  B9QN A 201     1704   1755   3002    954    -70   -120       C  
+HETATM   18  O  B9QN A 201     -32.155  25.204  -0.939  0.58 15.94           O  
+ANISOU   18  O  B9QN A 201     1663   1752   3004    774    -70   -190       O  
+HETATM   19  NAFB9QN A 201     -34.228  26.000  -1.329  0.58 15.29           N  
+ANISOU   19  NAFB9QN A 201     2069   1011   3100    468    302   -150       N  
+HETATM   20  OALB9QN A 201     -34.461  24.733  -6.454  0.58 16.17           O  
+ANISOU   20  OALB9QN A 201     1616   1672   2989    862   -117   -196       O  
+HETATM   21  OAMB9QN A 201     -33.728  23.004  -4.849  0.58 15.34           O  
+ANISOU   21  OAMB9QN A 201     1707   1599   2994    785    -84   -229       O  
+HETATM   22  OAXB9QN A 201     -36.565  29.137  -2.606  0.58 20.39           O  
+ANISOU   22  OAXB9QN A 201     1672   1295   3025    642    -31   -279       O  
+HETATM   23  SAKB9QN A 201     -34.478  24.190  -5.135  0.58 14.56           S  
+ANISOU   23  SAKB9QN A 201     1514   1553   2974    698   -292   -177       S  
+HETATM   24  CB B9QN A 201     -31.580  25.759  -3.775  0.58 14.80           C  
+ANISOU   24  CB B9QN A 201     1486   1538   2951    743   -178   -170       C  
+HETATM   25  CBBB9QN A 201     -37.130  23.700   0.547  0.58 15.61           C  
+ANISOU   25  CBBB9QN A 201     2051   1144   3125    507    351   -166       C  
+HETATM   26  CBCB9QN A 201     -38.060  24.313   1.351  0.58 17.16           C  
+HETATM   27  CBDB9QN A 201     -37.816  25.597   1.762  0.58 16.55           C  
+HETATM   28  CBEB9QN A 201     -36.652  26.220   1.363  0.58 15.55           C  
+HETATM   29  NBAB9QN A 201     -35.986  24.283   0.162  0.58 14.44           N  
+ANISOU   29  NBAB9QN A 201     2213   1145   3153    516    325   -153       N  
+HETATM   30 CL1 B9QN A 201     -39.728  25.329  -5.727  0.58 21.09          CL  
+ANISOU   30 CL1 B9QN A 201     2162   1856   3720   -180    329   -169      CL  
+HETATM   31 CL2 B9QN A 201     -38.256  21.532  -2.275  0.58 19.12          CL  
+ANISOU   31 CL2 B9QN A 201     1523   1369   2969    401   -249   -275      CL  
+CONECT    1    2    3   23
+CONECT    2    1   17   24
+CONECT    3    1    4    7
+CONECT    4    3    5   14
+CONECT    5    4   19
+CONECT    6    7   24
+CONECT    7    6    3
+CONECT    8   23    9   13
+CONECT    9    8   10
+CONECT   10    9   11   30
+CONECT   11   10   12
+CONECT   12   11   13   31
+CONECT   13   12    8
+CONECT   14    4   22
+CONECT   15   16   19
+CONECT   16   15   28   29
+CONECT   17    2   18   19
+CONECT   18   17
+CONECT   19    5   17   15
+CONECT   20   23
+CONECT   21   23
+CONECT   22   14
+CONECT   23    8    1   20   21
+CONECT   24    2    6
+CONECT   25   26   29
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   16   27
+CONECT   29   16   25
+CONECT   30   10
+CONECT   31   12
+END

@@ -1,0 +1,60 @@
+CRYST1   32.840  107.413   40.651  90.00 109.04  90.00 P 1 21 1      1
+HETATM    1  N   QRD A1012      12.400  -9.895   4.808  1.00 18.18           N  
+HETATM    2  C   QRD A1012      13.738 -10.006   5.335  1.00 18.31           C  
+HETATM    3  O   QRD A1012       9.854 -12.745  10.533  1.00 21.44           O  
+HETATM    4 CL   QRD A1012       7.474 -15.082   8.582  1.00 25.23          CL  
+HETATM    5  C1  QRD A1012      11.325 -10.343   5.463  1.00 17.54           C  
+HETATM    6  N1  QRD A1012      10.134 -10.207   4.847  1.00 16.62           N  
+HETATM    7  C2  QRD A1012       9.062 -10.590   5.552  1.00 16.10           C  
+HETATM    8  N2  QRD A1012      10.641 -11.814   8.613  1.00 18.14           N  
+HETATM    9  C3  QRD A1012       9.152 -11.146   6.838  1.00 17.65           C  
+HETATM   10  N3  QRD A1012      14.687  -9.600  12.294  1.00 29.89           N  
+HETATM   11  C4  QRD A1012       8.064 -11.599   7.638  1.00 17.63           C  
+HETATM   12  N4  QRD A1012      11.546 -10.861   6.692  1.00 18.07           N  
+HETATM   13  C5  QRD A1012       8.233 -12.137   8.872  1.00 19.67           C  
+HETATM   14  C6  QRD A1012       7.084 -12.633   9.678  1.00 21.00           C  
+HETATM   15  C7  QRD A1012       6.366 -11.775  10.528  1.00 23.48           C  
+HETATM   16  C8  QRD A1012       5.309 -12.261  11.305  1.00 27.12           C  
+HETATM   17  C9  QRD A1012       4.576 -11.380  12.265  1.00 27.15           C  
+HETATM   18  C10 QRD A1012       4.953 -13.592  11.214  1.00 24.70           C  
+HETATM   19  C11 QRD A1012       5.646 -14.443  10.389  1.00 23.07           C  
+HETATM   20  C12 QRD A1012       6.694 -13.968   9.636  1.00 21.61           C  
+HETATM   21  C13 QRD A1012       9.592 -12.260   9.424  1.00 18.66           C  
+HETATM   22  C14 QRD A1012      12.004 -11.959   9.130  1.00 19.84           C  
+HETATM   23  C15 QRD A1012      12.452 -10.727   9.857  1.00 21.96           C  
+HETATM   24  C16 QRD A1012      13.901 -10.765  10.239  1.00 26.37           C  
+HETATM   25  C17 QRD A1012      14.270  -9.455  10.909  1.00 29.05           C  
+HETATM   26  C18 QRD A1012      10.453 -11.256   7.355  1.00 18.02           C  
+HETATM   27  F   QRD A1012       4.235 -10.317  11.730  1.00 31.15           F  
+HETATM   28  F1  QRD A1012       5.247 -11.150  13.355  1.00 45.98           F  
+HETATM   29  F2  QRD A1012       3.454 -11.896  12.697  1.00 51.07           F  
+CONECT    1    2    5
+CONECT    2    1
+CONECT    3   21
+CONECT    4   20
+CONECT    5    1   12    6
+CONECT    6    5    7
+CONECT    7    6    9
+CONECT    8   21   22   26
+CONECT    9    7   26   11
+CONECT   10   25
+CONECT   11    9   13
+CONECT   12    5   26
+CONECT   13   11   14   21
+CONECT   14   13   20   15
+CONECT   15   14   16
+CONECT   16   15   17   18
+CONECT   17   16   27   28   29
+CONECT   18   16   19
+CONECT   19   18   20
+CONECT   20   14    4   19
+CONECT   21    3    8   13
+CONECT   22    8   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   10   24
+CONECT   26    8    9   12
+CONECT   27   17
+CONECT   28   17
+CONECT   29   17
+END

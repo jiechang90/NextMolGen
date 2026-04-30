@@ -1,0 +1,56 @@
+CRYST1  149.800  167.300  107.500  90.00  90.00  90.00 P 21 21 2     1
+HETATM    1  PA  NAD B 702     -10.134  10.726  39.592  1.00 57.44           P  
+HETATM    2  PN  NAD B 702     -10.910  11.516  42.293  1.00 57.44           P  
+HETATM    3  C1B NAD B 702     -11.966  10.592  35.618  1.00 57.44           C  
+HETATM    4  N1A NAD B 702      -8.730   7.900  32.381  1.00 57.44           N  
+HETATM    5  O1A NAD B 702      -8.979  10.930  38.679  1.00 57.44           O1-
+HETATM    6  O1N NAD B 702     -10.968  10.069  42.738  1.00 57.44           O  
+HETATM    7  C2A NAD B 702      -9.491   9.002  32.068  1.00 57.44           C  
+HETATM    8  C2B NAD B 702     -13.196  10.438  36.532  1.00 57.44           C  
+HETATM    9  O2A NAD B 702     -10.464   9.316  40.099  1.00 57.44           O  
+HETATM   10  O2B NAD B 702     -14.296   9.735  35.946  1.00 57.44           O  
+HETATM   11  O2N NAD B 702     -12.221  12.258  42.078  1.00 57.44           O1-
+HETATM   12  C3B NAD B 702     -13.465  11.880  36.886  1.00 57.44           C  
+HETATM   13  N3A NAD B 702     -10.438   9.476  32.937  1.00 57.44           N  
+HETATM   14  O3  NAD B 702      -9.974  11.581  40.948  1.00 57.44           O  
+HETATM   15  O3B NAD B 702     -14.325  12.523  35.894  1.00 57.44           O  
+HETATM   16  C4A NAD B 702     -10.547   8.973  34.260  1.00 57.44           C  
+HETATM   17  C4B NAD B 702     -12.054  12.495  36.963  1.00 57.44           C  
+HETATM   18  O4B NAD B 702     -11.140  11.663  36.248  1.00 57.44           O  
+HETATM   19  C5A NAD B 702      -9.813   7.803  34.581  1.00 57.44           C  
+HETATM   20  C5B NAD B 702     -11.392  12.595  38.300  1.00 57.44           C  
+HETATM   21  O5B NAD B 702     -11.429  11.380  38.982  1.00 57.44           O  
+HETATM   22  O5D NAD B 702     -10.091  12.331  43.471  1.00 57.44           O  
+HETATM   23  C6A NAD B 702      -8.949   7.190  33.597  1.00 57.44           C  
+HETATM   24  N6A NAD B 702      -8.402   5.994  33.842  1.00 57.44           N  
+HETATM   25  N7A NAD B 702     -10.004   7.380  35.823  1.00 57.44           N  
+HETATM   26  C8A NAD B 702     -10.934   8.225  36.273  1.00 57.44           C  
+HETATM   27  N9A NAD B 702     -11.177   9.279  35.395  1.00 57.44           N  
+CONECT    1    5    9   14   21
+CONECT    2    6   11   22   14
+CONECT    3   27    8   18
+CONECT    4    7   23
+CONECT    5    1
+CONECT    6    2
+CONECT    7    4   13
+CONECT    8    3   10   12
+CONECT    9    1
+CONECT   10    8
+CONECT   11    2
+CONECT   12    8   15   17
+CONECT   13    7   16
+CONECT   14    1    2
+CONECT   15   12
+CONECT   16   13   19   27
+CONECT   17   12   18   20
+CONECT   18   17    3
+CONECT   19   16   23   25
+CONECT   20   17   21
+CONECT   21    1   20
+CONECT   22    2
+CONECT   23   19    4   24
+CONECT   24   23
+CONECT   25   19   26
+CONECT   26   25   27
+CONECT   27    3   16   26
+END

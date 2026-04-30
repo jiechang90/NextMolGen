@@ -1,0 +1,52 @@
+CRYST1  197.470  152.820  125.110  90.00 121.39  90.00 C 1 2 1       4
+HETATM    1  PA  UDP H 301     -46.893  31.717  17.028  1.00 77.37           P  
+HETATM    2  PB  UDP H 301     -48.350  33.569  18.580  0.90 61.35           P  
+HETATM    3  C5' UDP H 301     -44.815  32.678  15.715  1.00 67.06           C  
+HETATM    4  O5' UDP H 301     -45.344  31.779  16.713  1.00 71.31           O  
+HETATM    5  C4' UDP H 301     -44.181  31.884  14.599  1.00 69.13           C  
+HETATM    6  O4' UDP H 301     -42.853  31.469  14.982  1.00 66.73           O  
+HETATM    7  C3' UDP H 301     -44.884  30.587  14.222  1.00 74.73           C  
+HETATM    8  O3' UDP H 301     -45.984  30.811  13.347  1.00 83.56           O  
+HETATM    9  C2' UDP H 301     -43.762  29.810  13.533  1.00 68.06           C  
+HETATM   10  O2' UDP H 301     -43.605  30.196  12.173  1.00 75.32           O  
+HETATM   11  C1' UDP H 301     -42.535  30.238  14.347  1.00 64.69           C  
+HETATM   12  N1  UDP H 301     -42.163  29.255  15.377  1.00 61.59           N  
+HETATM   13  O1A UDP H 301     -47.597  32.292  15.857  1.00 79.38           O1-
+HETATM   14  O1B UDP H 301     -49.064  33.934  17.320  0.90 57.58           O  
+HETATM   15  C2  UDP H 301     -41.654  28.048  14.942  1.00 59.84           C  
+HETATM   16  O2  UDP H 301     -41.504  27.779  13.760  1.00 71.26           O  
+HETATM   17  O2A UDP H 301     -47.309  30.313  17.467  1.00 75.14           O  
+HETATM   18  O2B UDP H 301     -49.184  32.721  19.558  0.90 50.87           O1-
+HETATM   19  N3  UDP H 301     -41.327  27.162  15.937  1.00 57.43           N  
+HETATM   20  O3A UDP H 301     -47.083  32.657  18.304  0.90 78.64           O  
+HETATM   21  O3B UDP H 301     -47.755  34.771  19.315  0.90 58.46           O  
+HETATM   22  C4  UDP H 301     -41.457  27.360  17.297  1.00 59.64           C  
+HETATM   23  O4  UDP H 301     -41.115  26.460  18.081  1.00 71.00           O  
+HETATM   24  C5  UDP H 301     -41.994  28.635  17.669  1.00 58.46           C  
+HETATM   25  C6  UDP H 301     -42.324  29.525  16.717  1.00 60.38           C  
+CONECT    1   13   17   20    4
+CONECT    2   14   18   21   20
+CONECT    3    4    5
+CONECT    4    3    1
+CONECT    5    3    6    7
+CONECT    6    5   11
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   11
+CONECT   10    9
+CONECT   11    6    9   12
+CONECT   12   11   15   25
+CONECT   13    1
+CONECT   14    2
+CONECT   15   12   16   19
+CONECT   16   15
+CONECT   17    1
+CONECT   18    2
+CONECT   19   15   22
+CONECT   20    1    2
+CONECT   21    2
+CONECT   22   19   23   24
+CONECT   23   22
+CONECT   24   22   25
+CONECT   25   12   24
+END
